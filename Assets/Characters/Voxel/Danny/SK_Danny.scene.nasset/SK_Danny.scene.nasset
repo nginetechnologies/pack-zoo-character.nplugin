@@ -1,0 +1,31 @@
+{
+    "guid": "4f710b85-a7fd-77a8-c90e-13b691ae69d6",
+    "source": "../SK_Danny.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "a7a10fb0-525b-0fb3-eaa1-ec42ddd97faa",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Danny"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4da7e17d-c67e-5f78-1a01-abb2fa781a0b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Danny"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b008b8ed-e2c7-52fe-b9a7-028e7856c616"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "4f710b85-a7fd-77a8-c90e-13b691ae69d6"
+    }
+}

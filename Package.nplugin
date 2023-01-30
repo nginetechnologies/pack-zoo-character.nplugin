@@ -1,0 +1,20 @@
+{
+    "name": "Character Zoo Assets",
+    "version": "1.0",
+    "guid": "e05e8d3d-368c-47db-8efe-4ad404d4bd2f",
+    "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
+    "asset_directory": "Assets",
+    "source_directory": "Code",
+    "binary_directory": "bin",
+    "library_directory": "lib",
+    "thumbnail_guid": "e05e8d3d-368c-47db-8efe-4ad404d4bd2f",
+    "plugin_dependencies": [
+		"4cc21fd4-730f-475d-9807-fbf9e5595308",
+		"7f333735-7d28-4ede-815b-805aad806b8c",
+		"0f7c1053-884c-4795-a082-2aecf6ba8032",
+		"b7921721-4029-47ce-873c-5d356d604aa9",
+		"eaf8c037-4adf-4a97-99fd-915341d1854c",
+		"f6c31290-cb03-452c-b3de-78f19a8cf943"
+    ],
+    "source": "Package.nplugin"
+}
