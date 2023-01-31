@@ -1,0 +1,31 @@
+{
+    "guid": "6c1034a4-f468-5dbe-ac4b-8c19d6f646c1",
+    "source": "../SK_Heist_Soldier.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "d6daab13-2444-48e7-3c07-58feceb140c9",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Heist Soldier"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4be66ba6-5c51-d79b-ad35-202b3fdb61d1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Heist Soldier"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8a710282-72e0-c192-75a6-ddc2d5525035"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "6c1034a4-f468-5dbe-ac4b-8c19d6f646c1"
+    }
+}

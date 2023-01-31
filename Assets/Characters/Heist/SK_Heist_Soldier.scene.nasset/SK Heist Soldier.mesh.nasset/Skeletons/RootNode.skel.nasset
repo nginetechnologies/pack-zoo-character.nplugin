@@ -1,0 +1,192 @@
+{
+    "guid": "704dd06d-c505-ee41-1783-77680c7841a4",
+    "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "1ef48a23-0670-49fb-eaac-4a5fce726d7b",
+    "data_components": [],
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "704dd06d-c505-ee41-1783-77680c7841a4"
+    },
+    "joints": {
+        "01f8941c-5cf9-461c-4382-eaa5cb43121f": {
+            "name": "Foot_L",
+            "index": 2
+        },
+        "0da3b5ab-eeca-6a1b-d73a-1eaba1b329b2": {
+            "name": "Thumb1_L",
+            "index": 21
+        },
+        "13cccbce-3c22-6a9e-1c73-78686a1d2dc7": {
+            "name": "Pinky3_L",
+            "index": 14
+        },
+        "1635afba-15cf-cd0c-42e6-0f802e190d2a": {
+            "name": "Index3_R",
+            "index": 34
+        },
+        "1a961bc6-346e-1227-1c19-5144aee85dc4": {
+            "name": "Pinky1_L",
+            "index": 12
+        },
+        "1cd88ea8-cd5a-0123-c66c-51857a9a2ece": {
+            "name": "UpperArm_R",
+            "index": 24
+        },
+        "27b5412d-4cca-ad83-98f0-ddfb2660f09f": {
+            "name": "UpperLeg_L",
+            "index": 37
+        },
+        "2996a45f-620d-15d4-3fd2-ebc3f6bbe450": {
+            "name": "Middle1_R",
+            "index": 29
+        },
+        "2a2fa6e1-5c97-9b4b-486c-02e242b94a2f": {
+            "name": "Middle1_L",
+            "index": 15
+        },
+        "2c8837c3-34b3-cc64-8585-ca79c62267d4": {
+            "name": "root",
+            "index": 1
+        },
+        "32978ecd-4b0c-6775-aeed-1b4704687cf5": {
+            "name": "Shoulder_R",
+            "index": 23
+        },
+        "34622c2d-d1da-18f6-4b38-7e34b0dab0c3": {
+            "name": "Thumb1_R",
+            "index": 35
+        },
+        "3d4c7342-36e2-8f75-ada6-e74d7208a0f0": {
+            "name": "Thumb2_R",
+            "index": 36
+        },
+        "3da297d7-0635-d044-6a72-d3b09ea88551": {
+            "name": "PoleTarget_L",
+            "index": 41
+        },
+        "3ed9b1cf-64d8-7681-d605-8a9df347a1cc": {
+            "name": "Index1_R",
+            "index": 32
+        },
+        "40cc05be-4d15-badd-87ab-e1d84c881534": {
+            "name": "Middle2_L",
+            "index": 16
+        },
+        "5c65e424-6d5f-ab9b-d487-20c35579c2e6": {
+            "name": "Pinky2_R",
+            "index": 27
+        },
+        "5d38757a-7e4c-964d-e84a-fa4d42d7087c": {
+            "name": "Pinky2_L",
+            "index": 13
+        },
+        "68838d2b-07cb-fd1e-e61b-d37a6e1392ec": {
+            "name": "PoleTarget_R",
+            "index": 43
+        },
+        "7a40aace-4e6b-68dc-7625-d263f671ebf5": {
+            "name": "Torso",
+            "index": 6
+        },
+        "7a97dddb-7443-0908-cd86-f1ac1d73614d": {
+            "name": "Thumb2_L",
+            "index": 22
+        },
+        "80a0dcd5-f228-1756-29c3-34376dade404": {
+            "name": "Hips",
+            "index": 4
+        },
+        "858113dd-53ac-c6c6-9340-3f70bf34c38f": {
+            "name": "Index1_L",
+            "index": 18
+        },
+        "867b5ff4-de58-3854-5d72-2a5fd409fec6": {
+            "name": "Middle3_L",
+            "index": 17
+        },
+        "885a7b7e-c018-c268-8949-154a79b00086": {
+            "name": "Middle2_R",
+            "index": 30
+        },
+        "97560afc-da14-16ab-f66d-1566d08a5f54": {
+            "name": "Pinky3_R",
+            "index": 28
+        },
+        "982dec8e-efca-c101-29f1-a10f88e69033": {
+            "name": "UpperArm_L",
+            "index": 10
+        },
+        "98d8dbde-e883-c36c-2144-75c9a35ffe37": {
+            "name": "Index3_L",
+            "index": 20
+        },
+        "9b7910a1-ef06-cb8a-9250-f75ff3b2b852": {
+            "name": "Foot_R",
+            "index": 42
+        },
+        "a1f81614-e18f-e4cd-8bba-4c4f52e442e7": {
+            "name": "Neck",
+            "index": 7
+        },
+        "a74f4fb9-67e3-e3b8-d624-8a27e23cd9b4": {
+            "name": "Middle3_R",
+            "index": 31
+        },
+        "ad51151a-bcba-2b75-71f5-48ca84ef891b": {
+            "name": "Shoulder_L",
+            "index": 9
+        },
+        "af699e85-f8fa-18be-e8cf-d1124a9f4a61": {
+            "name": "UpperLeg_R",
+            "index": 39
+        },
+        "b1cf9fe5-011e-361f-45e3-5d31e0639e2e": {
+            "name": "LowerArm_L",
+            "index": 11
+        },
+        "b1ec5a37-20fd-2a5d-cfd8-797ea58f089f": {
+            "name": "LowerLeg_L",
+            "index": 38
+        },
+        "b26fd8b6-feed-a9a6-8be6-bd133d2c0365": {
+            "name": "Index2_R",
+            "index": 33
+        },
+        "be076b5d-f9bf-a289-69ba-fc2e8a2b7491": {
+            "name": "Pinky1_R",
+            "index": 26
+        },
+        "c1e2ade2-6a88-612a-f24b-78c5bfac3fb7": {
+            "name": "LowerLeg_R",
+            "index": 40
+        },
+        "ddb6ab31-1d62-cb70-5918-e4c638d3af69": {
+            "name": "SK_Heist_Soldier",
+            "index": 44
+        },
+        "f0cfbaf5-0c3c-4ab5-5646-6dd947cd0a5b": {
+            "name": "LowerArm_R",
+            "index": 25
+        },
+        "f3a4dea2-4970-01ed-2f51-caeecfb302c4": {
+            "name": "RootNode",
+            "index": 0
+        },
+        "f50d1371-8b73-449f-05ed-369badfcb0f7": {
+            "name": "Abdomen",
+            "index": 5
+        },
+        "f75a4fd6-ffa3-6c9d-0366-81a234198287": {
+            "name": "Index2_L",
+            "index": 19
+        },
+        "fb629028-1ef8-063f-48f7-752e2abebd27": {
+            "name": "Body1",
+            "index": 3
+        },
+        "fc1b6d69-a960-b303-ee72-6830d5de1bae": {
+            "name": "Head",
+            "index": 8
+        }
+    }
+}

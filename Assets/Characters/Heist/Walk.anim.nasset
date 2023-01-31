@@ -1,0 +1,17 @@
+{
+    "guid": "500b0631-53a1-4111-abda-704cbb183b62",
+    "source": "A_Heist_Walk.fbx",
+    "skeleton": "704dd06d-c505-ee41-1783-77680c7841a4",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "c6995951-4187-05dd-d5f1-adfcbcb45aaf",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "704dd06d-c505-ee41-1783-77680c7841a4"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "500b0631-53a1-4111-abda-704cbb183b62"
+        }
+    ],
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+}
