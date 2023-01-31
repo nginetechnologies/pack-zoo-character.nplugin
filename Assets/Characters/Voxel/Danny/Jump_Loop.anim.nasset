@@ -1,17 +1,17 @@
 {
-    "source": "../../../Animation_RAW_Baked/A_Jump_Loop.fbx",
-    "skeleton": "c7917c3c-b083-696c-598d-4c35628758c0",
+    "source": "A_Danny_Jump_Loop.fbx",
+    "skeleton": "c50b45c1-4d5a-6d62-6fa9-1d7614e1d959",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "4fba63ab-ba4d-4b62-4de9-29c64315abfb",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": "c7917c3c-b083-696c-598d-4c35628758c0"
+        "skeleton": "c50b45c1-4d5a-6d62-6fa9-1d7614e1d959"
     },
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": "8ebc36da-b42b-e486-3b6d-3fd5217e3d06"
+            "animation": "8e0af0cf-e8a0-4822-8d5b-e71862770e2f"
         }
     ],
-    "guid": "8ebc36da-b42b-e486-3b6d-3fd5217e3d06",
+    "guid": "8e0af0cf-e8a0-4822-8d5b-e71862770e2f",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
 }

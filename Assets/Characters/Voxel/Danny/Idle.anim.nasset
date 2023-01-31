@@ -1,17 +1,17 @@
 {
-    "source": "../../../Animation_RAW_Baked/A_Idle.fbx",
-    "skeleton": "c7917c3c-b083-696c-598d-4c35628758c0",
+    "source": "A_Danny_Idle.fbx",
+    "skeleton": "c50b45c1-4d5a-6d62-6fa9-1d7614e1d959",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": "c7917c3c-b083-696c-598d-4c35628758c0"
+        "skeleton": "c50b45c1-4d5a-6d62-6fa9-1d7614e1d959"
     },
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": "8037574e-40ef-e1b2-336d-92a6eb7adef2"
+            "animation": "a9f3884c-3026-4742-a788-9c1c91625bd8"
         }
     ],
-    "guid": "8037574e-40ef-e1b2-336d-92a6eb7adef2",
+    "guid": "a9f3884c-3026-4742-a788-9c1c91625bd8",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
 }

@@ -1,292 +1,292 @@
 {
-    "guid": "c7917c3c-b083-696c-598d-4c35628758c0",
+    "guid": "c50b45c1-4d5a-6d62-6fa9-1d7614e1d959",
     "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-    "instanceGuid": "95d8e36d-96c7-a9f6-b03d-b5daa390cd08",
+    "instanceGuid": "6b074f9b-ff26-7447-04b2-d5cce2ded15a",
     "data_components": [],
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": "c7917c3c-b083-696c-598d-4c35628758c0"
+        "skeleton": "c50b45c1-4d5a-6d62-6fa9-1d7614e1d959"
     },
     "joints": {
-        "0c736eb7-0abe-d381-1dcd-429ec055ea2a": {
-            "name": "upperarm_twist_01_l",
-            "index": 26
-        },
-        "0dd63335-161f-455c-2b5d-69cd6037dd50": {
-            "name": "lowerarm_twist_01_l",
-            "index": 25
-        },
-        "0e4c7048-c28f-717d-4b7c-5f38b67a9b9b": {
-            "name": "middle_01_l",
-            "index": 13
-        },
-        "0ed45495-f5ed-9f3f-1bf2-c9c583c388b3": {
-            "name": "calf_l",
-            "index": 51
-        },
-        "1b8d4b46-bd81-0c9f-1b0f-2531602b2d10": {
-            "name": "pinky_02_l",
-            "index": 17
-        },
-        "1c59a29d-97fa-be90-eedc-e7de828cb57a": {
-            "name": "ring_03_l",
-            "index": 21
-        },
-        "238d188b-f349-70f0-1872-9792604fe3ab": {
-            "name": "thumb_03_l",
-            "index": 24
-        },
-        "27e541ee-d518-9a75-b76e-b20d5479fcaf": {
-            "name": "thumb_01_l",
-            "index": 22
-        },
-        "28a2f55f-15d8-ce3d-8669-f7022b33d32b": {
-            "name": "ik_foot_r",
-            "index": 64
-        },
-        "2dc4276a-10f3-ffdd-89f6-a446b940198d": {
-            "name": "thigh_twist_01_r",
-            "index": 61
-        },
-        "362e1f46-0caa-5ef5-4771-065ed0655c15": {
-            "name": "pinky_01_l",
-            "index": 16
-        },
-        "372b0164-d2a2-9883-1c5b-ba4b83790b9a": {
-            "name": "index_03_l",
-            "index": 12
-        },
-        "3a8a87ad-5436-0074-ee23-50be8a921fc7": {
-            "name": "ring_01_r",
-            "index": 40
-        },
-        "3c4493eb-7cd4-afd0-53a4-6326692c86f9": {
-            "name": "ik_hand_root",
-            "index": 65
-        },
-        "3dbea5d0-8bd8-55ce-cc94-3e2a5f0f6d34": {
-            "name": "ik_hand_gun",
-            "index": 66
-        },
-        "3f3d5f5c-3ef6-f481-72b7-e4bcdea02cf9": {
-            "name": "spine_03",
-            "index": 5
-        },
-        "3f66a3d1-d192-45e8-d765-567e75bf6032": {
-            "name": "thumb_02_r",
-            "index": 44
-        },
-        "477f89d6-ed9f-0f5b-45ce-2a5ccf082584": {
-            "name": "foot_l",
-            "index": 53
-        },
-        "49406b56-5a27-1d79-2020-55e7c9bc43b2": {
-            "name": "spine_02",
-            "index": 4
-        },
-        "4fd3261d-2abd-e93d-6a16-25378a9c38e5": {
-            "name": "hand_l",
-            "index": 9
-        },
-        "51359640-cf97-f2b7-a41c-b473776aae25": {
-            "name": "index_03_r",
-            "index": 33
-        },
-        "523c4265-c6a3-af76-20e2-062f7a19f5ac": {
-            "name": "index_01_r",
-            "index": 31
-        },
-        "5c864dfc-30c6-4eed-4c4a-7a0d59890268": {
-            "name": "lowerarm_r",
-            "index": 29
-        },
-        "5f8f29ce-64e4-5399-a21c-0f8fc6189cd3": {
-            "name": "neck_01",
-            "index": 48
-        },
-        "652884bd-ee66-c64f-f571-30a18c15e612": {
-            "name": "index_01_l",
-            "index": 10
-        },
-        "6a91a1a6-7785-fee2-c322-1ee0602ccc08": {
+        "051e2270-d07a-a9b4-08d2-b45932c75bdf": {
             "name": "upperarm_r",
             "index": 28
         },
-        "6ab758e7-1ac2-7e63-5dd0-44d284430cd2": {
-            "name": "middle_03_l",
-            "index": 15
-        },
-        "6c7fe518-25c4-d9a3-a847-89ddaaea00a2": {
-            "name": "upperarm_l",
-            "index": 7
-        },
-        "7283f4ca-0bee-51d8-1297-e59dd4b38c43": {
-            "name": "RootNode",
-            "index": 0
-        },
-        "75c009e1-26dc-9679-3a0b-fb14857ffd18": {
-            "name": "thumb_02_l",
-            "index": 23
-        },
-        "77422904-91a7-7f78-b72b-e507c7208f7d": {
-            "name": "thigh_l",
-            "index": 50
-        },
-        "78a4427a-5ac3-a1ea-52ce-f25e6932a081": {
-            "name": "middle_02_r",
-            "index": 35
-        },
-        "7be86227-fbaa-7982-0632-85d9b5ba9b04": {
-            "name": "pinky_01_r",
-            "index": 37
-        },
-        "84660509-b66d-1f5f-c71d-1791c0f25052": {
-            "name": "thumb_01_r",
-            "index": 43
-        },
-        "8540c64d-c5da-4077-3656-f086422a85c7": {
-            "name": "ik_hand_r",
-            "index": 68
-        },
-        "8634acad-7838-364f-e5ca-1bc729e0b5a6": {
-            "name": "calf_twist_01_l",
-            "index": 52
-        },
-        "8a01d414-8e29-a2bd-f718-d7e5bd834b04": {
-            "name": "upperarm_twist_01_r",
-            "index": 47
-        },
-        "8bf8e4d4-d66f-6dad-959c-140d1789a17c": {
-            "name": "thigh_r",
-            "index": 56
-        },
-        "8e14bb1d-e0c1-915c-0957-194e0a03fcad": {
-            "name": "ring_02_r",
-            "index": 41
-        },
-        "902d1a5f-7980-b2fc-f660-89b9624c6b89": {
-            "name": "clavicle_r",
-            "index": 27
-        },
-        "90915cf5-2d7d-f60d-25ac-8a7f6ab95d95": {
-            "name": "ball_r",
-            "index": 60
-        },
-        "91089c1a-aa5e-f4f3-eab4-8e2c25608564": {
-            "name": "pelvis",
-            "index": 2
-        },
-        "9213cd24-4c00-2aa4-ddf7-a66d5f6dc24b": {
-            "name": "lowerarm_twist_01_r",
-            "index": 46
-        },
-        "98eed1cf-923e-f15f-ebb7-e158baa4194b": {
-            "name": "SK_Danny",
-            "index": 69
-        },
-        "9a11933d-15df-8ccd-ec05-2c76fe45e74e": {
-            "name": "calf_r",
-            "index": 57
-        },
-        "9a1c92bc-12ee-e761-3889-7189a064ccc7": {
-            "name": "spine_01",
-            "index": 3
-        },
-        "a1640684-60c9-e25f-4b3a-dc7a5f9890a9": {
-            "name": "thumb_03_r",
-            "index": 45
-        },
-        "a309858c-f6e6-a96d-80e5-bdc8e912ef34": {
-            "name": "pinky_03_r",
-            "index": 39
-        },
-        "a7906f84-adeb-301d-46c2-d19aae0acac0": {
-            "name": "head",
-            "index": 49
-        },
-        "aa9f7d88-f68e-1b8e-6eec-85e48eb1f376": {
-            "name": "ik_foot_root",
-            "index": 62
-        },
-        "aae4fd83-7b2c-6e1a-c335-3436ed22f981": {
-            "name": "middle_02_l",
-            "index": 14
-        },
-        "b0e6573f-20ae-f6cc-022f-2439daea5a57": {
-            "name": "index_02_r",
-            "index": 32
-        },
-        "b10ccd12-a4a7-f7f2-51c2-b4681d3ac5e8": {
-            "name": "ball_l",
-            "index": 54
-        },
-        "bd58a5d3-585b-5564-1ca9-3c83b1ba17f9": {
-            "name": "clavicle_l",
-            "index": 6
-        },
-        "beb49bad-d60b-c3df-c193-94775db8411c": {
-            "name": "pinky_02_r",
-            "index": 38
-        },
-        "c1877138-08f8-b351-c365-4207216a0d87": {
-            "name": "root",
-            "index": 1
-        },
-        "c1fc7da6-3d15-0685-c7e9-f8c5f48d1fe4": {
-            "name": "middle_01_r",
-            "index": 34
-        },
-        "c5054890-fa34-b423-c84c-b1890bb323ae": {
+        "059712ad-5c1d-4205-4339-e237cff3cdde": {
             "name": "ik_foot_l",
             "index": 63
         },
-        "c8208b15-2b43-e645-9c8c-257bd0f5385f": {
-            "name": "ring_02_l",
-            "index": 20
+        "05c7cecc-e1f4-80b0-5dfa-3e505fa7a3f9": {
+            "name": "thigh_l",
+            "index": 50
         },
-        "cc118c07-308c-66af-4733-604c2993aaf3": {
-            "name": "middle_03_r",
-            "index": 36
+        "0cd585e2-831c-a040-6fcc-d961578acbf2": {
+            "name": "ik_hand_r",
+            "index": 68
         },
-        "d52ab094-f98b-b60a-0c66-d751029a366f": {
-            "name": "calf_twist_01_r",
-            "index": 58
+        "13cc5fd3-f433-0306-2539-4f23b4989023": {
+            "name": "ik_hand_root",
+            "index": 65
         },
-        "dc4d56aa-5dbf-f416-2e13-9e60f1566234": {
-            "name": "pinky_03_l",
-            "index": 18
+        "16c83a8a-e78c-1936-6f87-6e2f0d3fb353": {
+            "name": "thigh_r",
+            "index": 56
         },
-        "e2af997f-2399-7452-ce8a-7ea06b5a17c2": {
-            "name": "hand_r",
-            "index": 30
-        },
-        "e531db63-6c29-292b-d709-d7dad1a8f22c": {
-            "name": "ring_01_l",
-            "index": 19
-        },
-        "e9f52a6d-093f-2648-b6a5-e9a241c645b4": {
-            "name": "thigh_twist_01_l",
-            "index": 55
-        },
-        "ec1919d2-1169-d75a-b42b-cfe9e512f434": {
-            "name": "lowerarm_l",
-            "index": 8
-        },
-        "eed53ed9-0f01-c1d4-df6d-4c4290bcc4be": {
+        "220398f9-a017-caa4-2420-fc46fedf6b05": {
             "name": "foot_r",
             "index": 59
         },
-        "fae36550-4e8c-4773-198a-34f3c554d0e9": {
+        "225da418-8268-8ee1-4c26-44f04471ad03": {
+            "name": "middle_03_r",
+            "index": 36
+        },
+        "25679b04-b288-1a59-7e91-a911ec07bad1": {
+            "name": "middle_03_l",
+            "index": 15
+        },
+        "264fb167-bc4c-17a9-08ab-d1f9bd25c0c1": {
+            "name": "index_02_l",
+            "index": 11
+        },
+        "28e0c000-66f5-9675-529f-a890e1139b81": {
             "name": "ik_hand_l",
             "index": 67
         },
-        "fdcf7006-45ef-b3ce-88e1-345792cf4de6": {
+        "2b1b1dd6-2a2b-058c-ddb8-dc1fac098913": {
+            "name": "head",
+            "index": 49
+        },
+        "2d2278b0-6d6c-92e3-c0d7-bc572b2564b6": {
+            "name": "ring_03_l",
+            "index": 21
+        },
+        "2f399218-9cdc-9364-979b-ad3b33f6c2c2": {
+            "name": "thumb_01_l",
+            "index": 22
+        },
+        "369817d2-8df9-f143-ae9f-88755b135af7": {
+            "name": "pinky_02_r",
+            "index": 38
+        },
+        "413a6d56-a62c-6962-3099-cb36fe753c47": {
+            "name": "foot_l",
+            "index": 53
+        },
+        "433a561d-9871-a39d-fc5c-2c2537f01ef5": {
+            "name": "spine_01",
+            "index": 3
+        },
+        "455c6ec3-e317-ff12-2344-e0874859dc23": {
+            "name": "RootNode",
+            "index": 0
+        },
+        "4889a1d4-2dd9-89f4-480a-1d351dae1747": {
+            "name": "ik_hand_gun",
+            "index": 66
+        },
+        "4a1e34db-d8b1-18ac-b9c0-58758e0c062f": {
+            "name": "lowerarm_r",
+            "index": 29
+        },
+        "4eb7b3cb-faea-5898-bd97-c59cf2bf32b1": {
+            "name": "middle_02_r",
+            "index": 35
+        },
+        "50454e26-4141-fc18-2e6e-296f7dc1ad36": {
+            "name": "ik_foot_r",
+            "index": 64
+        },
+        "514131a1-4639-8b01-60a0-595352bd5019": {
+            "name": "ring_01_r",
+            "index": 40
+        },
+        "6bcf3202-c778-bf2d-6a2e-554358bb97e0": {
+            "name": "pinky_01_r",
+            "index": 37
+        },
+        "6e62c2c9-09b6-7314-2106-a4d6a67daa51": {
+            "name": "SK_Danny",
+            "index": 69
+        },
+        "76e85e5f-475d-2a16-e7e6-2c742af6328d": {
+            "name": "thumb_02_r",
+            "index": 44
+        },
+        "777fd3cc-2e0e-64fe-f04c-995fd80714f9": {
+            "name": "lowerarm_twist_01_r",
+            "index": 46
+        },
+        "77e9238a-280a-9560-5056-f23dddc370b7": {
+            "name": "spine_03",
+            "index": 5
+        },
+        "79d15ef7-a0f3-d542-74aa-a3f5da208897": {
+            "name": "hand_r",
+            "index": 30
+        },
+        "7e866046-6d2a-a4c6-87bf-c44718f1f38a": {
+            "name": "thigh_twist_01_l",
+            "index": 55
+        },
+        "7f9bd549-f376-0343-8d51-366ff9bc0ba6": {
+            "name": "ring_02_r",
+            "index": 41
+        },
+        "842636c5-9aad-5930-ee37-d4c66e837926": {
+            "name": "ring_01_l",
+            "index": 19
+        },
+        "884821ac-3331-9faf-5e41-2eb6db1b60b4": {
+            "name": "index_02_r",
+            "index": 32
+        },
+        "8a9d725b-ef95-8f8d-716c-954ebf379d3c": {
+            "name": "upperarm_twist_01_r",
+            "index": 47
+        },
+        "8efe2fe6-7fc0-a9ce-51b3-5b51d0b61211": {
+            "name": "root",
+            "index": 1
+        },
+        "93d39951-538a-0ec7-c657-959c4f974a89": {
+            "name": "ball_r",
+            "index": 60
+        },
+        "94eda645-c292-df85-144c-5885060b35ea": {
+            "name": "upperarm_twist_01_l",
+            "index": 26
+        },
+        "95b73945-1d64-5b61-3e0e-9bd5ebd757ca": {
+            "name": "spine_02",
+            "index": 4
+        },
+        "9999752d-5158-3b01-2774-dbbab8aa5b91": {
+            "name": "index_01_r",
+            "index": 31
+        },
+        "9d4613f5-b0ac-f186-542f-3b462990ba10": {
+            "name": "thumb_01_r",
+            "index": 43
+        },
+        "a45b63ac-e685-62ad-5cca-c8aea2b65dfa": {
+            "name": "pelvis",
+            "index": 2
+        },
+        "a80ae307-e706-1092-ca5d-e8585dc8bca9": {
+            "name": "ring_02_l",
+            "index": 20
+        },
+        "a83f4bfe-ce9a-93f9-b6be-3a69c11e77df": {
+            "name": "thumb_03_l",
+            "index": 24
+        },
+        "a887a484-bdb1-2001-8967-e11ce402da1c": {
+            "name": "calf_twist_01_r",
+            "index": 58
+        },
+        "ab9bbd5c-bc7c-47ae-d735-f6ea08678e2c": {
+            "name": "ball_l",
+            "index": 54
+        },
+        "abe9e1e0-bd0a-2939-3829-ff3e8bde6c98": {
+            "name": "index_03_r",
+            "index": 33
+        },
+        "ae74c6c8-d21a-7ba8-184a-4642a38de75a": {
+            "name": "lowerarm_twist_01_l",
+            "index": 25
+        },
+        "aedeaf0d-212e-de29-3369-b9a3cde0996f": {
+            "name": "pinky_02_l",
+            "index": 17
+        },
+        "b73bffdb-a82f-d42d-2e60-d42d828a4bf5": {
+            "name": "middle_01_l",
+            "index": 13
+        },
+        "b9e1e4a7-b97c-77bb-ca34-fb5d40c9ba81": {
+            "name": "calf_twist_01_l",
+            "index": 52
+        },
+        "ba2cd50b-bdeb-ebf0-c225-83dc7aba1177": {
+            "name": "calf_l",
+            "index": 51
+        },
+        "c08aebab-be6e-c068-dc99-4d89a9af131c": {
+            "name": "thumb_02_l",
+            "index": 23
+        },
+        "c18993e5-343b-c755-d426-ead6f2ceefed": {
+            "name": "upperarm_l",
+            "index": 7
+        },
+        "c58cb2d5-afe5-d41a-3e68-1d7ead4230a4": {
+            "name": "middle_02_l",
+            "index": 14
+        },
+        "c5b24281-6385-6f69-2fb5-7d7fea380b6e": {
+            "name": "thigh_twist_01_r",
+            "index": 61
+        },
+        "c8ffdd75-5ce6-0f15-018e-3572e1a371a8": {
+            "name": "neck_01",
+            "index": 48
+        },
+        "cb73635b-2a5c-123a-3ce6-0dcdef9573c1": {
+            "name": "thumb_03_r",
+            "index": 45
+        },
+        "d6ed7f95-144f-af85-2b58-4d339d5e3d66": {
+            "name": "ik_foot_root",
+            "index": 62
+        },
+        "d8a3360e-d4e2-6751-c515-caa558f722c0": {
+            "name": "pinky_03_r",
+            "index": 39
+        },
+        "d95b02c7-6053-6b2d-12d9-b37366064af2": {
             "name": "ring_03_r",
             "index": 42
         },
-        "ffb0c334-f675-95e3-91bb-250c99ae41ae": {
-            "name": "index_02_l",
-            "index": 11
+        "db41cb7b-4ad3-ad38-5f67-1e7191ef04d2": {
+            "name": "calf_r",
+            "index": 57
+        },
+        "ddd4cdd4-893a-d144-7338-a8124e229796": {
+            "name": "pinky_01_l",
+            "index": 16
+        },
+        "e5ffa64d-ef80-0697-ebca-62103b8d9d02": {
+            "name": "middle_01_r",
+            "index": 34
+        },
+        "e6b22f2b-a1c1-244a-2064-278e96a2397d": {
+            "name": "index_03_l",
+            "index": 12
+        },
+        "e762501a-0acb-7e46-bc36-9ef2d443b913": {
+            "name": "clavicle_r",
+            "index": 27
+        },
+        "ed41d217-9492-122b-7949-d1e67b850841": {
+            "name": "clavicle_l",
+            "index": 6
+        },
+        "f4464cb6-c81b-07e5-0c5c-e8cbb17727c5": {
+            "name": "lowerarm_l",
+            "index": 8
+        },
+        "f5cdf088-c726-c20c-fe30-a006352ad43d": {
+            "name": "hand_l",
+            "index": 9
+        },
+        "f930d7d1-ec4f-79a3-9153-41ed57111cf2": {
+            "name": "pinky_03_l",
+            "index": 18
+        },
+        "fe7c3f76-6bc2-6a21-a9dc-82a13b1c4283": {
+            "name": "index_01_l",
+            "index": 10
         }
     }
 }
