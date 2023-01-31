@@ -1,17 +1,20 @@
 {
     "source": "A_Robot_Run.fbx",
-    "skeleton": "dae8675b-ba76-2bd4-21fb-cb54c859696f",
+    "skeleton": "3ed41388-8e5c-66d6-84b9-8ab31853b8d8",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "59a4d0cf-bd7f-08e1-a8a7-42801eeb7102",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": "dae8675b-ba76-2bd4-21fb-cb54c859696f"
+        "skeleton": "3ed41388-8e5c-66d6-84b9-8ab31853b8d8"
     },
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": "106a4624-28a7-440b-9a45-13dcc0feb144"
+            "animation": "ef074b98-688d-4fa9-93dc-73d991a28b24"
         }
     ],
-    "guid": "106a4624-28a7-440b-9a45-13dcc0feb144",
-    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+    "guid": "ef074b98-688d-4fa9-93dc-73d991a28b24",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "3ed41388-8e5c-66d6-84b9-8ab31853b8d8"
+    ]
 }
