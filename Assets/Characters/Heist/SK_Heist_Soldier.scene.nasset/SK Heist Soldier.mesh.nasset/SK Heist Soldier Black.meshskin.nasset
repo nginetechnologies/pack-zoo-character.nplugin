@@ -13,5 +13,8 @@
         "mesh": "ee820886-5b54-1244-ed19-d13916a5f48f",
         "material_instance": "e96492a8-7f81-969e-ad35-3444f5d4e31d"
     },
-    "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c"
+    "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+    "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+        "skin": "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa"
+    }
 }

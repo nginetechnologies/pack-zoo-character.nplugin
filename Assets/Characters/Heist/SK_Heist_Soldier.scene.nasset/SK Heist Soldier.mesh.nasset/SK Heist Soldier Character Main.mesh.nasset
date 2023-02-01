@@ -35,7 +35,8 @@
                         ]
                     },
                     "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "26aab986-ecd8-2e5b-fa20-bbba9afad2fd"
+                        "mesh": "26aab986-ecd8-2e5b-fa20-bbba9afad2fd",
+                        "material_instance": "06dec0af-b15e-e429-4431-19474b509e54"
                     }
                 }
             ],
