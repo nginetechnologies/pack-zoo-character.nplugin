@@ -178,6 +178,12 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Leela/Idle.anim.nasset"
     },
+    "60200fef-5d55-47d4-9ca9-2afe17acabf1": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Heist/Heist Player.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+    },
     "60f04952-be96-4d54-b86c-438a71cf97a9": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -473,12 +479,6 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
-    "ec66ce19-1e67-478b-a8e6-07b9cf74df4c": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Voxel/Danny/Danny Player.scene.nasset",
-        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
-    },
     "ee820886-5b54-1244-ed19-d13916a5f48f": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -496,6 +496,12 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK_Robot.scene.nasset"
+    },
+    "eff07364-e0ef-4df5-a8d4-ac2a2102ea6f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Voxel/Danny/Danny Player.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
     },
     "f8b355f8-5654-485c-b227-603f9371a839": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
