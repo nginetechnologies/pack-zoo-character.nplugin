@@ -1,0 +1,17 @@
+{
+    "source": "A_Jump_Start.fbx",
+    "skeleton": "920c0ce0-9f6a-d77d-988e-e674c14dd274",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "6815eb75-e401-6bb5-e430-8c6dbac06508",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "920c0ce0-9f6a-d77d-988e-e674c14dd274"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "60f04952-be96-4d54-b86c-438a71cf97a9"
+        }
+    ],
+    "guid": "60f04952-be96-4d54-b86c-438a71cf97a9",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+}
