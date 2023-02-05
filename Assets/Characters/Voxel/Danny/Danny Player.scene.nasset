@@ -212,5 +212,8 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "eff07364-e0ef-4df5-a8d4-ac2a2102ea6f"
     },
-    "thumbnailGuid": "e95160b5-9f01-a360-4319-88759e54333f"
+    "thumbnailGuid": "e95160b5-9f01-a360-4319-88759e54333f",
+    "dependencies": [
+        "b8bf7aa5-05e6-b5e1-8022-e3d399ea6786"
+    ]
 }
