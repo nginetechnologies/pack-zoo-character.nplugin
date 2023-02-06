@@ -17,5 +17,9 @@
             "type": 1,
             "value": 0.8585
         }
+    ],
+    "dependencies": [
+        "ac0befd3-fdfd-491c-a266-f5a5a1ebd6b5",
+        "24dcf608-bd37-bd03-566c-73f765076704"
     ]
 }
