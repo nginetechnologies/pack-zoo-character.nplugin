@@ -16,5 +16,10 @@
     "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
     "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
         "skin": "717cab1f-ff25-bd86-79f5-1561a8fec4c4"
-    }
+    },
+    "dependencies": [
+        "6a2d19ab-3e15-2a22-9a7a-cd023f410767",
+        "7de269c7-1731-5794-d9ad-536de9360f04",
+        "704dd06d-c505-ee41-1783-77680c7841a4"
+    ]
 }

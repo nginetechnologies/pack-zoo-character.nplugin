@@ -48,8 +48,11 @@
             }
         }
     ],
-    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
     "tags": [
         "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+    ],
+    "dependencies": [
+        "429bebc4-eb54-c946-a7b6-2a8e2b5ada01"
     ]
 }

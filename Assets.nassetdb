@@ -14,7 +14,10 @@
     },
     "06dec0af-b15e-e429-4431-19474b509e54": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Heist/Material Instances/Character Main.mtli.nasset"
+        "path": "Assets/Characters/Heist/Material Instances/Character Main.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "0f920536-8057-a096-6e5a-f28d8ed73253": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -51,12 +54,22 @@
     "1bebd240-6e24-9950-5a22-a899be2e7aaa": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier Pants.meshskin.nasset"
+        "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier Pants.meshskin.nasset",
+        "dependencies": [
+            "1bebd240-6e24-9950-5a22-a899be2e7aaa",
+            "3fd0b19f-8763-55ae-ae7c-7e5298afe54f",
+            "704dd06d-c505-ee41-1783-77680c7841a4"
+        ]
     },
     "1e582fb0-4f30-4c8d-fab7-bc23eb2d3243": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier Skin.meshskin.nasset"
+        "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier Skin.meshskin.nasset",
+        "dependencies": [
+            "1e582fb0-4f30-4c8d-fab7-bc23eb2d3243",
+            "35f42455-8393-9366-4714-81acba1cf402",
+            "704dd06d-c505-ee41-1783-77680c7841a4"
+        ]
     },
     "1ed958d9-86fd-5438-5367-02eb2a511744": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -88,11 +101,14 @@
         "path": "Assets/Characters/Mechs/Leela/Jump_Loop.anim.nasset"
     },
     "26aab986-ecd8-2e5b-fa20-bbba9afad2fd": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier Character Main.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "06dec0af-b15e-e429-4431-19474b509e54"
         ]
     },
     "27897906-0c10-aa9f-f737-50074c44281a": {
@@ -125,11 +141,14 @@
         ]
     },
     "35f42455-8393-9366-4714-81acba1cf402": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier Skin.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "8cf89ad7-17d3-d68c-77ae-f1e4eec28f29"
         ]
     },
     "37a0840a-479d-3764-fbf3-f413c0c871ad": {
@@ -159,11 +178,14 @@
         "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "3fd0b19f-8763-55ae-ae7c-7e5298afe54f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier Pants.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "429bebc4-eb54-c946-a7b6-2a8e2b5ada01"
         ]
     },
     "40ebf4d2-b44a-47a1-8638-ef100a595d82": {
@@ -176,7 +198,10 @@
     },
     "429bebc4-eb54-c946-a7b6-2a8e2b5ada01": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Heist/Material Instances/Pants.mtli.nasset"
+        "path": "Assets/Characters/Heist/Material Instances/Pants.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "4985baab-08f8-1f28-2f86-23cbecefcd71": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -209,7 +234,12 @@
     "4e16005c-0939-813e-7248-b7c3a9a6359f": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier Grey.meshskin.nasset"
+        "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier Grey.meshskin.nasset",
+        "dependencies": [
+            "4e16005c-0939-813e-7248-b7c3a9a6359f",
+            "8946c7d6-af91-02b3-747c-f0264b7b6169",
+            "704dd06d-c505-ee41-1783-77680c7841a4"
+        ]
     },
     "500b0631-53a1-4111-abda-704cbb183b62": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -229,7 +259,10 @@
     },
     "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Heist/Material Instances/Black.mtli.nasset"
+        "path": "Assets/Characters/Heist/Material Instances/Black.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "60f04952-be96-4d54-b86c-438a71cf97a9": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -252,7 +285,12 @@
     "6a2d19ab-3e15-2a22-9a7a-cd023f410767": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier DarkGrey.meshskin.nasset"
+        "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier DarkGrey.meshskin.nasset",
+        "dependencies": [
+            "6a2d19ab-3e15-2a22-9a7a-cd023f410767",
+            "7de269c7-1731-5794-d9ad-536de9360f04",
+            "704dd06d-c505-ee41-1783-77680c7841a4"
+        ]
     },
     "6b47686f-498d-4532-a01a-f14af1493053": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -276,7 +314,10 @@
     },
     "717cab1f-ff25-bd86-79f5-1561a8fec4c4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Heist/Material Instances/DarkGrey.mtli.nasset"
+        "path": "Assets/Characters/Heist/Material Instances/DarkGrey.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "71947905-93bd-4e26-9eff-6be5475eb61b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -361,11 +402,14 @@
         ]
     },
     "7de269c7-1731-5794-d9ad-536de9360f04": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier DarkGrey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "717cab1f-ff25-bd86-79f5-1561a8fec4c4"
         ]
     },
     "8069a703-bdfc-7542-bbbb-409f726bb794": {
@@ -395,11 +439,14 @@
         ]
     },
     "8946c7d6-af91-02b3-747c-f0264b7b6169": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b91be93c-455e-d613-9950-bb6f5dff4610"
         ]
     },
     "8a710282-72e0-c192-75a6-ddc2d5525035": {
@@ -408,6 +455,32 @@
         "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "704dd06d-c505-ee41-1783-77680c7841a4",
+            "7de269c7-1731-5794-d9ad-536de9360f04",
+            "717cab1f-ff25-bd86-79f5-1561a8fec4c4",
+            "6a2d19ab-3e15-2a22-9a7a-cd023f410767",
+            "704dd06d-c505-ee41-1783-77680c7841a4",
+            "e96492a8-7f81-969e-ad35-3444f5d4e31d",
+            "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa",
+            "ee820886-5b54-1244-ed19-d13916a5f48f",
+            "704dd06d-c505-ee41-1783-77680c7841a4",
+            "35f42455-8393-9366-4714-81acba1cf402",
+            "8cf89ad7-17d3-d68c-77ae-f1e4eec28f29",
+            "1e582fb0-4f30-4c8d-fab7-bc23eb2d3243",
+            "704dd06d-c505-ee41-1783-77680c7841a4",
+            "26aab986-ecd8-2e5b-fa20-bbba9afad2fd",
+            "06dec0af-b15e-e429-4431-19474b509e54",
+            "99a9ce7b-7821-93ac-dca3-480ac8552777",
+            "704dd06d-c505-ee41-1783-77680c7841a4",
+            "3fd0b19f-8763-55ae-ae7c-7e5298afe54f",
+            "429bebc4-eb54-c946-a7b6-2a8e2b5ada01",
+            "1bebd240-6e24-9950-5a22-a899be2e7aaa",
+            "704dd06d-c505-ee41-1783-77680c7841a4",
+            "8946c7d6-af91-02b3-747c-f0264b7b6169",
+            "b91be93c-455e-d613-9950-bb6f5dff4610",
+            "4e16005c-0939-813e-7248-b7c3a9a6359f"
         ]
     },
     "8cf201d8-f8fb-48c8-983f-5a21b94808a9": {
@@ -417,7 +490,10 @@
     },
     "8cf89ad7-17d3-d68c-77ae-f1e4eec28f29": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Heist/Material Instances/Skin.mtli.nasset"
+        "path": "Assets/Characters/Heist/Material Instances/Skin.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "8e0af0cf-e8a0-4822-8d5b-e71862770e2f": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -442,7 +518,12 @@
     "99a9ce7b-7821-93ac-dca3-480ac8552777": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier Character Main.meshskin.nasset"
+        "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier Character Main.meshskin.nasset",
+        "dependencies": [
+            "99a9ce7b-7821-93ac-dca3-480ac8552777",
+            "26aab986-ecd8-2e5b-fa20-bbba9afad2fd",
+            "704dd06d-c505-ee41-1783-77680c7841a4"
+        ]
     },
     "9afb1e9a-0fbe-4246-b3ed-1a8a517c5d81": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -533,7 +614,10 @@
     },
     "b91be93c-455e-d613-9950-bb6f5dff4610": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Heist/Material Instances/Grey.mtli.nasset"
+        "path": "Assets/Characters/Heist/Material Instances/Grey.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "bb850203-f577-a93c-48c5-d31a1e0a25f0": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -609,11 +693,14 @@
         "path": "Assets/Characters/Voxel/Danny/Thumbnails/Player.scene.nasset.tex.nasset"
     },
     "e96492a8-7f81-969e-ad35-3444f5d4e31d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier Black.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa"
         ]
     },
     "ea3c164f-7ce7-6062-813d-9a366e5956b6": {
@@ -627,7 +714,12 @@
     "ee820886-5b54-1244-ed19-d13916a5f48f": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier Black.meshskin.nasset"
+        "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier Black.meshskin.nasset",
+        "dependencies": [
+            "ee820886-5b54-1244-ed19-d13916a5f48f",
+            "e96492a8-7f81-969e-ad35-3444f5d4e31d",
+            "704dd06d-c505-ee41-1783-77680c7841a4"
+        ]
     },
     "ef074b98-688d-4fa9-93dc-73d991a28b24": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
