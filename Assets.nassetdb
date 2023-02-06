@@ -139,7 +139,8 @@
         "path": "Assets/Characters/Voxel/Danny/SK_Danny.scene.nasset/SK Danny.mesh.nasset/SK Danny Danny.meshskin.nasset",
         "dependencies": [
             "724f1717-733a-1e08-7254-9dc8e6a47d09",
-            "c50b45c1-4d5a-6d62-6fa9-1d7614e1d959"
+            "c50b45c1-4d5a-6d62-6fa9-1d7614e1d959",
+            "04923f94-6d3d-a296-66e1-c36f6eb6ca70"
         ]
     },
     "35f42455-8393-9366-4714-81acba1cf402": {
@@ -168,7 +169,7 @@
     "3d9becb1-7c03-4ffb-bf9d-212fbaaefaae": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Modular_Toon/Alien/Walk.anim.nasset"
+        "path": "Assets/Characters/Voxel/Danny/Walk.anim.nasset"
     },
     "3eb2bf6e-565d-21c4-745a-4c0c581be823": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -269,7 +270,7 @@
     "60f04952-be96-4d54-b86c-438a71cf97a9": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Modular_Toon/Alien/Jump_Start.anim.nasset"
+        "path": "Assets/Characters/Voxel/Danny/Jump_Start.anim.nasset"
     },
     "612482df-ad57-3456-6fc0-8fd0e0a46cc4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -348,6 +349,7 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
         "dependencies": [
+            "04923f94-6d3d-a296-66e1-c36f6eb6ca70",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -488,7 +490,7 @@
     "8cf201d8-f8fb-48c8-983f-5a21b94808a9": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Modular_Toon/Alien/Run.anim.nasset"
+        "path": "Assets/Characters/Voxel/Danny/Run.anim.nasset"
     },
     "8cf89ad7-17d3-d68c-77ae-f1e4eec28f29": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -500,7 +502,7 @@
     "8e0af0cf-e8a0-4822-8d5b-e71862770e2f": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Modular_Toon/Alien/Jump_Loop.anim.nasset"
+        "path": "Assets/Characters/Voxel/Danny/Jump_Loop.anim.nasset"
     },
     "8f149a5c-82e5-25da-9e1b-fae1907f3672": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -515,7 +517,7 @@
     "96e52271-e359-4ec0-a4ab-507d54315cb7": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Modular_Toon/Alien/Jump_End.anim.nasset"
+        "path": "Assets/Characters/Voxel/Danny/Jump_End.anim.nasset"
     },
     "99a9ce7b-7821-93ac-dca3-480ac8552777": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -578,7 +580,7 @@
     "a9f3884c-3026-4742-a788-9c1c91625bd8": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Modular_Toon/Alien/Idle.anim.nasset"
+        "path": "Assets/Characters/Voxel/Danny/Idle.anim.nasset"
     },
     "af68ea42-01df-65dd-3197-a7308494cfc5": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -639,10 +641,7 @@
     "c50b45c1-4d5a-6d62-6fa9-1d7614e1d959": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Voxel/Danny/SK_Danny.scene.nasset/SK Danny.mesh.nasset/Skeletons/RootNode.skel.nasset",
-        "dependencies": [
-            "c50b45c1-4d5a-6d62-6fa9-1d7614e1d959"
-        ]
+        "path": "Assets/Characters/Voxel/Danny/SK_Danny.scene.nasset/SK Danny.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "c7ae1118-3eaf-3ca1-5b36-38885ec9888c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
