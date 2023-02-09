@@ -7,6 +7,16 @@
             "b8bf7aa5-05e6-b5e1-8022-e3d399ea6786"
         ]
     },
+    "0433d203-79bd-a1ec-fd59-581e582b90e2": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Modular_Toon/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Z Face.meshskin.nasset",
+        "dependencies": [
+            "6f48aea1-eafd-7470-8341-6db6dd6b4354",
+            "dda0686c-bec9-a968-7a9e-8f2208623753",
+            "b77e5779-902f-4a4c-7eae-2aa55de220a2"
+        ]
+    },
     "04923f94-6d3d-a296-66e1-c36f6eb6ca70": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Voxel/Danny/Material Instances/Danny.mtli.nasset",
@@ -25,6 +35,32 @@
         "path": "Assets/Characters/Heist/Material Instances/Character Main.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "0b2c854d-414b-4a0b-9299-a58c253079cc": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Modular_Toon/Witch/Jump_End.anim.nasset",
+        "dependencies": [
+            "dda0686c-bec9-a968-7a9e-8f2208623753"
+        ]
+    },
+    "0b645ed9-e61a-4795-a689-a634f6818fa5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Modular_Toon/Witch/Run.anim.nasset",
+        "dependencies": [
+            "dda0686c-bec9-a968-7a9e-8f2208623753"
+        ]
+    },
+    "0f0d4dde-d741-37eb-bc55-91e0d8369dc9": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Modular_Toon/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Cyan 600.meshskin.nasset",
+        "dependencies": [
+            "ed46d351-f1c5-9b0c-5e42-009d31bb5263",
+            "dda0686c-bec9-a968-7a9e-8f2208623753",
+            "5d458fc9-d257-7b83-bae1-34d4170cced2"
         ]
     },
     "0f920536-8057-a096-6e5a-f28d8ed73253": {
@@ -140,6 +176,13 @@
             "06dec0af-b15e-e429-4431-19474b509e54"
         ]
     },
+    "26dc6fe0-4edd-183c-6f42-897581fae5fe": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Purple 700.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "27897906-0c10-aa9f-f737-50074c44281a": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -169,6 +212,16 @@
         "dependencies": [
             "a5917b54-a1f4-d747-ae67-b33bfd6002cf",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "35e510e8-58bc-cbbd-8a02-09c10599ed7a": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Modular_Toon/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Amber 500.meshskin.nasset",
+        "dependencies": [
+            "c9824c63-8f3c-74f8-4b2b-d96b9536f2ea",
+            "dda0686c-bec9-a968-7a9e-8f2208623753",
+            "44241c1d-5f63-a2b8-29cb-7fcea2313c98"
         ]
     },
     "35f42455-8393-9366-4714-81acba1cf402": {
@@ -222,6 +275,21 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "43746edc-79d0-41aa-8004-d16853627700": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Modular_Toon/Witch/Jump_Loop.anim.nasset",
+        "dependencies": [
+            "dda0686c-bec9-a968-7a9e-8f2208623753"
+        ]
+    },
+    "44241c1d-5f63-a2b8-29cb-7fcea2313c98": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Amber 500.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "4513cf74-a08d-6964-cc0f-7adfe459be14": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -269,6 +337,48 @@
             "a5917b54-a1f4-d747-ae67-b33bfd6002cf"
         ]
     },
+    "5619f6ac-abd8-5fa5-d60a-9ba5db40360b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Fuschia 600.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "58b778ad-94ed-4ce5-1dca-225474c1ff16": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Modular_Toon/Witch/Idle.anim.nasset",
+        "dependencies": [
+            "dda0686c-bec9-a968-7a9e-8f2208623753"
+        ]
+    },
+    "5a036212-c8db-5579-601c-b60bfd417658": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Modular_Toon/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Purple 700.meshskin.nasset",
+        "dependencies": [
+            "69bc925c-3013-4d5b-f4d6-222f5937f904",
+            "dda0686c-bec9-a968-7a9e-8f2208623753",
+            "26dc6fe0-4edd-183c-6f42-897581fae5fe"
+        ]
+    },
+    "5d458fc9-d257-7b83-bae1-34d4170cced2": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Cyan 600.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "5d64332e-08ba-63b4-81cc-28ebe1be18cc": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Modular_Toon/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Fuschia 600.meshskin.nasset",
+        "dependencies": [
+            "8e93a32b-22f1-8f62-1957-d0d4950efe31",
+            "dda0686c-bec9-a968-7a9e-8f2208623753",
+            "5619f6ac-abd8-5fa5-d60a-9ba5db40360b"
+        ]
+    },
     "5ef10529-012b-4f65-895f-e0e4c0fbce78": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -279,6 +389,13 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Heist/Heist Player.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+    },
+    "609da2cb-e4a0-947c-e5d7-9d4743f792cb": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Blue 700.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -305,6 +422,18 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Eyes.mtli.nasset"
     },
+    "69bc925c-3013-4d5b-f4d6-222f5937f904": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Modular_Toon/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Purple 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "26dc6fe0-4edd-183c-6f42-897581fae5fe",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "6a2d19ab-3e15-2a22-9a7a-cd023f410767": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -329,6 +458,18 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Leela/Jump_Start.anim.nasset"
+    },
+    "6f48aea1-eafd-7470-8341-6db6dd6b4354": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Modular_Toon/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Z Face.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b77e5779-902f-4a4c-7eae-2aa55de220a2",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "704dd06d-c505-ee41-1783-77680c7841a4": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
@@ -367,6 +508,16 @@
         "path": "Assets/Characters/Mechs/Robot/Material Instances/Main.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "73b5a02d-41ac-a6c2-b88e-b04dc75d5392": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Modular_Toon/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Blue 700.meshskin.nasset",
+        "dependencies": [
+            "a778f972-f56d-0a42-3465-c851e1713681",
+            "dda0686c-bec9-a968-7a9e-8f2208623753",
+            "609da2cb-e4a0-947c-e5d7-9d4743f792cb"
         ]
     },
     "7526201f-e63d-5444-6733-4e045a46755e": {
@@ -520,6 +671,18 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Voxel/Danny/Jump_Loop.anim.nasset"
     },
+    "8e93a32b-22f1-8f62-1957-d0d4950efe31": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Modular_Toon/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Fuschia 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5619f6ac-abd8-5fa5-d60a-9ba5db40360b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "8f149a5c-82e5-25da-9e1b-fae1907f3672": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -539,6 +702,14 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "94965006-1378-487b-a2a6-c9fa3d71831a": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Modular_Toon/Witch/Walk.anim.nasset",
+        "dependencies": [
+            "dda0686c-bec9-a968-7a9e-8f2208623753"
+        ]
     },
     "96e52271-e359-4ec0-a4ab-507d54315cb7": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -560,11 +731,28 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Heist/Jump_End.anim.nasset"
     },
+    "9e130da2-d478-ce8d-002c-436ef2e06688": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Modular_Toon/Witch/SK_Witch.scene.nasset/SK_Witch.scene.nasset"
+    },
     "a5917b54-a1f4-d747-ae67-b33bfd6002cf": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Mechs/Robot/Material Instances/Black.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "a778f972-f56d-0a42-3465-c851e1713681": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Modular_Toon/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Blue 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "609da2cb-e4a0-947c-e5d7-9d4743f792cb",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "a8146617-705b-45d8-8081-2fec12d073ef": {
@@ -586,6 +774,21 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Heist/Jump_Start.anim.nasset"
+    },
+    "b57cbaf8-ec47-b96e-5d76-b7667109ba97": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Modular_Toon/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b77e5779-902f-4a4c-7eae-2aa55de220a2": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Z Face.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "b8bf7aa5-05e6-b5e1-8022-e3d399ea6786": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -613,6 +816,18 @@
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Eyes.meshskin.nasset"
     },
+    "bb9b1f01-7b1a-f3f4-1c67-b5831cc8221b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Modular_Toon/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Skin.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f207aea0-315e-6d11-6942-57377279724f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "bf260724-7066-4cc8-9a37-6708053f3e17": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -622,6 +837,14 @@
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Nails.meshskin.nasset"
+    },
+    "c4212bdb-de20-4f00-b97d-76a12658b5f8": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Modular_Toon/Witch/Jump_Start.anim.nasset",
+        "dependencies": [
+            "dda0686c-bec9-a968-7a9e-8f2208623753"
+        ]
     },
     "c50b45c1-4d5a-6d62-6fa9-1d7614e1d959": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
@@ -637,6 +860,18 @@
         ],
         "dependencies": [
             "725358d1-9c64-6f29-614d-b5d53cb22a25",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c9824c63-8f3c-74f8-4b2b-d96b9536f2ea": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Modular_Toon/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Amber 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "44241c1d-5f63-a2b8-29cb-7fcea2313c98",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -660,6 +895,11 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Leela/Jump_End.anim.nasset"
+    },
+    "dda0686c-bec9-a968-7a9e-8f2208623753": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Modular_Toon/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "debbd74c-8411-427d-b37f-c27dfd0fa41a": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -715,6 +955,18 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "ed46d351-f1c5-9b0c-5e42-009d31bb5263": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Modular_Toon/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Cyan 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5d458fc9-d257-7b83-bae1-34d4170cced2",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "ee820886-5b54-1244-ed19-d13916a5f48f": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -750,6 +1002,23 @@
             "87cd522f-b3f8-f223-3de6-f23d0c0d43d1",
             "062eb09e-9e46-2923-be83-e717af5c2e27",
             "133799e8-3433-9aba-fda8-2fa6aea1d41b"
+        ]
+    },
+    "f207aea0-315e-6d11-6942-57377279724f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Skin.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "f43b1ef0-ca79-fecf-da12-a409c99ad3b3": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Modular_Toon/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Skin.meshskin.nasset",
+        "dependencies": [
+            "bb9b1f01-7b1a-f3f4-1c67-b5831cc8221b",
+            "dda0686c-bec9-a968-7a9e-8f2208623753",
+            "f207aea0-315e-6d11-6942-57377279724f"
         ]
     },
     "f8b355f8-5654-485c-b227-603f9371a839": {

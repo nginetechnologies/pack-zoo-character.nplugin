@@ -1,0 +1,244 @@
+{
+    "guid": "b57cbaf8-ec47-b96e-5d76-b7667109ba97",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "9d22932a-0219-b347-94f8-3da070ed1781",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "b952f27f-dea2-ed59-04b2-074aacde5d01",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Witch Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "f0c6cde9-bd0e-c71b-46b0-3e46ba981892",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "58b778ad-94ed-4ce5-1dca-225474c1ff16",
+                                "94965006-1378-487b-a2a6-c9fa3d71831a",
+                                "0b645ed9-e61a-4795-a689-a634f6818fa5"
+                            ],
+                            "jump_animations": [
+                                "c4212bdb-de20-4f00-b97d-76a12658b5f8",
+                                "43746edc-79d0-41aa-8004-d16853627700",
+                                "0b2c854d-414b-4a0b-9299-a58c253079cc"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "6ecd64a0-3e43-1028-3f7d-cb87bb6e4d42",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Witch Blue 700"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a778f972-f56d-0a42-3465-c851e1713681",
+                                "material_instance": "609da2cb-e4a0-947c-e5d7-9d4743f792cb"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "73b5a02d-41ac-a6c2-b88e-b04dc75d5392"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "47c2f1c4-dc0e-e7d8-4fe6-8e2f27b19db8",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Witch Amber 500"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c9824c63-8f3c-74f8-4b2b-d96b9536f2ea",
+                                "material_instance": "44241c1d-5f63-a2b8-29cb-7fcea2313c98"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "35e510e8-58bc-cbbd-8a02-09c10599ed7a"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "3db5d024-a3be-bb6a-52b6-bade028a740b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Witch Fuschia 600"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "8e93a32b-22f1-8f62-1957-d0d4950efe31",
+                                "material_instance": "5619f6ac-abd8-5fa5-d60a-9ba5db40360b"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "5d64332e-08ba-63b4-81cc-28ebe1be18cc"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d18ba7e6-140e-c194-a57b-fa2f59f28349",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Witch Z Face"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "6f48aea1-eafd-7470-8341-6db6dd6b4354",
+                                "material_instance": "b77e5779-902f-4a4c-7eae-2aa55de220a2"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "0433d203-79bd-a1ec-fd59-581e582b90e2"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "df3961fc-417e-637f-7356-d204665af857",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Witch Skin"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "bb9b1f01-7b1a-f3f4-1c67-b5831cc8221b",
+                                "material_instance": "f207aea0-315e-6d11-6942-57377279724f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "f43b1ef0-ca79-fecf-da12-a409c99ad3b3"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "099d1a8b-ea0e-14b4-6621-e34d8ed5c535",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Witch Cyan 600"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ed46d351-f1c5-9b0c-5e42-009d31bb5263",
+                                "material_instance": "5d458fc9-d257-7b83-bae1-34d4170cced2"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "0f0d4dde-d741-37eb-bc55-91e0d8369dc9"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "9458e6f1-0c75-ced6-2a6c-ab0709c24524",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Witch Purple 700"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "69bc925c-3013-4d5b-f4d6-222f5937f904",
+                                "material_instance": "26dc6fe0-4edd-183c-6f42-897581fae5fe"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "5a036212-c8db-5579-601c-b60bfd417658"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "dda0686c-bec9-a968-7a9e-8f2208623753"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "b57cbaf8-ec47-b96e-5d76-b7667109ba97"
+    },
+    "dependencies": [
+        "609da2cb-e4a0-947c-e5d7-9d4743f792cb",
+        "a778f972-f56d-0a42-3465-c851e1713681",
+        "73b5a02d-41ac-a6c2-b88e-b04dc75d5392",
+        "44241c1d-5f63-a2b8-29cb-7fcea2313c98",
+        "c9824c63-8f3c-74f8-4b2b-d96b9536f2ea",
+        "35e510e8-58bc-cbbd-8a02-09c10599ed7a",
+        "5619f6ac-abd8-5fa5-d60a-9ba5db40360b",
+        "8e93a32b-22f1-8f62-1957-d0d4950efe31",
+        "5d64332e-08ba-63b4-81cc-28ebe1be18cc",
+        "b77e5779-902f-4a4c-7eae-2aa55de220a2",
+        "6f48aea1-eafd-7470-8341-6db6dd6b4354",
+        "0433d203-79bd-a1ec-fd59-581e582b90e2",
+        "f207aea0-315e-6d11-6942-57377279724f",
+        "bb9b1f01-7b1a-f3f4-1c67-b5831cc8221b",
+        "f43b1ef0-ca79-fecf-da12-a409c99ad3b3",
+        "5d458fc9-d257-7b83-bae1-34d4170cced2",
+        "ed46d351-f1c5-9b0c-5e42-009d31bb5263",
+        "0f0d4dde-d741-37eb-bc55-91e0d8369dc9",
+        "26dc6fe0-4edd-183c-6f42-897581fae5fe",
+        "69bc925c-3013-4d5b-f4d6-222f5937f904",
+        "5a036212-c8db-5579-601c-b60bfd417658",
+        "dda0686c-bec9-a968-7a9e-8f2208623753"
+    ]
+}
