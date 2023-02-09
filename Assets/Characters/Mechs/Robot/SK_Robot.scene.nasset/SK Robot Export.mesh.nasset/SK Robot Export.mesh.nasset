@@ -1,0 +1,196 @@
+{
+    "guid": "205c8c2a-6c0e-61a0-24e0-de2c1f4b463b",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "75c2a281-875c-f6f3-506c-ac58bf83b0b4",
+    "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
+        "radius": 4096.0
+    },
+    "children": [
+        {
+            "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+            "instanceGuid": "7b8a64e4-9a04-ee09-6a62-106fabab9caf",
+            "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                "skeleton": "c129b110-8096-7499-6669-23a7e1bb0c82"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+                    "animation": "5ef10529-012b-4f65-895f-e0e4c0fbce78"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7b8a64e4-9a04-ee09-6a62-106fabab9caf"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skeleton"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                    "instanceGuid": "7f1f83c2-888a-15f2-eb61-c5bf207fa74b",
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "efc10eda-589a-1978-ff4c-4ce8f569580d",
+                        "material_instance": "d63060d1-1723-b34e-aa10-7d8aef284fbe"
+                    },
+                    "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                        "skin": "3f6e52d4-b050-345f-6d94-8ccd8540e7d1"
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                            "mask": [
+                                "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                            ]
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "7f1f83c2-888a-15f2-eb61-c5bf207fa74b"
+                        },
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SK Robot Export Black"
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                    "instanceGuid": "71d1ded3-64b4-c779-599a-59fe18954eb9",
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "5140d990-3a99-7bf4-803d-e44fe8f740f2",
+                        "material_instance": "75ef0394-5757-6e92-a020-e2359d96a21d"
+                    },
+                    "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                        "skin": "2c517e35-ff2d-cf59-a08b-cb0b05196c8b"
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                            "mask": [
+                                "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                            ]
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "71d1ded3-64b4-c779-599a-59fe18954eb9"
+                        },
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SK Robot Export Main"
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                    "instanceGuid": "c6942fd1-eb5f-0359-0914-58483b671faa",
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "5ceab533-8f9a-70b4-41f1-0f61490143c3",
+                        "material_instance": "5b7ca89c-fffc-d329-098a-56dc39bff06a"
+                    },
+                    "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                        "skin": "38253007-2fdb-265f-d6aa-62bd39aa4890"
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                            "mask": [
+                                "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                            ]
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "c6942fd1-eb5f-0359-0914-58483b671faa"
+                        },
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SK Robot Export White"
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                    "instanceGuid": "dfd2708f-a5f6-d577-0215-b6dab60cf333",
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "9786f884-e497-3aeb-dd17-0519cb528be9",
+                        "material_instance": "ed607c07-e87b-b9c3-ddc8-745e45585d9d"
+                    },
+                    "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                        "skin": "bcf8697c-df8a-f525-3eba-f7cade33b4b1"
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                            "mask": [
+                                "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                            ]
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "dfd2708f-a5f6-d577-0215-b6dab60cf333"
+                        },
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SK Robot Export Eyes"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "default_camera": {
+        "position": [
+            -1.1248,
+            -2.7169,
+            1.9231
+        ],
+        "rotation": [
+            -19.4497,
+            0.0,
+            -33.092
+        ],
+        "fieldOfView": 60.0,
+        "nearPlane": 0.1,
+        "farPlane": 128.0
+    },
+    "grid": {
+        "scale": [
+            -1.0,
+            -1.0,
+            1.0
+        ]
+    },
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "205c8c2a-6c0e-61a0-24e0-de2c1f4b463b"
+    },
+    "thumbnailGuid": "cf02d391-017c-4d56-0709-f7cae8b6bebd"
+}

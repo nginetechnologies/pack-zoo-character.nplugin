@@ -1,0 +1,17 @@
+{
+    "guid": "25cf799a-060f-4dcf-8993-c95c01cf5735",
+    "source": "../../../A_Robot_Jump_Loop.fbx",
+    "skeleton": "c129b110-8096-7499-6669-23a7e1bb0c82",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "a868768e-bcb0-4dd7-902a-631c8ef8e885",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "c129b110-8096-7499-6669-23a7e1bb0c82"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "25cf799a-060f-4dcf-8993-c95c01cf5735"
+        }
+    ]
+}

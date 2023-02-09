@@ -1,31 +1,32 @@
 {
-    "guid": "efe386cf-c04d-7ff5-becf-dc3ccd585518",
+    "guid": "96059680-8978-22da-8061-2927bed28cb4",
     "source": "../SK_Robot.fbx",
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "7bb42f49-91c8-8dc7-5536-c8f4992aacb8",
+    "instanceGuid": "2afdb466-1ac3-3090-8c51-0baae0359012",
     "data_components": [
         {
             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-            "name": "SK Robot"
+            "name": "SK_Robot"
         }
     ],
     "children": [
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "7a27f148-ba41-58d1-3a4c-6fee3e9c4e18",
+            "instanceGuid": "00ae1b17-66a8-cc41-389a-10e6cac1cd15",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SK Robot"
+                    "name": "SK Robot Export"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "a66d814b-598c-f7cc-69b4-e0b16be5c6bd"
+                "scene": "205c8c2a-6c0e-61a0-24e0-de2c1f4b463b"
             }
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "efe386cf-c04d-7ff5-becf-dc3ccd585518"
-    }
+        "scene": "96059680-8978-22da-8061-2927bed28cb4"
+    },
+    "thumbnailGuid": "8a151491-9d08-7fe5-900e-85aeb7cae92e"
 }

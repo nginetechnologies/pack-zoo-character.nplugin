@@ -1,0 +1,191 @@
+{
+    "guid": "c129b110-8096-7499-6669-23a7e1bb0c82",
+    "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "0372d9a5-5358-db9b-18bf-f3d302159886",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "c129b110-8096-7499-6669-23a7e1bb0c82"
+    },
+    "joints": {
+        "16afd499-b849-80c6-e341-4099e7e05cd4": {
+            "name": "JNT_LowerArm_L",
+            "index": 12
+        },
+        "1e643917-e393-57ef-e265-95a1a9baa4e4": {
+            "name": "JNT_Shoulder_L",
+            "index": 10
+        },
+        "1fd9a3dd-26e3-21bf-8b73-5e68a6326ae3": {
+            "name": "JNT_UpperLeg_R",
+            "index": 40
+        },
+        "2200caaf-5e1a-60b4-07eb-53e6627ce179": {
+            "name": "JNT_Middle2_R",
+            "index": 29
+        },
+        "2cfea182-81d1-bbeb-a107-7cab70fd9950": {
+            "name": "SK_Robot_Export",
+            "index": 1
+        },
+        "32961e6a-2460-42c8-9332-0a179980c829": {
+            "name": "JNT_Root",
+            "index": 2
+        },
+        "3760e02e-a01e-7cb8-8893-84cb0666cab5": {
+            "name": "JNT_Palm2_R",
+            "index": 27
+        },
+        "3ac5bb44-718c-a9c0-d582-940228cd3c50": {
+            "name": "JNT_Thumb_R",
+            "index": 30
+        },
+        "48256f67-0378-15d7-6f87-e0930ceb8aff": {
+            "name": "JNT_Shoulder_R",
+            "index": 24
+        },
+        "535b4997-e6db-84ba-dd50-066315e2ccc8": {
+            "name": "JNT_Middle1_R",
+            "index": 28
+        },
+        "5622712f-29d0-6dc9-a866-caab329680e3": {
+            "name": "JNT_Thumb2_L",
+            "index": 17
+        },
+        "6589176d-a0ad-2369-febd-220935c99956": {
+            "name": "JNT_LowerLeg_L",
+            "index": 39
+        },
+        "6bdb5214-1de8-c523-4122-be4cdbb432ef": {
+            "name": "JNT_Neck",
+            "index": 8
+        },
+        "76b431f5-0867-0421-17af-8bb9d1aeecc9": {
+            "name": "JNT_Index_L",
+            "index": 19
+        },
+        "772c74c5-8e4d-9560-128b-356e4e26f63b": {
+            "name": "JNT_Index2_L",
+            "index": 20
+        },
+        "794b0e9b-b954-e2f7-c691-6257bcf14565": {
+            "name": "JNT_Index2_R",
+            "index": 34
+        },
+        "7e83d0fc-5c8a-d372-4b2f-1aade78bec47": {
+            "name": "JNT_Palm2_L",
+            "index": 13
+        },
+        "7ffd385f-7109-2639-1edb-e3e0bd511368": {
+            "name": "JNT_Torso",
+            "index": 7
+        },
+        "8e267b4c-baa5-0206-d631-1d1550405d64": {
+            "name": "JNT_PoleTarget_L",
+            "index": 42
+        },
+        "92e22644-0713-ca65-6465-be83623c405b": {
+            "name": "JNT_LowerArm_R",
+            "index": 26
+        },
+        "93b51226-8cc4-190b-d022-bfa1bca11ab1": {
+            "name": "JNT_Thumb_L",
+            "index": 16
+        },
+        "95e2c94b-bbc3-9029-a5bb-01416be65321": {
+            "name": "JNT_Index_R",
+            "index": 33
+        },
+        "978c2751-f710-4c61-dedf-98ba3c9775ad": {
+            "name": "JNT_Hips",
+            "index": 5
+        },
+        "988402dd-090d-3ae9-2a05-0facd010ccc8": {
+            "name": "JNT_Foot_R",
+            "index": 43
+        },
+        "a1ca7b3d-649e-f0f1-7388-c81f26bd1ae5": {
+            "name": "JNT_PoleTarget_R",
+            "index": 44
+        },
+        "b2996f70-a924-9d8a-88ed-f048315145e3": {
+            "name": "JNT_Palm1_L",
+            "index": 18
+        },
+        "b3291b60-61c0-b5cf-bdb0-852e13083976": {
+            "name": "JNT_Middle2_L",
+            "index": 15
+        },
+        "ba0f9c25-6c4d-7db2-7577-2d14241d70dd": {
+            "name": "JNT_UpperArm_L",
+            "index": 11
+        },
+        "bcafa4c7-4d23-3195-d585-ea0c35c1d90e": {
+            "name": "JNT_Ring2_R",
+            "index": 37
+        },
+        "c34f1b9e-eee4-62cf-1e99-abfa6f896cae": {
+            "name": "JNT_UpperLeg_L",
+            "index": 38
+        },
+        "c9543abb-a4ee-ba40-0ad4-533e8a2e6fa6": {
+            "name": "JNT_UpperArm_R",
+            "index": 25
+        },
+        "cafc2e41-2afc-05b4-d9fb-eaff7278872c": {
+            "name": "JNT_Head",
+            "index": 9
+        },
+        "cf6d083f-4836-d883-3873-00302cc6b4ca": {
+            "name": "JNT_Ring1_L",
+            "index": 22
+        },
+        "d3b67396-c1a3-b760-d9f1-164e849ac671": {
+            "name": "JNT_Abdomen",
+            "index": 6
+        },
+        "d5c6d516-b744-b8cd-6df8-08f6684e521b": {
+            "name": "JNT_Ring2_L",
+            "index": 23
+        },
+        "d7200502-9dcd-de74-d2ba-e87165ac669c": {
+            "name": "JNT_Palm3_L",
+            "index": 21
+        },
+        "e224c897-bd45-845c-569f-caba50355b27": {
+            "name": "JNT_Palm1_R",
+            "index": 32
+        },
+        "e465bddb-1dc7-651b-4983-12d0ce368fe6": {
+            "name": "JNT_Ring1_R",
+            "index": 36
+        },
+        "e7514a7f-f945-57ca-0f52-7c44bf99a93c": {
+            "name": "RootNode",
+            "index": 0
+        },
+        "e870c0bd-a0e0-c20a-d657-290e353610e7": {
+            "name": "JNT_Foot_L",
+            "index": 3
+        },
+        "ecbe4a71-a0bd-75ea-8c4d-de2b5172755f": {
+            "name": "JNT_Thumb2_R",
+            "index": 31
+        },
+        "f09d6719-f183-0664-2108-182d938279da": {
+            "name": "JNT_Middle1_L",
+            "index": 14
+        },
+        "f6aef17a-5282-8b53-8360-b71b14b3aa61": {
+            "name": "JNT_Body",
+            "index": 4
+        },
+        "fea43d7f-75a1-8b79-5415-88b32f10c896": {
+            "name": "JNT_LowerLeg_R",
+            "index": 41
+        },
+        "ffaf02e5-cb2b-a112-8587-a4920fae5c5b": {
+            "name": "JNT_Palm3_R",
+            "index": 35
+        }
+    }
+}
