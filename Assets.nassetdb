@@ -15,6 +15,11 @@
             "24dcf608-bd37-bd03-566c-73f765076704"
         ]
     },
+    "062eb09e-9e46-2923-be83-e717af5c2e27": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
     "06dec0af-b15e-e429-4431-19474b509e54": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Heist/Material Instances/Character Main.mtli.nasset",
@@ -26,12 +31,45 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Mechs/Leela/Material Instances/Leela.mtli.nasset"
     },
+    "10641e5d-0f44-3599-c8a1-c55046c57a59": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Robot/Material Instances/Grey.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "12500ca1-4502-039b-1a4b-019c2e1e9186": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Eyes.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "131edb48-37c9-f481-27d3-6933879e77f6": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Robot/Material Instances/Silver.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "133799e8-3433-9aba-fda8-2fa6aea1d41b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Robot/Material Instances/White.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "16238f9f-05b2-1c9d-b50b-bbe1a3c66b24": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot Silver.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "131edb48-37c9-f481-27d3-6933879e77f6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "168dd918-458d-874d-bf82-79ae00ea4a15": {
@@ -73,14 +111,8 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Robot/Robot_Walk.anim.nasset",
         "dependencies": [
-            "3ed41388-8e5c-66d6-84b9-8ab31853b8d8"
+            "062eb09e-9e46-2923-be83-e717af5c2e27"
         ]
-    },
-    "205c8c2a-6c0e-61a0-24e0-de2c1f4b463b": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export.mesh.nasset",
-        "thumbnail": "cf02d391-017c-4d56-0709-f7cae8b6bebd"
     },
     "24dcf608-bd37-bd03-566c-73f765076704": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -117,15 +149,6 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Stripe.mtli.nasset"
     },
-    "2bdf59e1-ce0f-b03f-dbf2-17b0a0d09932": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Mechs/Robot/Material Instances/Thumbnails/Eyes.mtli.nasset.tex.nasset"
-    },
-    "2c517e35-ff2d-cf59-a08b-cb0b05196c8b": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Main.meshskin.nasset"
-    },
     "2f7463ff-ce46-e370-d3cb-e08821bbd775": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -134,6 +157,18 @@
             "724f1717-733a-1e08-7254-9dc8e6a47d09",
             "c50b45c1-4d5a-6d62-6fa9-1d7614e1d959",
             "04923f94-6d3d-a296-66e1-c36f6eb6ca70"
+        ]
+    },
+    "308c1076-00b0-6ee2-adf5-dc2df48dafc4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a5917b54-a1f4-d747-ae67-b33bfd6002cf",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "35f42455-8393-9366-4714-81acba1cf402": {
@@ -152,11 +187,6 @@
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Characters/Mechs/Leela/SK_Leela.scene.nasset/SK Leela.mesh.nasset/SK Leela Leela.meshskin.nasset"
     },
-    "38253007-2fdb-265f-d6aa-62bd39aa4890": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export White.meshskin.nasset"
-    },
     "3d9becb1-7c03-4ffb-bf9d-212fbaaefaae": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -165,11 +195,6 @@
     "3eb2bf6e-565d-21c4-745a-4c0c581be823": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Mechs/Leela/Textures/T_Leela_D.tex.nasset"
-    },
-    "3f6e52d4-b050-345f-6d94-8ccd8540e7d1": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Black.meshskin.nasset"
     },
     "3fd0b19f-8763-55ae-ae7c-7e5298afe54f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -187,7 +212,7 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Robot/Robot_Jump_Start.anim.nasset",
         "dependencies": [
-            "3ed41388-8e5c-66d6-84b9-8ab31853b8d8"
+            "062eb09e-9e46-2923-be83-e717af5c2e27"
         ]
     },
     "429bebc4-eb54-c946-a7b6-2a8e2b5ada01": {
@@ -195,6 +220,28 @@
         "path": "Assets/Characters/Heist/Material Instances/Pants.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "4513cf74-a08d-6964-cc0f-7adfe459be14": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot Silver.meshskin.nasset",
+        "dependencies": [
+            "16238f9f-05b2-1c9d-b50b-bbe1a3c66b24",
+            "062eb09e-9e46-2923-be83-e717af5c2e27",
+            "131edb48-37c9-f481-27d3-6933879e77f6"
+        ]
+    },
+    "47a445de-cbf0-af0b-7d92-cb4e9718012b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "10641e5d-0f44-3599-c8a1-c55046c57a59",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "4e16005c-0939-813e-7248-b7c3a9a6359f": {
@@ -212,36 +259,15 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Heist/Walk.anim.nasset"
     },
-    "5140d990-3a99-7bf4-803d-e44fe8f740f2": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Main.mesh.nasset",
-        "thumbnail": "f486867e-c411-c908-b1f7-a679c0318b73",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+    "50b5b892-9809-f58e-ab29-19a1a247fdda": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot Black.meshskin.nasset",
+        "dependencies": [
+            "308c1076-00b0-6ee2-adf5-dc2df48dafc4",
+            "062eb09e-9e46-2923-be83-e717af5c2e27",
+            "a5917b54-a1f4-d747-ae67-b33bfd6002cf"
         ]
-    },
-    "596919b1-be59-4c3e-3c7f-9941fef6ea13": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Thumbnails/SK Robot Export White.mesh.nasset.tex.nasset"
-    },
-    "5b7ca89c-fffc-d329-098a-56dc39bff06a": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Mechs/Robot/Material Instances/White.mtli.nasset",
-        "thumbnail": "88e16ff9-a2da-e38a-5bba-d8d7412fb19f"
-    },
-    "5ceab533-8f9a-70b4-41f1-0f61490143c3": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export White.mesh.nasset",
-        "thumbnail": "596919b1-be59-4c3e-3c7f-9941fef6ea13",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "5df5f53e-5b27-b560-26f6-e8895a68bb4d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Mechs/Robot/Material Instances/Thumbnails/Black.mtli.nasset.tex.nasset"
     },
     "5ef10529-012b-4f65-895f-e0e4c0fbce78": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -278,10 +304,6 @@
     "675f918e-4310-16e0-be95-5b5af81d10e4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Eyes.mtli.nasset"
-    },
-    "68bc643b-c597-16f1-ef1d-18806bf52c11": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Mechs/Robot/Material Instances/Thumbnails/Main.mtli.nasset.tex.nasset"
     },
     "6a2d19ab-3e15-2a22-9a7a-cd023f410767": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -340,6 +362,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "725358d1-9c64-6f29-614d-b5d53cb22a25": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Robot/Material Instances/Main.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "7526201f-e63d-5444-6733-4e045a46755e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -347,11 +376,6 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
-    },
-    "75ef0394-5757-6e92-a020-e2359d96a21d": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Mechs/Robot/Material Instances/Main.mtli.nasset",
-        "thumbnail": "68bc643b-c597-16f1-ef1d-18806bf52c11"
     },
     "7900fc0a-1be1-4179-80be-dbce2cb90f23": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -361,10 +385,7 @@
     "7a87bb9d-d0cc-0883-9cbd-8d005fdae678": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Mechs/Leela/SK_Leela.scene.nasset/SK Leela.mesh.nasset/SK Leela.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
+        "path": "Assets/Characters/Mechs/Leela/SK_Leela.scene.nasset/SK Leela.mesh.nasset/SK Leela.mesh.nasset"
     },
     "7de269c7-1731-5794-d9ad-536de9360f04": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -389,9 +410,43 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/White.mtli.nasset"
     },
-    "88e16ff9-a2da-e38a-5bba-d8d7412fb19f": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Mechs/Robot/Material Instances/Thumbnails/White.mtli.nasset.tex.nasset"
+    "85369f56-6529-552d-fe0c-07216b04210c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "a5917b54-a1f4-d747-ae67-b33bfd6002cf",
+            "308c1076-00b0-6ee2-adf5-dc2df48dafc4",
+            "50b5b892-9809-f58e-ab29-19a1a247fdda",
+            "725358d1-9c64-6f29-614d-b5d53cb22a25",
+            "c57ff556-4c23-ce7c-3a58-e09313b0ed05",
+            "894cf8ac-91c8-cc91-1743-e6ade129344f",
+            "133799e8-3433-9aba-fda8-2fa6aea1d41b",
+            "87cd522f-b3f8-f223-3de6-f23d0c0d43d1",
+            "f203a569-851b-9c6b-e6ca-d7a111b47fae",
+            "10641e5d-0f44-3599-c8a1-c55046c57a59",
+            "47a445de-cbf0-af0b-7d92-cb4e9718012b",
+            "90e44ec0-d423-f268-58ad-e13fe95c6a4a",
+            "131edb48-37c9-f481-27d3-6933879e77f6",
+            "16238f9f-05b2-1c9d-b50b-bbe1a3c66b24",
+            "4513cf74-a08d-6964-cc0f-7adfe459be14",
+            "062eb09e-9e46-2923-be83-e717af5c2e27"
+        ]
+    },
+    "87cd522f-b3f8-f223-3de6-f23d0c0d43d1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "133799e8-3433-9aba-fda8-2fa6aea1d41b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "8946c7d6-af91-02b3-747c-f0264b7b6169": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -404,9 +459,15 @@
             "b91be93c-455e-d613-9950-bb6f5dff4610"
         ]
     },
-    "8a151491-9d08-7fe5-900e-85aeb7cae92e": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/Thumbnails/SK_Robot.scene.nasset.tex.nasset"
+    "894cf8ac-91c8-cc91-1743-e6ade129344f": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot Main.meshskin.nasset",
+        "dependencies": [
+            "c57ff556-4c23-ce7c-3a58-e09313b0ed05",
+            "062eb09e-9e46-2923-be83-e717af5c2e27",
+            "725358d1-9c64-6f29-614d-b5d53cb22a25"
+        ]
     },
     "8a710282-72e0-c192-75a6-ddc2d5525035": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -454,10 +515,6 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
-    "8d32b6ac-f7b7-1fb1-a1c8-9ec6e8ca07a7": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Thumbnails/SK Robot Export Black.mesh.nasset.tex.nasset"
-    },
     "8e0af0cf-e8a0-4822-8d5b-e71862770e2f": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -468,34 +525,25 @@
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien White.meshskin.nasset"
     },
-    "91c8806d-4f25-c0ae-552b-df2c9fd9bc35": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Thumbnails/SK Robot Export Eyes.mesh.nasset.tex.nasset"
+    "90e44ec0-d423-f268-58ad-e13fe95c6a4a": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot Grey.meshskin.nasset",
+        "dependencies": [
+            "47a445de-cbf0-af0b-7d92-cb4e9718012b",
+            "062eb09e-9e46-2923-be83-e717af5c2e27",
+            "10641e5d-0f44-3599-c8a1-c55046c57a59"
+        ]
     },
     "920c0ce0-9f6a-d77d-988e-e674c14dd274": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
-    "96059680-8978-22da-8061-2927bed28cb4": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK_Robot.scene.nasset",
-        "thumbnail": "8a151491-9d08-7fe5-900e-85aeb7cae92e"
-    },
     "96e52271-e359-4ec0-a4ab-507d54315cb7": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Voxel/Danny/Jump_End.anim.nasset"
-    },
-    "9786f884-e497-3aeb-dd17-0519cb528be9": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Eyes.mesh.nasset",
-        "thumbnail": "91c8806d-4f25-c0ae-552b-df2c9fd9bc35",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
     },
     "99a9ce7b-7821-93ac-dca3-480ac8552777": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -512,18 +560,17 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Heist/Jump_End.anim.nasset"
     },
+    "a5917b54-a1f4-d747-ae67-b33bfd6002cf": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Robot/Material Instances/Black.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "a8146617-705b-45d8-8081-2fec12d073ef": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Leela/Run.anim.nasset"
-    },
-    "a8663cb5-05eb-45cf-b63f-c8a0b61f7e70": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Mechs/Robot/Robot_Idle.anim.nasset",
-        "dependencies": [
-            "3ed41388-8e5c-66d6-84b9-8ab31853b8d8"
-        ]
     },
     "a9f3884c-3026-4742-a788-9c1c91625bd8": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -566,11 +613,6 @@
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Eyes.meshskin.nasset"
     },
-    "bcf8697c-df8a-f525-3eba-f7cade33b4b1": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Eyes.meshskin.nasset"
-    },
     "bf260724-7066-4cc8-9a37-6708053f3e17": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -581,15 +623,22 @@
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Nails.meshskin.nasset"
     },
-    "c129b110-8096-7499-6669-23a7e1bb0c82": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
     "c50b45c1-4d5a-6d62-6fa9-1d7614e1d959": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Voxel/Danny/SK_Danny.scene.nasset/SK Danny.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "c57ff556-4c23-ce7c-3a58-e09313b0ed05": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "725358d1-9c64-6f29-614d-b5d53cb22a25",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "ca075ef7-5701-fb03-243f-4554388b52ce": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -598,10 +647,6 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
-    },
-    "cf02d391-017c-4d56-0709-f7cae8b6bebd": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Thumbnails/SK Robot Export.mesh.nasset.tex.nasset"
     },
     "d3c92672-9d37-ecc7-3f78-0cfaa2590b90": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -616,10 +661,11 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Leela/Jump_End.anim.nasset"
     },
-    "d63060d1-1723-b34e-aa10-7d8aef284fbe": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Mechs/Robot/Material Instances/Black.mtli.nasset",
-        "thumbnail": "5df5f53e-5b27-b560-26f6-e8895a68bb4d"
+    "debbd74c-8411-427d-b37f-c27dfd0fa41a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Modular_Toon/Alien/Alien Player.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
     },
     "e05e8d3d-368c-47db-8efe-4ad404d4bd2f": {
         "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
@@ -630,7 +676,15 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Robot/Robot_Jump_End.anim.nasset",
         "dependencies": [
-            "3ed41388-8e5c-66d6-84b9-8ab31853b8d8"
+            "062eb09e-9e46-2923-be83-e717af5c2e27"
+        ]
+    },
+    "e2d082ba-6577-ef2a-22eb-7ad619898165": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK_Robot.scene.nasset",
+        "dependencies": [
+            "85369f56-6529-552d-fe0c-07216b04210c"
         ]
     },
     "e78262a2-99d6-4383-b4a8-b8839bc12f2e": {
@@ -661,11 +715,6 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
-    "ed607c07-e87b-b9c3-ddc8-745e45585d9d": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Mechs/Robot/Material Instances/Eyes.mtli.nasset",
-        "thumbnail": "2bdf59e1-ce0f-b03f-dbf2-17b0a0d09932"
-    },
     "ee820886-5b54-1244-ed19-d13916a5f48f": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -681,16 +730,7 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Robot/Robot_Run.anim.nasset",
         "dependencies": [
-            "3ed41388-8e5c-66d6-84b9-8ab31853b8d8"
-        ]
-    },
-    "efc10eda-589a-1978-ff4c-4ce8f569580d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Black.mesh.nasset",
-        "thumbnail": "8d32b6ac-f7b7-1fb1-a1c8-9ec6e8ca07a7",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+            "062eb09e-9e46-2923-be83-e717af5c2e27"
         ]
     },
     "eff07364-e0ef-4df5-a8d4-ac2a2102ea6f": {
@@ -702,16 +742,22 @@
             "b8bf7aa5-05e6-b5e1-8022-e3d399ea6786"
         ]
     },
-    "f486867e-c411-c908-b1f7-a679c0318b73": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Thumbnails/SK Robot Export Main.mesh.nasset.tex.nasset"
+    "f203a569-851b-9c6b-e6ca-d7a111b47fae": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot White.meshskin.nasset",
+        "dependencies": [
+            "87cd522f-b3f8-f223-3de6-f23d0c0d43d1",
+            "062eb09e-9e46-2923-be83-e717af5c2e27",
+            "133799e8-3433-9aba-fda8-2fa6aea1d41b"
+        ]
     },
     "f8b355f8-5654-485c-b227-603f9371a839": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Robot/Robot_Jump_Loop.anim.nasset",
         "dependencies": [
-            "3ed41388-8e5c-66d6-84b9-8ab31853b8d8"
+            "062eb09e-9e46-2923-be83-e717af5c2e27"
         ]
     },
     "guid": "457ff619-747a-42ec-09af-01f6ee736a6b"

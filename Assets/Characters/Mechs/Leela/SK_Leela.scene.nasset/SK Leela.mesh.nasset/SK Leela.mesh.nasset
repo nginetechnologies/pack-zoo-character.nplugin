@@ -1,31 +1,45 @@
 {
     "guid": "7a87bb9d-d0cc-0883-9cbd-8d005fdae678",
-    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-    "tags": [
-        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-    ],
+    "type_version": 1,
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "instanceGuid": "6066fbad-d756-db7f-1c86-76e43369008d",
-    "data_components": [],
+    "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
+        "radius": 4096.0
+    },
     "children": [
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "b5c58a90-aca8-b55d-3824-a9f309ec0afb",
             "data_components": [
                 {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b5c58a90-aca8-b55d-3824-a9f309ec0afb"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "SK Leela Physics Body"
                 },
                 {
                     "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
-                    "type": 0
+                    "type": 0,
+                    "layer": 0,
+                    "maximumAngularVelocity": 2699.9997,
+                    "overriddenMass": 0.0,
+                    "gravityScale": 1.0
                 }
             ],
             "children": [
-                {
+                        {
                     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
                     "instanceGuid": "735b64e6-0400-08d6-0fc9-f321324c6f6b",
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "168dd918-458d-874d-bf82-79ae00ea4a15"
+                        },
                     "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "735b64e6-0400-08d6-0fc9-f321324c6f6b"
+                        },
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "Skeleton"
@@ -48,16 +62,11 @@
                         {
                             "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
                             "instanceGuid": "ea5cbf29-3a09-594e-0eac-df4b2a548f5b",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "SK Leela Leela"
-                                }
-                            ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
                                 "stages": [
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
                                     "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
@@ -66,16 +75,30 @@
                             },
                             "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
                                 "skin": "37fbb575-41bd-cfef-9662-d086f2365de8"
-                            }
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                                    "mask": [
+                                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                                    ]
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "ea5cbf29-3a09-594e-0eac-df4b2a548f5b"
+                                },
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Leela Leela"
+                                }
+                            ]
                         }
-                    ],
-                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
-                        "skeleton": "168dd918-458d-874d-bf82-79ae00ea4a15"
-                    }
+                    ]
                 }
             ]
         }
     ],
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "7a87bb9d-d0cc-0883-9cbd-8d005fdae678"
     }

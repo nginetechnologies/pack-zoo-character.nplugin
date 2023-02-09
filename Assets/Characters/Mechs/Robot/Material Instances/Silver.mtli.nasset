@@ -1,5 +1,5 @@
 {
-    "guid": "133799e8-3433-9aba-fda8-2fa6aea1d41b",
+    "guid": "131edb48-37c9-f481-27d3-6933879e77f6",
     "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
     "dependencies": [
         "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
@@ -8,15 +8,15 @@
     "push_constants": [
         {
             "type": 0,
-            "color": "#ff"
+            "color": "#8c"
         },
         {
             "type": 1,
-            "value": 0.5
+            "value": 1.0
         },
         {
             "type": 1,
-            "value": 0.8585
+            "value": 0.5526
         }
     ]
 }
