@@ -122,9 +122,9 @@
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier Pants.meshskin.nasset",
         "dependencies": [
-            "1bebd240-6e24-9950-5a22-a899be2e7aaa",
             "3fd0b19f-8763-55ae-ae7c-7e5298afe54f",
-            "704dd06d-c505-ee41-1783-77680c7841a4"
+            "704dd06d-c505-ee41-1783-77680c7841a4",
+            "429bebc4-eb54-c946-a7b6-2a8e2b5ada01"
         ]
     },
     "1e582fb0-4f30-4c8d-fab7-bc23eb2d3243": {
@@ -132,9 +132,9 @@
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier Skin.meshskin.nasset",
         "dependencies": [
-            "1e582fb0-4f30-4c8d-fab7-bc23eb2d3243",
             "35f42455-8393-9366-4714-81acba1cf402",
-            "704dd06d-c505-ee41-1783-77680c7841a4"
+            "704dd06d-c505-ee41-1783-77680c7841a4",
+            "8cf89ad7-17d3-d68c-77ae-f1e4eec28f29"
         ]
     },
     "1ed958d9-86fd-5438-5367-02eb2a511744": {
@@ -173,7 +173,8 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
         "dependencies": [
-            "06dec0af-b15e-e429-4431-19474b509e54"
+            "06dec0af-b15e-e429-4431-19474b509e54",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "26dc6fe0-4edd-183c-6f42-897581fae5fe": {
@@ -232,7 +233,8 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
         "dependencies": [
-            "8cf89ad7-17d3-d68c-77ae-f1e4eec28f29"
+            "8cf89ad7-17d3-d68c-77ae-f1e4eec28f29",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "37fbb575-41bd-cfef-9662-d086f2365de8": {
@@ -257,7 +259,8 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
         "dependencies": [
-            "429bebc4-eb54-c946-a7b6-2a8e2b5ada01"
+            "429bebc4-eb54-c946-a7b6-2a8e2b5ada01",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "40ebf4d2-b44a-47a1-8638-ef100a595d82": {
@@ -317,9 +320,9 @@
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier Grey.meshskin.nasset",
         "dependencies": [
-            "4e16005c-0939-813e-7248-b7c3a9a6359f",
             "8946c7d6-af91-02b3-747c-f0264b7b6169",
-            "704dd06d-c505-ee41-1783-77680c7841a4"
+            "704dd06d-c505-ee41-1783-77680c7841a4",
+            "b91be93c-455e-d613-9950-bb6f5dff4610"
         ]
     },
     "500b0631-53a1-4111-abda-704cbb183b62": {
@@ -439,9 +442,9 @@
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier DarkGrey.meshskin.nasset",
         "dependencies": [
-            "6a2d19ab-3e15-2a22-9a7a-cd023f410767",
             "7de269c7-1731-5794-d9ad-536de9360f04",
-            "704dd06d-c505-ee41-1783-77680c7841a4"
+            "704dd06d-c505-ee41-1783-77680c7841a4",
+            "717cab1f-ff25-bd86-79f5-1561a8fec4c4"
         ]
     },
     "6b47686f-498d-4532-a01a-f14af1493053": {
@@ -452,7 +455,10 @@
     "6c1034a4-f468-5dbe-ac4b-8c19d6f646c1": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK_Heist_Soldier.scene.nasset"
+        "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK_Heist_Soldier.scene.nasset",
+        "dependencies": [
+            "8a710282-72e0-c192-75a6-ddc2d5525035"
+        ]
     },
     "6d0ab017-8399-4b5c-978e-99e5d0f1b248": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -546,7 +552,8 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
         "dependencies": [
-            "717cab1f-ff25-bd86-79f5-1561a8fec4c4"
+            "717cab1f-ff25-bd86-79f5-1561a8fec4c4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "8069a703-bdfc-7542-bbbb-409f726bb794": {
@@ -607,7 +614,8 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
         "dependencies": [
-            "b91be93c-455e-d613-9950-bb6f5dff4610"
+            "b91be93c-455e-d613-9950-bb6f5dff4610",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "894cf8ac-91c8-cc91-1743-e6ade129344f": {
@@ -628,30 +636,25 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
         "dependencies": [
-            "704dd06d-c505-ee41-1783-77680c7841a4",
-            "7de269c7-1731-5794-d9ad-536de9360f04",
             "717cab1f-ff25-bd86-79f5-1561a8fec4c4",
+            "7de269c7-1731-5794-d9ad-536de9360f04",
             "6a2d19ab-3e15-2a22-9a7a-cd023f410767",
-            "704dd06d-c505-ee41-1783-77680c7841a4",
-            "e96492a8-7f81-969e-ad35-3444f5d4e31d",
             "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa",
+            "e96492a8-7f81-969e-ad35-3444f5d4e31d",
             "ee820886-5b54-1244-ed19-d13916a5f48f",
-            "704dd06d-c505-ee41-1783-77680c7841a4",
-            "35f42455-8393-9366-4714-81acba1cf402",
             "8cf89ad7-17d3-d68c-77ae-f1e4eec28f29",
+            "35f42455-8393-9366-4714-81acba1cf402",
             "1e582fb0-4f30-4c8d-fab7-bc23eb2d3243",
-            "704dd06d-c505-ee41-1783-77680c7841a4",
-            "26aab986-ecd8-2e5b-fa20-bbba9afad2fd",
             "06dec0af-b15e-e429-4431-19474b509e54",
+            "26aab986-ecd8-2e5b-fa20-bbba9afad2fd",
             "99a9ce7b-7821-93ac-dca3-480ac8552777",
-            "704dd06d-c505-ee41-1783-77680c7841a4",
-            "3fd0b19f-8763-55ae-ae7c-7e5298afe54f",
             "429bebc4-eb54-c946-a7b6-2a8e2b5ada01",
+            "3fd0b19f-8763-55ae-ae7c-7e5298afe54f",
             "1bebd240-6e24-9950-5a22-a899be2e7aaa",
-            "704dd06d-c505-ee41-1783-77680c7841a4",
-            "8946c7d6-af91-02b3-747c-f0264b7b6169",
             "b91be93c-455e-d613-9950-bb6f5dff4610",
-            "4e16005c-0939-813e-7248-b7c3a9a6359f"
+            "8946c7d6-af91-02b3-747c-f0264b7b6169",
+            "4e16005c-0939-813e-7248-b7c3a9a6359f",
+            "704dd06d-c505-ee41-1783-77680c7841a4"
         ]
     },
     "8cf201d8-f8fb-48c8-983f-5a21b94808a9": {
@@ -721,9 +724,9 @@
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier Character Main.meshskin.nasset",
         "dependencies": [
-            "99a9ce7b-7821-93ac-dca3-480ac8552777",
             "26aab986-ecd8-2e5b-fa20-bbba9afad2fd",
-            "704dd06d-c505-ee41-1783-77680c7841a4"
+            "704dd06d-c505-ee41-1783-77680c7841a4",
+            "06dec0af-b15e-e429-4431-19474b509e54"
         ]
     },
     "9afb1e9a-0fbe-4246-b3ed-1a8a517c5d81": {
@@ -977,7 +980,8 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
         "dependencies": [
-            "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa"
+            "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "ea3c164f-7ce7-6062-813d-9a366e5956b6": {
@@ -1005,9 +1009,9 @@
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier Black.meshskin.nasset",
         "dependencies": [
-            "ee820886-5b54-1244-ed19-d13916a5f48f",
             "e96492a8-7f81-969e-ad35-3444f5d4e31d",
-            "704dd06d-c505-ee41-1783-77680c7841a4"
+            "704dd06d-c505-ee41-1783-77680c7841a4",
+            "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa"
         ]
     },
     "ef074b98-688d-4fa9-93dc-73d991a28b24": {
