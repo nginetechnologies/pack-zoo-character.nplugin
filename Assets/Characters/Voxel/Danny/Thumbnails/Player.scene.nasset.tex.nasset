@@ -9,52 +9,52 @@
     "preset": 4,
     "usage_flags": 6,
     "bc_data": {
-        "format": 137,
+        "format": 133,
         "mipmap_info": [
             {
                 "level": 0,
                 "offset": 0,
-                "size": 65536
+                "size": 32768
             },
             {
                 "level": 1,
-                "offset": 65536,
-                "size": 16384
+                "offset": 32768,
+                "size": 8192
             },
             {
                 "level": 2,
-                "offset": 81920,
-                "size": 4096
+                "offset": 40960,
+                "size": 2048
             },
             {
                 "level": 3,
-                "offset": 86016,
-                "size": 1024
+                "offset": 43008,
+                "size": 512
             },
             {
                 "level": 4,
-                "offset": 87040,
-                "size": 256
+                "offset": 43520,
+                "size": 128
             },
             {
                 "level": 5,
-                "offset": 87296,
-                "size": 64
+                "offset": 43648,
+                "size": 32
             },
             {
                 "level": 6,
-                "offset": 87360,
-                "size": 16
+                "offset": 43680,
+                "size": 8
             },
             {
                 "level": 7,
-                "offset": 87376,
-                "size": 16
+                "offset": 43688,
+                "size": 8
             },
             {
                 "level": 8,
-                "offset": 87392,
-                "size": 16
+                "offset": 43696,
+                "size": 8
             }
         ]
     },

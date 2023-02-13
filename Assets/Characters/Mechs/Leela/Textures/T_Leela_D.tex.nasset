@@ -14,62 +14,62 @@
             {
                 "level": 0,
                 "offset": 0,
-                "size": 16777216
+                "size": 2097152
             },
             {
                 "level": 1,
-                "offset": 16777216,
-                "size": 4194304
+                "offset": 2097152,
+                "size": 524288
             },
             {
                 "level": 2,
-                "offset": 20971520,
-                "size": 1048576
+                "offset": 2621440,
+                "size": 131072
             },
             {
                 "level": 3,
-                "offset": 22020096,
-                "size": 262144
+                "offset": 2752512,
+                "size": 32768
             },
             {
                 "level": 4,
-                "offset": 22282240,
-                "size": 65536
+                "offset": 2785280,
+                "size": 8192
             },
             {
                 "level": 5,
-                "offset": 22347776,
-                "size": 16384
+                "offset": 2793472,
+                "size": 2048
             },
             {
                 "level": 6,
-                "offset": 22364160,
-                "size": 4096
+                "offset": 2795520,
+                "size": 512
             },
             {
                 "level": 7,
-                "offset": 22368256,
-                "size": 1024
+                "offset": 2796032,
+                "size": 128
             },
             {
                 "level": 8,
-                "offset": 22369280,
-                "size": 256
+                "offset": 2796160,
+                "size": 32
             },
             {
                 "level": 9,
-                "offset": 22369536,
-                "size": 64
+                "offset": 2796192,
+                "size": 8
             },
             {
                 "level": 10,
-                "offset": 22369600,
-                "size": 16
+                "offset": 2796200,
+                "size": 8
             },
             {
                 "level": 11,
-                "offset": 22369616,
-                "size": 4
+                "offset": 2796208,
+                "size": 8
             }
         ]
     },
