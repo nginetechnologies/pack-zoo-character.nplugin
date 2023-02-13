@@ -1,20 +1,24 @@
 {
+    "guid": "e2b7d8c0-866f-45e5-9c1e-8437baf09000",
     "source": "A_Robot_Idle.fbx",
-    "skeleton": "3ed41388-8e5c-66d6-84b9-8ab31853b8d8",
+    "skeleton": "062eb09e-9e46-2923-be83-e717af5c2e27",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-    "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
+    "instanceGuid": "c6995951-4187-05dd-d5f1-adfcbcb45aaf",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": "3ed41388-8e5c-66d6-84b9-8ab31853b8d8"
+        "skeleton": "062eb09e-9e46-2923-be83-e717af5c2e27"
     },
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": "a8663cb5-05eb-45cf-b63f-c8a0b61f7e70"
+            "animation": "e2b7d8c0-866f-45e5-9c1e-8437baf09000"
+        },
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "e2b7d8c0-866f-45e5-9c1e-8437baf09000"
         }
     ],
-    "guid": "a8663cb5-05eb-45cf-b63f-c8a0b61f7e70",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        "3ed41388-8e5c-66d6-84b9-8ab31853b8d8"
+        "062eb09e-9e46-2923-be83-e717af5c2e27"
     ]
 }

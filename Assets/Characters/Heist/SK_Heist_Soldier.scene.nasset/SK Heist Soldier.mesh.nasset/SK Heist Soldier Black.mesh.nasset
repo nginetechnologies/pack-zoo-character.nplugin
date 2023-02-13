@@ -53,6 +53,7 @@
         "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
     ],
     "dependencies": [
-        "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa"
+        "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
     ]
 }

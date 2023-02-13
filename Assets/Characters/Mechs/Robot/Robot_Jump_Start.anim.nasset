@@ -1,12 +1,16 @@
 {
     "source": "A_Robot_Jump_Start.fbx",
-    "skeleton": "3ed41388-8e5c-66d6-84b9-8ab31853b8d8",
+    "skeleton": "062eb09e-9e46-2923-be83-e717af5c2e27",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "6815eb75-e401-6bb5-e430-8c6dbac06508",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": "3ed41388-8e5c-66d6-84b9-8ab31853b8d8"
+        "skeleton": "062eb09e-9e46-2923-be83-e717af5c2e27"
     },
     "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "40ebf4d2-b44a-47a1-8638-ef100a595d82"
+        },
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
             "animation": "40ebf4d2-b44a-47a1-8638-ef100a595d82"
@@ -15,6 +19,6 @@
     "guid": "40ebf4d2-b44a-47a1-8638-ef100a595d82",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        "3ed41388-8e5c-66d6-84b9-8ab31853b8d8"
+        "062eb09e-9e46-2923-be83-e717af5c2e27"
     ]
 }
