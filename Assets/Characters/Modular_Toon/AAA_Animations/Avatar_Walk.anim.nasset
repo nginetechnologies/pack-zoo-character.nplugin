@@ -1,0 +1,17 @@
+{
+    "guid": "8d665860-4ffa-4a0d-87a7-24bd7c0fc365",
+    "source": "A_Monster_Walk.fbx",
+    "skeleton": "2faa50ba-2b11-bfcc-3046-66d06f31f36c",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "c6995951-4187-05dd-d5f1-adfcbcb45aaf",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "2faa50ba-2b11-bfcc-3046-66d06f31f36c"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "8d665860-4ffa-4a0d-87a7-24bd7c0fc365"
+        }
+    ],
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+}

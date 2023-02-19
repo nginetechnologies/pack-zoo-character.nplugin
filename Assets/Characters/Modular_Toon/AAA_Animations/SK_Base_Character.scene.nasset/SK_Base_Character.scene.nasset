@@ -1,0 +1,34 @@
+{
+    "guid": "e14bc5ca-eb26-dd33-72be-c6f35441bfea",
+    "source": "../SK_Base_Character.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "f347c6c3-3bf8-8c62-4da6-c978400fbac6",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Base Character"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b6bd943f-6d10-5d0b-7503-7c7afa5662eb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Base Avatar"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "19b19569-c321-5389-4727-049317369185"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "e14bc5ca-eb26-dd33-72be-c6f35441bfea"
+    },
+    "dependencies": [
+        "19b19569-c321-5389-4727-049317369185"
+    ]
+}

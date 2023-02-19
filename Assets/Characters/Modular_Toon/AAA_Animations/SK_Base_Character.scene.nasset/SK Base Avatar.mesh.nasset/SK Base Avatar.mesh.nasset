@@ -1,0 +1,218 @@
+{
+    "guid": "19b19569-c321-5389-4727-049317369185",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "946c5db2-8737-253d-7748-f9b3ae8be58a",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "1dc6a88a-e79b-2b0d-edef-1e0e65ff6b54",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Base Avatar Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "15a877d1-315c-81bf-45df-5d5f87292fcc",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "571bb43e-7568-4b46-b59c-a25cc2fc1922",
+                                "ff250c91-b5ed-4cb3-9f3f-143bccf00e44",
+                                "bdff86ca-ce00-48de-aaf1-9e07cdb3bafd"
+                            ],
+                            "jump_animations": [
+                                "ab0ea625-b411-4a4f-9bce-a47ba90dc74c",
+                                "6da01d32-3c32-45bd-88e9-2622c4b8220f",
+                                "571bb43e-7568-4b46-b59c-a25cc2fc1922"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "cf251be5-2331-b59b-eb81-47274aafbb93",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Base Avatar Shirt"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ac2850c4-3ae6-7370-fb82-47fe669ffb88",
+                                "material_instance": "0b1e0e93-80a5-2fe9-550c-b45de80ea20e"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "55c48aac-e1ef-c629-12f8-f5d0bbcea152"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "cf7cc057-1ae0-69b5-3d2c-3f4b386f8283",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Base Avatar Skin"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "b800e499-d7e5-2329-b255-904483eae751",
+                                "material_instance": "74d3494f-799b-d256-edd8-0e7a7013c43c"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "1bfaacbe-3a1b-7152-37db-e58f0b78f1bb"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "40623701-9c9b-6a51-8db0-7a630770e82d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Base Avatar Pants"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "af66922c-f5da-b617-85be-d66f5c4f886f",
+                                "material_instance": "74d4681d-7dd2-fa92-b9e9-066526acae54"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "be1b41d6-0d56-00d8-69f2-36e34abc7b87"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "09fb8287-9f39-54f8-087b-c6640ac3f2df",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Base Avatar Belt"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "fce65377-c3ef-58a8-1cd8-3429c237031f",
+                                "material_instance": "91140d2e-c27a-bfce-fe42-6b8b96c725cc"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "f9a0b553-8aee-5492-9b96-573c7a263257"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d5c274bc-5450-2113-09bf-34106a387b94",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Base Avatar Face"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "04561deb-20a9-4715-3d5f-5e5f0ea1fa09",
+                                "material_instance": "24b91fc4-ae66-b040-5fba-604acac3ea81"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "2796e215-aaa5-7ba7-94f4-269a19b58f79"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "6cbd3dbf-ae54-9ff1-9a1b-9baad1d90e26",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Base Avatar Hair"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "9c3aaf3b-d11e-8474-fd58-56248248c2f7",
+                                "material_instance": "4097c310-ab3a-6544-0e95-41051ca3c2b6"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "96f90fdd-0cbf-d23e-d557-5c930e30588f"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "d2579157-f78f-07e4-7de4-bac976c28095"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "19b19569-c321-5389-4727-049317369185"
+    },
+    "dependencies": [
+        "0b1e0e93-80a5-2fe9-550c-b45de80ea20e",
+        "ac2850c4-3ae6-7370-fb82-47fe669ffb88",
+        "55c48aac-e1ef-c629-12f8-f5d0bbcea152",
+        "74d3494f-799b-d256-edd8-0e7a7013c43c",
+        "b800e499-d7e5-2329-b255-904483eae751",
+        "1bfaacbe-3a1b-7152-37db-e58f0b78f1bb",
+        "74d4681d-7dd2-fa92-b9e9-066526acae54",
+        "af66922c-f5da-b617-85be-d66f5c4f886f",
+        "be1b41d6-0d56-00d8-69f2-36e34abc7b87",
+        "91140d2e-c27a-bfce-fe42-6b8b96c725cc",
+        "fce65377-c3ef-58a8-1cd8-3429c237031f",
+        "f9a0b553-8aee-5492-9b96-573c7a263257",
+        "24b91fc4-ae66-b040-5fba-604acac3ea81",
+        "04561deb-20a9-4715-3d5f-5e5f0ea1fa09",
+        "2796e215-aaa5-7ba7-94f4-269a19b58f79",
+        "4097c310-ab3a-6544-0e95-41051ca3c2b6",
+        "9c3aaf3b-d11e-8474-fd58-56248248c2f7",
+        "96f90fdd-0cbf-d23e-d557-5c930e30588f",
+        "d2579157-f78f-07e4-7de4-bac976c28095"
+    ]
+}
