@@ -1,0 +1,140 @@
+{
+    "guid": "f07a06e6-2918-ffb8-7886-1c8e3caa907e",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "25064cdc-75c2-0662-2c08-02c191a1317a",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "92dc0e35-123b-08f0-f8b2-7a66188ecd17",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Heist Hazmat Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "b3714ace-3c94-84bb-7ed6-760bb83d9244",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "6b47686f-498d-4532-a01a-f14af1493053",
+                                "500b0631-53a1-4111-abda-704cbb183b62",
+                                "7900fc0a-1be1-4179-80be-dbce2cb90f23"
+                            ],
+                            "jump_animations": [
+                                "b41f21ba-81cf-4f8d-a081-d01a18fd3096",
+                                "bf260724-7066-4cc8-9a37-6708053f3e17",
+                                "9afb1e9a-0fbe-4246-b3ed-1a8a517c5d81"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "7cfdb653-f248-5baa-1acb-e6d5d5d47d4f",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Heist Hazmat Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "fcba0c15-18bd-49e7-95a3-77150a0a9ce1",
+                                "material_instance": "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "d0ca65b9-493c-16f3-ca50-d37957114135"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "a9dad713-9779-d65f-abed-5b258f42af66",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Heist Hazmat Hazmat"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f1afe1da-2602-cbfc-8b7c-f9bf4ea1fbf1",
+                                "material_instance": "fec32bda-a322-95d7-c053-183da76a678e"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "40f3297b-7105-5b09-0a65-84b9536251dd"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "8dddb019-da24-d501-be28-6ded6f401a7b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Heist Hazmat Dark"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4d397e44-ed9a-c373-477c-1e4f98687556",
+                                "material_instance": "30a2fad9-4d16-0bc0-6062-2e027cff9ede"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "64979109-6b8c-dad4-a608-739fc9fde0cc"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "704dd06d-c505-ee41-1783-77680c7841a4"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "f07a06e6-2918-ffb8-7886-1c8e3caa907e"
+    },
+    "dependencies": [
+        "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa",
+        "fcba0c15-18bd-49e7-95a3-77150a0a9ce1",
+        "d0ca65b9-493c-16f3-ca50-d37957114135",
+        "fec32bda-a322-95d7-c053-183da76a678e",
+        "f1afe1da-2602-cbfc-8b7c-f9bf4ea1fbf1",
+        "40f3297b-7105-5b09-0a65-84b9536251dd",
+        "30a2fad9-4d16-0bc0-6062-2e027cff9ede",
+        "4d397e44-ed9a-c373-477c-1e4f98687556",
+        "64979109-6b8c-dad4-a608-739fc9fde0cc",
+        "53d32f7f-0696-cb59-dcf3-e64055737f0e"
+    ]
+}

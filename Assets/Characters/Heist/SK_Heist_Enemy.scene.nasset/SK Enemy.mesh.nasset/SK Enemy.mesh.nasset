@@ -1,0 +1,192 @@
+{
+    "guid": "abfaf3ed-4ec7-8b5d-6030-6cb81e089ffa",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "218c2841-c99d-cc63-cd4d-b556276f095c",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "29db2956-90e0-3181-4570-87dbe6036b31",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Enemy Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "ddf9bcf3-7a6d-0086-b43f-bfdf9c4a1cfe",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "6b47686f-498d-4532-a01a-f14af1493053",
+                                "500b0631-53a1-4111-abda-704cbb183b62",
+                                "7900fc0a-1be1-4179-80be-dbce2cb90f23"
+                            ],
+                            "jump_animations": [
+                                "b41f21ba-81cf-4f8d-a081-d01a18fd3096",
+                                "bf260724-7066-4cc8-9a37-6708053f3e17",
+                                "9afb1e9a-0fbe-4246-b3ed-1a8a517c5d81"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "940f71c8-b264-e74e-b39a-8b698e213229",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Enemy Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "0818d335-3c25-b625-07ce-643ed12ff9c8",
+                                "material_instance": "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "805b6222-d556-04ae-5ee3-6bc2c3dfd6d0"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "af68e9bb-e90c-ebab-2e1e-89da65f98a64",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Enemy Skin Tan"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7f7cbcd8-4777-29c5-4ac0-286e913b8e90",
+                                "material_instance": "b410f5d4-bf3d-7a0d-1e49-c9b35159007c"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "c6d512d6-f6fa-b3cf-dda9-8fd0028c89de"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "43262be7-403b-3cff-1c0a-91528e880ce4",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Enemy Red"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "95472f34-13d3-d192-5503-021e6c3c7b44",
+                                "material_instance": "5d811aae-aa46-e655-1b5f-73bc4e23cfae"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "504170d0-0fea-c35f-c608-a179614c4be1"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "e55db4a1-d3c5-a2b6-8d79-0ae6b4db9cae",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Enemy Grey Dark"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "72312694-0e4d-3177-383e-3396724592ed",
+                                "material_instance": "d2014c2b-3063-2f77-db91-784ffdc786fc"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "e3fd3647-320b-d27e-c402-bde1723ccd6c"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "b64f11de-681f-87f5-f009-e7e55f1f6673",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Enemy Blue Grey"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "db74d506-121b-3205-0a45-b703931cfdca",
+                                "material_instance": "960fd0e1-4cf9-3e2b-5ebf-b275b8035606"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "c5519ec4-f0ce-25cf-48d2-bc4f0bc0c8ae"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "704dd06d-c505-ee41-1783-77680c7841a4"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "abfaf3ed-4ec7-8b5d-6030-6cb81e089ffa"
+    },
+    "dependencies": [
+        "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa",
+        "0818d335-3c25-b625-07ce-643ed12ff9c8",
+        "805b6222-d556-04ae-5ee3-6bc2c3dfd6d0",
+        "b410f5d4-bf3d-7a0d-1e49-c9b35159007c",
+        "7f7cbcd8-4777-29c5-4ac0-286e913b8e90",
+        "c6d512d6-f6fa-b3cf-dda9-8fd0028c89de",
+        "5d811aae-aa46-e655-1b5f-73bc4e23cfae",
+        "95472f34-13d3-d192-5503-021e6c3c7b44",
+        "504170d0-0fea-c35f-c608-a179614c4be1",
+        "d2014c2b-3063-2f77-db91-784ffdc786fc",
+        "72312694-0e4d-3177-383e-3396724592ed",
+        "e3fd3647-320b-d27e-c402-bde1723ccd6c",
+        "960fd0e1-4cf9-3e2b-5ebf-b275b8035606",
+        "db74d506-121b-3205-0a45-b703931cfdca",
+        "c5519ec4-f0ce-25cf-48d2-bc4f0bc0c8ae",
+        "02905ff4-6727-df2f-7e63-001005fbf912"
+    ]
+}

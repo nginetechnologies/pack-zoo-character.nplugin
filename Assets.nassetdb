@@ -39,6 +39,18 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "0818d335-3c25-b625-07ce-643ed12ff9c8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Heist/SK_Heist_Enemy.scene.nasset/SK Enemy.mesh.nasset/SK Enemy Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "0b2c854d-414b-4a0b-9299-a58c253079cc": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -221,6 +233,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "30a2fad9-4d16-0bc0-6062-2e027cff9ede": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Heist/Material Instances/Dark.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "35e510e8-58bc-cbbd-8a02-09c10599ed7a": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -277,6 +296,16 @@
             "062eb09e-9e46-2923-be83-e717af5c2e27"
         ]
     },
+    "40f3297b-7105-5b09-0a65-84b9536251dd": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Heist/SK_Heist_Hazmat.scene.nasset/SK Heist Hazmat.mesh.nasset/SK Heist Hazmat Hazmat.meshskin.nasset",
+        "dependencies": [
+            "f1afe1da-2602-cbfc-8b7c-f9bf4ea1fbf1",
+            "53d32f7f-0696-cb59-dcf3-e64055737f0e",
+            "fec32bda-a322-95d7-c053-183da76a678e"
+        ]
+    },
     "429bebc4-eb54-c946-a7b6-2a8e2b5ada01": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Heist/Material Instances/Pants.mtli.nasset",
@@ -322,6 +351,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "4d397e44-ed9a-c373-477c-1e4f98687556": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Heist/SK_Heist_Hazmat.scene.nasset/SK Heist Hazmat.mesh.nasset/SK Heist Hazmat Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "30a2fad9-4d16-0bc0-6062-2e027cff9ede",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "4e16005c-0939-813e-7248-b7c3a9a6359f": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -336,6 +377,16 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Heist/Walk.anim.nasset"
+    },
+    "504170d0-0fea-c35f-c608-a179614c4be1": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Heist/SK_Heist_Enemy.scene.nasset/SK Enemy.mesh.nasset/SK Enemy Red.meshskin.nasset",
+        "dependencies": [
+            "95472f34-13d3-d192-5503-021e6c3c7b44",
+            "02905ff4-6727-df2f-7e63-001005fbf912",
+            "5d811aae-aa46-e655-1b5f-73bc4e23cfae"
+        ]
     },
     "50b5b892-9809-f58e-ab29-19a1a247fdda": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -389,6 +440,13 @@
             "5619f6ac-abd8-5fa5-d60a-9ba5db40360b"
         ]
     },
+    "5d811aae-aa46-e655-1b5f-73bc4e23cfae": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Heist/Material Instances/Red.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "5ef10529-012b-4f65-895f-e0e4c0fbce78": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -428,6 +486,16 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Mechs/Leela/SK_Leela.scene.nasset/SK_Leela.scene.nasset"
+    },
+    "64979109-6b8c-dad4-a608-739fc9fde0cc": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Heist/SK_Heist_Hazmat.scene.nasset/SK Heist Hazmat.mesh.nasset/SK Heist Hazmat Dark.meshskin.nasset",
+        "dependencies": [
+            "4d397e44-ed9a-c373-477c-1e4f98687556",
+            "53d32f7f-0696-cb59-dcf3-e64055737f0e",
+            "30a2fad9-4d16-0bc0-6062-2e027cff9ede"
+        ]
     },
     "675f918e-4310-16e0-be95-5b5af81d10e4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -506,6 +574,18 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "72312694-0e4d-3177-383e-3396724592ed": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Heist/SK_Heist_Enemy.scene.nasset/SK Enemy.mesh.nasset/SK Enemy Grey Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d2014c2b-3063-2f77-db91-784ffdc786fc",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "724f1717-733a-1e08-7254-9dc8e6a47d09": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -567,6 +647,28 @@
         "dependencies": [
             "717cab1f-ff25-bd86-79f5-1561a8fec4c4",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7f7cbcd8-4777-29c5-4ac0-286e913b8e90": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Heist/SK_Heist_Enemy.scene.nasset/SK Enemy.mesh.nasset/SK Enemy Skin Tan.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b410f5d4-bf3d-7a0d-1e49-c9b35159007c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "805b6222-d556-04ae-5ee3-6bc2c3dfd6d0": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Heist/SK_Heist_Enemy.scene.nasset/SK Enemy.mesh.nasset/SK Enemy Black.meshskin.nasset",
+        "dependencies": [
+            "0818d335-3c25-b625-07ce-643ed12ff9c8",
+            "02905ff4-6727-df2f-7e63-001005fbf912",
+            "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa"
         ]
     },
     "8069a703-bdfc-7542-bbbb-409f726bb794": {
@@ -732,6 +834,25 @@
             "dda0686c-bec9-a968-7a9e-8f2208623753"
         ]
     },
+    "95472f34-13d3-d192-5503-021e6c3c7b44": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Heist/SK_Heist_Enemy.scene.nasset/SK Enemy.mesh.nasset/SK Enemy Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5d811aae-aa46-e655-1b5f-73bc4e23cfae",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "960fd0e1-4cf9-3e2b-5ebf-b275b8035606": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Heist/Material Instances/Blue Grey.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "96e52271-e359-4ec0-a4ab-507d54315cb7": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -793,10 +914,43 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Voxel/Danny/Idle.anim.nasset"
     },
+    "abfaf3ed-4ec7-8b5d-6030-6cb81e089ffa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Heist/SK_Heist_Enemy.scene.nasset/SK Enemy.mesh.nasset/SK Enemy.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa",
+            "0818d335-3c25-b625-07ce-643ed12ff9c8",
+            "805b6222-d556-04ae-5ee3-6bc2c3dfd6d0",
+            "b410f5d4-bf3d-7a0d-1e49-c9b35159007c",
+            "7f7cbcd8-4777-29c5-4ac0-286e913b8e90",
+            "c6d512d6-f6fa-b3cf-dda9-8fd0028c89de",
+            "5d811aae-aa46-e655-1b5f-73bc4e23cfae",
+            "95472f34-13d3-d192-5503-021e6c3c7b44",
+            "504170d0-0fea-c35f-c608-a179614c4be1",
+            "d2014c2b-3063-2f77-db91-784ffdc786fc",
+            "72312694-0e4d-3177-383e-3396724592ed",
+            "e3fd3647-320b-d27e-c402-bde1723ccd6c",
+            "960fd0e1-4cf9-3e2b-5ebf-b275b8035606",
+            "db74d506-121b-3205-0a45-b703931cfdca",
+            "c5519ec4-f0ce-25cf-48d2-bc4f0bc0c8ae",
+            "02905ff4-6727-df2f-7e63-001005fbf912"
+        ]
+    },
     "af68ea42-01df-65dd-3197-a7308494cfc5": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK_Alien.scene.nasset"
+    },
+    "b410f5d4-bf3d-7a0d-1e49-c9b35159007c": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Heist/Material Instances/Skin Tan.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "b41f21ba-81cf-4f8d-a081-d01a18fd3096": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -890,6 +1044,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Heist/Material Instances/Thumbnails/Character Main.mtli.nasset.tex.nasset"
     },
+    "bc1ab843-54e3-6729-cb24-07e5df9c4941": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Heist/SK_Heist_Hazmat.scene.nasset/SK_Heist_Hazmat.scene.nasset",
+        "dependencies": [
+            "f07a06e6-2918-ffb8-7886-1c8e3caa907e"
+        ]
+    },
     "bd7c0208-445b-4b6e-bb7f-1fad3b532b61": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -910,6 +1072,14 @@
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Nails.meshskin.nasset"
     },
+    "c01c9183-3d06-6b3d-869d-6f71acfeda45": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Heist/SK_Heist_Enemy.scene.nasset/SK_Heist_Enemy.scene.nasset",
+        "dependencies": [
+            "abfaf3ed-4ec7-8b5d-6030-6cb81e089ffa"
+        ]
+    },
     "c4212bdb-de20-4f00-b97d-76a12658b5f8": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -923,6 +1093,16 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Voxel/Danny/SK_Danny.scene.nasset/SK Danny.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "c5519ec4-f0ce-25cf-48d2-bc4f0bc0c8ae": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Heist/SK_Heist_Enemy.scene.nasset/SK Enemy.mesh.nasset/SK Enemy Blue Grey.meshskin.nasset",
+        "dependencies": [
+            "db74d506-121b-3205-0a45-b703931cfdca",
+            "02905ff4-6727-df2f-7e63-001005fbf912",
+            "960fd0e1-4cf9-3e2b-5ebf-b275b8035606"
+        ]
+    },
     "c57ff556-4c23-ce7c-3a58-e09313b0ed05": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -933,6 +1113,16 @@
         "dependencies": [
             "725358d1-9c64-6f29-614d-b5d53cb22a25",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c6d512d6-f6fa-b3cf-dda9-8fd0028c89de": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Heist/SK_Heist_Enemy.scene.nasset/SK Enemy.mesh.nasset/SK Enemy Skin Tan.meshskin.nasset",
+        "dependencies": [
+            "7f7cbcd8-4777-29c5-4ac0-286e913b8e90",
+            "02905ff4-6727-df2f-7e63-001005fbf912",
+            "b410f5d4-bf3d-7a0d-1e49-c9b35159007c"
         ]
     },
     "c9824c63-8f3c-74f8-4b2b-d96b9536f2ea": {
@@ -955,6 +1145,23 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "d0ca65b9-493c-16f3-ca50-d37957114135": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Heist/SK_Heist_Hazmat.scene.nasset/SK Heist Hazmat.mesh.nasset/SK Heist Hazmat Black.meshskin.nasset",
+        "dependencies": [
+            "fcba0c15-18bd-49e7-95a3-77150a0a9ce1",
+            "53d32f7f-0696-cb59-dcf3-e64055737f0e",
+            "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa"
+        ]
+    },
+    "d2014c2b-3063-2f77-db91-784ffdc786fc": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Heist/Material Instances/Grey Dark.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "d3c92672-9d37-ecc7-3f78-0cfaa2590b90": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -967,6 +1174,18 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Leela/Jump_End.anim.nasset"
+    },
+    "db74d506-121b-3205-0a45-b703931cfdca": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Heist/SK_Heist_Enemy.scene.nasset/SK Enemy.mesh.nasset/SK Enemy Blue Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "960fd0e1-4cf9-3e2b-5ebf-b275b8035606",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "dda0686c-bec9-a968-7a9e-8f2208623753": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
@@ -998,6 +1217,16 @@
         "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK_Robot.scene.nasset",
         "dependencies": [
             "85369f56-6529-552d-fe0c-07216b04210c"
+        ]
+    },
+    "e3fd3647-320b-d27e-c402-bde1723ccd6c": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Heist/SK_Heist_Enemy.scene.nasset/SK Enemy.mesh.nasset/SK Enemy Grey Dark.meshskin.nasset",
+        "dependencies": [
+            "72312694-0e4d-3177-383e-3396724592ed",
+            "02905ff4-6727-df2f-7e63-001005fbf912",
+            "d2014c2b-3063-2f77-db91-784ffdc786fc"
         ]
     },
     "e78262a2-99d6-4383-b4a8-b8839bc12f2e": {
@@ -1072,6 +1301,38 @@
             "b8bf7aa5-05e6-b5e1-8022-e3d399ea6786"
         ]
     },
+    "f07a06e6-2918-ffb8-7886-1c8e3caa907e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Heist/SK_Heist_Hazmat.scene.nasset/SK Heist Hazmat.mesh.nasset/SK Heist Hazmat.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa",
+            "fcba0c15-18bd-49e7-95a3-77150a0a9ce1",
+            "d0ca65b9-493c-16f3-ca50-d37957114135",
+            "fec32bda-a322-95d7-c053-183da76a678e",
+            "f1afe1da-2602-cbfc-8b7c-f9bf4ea1fbf1",
+            "40f3297b-7105-5b09-0a65-84b9536251dd",
+            "30a2fad9-4d16-0bc0-6062-2e027cff9ede",
+            "4d397e44-ed9a-c373-477c-1e4f98687556",
+            "64979109-6b8c-dad4-a608-739fc9fde0cc",
+            "53d32f7f-0696-cb59-dcf3-e64055737f0e"
+        ]
+    },
+    "f1afe1da-2602-cbfc-8b7c-f9bf4ea1fbf1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Heist/SK_Heist_Hazmat.scene.nasset/SK Heist Hazmat.mesh.nasset/SK Heist Hazmat Hazmat.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "fec32bda-a322-95d7-c053-183da76a678e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "f203a569-851b-9c6b-e6ca-d7a111b47fae": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -1105,6 +1366,25 @@
         "path": "Assets/Characters/Mechs/Robot/Robot_Jump_Loop.anim.nasset",
         "dependencies": [
             "062eb09e-9e46-2923-be83-e717af5c2e27"
+        ]
+    },
+    "fcba0c15-18bd-49e7-95a3-77150a0a9ce1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Heist/SK_Heist_Hazmat.scene.nasset/SK Heist Hazmat.mesh.nasset/SK Heist Hazmat Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "fec32bda-a322-95d7-c053-183da76a678e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Heist/Material Instances/Hazmat.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "guid": "457ff619-747a-42ec-09af-01f6ee736a6b"
