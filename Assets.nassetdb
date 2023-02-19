@@ -20,6 +20,7 @@
     "04923f94-6d3d-a296-66e1-c36f6eb6ca70": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Voxel/Danny/Material Instances/Danny.mtli.nasset",
+        "thumbnail": "ecc83271-e4d6-fdd7-c8be-06b1d63ffa40",
         "dependencies": [
             "ac0befd3-fdfd-491c-a266-f5a5a1ebd6b5",
             "24dcf608-bd37-bd03-566c-73f765076704"
@@ -33,6 +34,7 @@
     "06dec0af-b15e-e429-4431-19474b509e54": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Heist/Material Instances/Character Main.mtli.nasset",
+        "thumbnail": "bba70751-29b4-490a-57bf-4cc091e05196",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -165,6 +167,10 @@
         "path": "Assets/Characters/Mechs/Robot/Robo Player.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
     },
+    "265ed15e-1b09-c46a-be38-5cd95b8600e4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Heist/Material Instances/Thumbnails/Black.mtli.nasset.tex.nasset"
+    },
     "26aab986-ecd8-2e5b-fa20-bbba9afad2fd": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -274,6 +280,7 @@
     "429bebc4-eb54-c946-a7b6-2a8e2b5ada01": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Heist/Material Instances/Pants.mtli.nasset",
+        "thumbnail": "bddc37f8-c6e0-8d25-84b0-0e559650f7d8",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -403,6 +410,7 @@
     "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Heist/Material Instances/Black.mtli.nasset",
+        "thumbnail": "265ed15e-1b09-c46a-be38-5cd95b8600e4",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -485,6 +493,7 @@
     "717cab1f-ff25-bd86-79f5-1561a8fec4c4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Heist/Material Instances/DarkGrey.mtli.nasset",
+        "thumbnail": "8ee9ea8b-fb51-187c-5ad2-2388e2145191",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -543,6 +552,10 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Mechs/Leela/SK_Leela.scene.nasset/SK Leela.mesh.nasset/SK Leela.mesh.nasset"
+    },
+    "7cbcf053-014d-f7c5-94f6-17dc5aba705c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Voxel/Danny/SK_Danny.scene.nasset/SK Danny.mesh.nasset/Thumbnails/SK Danny.mesh.nasset.tex.nasset"
     },
     "7de269c7-1731-5794-d9ad-536de9360f04": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -665,6 +678,7 @@
     "8cf89ad7-17d3-d68c-77ae-f1e4eec28f29": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Heist/Material Instances/Skin.mtli.nasset",
+        "thumbnail": "b7fe1c6b-f02d-82da-97d4-827f071ff38f",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -685,6 +699,10 @@
             "5619f6ac-abd8-5fa5-d60a-9ba5db40360b",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "8ee9ea8b-fb51-187c-5ad2-2388e2145191": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Heist/Material Instances/Thumbnails/DarkGrey.mtli.nasset.tex.nasset"
     },
     "8f149a5c-82e5-25da-9e1b-fae1907f3672": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -733,6 +751,10 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Heist/Jump_End.anim.nasset"
+    },
+    "9bfdc526-a49c-7822-9750-8303cfe56ca9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Heist/Material Instances/Thumbnails/Grey.mtli.nasset.tex.nasset"
     },
     "9e130da2-d478-ce8d-002c-436ef2e06688": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -820,10 +842,15 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "b7fe1c6b-f02d-82da-97d4-827f071ff38f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Heist/Material Instances/Thumbnails/Skin.mtli.nasset.tex.nasset"
+    },
     "b8bf7aa5-05e6-b5e1-8022-e3d399ea6786": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Voxel/Danny/SK_Danny.scene.nasset/SK Danny.mesh.nasset/SK Danny.mesh.nasset",
+        "thumbnail": "7cbcf053-014d-f7c5-94f6-17dc5aba705c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -837,6 +864,7 @@
     "b91be93c-455e-d613-9950-bb6f5dff4610": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Heist/Material Instances/Grey.mtli.nasset",
+        "thumbnail": "9bfdc526-a49c-7822-9750-8303cfe56ca9",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -858,11 +886,19 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "bba70751-29b4-490a-57bf-4cc091e05196": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Heist/Material Instances/Thumbnails/Character Main.mtli.nasset.tex.nasset"
+    },
     "bd7c0208-445b-4b6e-bb7f-1fad3b532b61": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Modular_Toon/Witch/Witch Player.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+    },
+    "bddc37f8-c6e0-8d25-84b0-0e559650f7d8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Heist/Material Instances/Thumbnails/Pants.mtli.nasset.tex.nasset"
     },
     "bf260724-7066-4cc8-9a37-6708053f3e17": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -945,7 +981,8 @@
     },
     "e05e8d3d-368c-47db-8efe-4ad404d4bd2f": {
         "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
-        "path": "Package.nplugin"
+        "path": "Package.nplugin",
+        "name": "Character Zoo Assets"
     },
     "e2b7d8c0-866f-45e5-9c1e-8437baf09000": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -991,6 +1028,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "ecc83271-e4d6-fdd7-c8be-06b1d63ffa40": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Voxel/Danny/Material Instances/Thumbnails/Danny.mtli.nasset.tex.nasset"
     },
     "ed46d351-f1c5-9b0c-5e42-009d31bb5263": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
