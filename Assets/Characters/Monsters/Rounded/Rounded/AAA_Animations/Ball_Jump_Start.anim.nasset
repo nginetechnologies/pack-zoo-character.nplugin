@@ -1,0 +1,17 @@
+{
+    "source": "A_Ball_Jump_Start.fbx",
+    "skeleton": "728bef6e-b774-cf53-f16a-f136765878c5",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "6815eb75-e401-6bb5-e430-8c6dbac06508",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "728bef6e-b774-cf53-f16a-f136765878c5"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "d172028f-5148-428f-8fd8-a6db7fdf8839"
+        }
+    ],
+    "guid": "d172028f-5148-428f-8fd8-a6db7fdf8839",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+}

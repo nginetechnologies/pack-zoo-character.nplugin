@@ -1,0 +1,52 @@
+{
+    "guid": "cea8bcd0-aad2-d8f8-9064-f84a3af9dd39",
+    "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "4505fbdd-89ac-0b4c-b1f0-4492b294baf2",
+    "data_components": [],
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "cea8bcd0-aad2-d8f8-9064-f84a3af9dd39"
+    },
+    "joints": {
+        "05431b48-645c-cdc0-2e74-3bc8f5320575": {
+            "name": "Eyebrow_R",
+            "index": 8
+        },
+        "121c1016-1a19-11e3-9e79-28e7ed7b3896": {
+            "name": "Mouth",
+            "index": 4
+        },
+        "45eaacd1-0e1c-7ee1-c659-029ce0eb80d1": {
+            "name": "root",
+            "index": 2
+        },
+        "47f93f83-b773-8183-c1e1-2d6d087e98ef": {
+            "name": "RootNode",
+            "index": 0
+        },
+        "4b146d6c-e492-5c64-b918-a325331a8235": {
+            "name": "Head2",
+            "index": 6
+        },
+        "4e6dc43b-f235-f5e3-e196-13adfb6aa8c9": {
+            "name": "SK_Ball_Penguin",
+            "index": 1
+        },
+        "9759f32f-f659-83f5-bff1-dca019029572": {
+            "name": "Body",
+            "index": 3
+        },
+        "bf537ede-15b1-8716-f4b8-9424dfd1e471": {
+            "name": "Head3",
+            "index": 7
+        },
+        "d8b70a30-17f7-bd36-2bc9-d1ebedf3a763": {
+            "name": "Eyebrow_L",
+            "index": 9
+        },
+        "fb89fb3f-6bf7-fb3c-785e-d965e84e6d14": {
+            "name": "Head",
+            "index": 5
+        }
+    }
+}
