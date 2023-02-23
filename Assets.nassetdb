@@ -17,6 +17,18 @@
             "b77e5779-902f-4a4c-7eae-2aa55de220a2"
         ]
     },
+    "04561deb-20a9-4715-3d5f-5e5f0ea1fa09": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/SK_Base_Character.scene.nasset/SK Base Avatar.mesh.nasset/SK Base Avatar Face.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "24b91fc4-ae66-b040-5fba-604acac3ea81",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "04923f94-6d3d-a296-66e1-c36f6eb6ca70": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Voxel/Danny/Material Instances/Danny.mtli.nasset",
@@ -51,6 +63,17 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "0840c848-b03c-926a-6755-38ffa687c03f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Thumbnails/Skin.mtli.nasset.tex.nasset"
+    },
+    "0b1e0e93-80a5-2fe9-550c-b45de80ea20e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/Material Instances/Shirt.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "0b2c854d-414b-4a0b-9299-a58c253079cc": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -67,6 +90,10 @@
             "dda0686c-bec9-a968-7a9e-8f2208623753"
         ]
     },
+    "0d2c4d51-328b-50ab-8b2a-d526797bbd37": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Thumbnails/Fuschia 600.mtli.nasset.tex.nasset"
+    },
     "0f0d4dde-d741-37eb-bc55-91e0d8369dc9": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -81,9 +108,15 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Mechs/Leela/Material Instances/Leela.mtli.nasset"
     },
+    "0fd6b31f-62b0-42e3-8ca4-2853d3a7a723": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Monsters/Big/AAA_Animations/Monster_Jump_Start.anim.nasset"
+    },
     "10641e5d-0f44-3599-c8a1-c55046c57a59": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Mechs/Robot/Material Instances/Grey.mtli.nasset",
+        "thumbnail": "d5171a71-2a8d-0881-0c44-ff58b6853071",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -99,6 +132,7 @@
     "131edb48-37c9-f481-27d3-6933879e77f6": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Mechs/Robot/Material Instances/Silver.mtli.nasset",
+        "thumbnail": "96cca2c6-bdd9-1bcd-9bfa-985e01860de7",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -106,6 +140,7 @@
     "133799e8-3433-9aba-fda8-2fa6aea1d41b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Mechs/Robot/Material Instances/White.mtli.nasset",
+        "thumbnail": "49d33877-8049-f47d-2085-9b9bdff9aec5",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -129,7 +164,47 @@
     },
     "193903f3-032a-aadc-c77e-99b9b91b56fa": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Nails.mtli.nasset"
+        "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Nails.mtli.nasset",
+        "thumbnail": "4a504788-37e8-28a8-1211-d28d6ea4b8bf"
+    },
+    "19b19569-c321-5389-4727-049317369185": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/SK_Base_Character.scene.nasset/SK Base Avatar.mesh.nasset/SK Base Avatar.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0b1e0e93-80a5-2fe9-550c-b45de80ea20e",
+            "ac2850c4-3ae6-7370-fb82-47fe669ffb88",
+            "55c48aac-e1ef-c629-12f8-f5d0bbcea152",
+            "74d3494f-799b-d256-edd8-0e7a7013c43c",
+            "b800e499-d7e5-2329-b255-904483eae751",
+            "1bfaacbe-3a1b-7152-37db-e58f0b78f1bb",
+            "74d4681d-7dd2-fa92-b9e9-066526acae54",
+            "af66922c-f5da-b617-85be-d66f5c4f886f",
+            "be1b41d6-0d56-00d8-69f2-36e34abc7b87",
+            "91140d2e-c27a-bfce-fe42-6b8b96c725cc",
+            "fce65377-c3ef-58a8-1cd8-3429c237031f",
+            "f9a0b553-8aee-5492-9b96-573c7a263257",
+            "24b91fc4-ae66-b040-5fba-604acac3ea81",
+            "04561deb-20a9-4715-3d5f-5e5f0ea1fa09",
+            "2796e215-aaa5-7ba7-94f4-269a19b58f79",
+            "4097c310-ab3a-6544-0e95-41051ca3c2b6",
+            "9c3aaf3b-d11e-8474-fd58-56248248c2f7",
+            "96f90fdd-0cbf-d23e-d557-5c930e30588f",
+            "d2579157-f78f-07e4-7de4-bac976c28095"
+        ]
+    },
+    "1bc9d122-741a-fe64-a09e-a91d9121f4d3": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Rounded/Penguin/SK_Ball_Penguin.scene.nasset/SK Ball Penguin.mesh.nasset/SK Ball Penguin Penguin.meshskin.nasset",
+        "dependencies": [
+            "e81c3cb9-ece2-980b-ef40-9d207fce78ba",
+            "cea8bcd0-aad2-d8f8-9064-f84a3af9dd39",
+            "8e4c6d61-b043-0f8e-bf0c-5640a7ee71d2"
+        ]
     },
     "1bebd240-6e24-9950-5a22-a899be2e7aaa": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -139,6 +214,16 @@
             "3fd0b19f-8763-55ae-ae7c-7e5298afe54f",
             "704dd06d-c505-ee41-1783-77680c7841a4",
             "429bebc4-eb54-c946-a7b6-2a8e2b5ada01"
+        ]
+    },
+    "1bfaacbe-3a1b-7152-37db-e58f0b78f1bb": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/SK_Base_Character.scene.nasset/SK Base Avatar.mesh.nasset/SK Base Avatar Skin.meshskin.nasset",
+        "dependencies": [
+            "b800e499-d7e5-2329-b255-904483eae751",
+            "d2579157-f78f-07e4-7de4-bac976c28095",
+            "74d3494f-799b-d256-edd8-0e7a7013c43c"
         ]
     },
     "1e582fb0-4f30-4c8d-fab7-bc23eb2d3243": {
@@ -162,6 +247,21 @@
         "path": "Assets/Characters/Mechs/Robot/Robot_Walk.anim.nasset",
         "dependencies": [
             "062eb09e-9e46-2923-be83-e717af5c2e27"
+        ]
+    },
+    "20a5bf7c-9a80-734d-163a-5d4e7a537bda": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Heist/Material Instances/Thumbnails/Dark.mtli.nasset.tex.nasset"
+    },
+    "21caada7-6734-bbf4-f09b-aaba522d8ef6": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/AAA_Animations/Material Instances/Base Eye.mtli.nasset"
+    },
+    "24b91fc4-ae66-b040-5fba-604acac3ea81": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/Material Instances/Face.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "24dcf608-bd37-bd03-566c-73f765076704": {
@@ -198,6 +298,7 @@
     "26dc6fe0-4edd-183c-6f42-897581fae5fe": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Purple 700.mtli.nasset",
+        "thumbnail": "f64ca87a-380c-c3f9-ded2-8680aae47c1c",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -207,9 +308,29 @@
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Stripe.meshskin.nasset"
     },
+    "2796e215-aaa5-7ba7-94f4-269a19b58f79": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/SK_Base_Character.scene.nasset/SK Base Avatar.mesh.nasset/SK Base Avatar Face.meshskin.nasset",
+        "dependencies": [
+            "04561deb-20a9-4715-3d5f-5e5f0ea1fa09",
+            "d2579157-f78f-07e4-7de4-bac976c28095",
+            "24b91fc4-ae66-b040-5fba-604acac3ea81"
+        ]
+    },
     "29c9e618-b209-c8fb-476b-3314bb7421e1": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Stripe.mtli.nasset"
+        "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Stripe.mtli.nasset",
+        "thumbnail": "e851ea0c-c5b9-d54f-7f09-63df68bc2f24"
+    },
+    "2a9a89ac-5f52-6875-519d-8c367db6e877": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Heist/Material Instances/Thumbnails/Grey Dark.mtli.nasset.tex.nasset"
+    },
+    "2b0a5e9d-e66d-5148-b9b2-dc61d06f7690": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/AAA_Animations/SK_Monster_Base.scene.nasset/SK Monster Base.mesh.nasset/SK Monster Base Base Tongue.meshskin.nasset"
     },
     "2f7463ff-ce46-e370-d3cb-e08821bbd775": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -220,6 +341,11 @@
             "c50b45c1-4d5a-6d62-6fa9-1d7614e1d959",
             "04923f94-6d3d-a296-66e1-c36f6eb6ca70"
         ]
+    },
+    "2faa50ba-2b11-bfcc-3046-66d06f31f36c": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Monsters/Big/AAA_Animations/SK_Monster_Base.scene.nasset/SK Monster Base.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "308c1076-00b0-6ee2-adf5-dc2df48dafc4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -236,6 +362,7 @@
     "30a2fad9-4d16-0bc0-6062-2e027cff9ede": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Heist/Material Instances/Dark.mtli.nasset",
+        "thumbnail": "20a5bf7c-9a80-734d-163a-5d4e7a537bda",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -267,6 +394,32 @@
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Characters/Mechs/Leela/SK_Leela.scene.nasset/SK Leela.mesh.nasset/SK Leela Leela.meshskin.nasset"
     },
+    "39f30485-744a-3be6-6042-10f790a50f6e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Thumbnails/Cyan 600.mtli.nasset.tex.nasset"
+    },
+    "3bed0744-e4ea-36fb-b08a-1471b3322d7f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Monsters/Big/AAA_Animations/SK_Monster_Base.scene.nasset/SK Monster Base.mesh.nasset/SK Monster Base.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "3ce7f640-a04f-761c-8d85-e88f6a3a8052": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Monsters/Rounded/Penguin/SK_Ball_Penguin.scene.nasset/SK Ball Penguin.mesh.nasset/SK Ball Penguin.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "8e4c6d61-b043-0f8e-bf0c-5640a7ee71d2",
+            "e81c3cb9-ece2-980b-ef40-9d207fce78ba",
+            "1bc9d122-741a-fe64-a09e-a91d9121f4d3",
+            "cea8bcd0-aad2-d8f8-9064-f84a3af9dd39"
+        ]
+    },
     "3d9becb1-7c03-4ffb-bf9d-212fbaaefaae": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -286,6 +439,13 @@
         "dependencies": [
             "429bebc4-eb54-c946-a7b6-2a8e2b5ada01",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4097c310-ab3a-6544-0e95-41051ca3c2b6": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/Material Instances/Hair.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "40ebf4d2-b44a-47a1-8638-ef100a595d82": {
@@ -325,6 +485,7 @@
     "44241c1d-5f63-a2b8-29cb-7fcea2313c98": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Amber 500.mtli.nasset",
+        "thumbnail": "963889eb-7b5e-4893-c027-69a7b8c5724c",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -339,6 +500,11 @@
             "131edb48-37c9-f481-27d3-6933879e77f6"
         ]
     },
+    "46731b77-9108-4ad7-8e8c-32f92b0c1a7b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Monsters/Big/AAA_Animations/Monster_Jump_Loop.anim.nasset"
+    },
     "47a445de-cbf0-af0b-7d92-cb4e9718012b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -349,6 +515,22 @@
         "dependencies": [
             "10641e5d-0f44-3599-c8a1-c55046c57a59",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "49d33877-8049-f47d-2085-9b9bdff9aec5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Mechs/Robot/Material Instances/Thumbnails/White.mtli.nasset.tex.nasset"
+    },
+    "4a504788-37e8-28a8-1211-d28d6ea4b8bf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Thumbnails/Nails.mtli.nasset.tex.nasset"
+    },
+    "4b97998e-3017-c833-ce30-50f096a35d8d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Monsters/Rounded/Penguin/SK_Ball_Penguin.scene.nasset/SK_Ball_Penguin.scene.nasset",
+        "dependencies": [
+            "3ce7f640-a04f-761c-8d85-e88f6a3a8052"
         ]
     },
     "4d397e44-ed9a-c373-477c-1e4f98687556": {
@@ -388,6 +570,10 @@
             "5d811aae-aa46-e655-1b5f-73bc4e23cfae"
         ]
     },
+    "5088ff58-acd5-3da2-14f5-dfb5ce27141c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Monsters/Rounded/Penguin/Textures/T_Penguin_D.tex.nasset"
+    },
     "50b5b892-9809-f58e-ab29-19a1a247fdda": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -398,9 +584,20 @@
             "a5917b54-a1f4-d747-ae67-b33bfd6002cf"
         ]
     },
+    "55c48aac-e1ef-c629-12f8-f5d0bbcea152": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/SK_Base_Character.scene.nasset/SK Base Avatar.mesh.nasset/SK Base Avatar Shirt.meshskin.nasset",
+        "dependencies": [
+            "ac2850c4-3ae6-7370-fb82-47fe669ffb88",
+            "d2579157-f78f-07e4-7de4-bac976c28095",
+            "0b1e0e93-80a5-2fe9-550c-b45de80ea20e"
+        ]
+    },
     "5619f6ac-abd8-5fa5-d60a-9ba5db40360b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Fuschia 600.mtli.nasset",
+        "thumbnail": "0d2c4d51-328b-50ab-8b2a-d526797bbd37",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -412,6 +609,10 @@
         "dependencies": [
             "dda0686c-bec9-a968-7a9e-8f2208623753"
         ]
+    },
+    "597e7df6-fe98-adb8-0672-8a184095bf3a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Thumbnails/Body.mtli.nasset.tex.nasset"
     },
     "5a036212-c8db-5579-601c-b60bfd417658": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -426,6 +627,7 @@
     "5d458fc9-d257-7b83-bae1-34d4170cced2": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Cyan 600.mtli.nasset",
+        "thumbnail": "39f30485-744a-3be6-6042-10f790a50f6e",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -443,9 +645,14 @@
     "5d811aae-aa46-e655-1b5f-73bc4e23cfae": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Heist/Material Instances/Red.mtli.nasset",
+        "thumbnail": "7a221d85-79a7-bf21-b8a2-dc6707ae978b",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "5df2ba05-a7ec-890e-d9a7-80d330a70f25": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Mechs/Robot/Material Instances/Thumbnails/Main.mtli.nasset.tex.nasset"
     },
     "5ef10529-012b-4f65-895f-e0e4c0fbce78": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -461,6 +668,7 @@
     "609da2cb-e4a0-947c-e5d7-9d4743f792cb": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Blue 700.mtli.nasset",
+        "thumbnail": "d2ac571a-a13b-d414-d01e-e04d221ed44f",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -480,12 +688,17 @@
     },
     "612482df-ad57-3456-6fc0-8fd0e0a46cc4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Body.mtli.nasset"
+        "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Body.mtli.nasset",
+        "thumbnail": "597e7df6-fe98-adb8-0672-8a184095bf3a"
     },
     "6215d895-0371-36a4-5136-9e2d79984fa4": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Mechs/Leela/SK_Leela.scene.nasset/SK_Leela.scene.nasset"
+    },
+    "63df2c3f-b3ba-08ee-5762-dfa2225d35af": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Heist/Material Instances/Thumbnails/Hazmat.mtli.nasset.tex.nasset"
     },
     "64979109-6b8c-dad4-a608-739fc9fde0cc": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -499,7 +712,13 @@
     },
     "675f918e-4310-16e0-be95-5b5af81d10e4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Eyes.mtli.nasset"
+        "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Eyes.mtli.nasset",
+        "thumbnail": "7ed5d857-cb46-7e95-2b62-fdc7b0dba6ae"
+    },
+    "677433ca-643b-46a2-a9a4-ef02513b966c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Monsters/Big/AAA_Animations/Monster_Idle.anim.nasset"
     },
     "69bc925c-3013-4d5b-f4d6-222f5937f904": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -513,6 +732,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "69d912d3-1096-6074-9b60-1b8fbcd24954": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/AAA_Animations/Material Instances/Base Main.mtli.nasset"
+    },
     "6a2d19ab-3e15-2a22-9a7a-cd023f410767": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -522,6 +745,10 @@
             "704dd06d-c505-ee41-1783-77680c7841a4",
             "717cab1f-ff25-bd86-79f5-1561a8fec4c4"
         ]
+    },
+    "6b119aa8-9a73-de85-0d0d-0e077477c66f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/AAA_Animations/Material Instances/Base Secondary.mtli.nasset"
     },
     "6b47686f-498d-4532-a01a-f14af1493053": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -540,6 +767,11 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Leela/Jump_Start.anim.nasset"
+    },
+    "6edc617e-ef89-47cd-9c16-6708a1286209": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Monsters/Rounded/AAA_Animations/Ball_Idle.anim.nasset"
     },
     "6f48aea1-eafd-7470-8341-6db6dd6b4354": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -601,6 +833,7 @@
     "725358d1-9c64-6f29-614d-b5d53cb22a25": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Mechs/Robot/Material Instances/Main.mtli.nasset",
+        "thumbnail": "5df2ba05-a7ec-890e-d9a7-80d330a70f25",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -615,6 +848,20 @@
             "609da2cb-e4a0-947c-e5d7-9d4743f792cb"
         ]
     },
+    "74d3494f-799b-d256-edd8-0e7a7013c43c": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/Material Instances/Skin.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "74d4681d-7dd2-fa92-b9e9-066526acae54": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/Material Instances/Pants.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "7526201f-e63d-5444-6733-4e045a46755e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -627,6 +874,10 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Heist/Run.anim.nasset"
+    },
+    "7a221d85-79a7-bf21-b8a2-dc6707ae978b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Heist/Material Instances/Thumbnails/Red.mtli.nasset.tex.nasset"
     },
     "7a87bb9d-d0cc-0883-9cbd-8d005fdae678": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -648,6 +899,10 @@
             "717cab1f-ff25-bd86-79f5-1561a8fec4c4",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "7ed5d857-cb46-7e95-2b62-fdc7b0dba6ae": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Thumbnails/Eyes.mtli.nasset.tex.nasset"
     },
     "7f7cbcd8-4777-29c5-4ac0-286e913b8e90": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -681,7 +936,13 @@
     },
     "80c6f587-c367-a7e3-4384-732f6b7c3523": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/White.mtli.nasset"
+        "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/White.mtli.nasset",
+        "thumbnail": "a99252c6-7e25-4e2c-f3c1-6e30caf7aa2c"
+    },
+    "83195458-9254-4684-8116-cf1337fca832": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Monsters/Rounded/AAA_Animations/Ball_Run.anim.nasset"
     },
     "85369f56-6529-552d-fe0c-07216b04210c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -743,6 +1004,11 @@
             "725358d1-9c64-6f29-614d-b5d53cb22a25"
         ]
     },
+    "8996d6ba-878b-4112-9aea-c061b9de2cbf": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Monsters/Rounded/AAA_Animations/Ball_Walk.anim.nasset"
+    },
     "8a710282-72e0-c192-75a6-ddc2d5525035": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -772,6 +1038,19 @@
             "704dd06d-c505-ee41-1783-77680c7841a4"
         ]
     },
+    "8b238638-fdd7-1c17-29ca-5d235968a15a": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/AAA_Animations/SK_Monster_Base.scene.nasset/SK Monster Base.mesh.nasset/SK Monster Base Base Pupil.meshskin.nasset"
+    },
+    "8cd68141-b911-363a-5401-9e0276278001": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/AAA_Animations/SK_Monster_Base.scene.nasset/SK Monster Base.mesh.nasset/SK Monster Base Base Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "8cf201d8-f8fb-48c8-983f-5a21b94808a9": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -785,10 +1064,23 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "8d665860-4ffa-4a0d-87a7-24bd7c0fc365": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Monsters/Big/AAA_Animations/Monster_Walk.anim.nasset"
+    },
     "8e0af0cf-e8a0-4822-8d5b-e71862770e2f": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Voxel/Danny/Jump_Loop.anim.nasset"
+    },
+    "8e4c6d61-b043-0f8e-bf0c-5640a7ee71d2": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Rounded/Penguin/Material Instances/Penguin.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "5088ff58-acd5-3da2-14f5-dfb5ce27141c"
+        ]
     },
     "8e93a32b-22f1-8f62-1957-d0d4950efe31": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -821,6 +1113,13 @@
             "10641e5d-0f44-3599-c8a1-c55046c57a59"
         ]
     },
+    "91140d2e-c27a-bfce-fe42-6b8b96c725cc": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/Material Instances/Belt.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "920c0ce0-9f6a-d77d-988e-e674c14dd274": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -849,14 +1148,45 @@
     "960fd0e1-4cf9-3e2b-5ebf-b275b8035606": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Heist/Material Instances/Blue Grey.mtli.nasset",
+        "thumbnail": "b9c4f19c-b071-4ee5-51fe-645e9c0f8eed",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "963889eb-7b5e-4893-c027-69a7b8c5724c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Thumbnails/Amber 500.mtli.nasset.tex.nasset"
+    },
+    "96cca2c6-bdd9-1bcd-9bfa-985e01860de7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Mechs/Robot/Material Instances/Thumbnails/Silver.mtli.nasset.tex.nasset"
     },
     "96e52271-e359-4ec0-a4ab-507d54315cb7": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Voxel/Danny/Jump_End.anim.nasset"
+    },
+    "96f90fdd-0cbf-d23e-d557-5c930e30588f": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/SK_Base_Character.scene.nasset/SK Base Avatar.mesh.nasset/SK Base Avatar Hair.meshskin.nasset",
+        "dependencies": [
+            "9c3aaf3b-d11e-8474-fd58-56248248c2f7",
+            "d2579157-f78f-07e4-7de4-bac976c28095",
+            "4097c310-ab3a-6544-0e95-41051ca3c2b6"
+        ]
+    },
+    "97d8138a-0214-c616-0d91-dccb1f190b2f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/AAA_Animations/SK_Monster_Base.scene.nasset/SK Monster Base.mesh.nasset/SK Monster Base Base Secondary.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "98d24f28-2e31-4af0-b53f-d822f158d3cd": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/AAA_Animations/Material Instances/Base Pupil.mtli.nasset"
     },
     "99a9ce7b-7821-93ac-dca3-480ac8552777": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -877,6 +1207,18 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Heist/Material Instances/Thumbnails/Grey.mtli.nasset.tex.nasset"
     },
+    "9c3aaf3b-d11e-8474-fd58-56248248c2f7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/SK_Base_Character.scene.nasset/SK Base Avatar.mesh.nasset/SK Base Avatar Hair.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4097c310-ab3a-6544-0e95-41051ca3c2b6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "9e130da2-d478-ce8d-002c-436ef2e06688": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -885,9 +1227,14 @@
             "b57cbaf8-ec47-b96e-5d76-b7667109ba97"
         ]
     },
+    "a356fe33-9b73-0fc6-04db-0a5b3c9158c1": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/AAA_Animations/Material Instances/Base Tongue.mtli.nasset"
+    },
     "a5917b54-a1f4-d747-ae67-b33bfd6002cf": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Mechs/Robot/Material Instances/Black.mtli.nasset",
+        "thumbnail": "f1557775-89e3-c818-29a8-8231b967eb27",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -908,6 +1255,10 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Leela/Run.anim.nasset"
+    },
+    "a99252c6-7e25-4e2c-f3c1-6e30caf7aa2c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Thumbnails/White.mtli.nasset.tex.nasset"
     },
     "a9f3884c-3026-4742-a788-9c1c91625bd8": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -940,14 +1291,49 @@
             "02905ff4-6727-df2f-7e63-001005fbf912"
         ]
     },
+    "ac2850c4-3ae6-7370-fb82-47fe669ffb88": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/SK_Base_Character.scene.nasset/SK Base Avatar.mesh.nasset/SK Base Avatar Shirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0b1e0e93-80a5-2fe9-550c-b45de80ea20e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ad74b9c5-4bc9-4638-85aa-c0964b90777c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Monsters/Big/AAA_Animations/Monster_Jump_End.anim.nasset"
+    },
+    "af66922c-f5da-b617-85be-d66f5c4f886f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/SK_Base_Character.scene.nasset/SK Base Avatar.mesh.nasset/SK Base Avatar Pants.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "74d4681d-7dd2-fa92-b9e9-066526acae54",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "af68ea42-01df-65dd-3197-a7308494cfc5": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK_Alien.scene.nasset"
     },
+    "b2e8f78b-d4bc-2fd3-94ab-5f5c6863b5ff": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/AAA_Animations/SK_Monster_Base.scene.nasset/SK Monster Base.mesh.nasset/SK Monster Base Base Main.meshskin.nasset"
+    },
     "b410f5d4-bf3d-7a0d-1e49-c9b35159007c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Heist/Material Instances/Skin Tan.mtli.nasset",
+        "thumbnail": "e10ac88b-2e83-1c8c-3c04-31747b2b3d36",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -989,9 +1375,15 @@
             "dda0686c-bec9-a968-7a9e-8f2208623753"
         ]
     },
+    "b64668d3-ab2c-c383-47bd-7b9f430ff4fb": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/AAA_Animations/SK_Monster_Base.scene.nasset/SK Monster Base.mesh.nasset/SK Monster Base Base Eye.meshskin.nasset"
+    },
     "b77e5779-902f-4a4c-7eae-2aa55de220a2": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Z Face.mtli.nasset",
+        "thumbnail": "c15a77a5-0b5a-1472-83a8-5e4def7b4755",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -999,6 +1391,18 @@
     "b7fe1c6b-f02d-82da-97d4-827f071ff38f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Heist/Material Instances/Thumbnails/Skin.mtli.nasset.tex.nasset"
+    },
+    "b800e499-d7e5-2329-b255-904483eae751": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/SK_Base_Character.scene.nasset/SK Base Avatar.mesh.nasset/SK Base Avatar Skin.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "74d3494f-799b-d256-edd8-0e7a7013c43c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "b8bf7aa5-05e6-b5e1-8022-e3d399ea6786": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1022,6 +1426,10 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "b9c4f19c-b071-4ee5-51fe-645e9c0f8eed": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Heist/Material Instances/Thumbnails/Blue Grey.mtli.nasset.tex.nasset"
     },
     "bb850203-f577-a93c-48c5-d31a1e0a25f0": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -1062,6 +1470,16 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Heist/Material Instances/Thumbnails/Pants.mtli.nasset.tex.nasset"
     },
+    "be1b41d6-0d56-00d8-69f2-36e34abc7b87": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/SK_Base_Character.scene.nasset/SK Base Avatar.mesh.nasset/SK Base Avatar Pants.meshskin.nasset",
+        "dependencies": [
+            "af66922c-f5da-b617-85be-d66f5c4f886f",
+            "d2579157-f78f-07e4-7de4-bac976c28095",
+            "74d4681d-7dd2-fa92-b9e9-066526acae54"
+        ]
+    },
     "bf260724-7066-4cc8-9a37-6708053f3e17": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1079,6 +1497,10 @@
         "dependencies": [
             "abfaf3ed-4ec7-8b5d-6030-6cb81e089ffa"
         ]
+    },
+    "c15a77a5-0b5a-1472-83a8-5e4def7b4755": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Thumbnails/Z Face.mtli.nasset.tex.nasset"
     },
     "c4212bdb-de20-4f00-b97d-76a12658b5f8": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -1115,6 +1537,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "c64c4596-1577-47fc-8312-26053b7d2a58": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Monsters/Rounded/AAA_Animations/Ball_Jump_Loop.anim.nasset"
+    },
     "c6d512d6-f6fa-b3cf-dda9-8fd0028c89de": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -1124,6 +1551,11 @@
             "02905ff4-6727-df2f-7e63-001005fbf912",
             "b410f5d4-bf3d-7a0d-1e49-c9b35159007c"
         ]
+    },
+    "c82adadb-ec69-7884-29a5-cbccdeec9183": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/AAA_Animations/SK_Monster_Base.scene.nasset/SK Monster Base.mesh.nasset/SK Monster Base Base Secondary.meshskin.nasset"
     },
     "c9824c63-8f3c-74f8-4b2b-d96b9536f2ea": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1145,6 +1577,18 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "cea8bcd0-aad2-d8f8-9064-f84a3af9dd39": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Monsters/Rounded/Penguin/SK_Ball_Penguin.scene.nasset/SK Ball Penguin.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "cedd8b11-421f-98ed-7d17-b65be064c6e2": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Rounded/AAA_Animations/Material Instances/Ball.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "d0ca65b9-493c-16f3-ca50-d37957114135": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -1155,12 +1599,32 @@
             "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa"
         ]
     },
+    "d1453db8-7ce5-41cc-bd6a-b2e0f29c3e82": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Monsters/Big/AAA_Animations/Monster_Run.anim.nasset"
+    },
+    "d172028f-5148-428f-8fd8-a6db7fdf8839": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Monsters/Rounded/AAA_Animations/Ball_Jump_Start.anim.nasset"
+    },
     "d2014c2b-3063-2f77-db91-784ffdc786fc": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Heist/Material Instances/Grey Dark.mtli.nasset",
+        "thumbnail": "2a9a89ac-5f52-6875-519d-8c367db6e877",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "d2579157-f78f-07e4-7de4-bac976c28095": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/SK_Base_Character.scene.nasset/SK Base Avatar.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "d2ac571a-a13b-d414-d01e-e04d221ed44f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Thumbnails/Blue 700.mtli.nasset.tex.nasset"
     },
     "d3c92672-9d37-ecc7-3f78-0cfaa2590b90": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1170,10 +1634,26 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "d5171a71-2a8d-0881-0c44-ff58b6853071": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Mechs/Robot/Material Instances/Thumbnails/Grey.mtli.nasset.tex.nasset"
+    },
     "d553038a-3287-4d7a-8c5c-9d5b349af7b6": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Leela/Jump_End.anim.nasset"
+    },
+    "d7211d59-62dd-3f27-6a02-da852b0a6412": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Modular_Toon/Extras/Material Instances/Face.mtli.nasset"
+    },
+    "d954e09e-eefa-f913-02b4-a386c10e4588": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/AAA_Animations/SK_Monster_Base.scene.nasset/SK Monster Base.mesh.nasset/SK Monster Base Base Pupil.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
     "db74d506-121b-3205-0a45-b703931cfdca": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1203,6 +1683,18 @@
         "path": "Package.nplugin",
         "name": "Character Zoo Assets"
     },
+    "e10ac88b-2e83-1c8c-3c04-31747b2b3d36": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Heist/Material Instances/Thumbnails/Skin Tan.mtli.nasset.tex.nasset"
+    },
+    "e14bc5ca-eb26-dd33-72be-c6f35441bfea": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/SK_Base_Character.scene.nasset/SK_Base_Character.scene.nasset",
+        "dependencies": [
+            "19b19569-c321-5389-4727-049317369185"
+        ]
+    },
     "e2b7d8c0-866f-45e5-9c1e-8437baf09000": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1219,6 +1711,14 @@
             "85369f56-6529-552d-fe0c-07216b04210c"
         ]
     },
+    "e36e3801-e95f-825b-0b7d-1636463e984c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/AAA_Animations/SK_Monster_Base.scene.nasset/SK Monster Base.mesh.nasset/SK Monster Base Base Eye.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "e3fd3647-320b-d27e-c402-bde1723ccd6c": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -1233,6 +1733,22 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Leela/Walk.anim.nasset"
+    },
+    "e81c3cb9-ece2-980b-ef40-9d207fce78ba": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Rounded/Penguin/SK_Ball_Penguin.scene.nasset/SK Ball Penguin.mesh.nasset/SK Ball Penguin Penguin.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "8e4c6d61-b043-0f8e-bf0c-5640a7ee71d2",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e851ea0c-c5b9-d54f-7f09-63df68bc2f24": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Thumbnails/Stripe.mtli.nasset.tex.nasset"
     },
     "e95160b5-9f01-a360-4319-88759e54333f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1284,6 +1800,11 @@
             "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa"
         ]
     },
+    "ee9c3efa-4bd9-01f6-0d7c-20b3e0bcf362": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Monsters/Big/AAA_Animations/SK_Monster_Base.scene.nasset/SK_Monster_Base.scene.nasset"
+    },
     "ef074b98-688d-4fa9-93dc-73d991a28b24": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1321,6 +1842,10 @@
             "53d32f7f-0696-cb59-dcf3-e64055737f0e"
         ]
     },
+    "f1557775-89e3-c818-29a8-8231b967eb27": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Mechs/Robot/Material Instances/Thumbnails/Black.mtli.nasset.tex.nasset"
+    },
     "f1afe1da-2602-cbfc-8b7c-f9bf4ea1fbf1": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1346,9 +1871,15 @@
     "f207aea0-315e-6d11-6942-57377279724f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Skin.mtli.nasset",
+        "thumbnail": "0840c848-b03c-926a-6755-38ffa687c03f",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "f2be6a69-0ff3-4779-b67d-2129703ca3f8": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Monsters/Rounded/AAA_Animations/Ball_Jump_End.anim.nasset"
     },
     "f43b1ef0-ca79-fecf-da12-a409c99ad3b3": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -1360,12 +1891,34 @@
             "f207aea0-315e-6d11-6942-57377279724f"
         ]
     },
+    "f64ca87a-380c-c3f9-ded2-8680aae47c1c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Thumbnails/Purple 700.mtli.nasset.tex.nasset"
+    },
     "f8b355f8-5654-485c-b227-603f9371a839": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Robot/Robot_Jump_Loop.anim.nasset",
         "dependencies": [
             "062eb09e-9e46-2923-be83-e717af5c2e27"
+        ]
+    },
+    "f91aa247-b5f7-4656-55f4-aa9ffe0f7b07": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/AAA_Animations/SK_Monster_Base.scene.nasset/SK Monster Base.mesh.nasset/SK Monster Base Base Tongue.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f9a0b553-8aee-5492-9b96-573c7a263257": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/SK_Base_Character.scene.nasset/SK Base Avatar.mesh.nasset/SK Base Avatar Belt.meshskin.nasset",
+        "dependencies": [
+            "fce65377-c3ef-58a8-1cd8-3429c237031f",
+            "d2579157-f78f-07e4-7de4-bac976c28095",
+            "91140d2e-c27a-bfce-fe42-6b8b96c725cc"
         ]
     },
     "fcba0c15-18bd-49e7-95a3-77150a0a9ce1": {
@@ -1380,9 +1933,26 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "fce65377-c3ef-58a8-1cd8-3429c237031f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/SK_Base_Character.scene.nasset/SK Base Avatar.mesh.nasset/SK Base Avatar Belt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "91140d2e-c27a-bfce-fe42-6b8b96c725cc",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "fd6e98c9-08bc-106e-c8e8-077bb2bc04c4": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Modular_Toon/Extras/Material Instances/Skin.mtli.nasset"
+    },
     "fec32bda-a322-95d7-c053-183da76a678e": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Heist/Material Instances/Hazmat.mtli.nasset",
+        "thumbnail": "63df2c3f-b3ba-08ee-5762-dfa2225d35af",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
