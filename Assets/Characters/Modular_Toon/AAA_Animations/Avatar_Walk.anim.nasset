@@ -11,14 +11,7 @@
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
             "animation": "3aa192c8-f63f-47d5-91b5-2e6f7935af5d"
-        },
-        {
-            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": "3aa192c8-f63f-47d5-91b5-2e6f7935af5d"
         }
     ],
-    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-    "dependencies": [
-        "d2579157-f78f-07e4-7de4-bac976c28095"
-    ]
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
 }
