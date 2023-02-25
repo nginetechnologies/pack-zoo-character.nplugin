@@ -106,7 +106,11 @@
     },
     "0f920536-8057-a096-6e5a-f28d8ed73253": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Mechs/Leela/Material Instances/Leela.mtli.nasset"
+        "path": "Assets/Characters/Mechs/Leela/Material Instances/Leela.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "3eb2bf6e-565d-21c4-745a-4c0c581be823"
+        ]
     },
     "0fd6b31f-62b0-42e3-8ca4-2853d3a7a723": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -124,10 +128,7 @@
     "123d324f-7f88-433c-9727-bf81366a1573": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Modular_Toon/AAA_Animations/Avatar_Jump_Start.anim.nasset",
-        "dependencies": [
-            "d2579157-f78f-07e4-7de4-bac976c28095"
-        ]
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/Avatar_Jump_Start.anim.nasset"
     },
     "12500ca1-4502-039b-1a4b-019c2e1e9186": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -160,10 +161,7 @@
     "152a8f27-1122-4f41-91b9-1d662a9363ee": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Modular_Toon/AAA_Animations/Avatar_Idle.anim.nasset",
-        "dependencies": [
-            "d2579157-f78f-07e4-7de4-bac976c28095"
-        ]
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/Avatar_Idle.anim.nasset"
     },
     "16238f9f-05b2-1c9d-b50b-bbe1a3c66b24": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -299,15 +297,15 @@
     "25b3d9d7-65a0-4b79-8f76-16b8b4affdf3": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Modular_Toon/AAA_Animations/Avatar_Jump_End.anim.nasset",
-        "dependencies": [
-            "d2579157-f78f-07e4-7de4-bac976c28095"
-        ]
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/Avatar_Jump_End.anim.nasset"
     },
     "25cf799a-060f-4dcf-8993-c95c01cf5735": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Mechs/Leela/Jump_Loop.anim.nasset"
+        "path": "Assets/Characters/Mechs/Leela/Leela_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "168dd918-458d-874d-bf82-79ae00ea4a15"
+        ]
     },
     "25e18331-6a1b-4c35-a314-0968f8f31f9b": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -436,7 +434,12 @@
     "37fbb575-41bd-cfef-9662-d086f2365de8": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Mechs/Leela/SK_Leela.scene.nasset/SK Leela.mesh.nasset/SK Leela Leela.meshskin.nasset"
+        "path": "Assets/Characters/Mechs/Leela/SK_Leela.scene.nasset/SK Leela.mesh.nasset/SK Leela Leela.meshskin.nasset",
+        "dependencies": [
+            "ea3c164f-7ce7-6062-813d-9a366e5956b6",
+            "168dd918-458d-874d-bf82-79ae00ea4a15",
+            "0f920536-8057-a096-6e5a-f28d8ed73253"
+        ]
     },
     "39f30485-744a-3be6-6042-10f790a50f6e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -445,10 +448,7 @@
     "3aa192c8-f63f-47d5-91b5-2e6f7935af5d": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Modular_Toon/AAA_Animations/Avatar_Walk.anim.nasset",
-        "dependencies": [
-            "d2579157-f78f-07e4-7de4-bac976c28095"
-        ]
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/Avatar_Walk.anim.nasset"
     },
     "3bed0744-e4ea-36fb-b08a-1471b3322d7f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -555,10 +555,7 @@
     "45ff5a68-c63a-493b-8c98-f80295125e4c": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Modular_Toon/AAA_Animations/Avatar_Jump_Loop.anim.nasset",
-        "dependencies": [
-            "d2579157-f78f-07e4-7de4-bac976c28095"
-        ]
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/Avatar_Jump_Loop.anim.nasset"
     },
     "46731b77-9108-4ad7-8e8c-32f92b0c1a7b": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -717,7 +714,10 @@
     "5ef10529-012b-4f65-895f-e0e4c0fbce78": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Mechs/Leela/Idle.anim.nasset"
+        "path": "Assets/Characters/Mechs/Leela/Leela_Idle.anim.nasset",
+        "dependencies": [
+            "168dd918-458d-874d-bf82-79ae00ea4a15"
+        ]
     },
     "60200fef-5d55-47d4-9ca9-2afe17acabf1": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -757,7 +757,10 @@
     "6215d895-0371-36a4-5136-9e2d79984fa4": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Mechs/Leela/SK_Leela.scene.nasset/SK_Leela.scene.nasset"
+        "path": "Assets/Characters/Mechs/Leela/SK_Leela.scene.nasset/SK_Leela.scene.nasset",
+        "dependencies": [
+            "7a87bb9d-d0cc-0883-9cbd-8d005fdae678"
+        ]
     },
     "63df2c3f-b3ba-08ee-5762-dfa2225d35af": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -832,7 +835,10 @@
     "6d0ab017-8399-4b5c-978e-99e5d0f1b248": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Mechs/Leela/Jump_Start.anim.nasset"
+        "path": "Assets/Characters/Mechs/Leela/Leela_Jump_Start.anim.nasset",
+        "dependencies": [
+            "168dd918-458d-874d-bf82-79ae00ea4a15"
+        ]
     },
     "6edc617e-ef89-47cd-9c16-6708a1286209": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -970,7 +976,16 @@
     "7a87bb9d-d0cc-0883-9cbd-8d005fdae678": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Mechs/Leela/SK_Leela.scene.nasset/SK Leela.mesh.nasset/SK Leela.mesh.nasset"
+        "path": "Assets/Characters/Mechs/Leela/SK_Leela.scene.nasset/SK Leela.mesh.nasset/SK Leela.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0f920536-8057-a096-6e5a-f28d8ed73253",
+            "ea3c164f-7ce7-6062-813d-9a366e5956b6",
+            "37fbb575-41bd-cfef-9662-d086f2365de8",
+            "168dd918-458d-874d-bf82-79ae00ea4a15"
+        ]
     },
     "7cbcf053-014d-f7c5-94f6-17dc5aba705c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1260,10 +1275,7 @@
     "96618b47-c513-4dbe-9ec9-d838e2e4e7e5": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Modular_Toon/AAA_Animations/Avatar_Run.anim.nasset",
-        "dependencies": [
-            "d2579157-f78f-07e4-7de4-bac976c28095"
-        ]
+        "path": "Assets/Characters/Modular_Toon/AAA_Animations/Avatar_Run.anim.nasset"
     },
     "96cca2c6-bdd9-1bcd-9bfa-985e01860de7": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1362,7 +1374,10 @@
     "a8146617-705b-45d8-8081-2fec12d073ef": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Mechs/Leela/Run.anim.nasset"
+        "path": "Assets/Characters/Mechs/Leela/Leela_Run.anim.nasset",
+        "dependencies": [
+            "168dd918-458d-874d-bf82-79ae00ea4a15"
+        ]
     },
     "a99252c6-7e25-4e2c-f3c1-6e30caf7aa2c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1770,7 +1785,10 @@
     "d553038a-3287-4d7a-8c5c-9d5b349af7b6": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Mechs/Leela/Jump_End.anim.nasset"
+        "path": "Assets/Characters/Mechs/Leela/Leela_Jump_End.anim.nasset",
+        "dependencies": [
+            "168dd918-458d-874d-bf82-79ae00ea4a15"
+        ]
     },
     "d7211d59-62dd-3f27-6a02-da852b0a6412": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -1864,7 +1882,10 @@
     "e78262a2-99d6-4383-b4a8-b8839bc12f2e": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Mechs/Leela/Walk.anim.nasset"
+        "path": "Assets/Characters/Mechs/Leela/Leela_Walk.anim.nasset",
+        "dependencies": [
+            "168dd918-458d-874d-bf82-79ae00ea4a15"
+        ]
     },
     "e81c3cb9-ece2-980b-ef40-9d207fce78ba": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1899,11 +1920,15 @@
         ]
     },
     "ea3c164f-7ce7-6062-813d-9a366e5956b6": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Characters/Mechs/Leela/SK_Leela.scene.nasset/SK Leela.mesh.nasset/SK Leela Leela.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0f920536-8057-a096-6e5a-f28d8ed73253",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "ecc83271-e4d6-fdd7-c8be-06b1d63ffa40": {

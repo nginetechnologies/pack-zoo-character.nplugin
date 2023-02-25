@@ -13,5 +13,8 @@
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
             "animation": "25cf799a-060f-4dcf-8993-c95c01cf5735"
         }
+    ],
+    "dependencies": [
+        "168dd918-458d-874d-bf82-79ae00ea4a15"
     ]
 }

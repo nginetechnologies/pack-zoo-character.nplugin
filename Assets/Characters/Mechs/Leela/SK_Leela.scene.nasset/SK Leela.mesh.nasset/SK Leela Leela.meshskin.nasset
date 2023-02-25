@@ -16,5 +16,10 @@
     "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
         "skin": "0f920536-8057-a096-6e5a-f28d8ed73253"
     },
-    "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c"
+    "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+    "dependencies": [
+        "ea3c164f-7ce7-6062-813d-9a366e5956b6",
+        "168dd918-458d-874d-bf82-79ae00ea4a15",
+        "0f920536-8057-a096-6e5a-f28d8ed73253"
+    ]
 }

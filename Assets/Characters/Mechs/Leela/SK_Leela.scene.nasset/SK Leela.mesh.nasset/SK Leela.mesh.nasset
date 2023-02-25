@@ -29,12 +29,12 @@
                 }
             ],
             "children": [
-                        {
+                {
                     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
                     "instanceGuid": "735b64e6-0400-08d6-0fc9-f321324c6f6b",
                     "f6140603-c29e-4bf9-946d-498dba6709ff": {
                         "skeleton": "168dd918-458d-874d-bf82-79ae00ea4a15"
-                        },
+                    },
                     "data_components": [
                         {
                             "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -101,5 +101,15 @@
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "7a87bb9d-d0cc-0883-9cbd-8d005fdae678"
-    }
+    },
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "data_components": [],
+    "dependencies": [
+        "0f920536-8057-a096-6e5a-f28d8ed73253",
+        "ea3c164f-7ce7-6062-813d-9a366e5956b6",
+        "37fbb575-41bd-cfef-9662-d086f2365de8",
+        "168dd918-458d-874d-bf82-79ae00ea4a15"
+    ]
 }
