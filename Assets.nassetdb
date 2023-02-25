@@ -122,11 +122,15 @@
         ]
     },
     "12500ca1-4502-039b-1a4b-019c2e1e9186": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Eyes.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "675f918e-4310-16e0-be95-5b5af81d10e4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "131edb48-37c9-f481-27d3-6933879e77f6": {
@@ -165,7 +169,10 @@
     "193903f3-032a-aadc-c77e-99b9b91b56fa": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Nails.mtli.nasset",
-        "thumbnail": "4a504788-37e8-28a8-1211-d28d6ea4b8bf"
+        "thumbnail": "4a504788-37e8-28a8-1211-d28d6ea4b8bf",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "19b19569-c321-5389-4727-049317369185": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -239,7 +246,12 @@
     "1ed958d9-86fd-5438-5367-02eb2a511744": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Body.meshskin.nasset"
+        "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Body.meshskin.nasset",
+        "dependencies": [
+            "d3c92672-9d37-ecc7-3f78-0cfaa2590b90",
+            "920c0ce0-9f6a-d77d-988e-e674c14dd274",
+            "612482df-ad57-3456-6fc0-8fd0e0a46cc4"
+        ]
     },
     "202013cd-6eed-43d8-8ca4-555b393fb9e9": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -306,7 +318,12 @@
     "27897906-0c10-aa9f-f737-50074c44281a": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Stripe.meshskin.nasset"
+        "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Stripe.meshskin.nasset",
+        "dependencies": [
+            "8069a703-bdfc-7542-bbbb-409f726bb794",
+            "920c0ce0-9f6a-d77d-988e-e674c14dd274",
+            "29c9e618-b209-c8fb-476b-3314bb7421e1"
+        ]
     },
     "2796e215-aaa5-7ba7-94f4-269a19b58f79": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -321,7 +338,10 @@
     "29c9e618-b209-c8fb-476b-3314bb7421e1": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Stripe.mtli.nasset",
-        "thumbnail": "e851ea0c-c5b9-d54f-7f09-63df68bc2f24"
+        "thumbnail": "e851ea0c-c5b9-d54f-7f09-63df68bc2f24",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "2a9a89ac-5f52-6875-519d-8c367db6e877": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -689,7 +709,10 @@
     "612482df-ad57-3456-6fc0-8fd0e0a46cc4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Body.mtli.nasset",
-        "thumbnail": "597e7df6-fe98-adb8-0672-8a184095bf3a"
+        "thumbnail": "597e7df6-fe98-adb8-0672-8a184095bf3a",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "6215d895-0371-36a4-5136-9e2d79984fa4": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -713,7 +736,10 @@
     "675f918e-4310-16e0-be95-5b5af81d10e4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Eyes.mtli.nasset",
-        "thumbnail": "7ed5d857-cb46-7e95-2b62-fdc7b0dba6ae"
+        "thumbnail": "7ed5d857-cb46-7e95-2b62-fdc7b0dba6ae",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "677433ca-643b-46a2-a9a4-ef02513b966c": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -804,6 +830,24 @@
         "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "29c9e618-b209-c8fb-476b-3314bb7421e1",
+            "8069a703-bdfc-7542-bbbb-409f726bb794",
+            "27897906-0c10-aa9f-f737-50074c44281a",
+            "612482df-ad57-3456-6fc0-8fd0e0a46cc4",
+            "d3c92672-9d37-ecc7-3f78-0cfaa2590b90",
+            "1ed958d9-86fd-5438-5367-02eb2a511744",
+            "193903f3-032a-aadc-c77e-99b9b91b56fa",
+            "7526201f-e63d-5444-6733-4e045a46755e",
+            "bf9a204b-ac74-7d7d-35da-8513e172aec6",
+            "675f918e-4310-16e0-be95-5b5af81d10e4",
+            "12500ca1-4502-039b-1a4b-019c2e1e9186",
+            "bb850203-f577-a93c-48c5-d31a1e0a25f0",
+            "80c6f587-c367-a7e3-4384-732f6b7c3523",
+            "ca075ef7-5701-fb03-243f-4554388b52ce",
+            "8f149a5c-82e5-25da-9e1b-fae1907f3672",
+            "920c0ce0-9f6a-d77d-988e-e674c14dd274"
         ]
     },
     "72312694-0e4d-3177-383e-3396724592ed": {
@@ -863,11 +907,15 @@
         ]
     },
     "7526201f-e63d-5444-6733-4e045a46755e": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Nails.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "193903f3-032a-aadc-c77e-99b9b91b56fa",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "7900fc0a-1be1-4179-80be-dbce2cb90f23": {
@@ -927,17 +975,24 @@
         ]
     },
     "8069a703-bdfc-7542-bbbb-409f726bb794": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Stripe.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "29c9e618-b209-c8fb-476b-3314bb7421e1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "80c6f587-c367-a7e3-4384-732f6b7c3523": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/White.mtli.nasset",
-        "thumbnail": "a99252c6-7e25-4e2c-f3c1-6e30caf7aa2c"
+        "thumbnail": "a99252c6-7e25-4e2c-f3c1-6e30caf7aa2c",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "83195458-9254-4684-8116-cf1337fca832": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -1101,7 +1156,12 @@
     "8f149a5c-82e5-25da-9e1b-fae1907f3672": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien White.meshskin.nasset"
+        "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien White.meshskin.nasset",
+        "dependencies": [
+            "ca075ef7-5701-fb03-243f-4554388b52ce",
+            "920c0ce0-9f6a-d77d-988e-e674c14dd274",
+            "80c6f587-c367-a7e3-4384-732f6b7c3523"
+        ]
     },
     "90e44ec0-d423-f268-58ad-e13fe95c6a4a": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -1323,7 +1383,10 @@
     "af68ea42-01df-65dd-3197-a7308494cfc5": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK_Alien.scene.nasset"
+        "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK_Alien.scene.nasset",
+        "dependencies": [
+            "71947905-93bd-4e26-9eff-6be5475eb61b"
+        ]
     },
     "b2e8f78b-d4bc-2fd3-94ab-5f5c6863b5ff": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -1434,7 +1497,12 @@
     "bb850203-f577-a93c-48c5-d31a1e0a25f0": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Eyes.meshskin.nasset"
+        "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Eyes.meshskin.nasset",
+        "dependencies": [
+            "12500ca1-4502-039b-1a4b-019c2e1e9186",
+            "920c0ce0-9f6a-d77d-988e-e674c14dd274",
+            "675f918e-4310-16e0-be95-5b5af81d10e4"
+        ]
     },
     "bb9b1f01-7b1a-f3f4-1c67-b5831cc8221b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1488,7 +1556,12 @@
     "bf9a204b-ac74-7d7d-35da-8513e172aec6": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Nails.meshskin.nasset"
+        "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Nails.meshskin.nasset",
+        "dependencies": [
+            "7526201f-e63d-5444-6733-4e045a46755e",
+            "920c0ce0-9f6a-d77d-988e-e674c14dd274",
+            "193903f3-032a-aadc-c77e-99b9b91b56fa"
+        ]
     },
     "c01c9183-3d06-6b3d-869d-6f71acfeda45": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -1570,11 +1643,15 @@
         ]
     },
     "ca075ef7-5701-fb03-243f-4554388b52ce": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien White.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "80c6f587-c367-a7e3-4384-732f6b7c3523",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "cea8bcd0-aad2-d8f8-9064-f84a3af9dd39": {
@@ -1627,11 +1704,15 @@
         "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Thumbnails/Blue 700.mtli.nasset.tex.nasset"
     },
     "d3c92672-9d37-ecc7-3f78-0cfaa2590b90": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/SK Alien Body.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "612482df-ad57-3456-6fc0-8fd0e0a46cc4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "d5171a71-2a8d-0881-0c44-ff58b6853071": {
@@ -1676,7 +1757,10 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Modular_Toon/Alien/Alien Player.scene.nasset",
-        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f",
+        "dependencies": [
+            "71947905-93bd-4e26-9eff-6be5475eb61b"
+        ]
     },
     "e05e8d3d-368c-47db-8efe-4ad404d4bd2f": {
         "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",

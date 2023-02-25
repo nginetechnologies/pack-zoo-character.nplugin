@@ -33,5 +33,9 @@
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "af68ea42-01df-65dd-3197-a7308494cfc5"
-    }
+    },
+    "source": "../SK_Alien.fbx",
+    "dependencies": [
+        "71947905-93bd-4e26-9eff-6be5475eb61b"
+    ]
 }
