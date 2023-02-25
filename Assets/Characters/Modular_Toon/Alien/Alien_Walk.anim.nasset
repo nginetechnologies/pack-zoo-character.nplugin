@@ -11,18 +11,7 @@
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
             "animation": "3d9becb1-7c03-4ffb-bf9d-212fbaaefaae"
-        },
-        {
-            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": "3d9becb1-7c03-4ffb-bf9d-212fbaaefaae"
-        },
-        {
-            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": "3d9becb1-7c03-4ffb-bf9d-212fbaaefaae"
         }
     ],
-    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-    "dependencies": [
-        "920c0ce0-9f6a-d77d-988e-e674c14dd274"
-    ]
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
 }
