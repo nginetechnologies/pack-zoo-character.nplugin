@@ -1,17 +1,24 @@
 {
-    "source": "A_Monster_Idle.fbx",
-    "skeleton": "2faa50ba-2b11-bfcc-3046-66d06f31f36c",
+    "source": "A_Avatar_Idle.fbx",
+    "skeleton": "d2579157-f78f-07e4-7de4-bac976c28095",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": "2faa50ba-2b11-bfcc-3046-66d06f31f36c"
+        "skeleton": "d2579157-f78f-07e4-7de4-bac976c28095"
     },
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": "677433ca-643b-46a2-a9a4-ef02513b966c"
+            "animation": "152a8f27-1122-4f41-91b9-1d662a9363ee"
+        },
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "152a8f27-1122-4f41-91b9-1d662a9363ee"
         }
     ],
-    "guid": "677433ca-643b-46a2-a9a4-ef02513b966c",
-    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+    "guid": "152a8f27-1122-4f41-91b9-1d662a9363ee",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "d2579157-f78f-07e4-7de4-bac976c28095"
+    ]
 }
