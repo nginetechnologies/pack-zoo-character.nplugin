@@ -7,6 +7,69 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "005eef08-8837-2699-f864-f62a5ed7fdb8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Belt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f9597621-63fa-c4f3-3498-ca1ca984e49f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "00bd77c2-90a0-a82c-0ac7-89319c76ecda": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Ninja Main.mtli.nasset",
+        "thumbnail": "415f9c5c-d88e-2dba-a2f9-8ad4823e8d11",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "0151e565-2704-515e-ef61-5c49391a17f4": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Ninja Armband.mtli.nasset",
+        "thumbnail": "cde7ff5d-cb60-cce5-b6b7-910f27aef759",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "01672b1c-f6a9-f919-f136-a59c870b280b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0151e565-2704-515e-ef61-5c49391a17f4",
+            "2c1fe583-73b7-725b-d9da-502584b5f799",
+            "982c92f2-e708-dd0e-f680-eba3ea4e26c3",
+            "00bd77c2-90a0-a82c-0ac7-89319c76ecda",
+            "33898a5b-006a-7212-0e05-84dc4c107272",
+            "be4f109b-ea0e-de67-6ad1-95dba9ef150f",
+            "e5e117a8-292a-40dd-4f7c-4ef612656214",
+            "06270684-bfae-a251-8759-c8bc47a7a83b",
+            "8aa3d46a-7d6c-61e1-8770-d3eea44895e9",
+            "d96c4bf4-c727-58f5-1c4b-b64a123c8278",
+            "9e1b9b91-2303-75e8-a337-7a2f2de759aa",
+            "4744bfc9-44d6-2c71-7357-079b0a9c5016",
+            "5eb18411-3984-0976-65d8-e85f83b311c5",
+            "99fe199c-46b1-4f87-3053-be0a6ded12fc",
+            "75ae4cfa-b0e7-24d1-29f3-ef95a08338bf",
+            "1eecb370-ad46-3f4b-6034-089550e52e9a",
+            "23ad9335-3592-e612-628a-bd551a06f19d",
+            "0e6235e6-0b61-c009-dd14-b600f2915037",
+            "fe46405c-0581-e9fe-18b1-6997c31039e6",
+            "50825539-6e25-5eaf-80c5-ebcdef7d732d",
+            "ee8d5d74-9ae6-c8ee-9b6e-2ac1bba5a653",
+            "f9597621-63fa-c4f3-3498-ca1ca984e49f",
+            "005eef08-8837-2699-f864-f62a5ed7fdb8",
+            "52ae9588-3619-0f5a-98a2-897affd40f56",
+            "58f9fb42-ee78-d77f-0613-4fb9aeb5999e"
+        ]
+    },
     "03e46a8e-233b-a2df-000e-3fd77f3fcd8c": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -44,6 +107,18 @@
         "dependencies": [
             "ac0befd3-fdfd-491c-a266-f5a5a1ebd6b5",
             "24dcf608-bd37-bd03-566c-73f765076704"
+        ]
+    },
+    "06270684-bfae-a251-8759-c8bc47a7a83b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Gold.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e5e117a8-292a-40dd-4f7c-4ef612656214",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "062eb09e-9e46-2923-be83-e717af5c2e27": {
@@ -127,6 +202,16 @@
     "0d2c4d51-328b-50ab-8b2a-d526797bbd37": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Thumbnails/Fuschia 600.mtli.nasset.tex.nasset"
+    },
+    "0e6235e6-0b61-c009-dd14-b600f2915037": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Eye Black.meshskin.nasset",
+        "dependencies": [
+            "23ad9335-3592-e612-628a-bd551a06f19d",
+            "58f9fb42-ee78-d77f-0613-4fb9aeb5999e",
+            "1eecb370-ad46-3f4b-6034-089550e52e9a"
+        ]
     },
     "0f0d4dde-d741-37eb-bc55-91e0d8369dc9": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -227,6 +312,14 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Leela/SK_Leela.scene.nasset/SK Leela.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "176b3f49-21ba-4348-c06a-b775823c9f77": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK_Ninja.scene.nasset",
+        "dependencies": [
+            "01672b1c-f6a9-f919-f136-a59c870b280b"
+        ]
+    },
     "193903f3-032a-aadc-c77e-99b9b91b56fa": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Nails.mtli.nasset",
@@ -314,6 +407,14 @@
             "612482df-ad57-3456-6fc0-8fd0e0a46cc4"
         ]
     },
+    "1eecb370-ad46-3f4b-6034-089550e52e9a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Ninja Eye Black.mtli.nasset",
+        "thumbnail": "44c062d8-0b24-f957-f6ad-e785abc3f622",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "202013cd-6eed-43d8-8ca4-555b393fb9e9": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -329,6 +430,18 @@
     "21caada7-6734-bbf4-f09b-aaba522d8ef6": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Monsters/Big/AAA_Animations/Material Instances/Base Eye.mtli.nasset"
+    },
+    "23ad9335-3592-e612-628a-bd551a06f19d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Eye Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "1eecb370-ad46-3f4b-6034-089550e52e9a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "24b91fc4-ae66-b040-5fba-604acac3ea81": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -425,6 +538,18 @@
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Characters/Monsters/Big/AAA_Animations/SK_Monster_Base.scene.nasset/SK Monster Base.mesh.nasset/SK Monster Base Base Tongue.meshskin.nasset"
     },
+    "2c1fe583-73b7-725b-d9da-502584b5f799": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Armband.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0151e565-2704-515e-ef61-5c49391a17f4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "2f7463ff-ce46-e370-d3cb-e08821bbd775": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -464,6 +589,18 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Monsters/Big/Yeti/Material Instances/Thumbnails/Yeti Main.mtli.nasset.tex.nasset"
     },
+    "33898a5b-006a-7212-0e05-84dc4c107272": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "00bd77c2-90a0-a82c-0ac7-89319c76ecda",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "35e510e8-58bc-cbbd-8a02-09c10599ed7a": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -495,6 +632,10 @@
             "168dd918-458d-874d-bf82-79ae00ea4a15",
             "0f920536-8057-a096-6e5a-f28d8ed73253"
         ]
+    },
+    "38761bef-e7c2-9e25-796c-cf1570ba1c9c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Thumbnails/Ninja Eye White.mtli.nasset.tex.nasset"
     },
     "39f30485-744a-3be6-6042-10f790a50f6e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -602,6 +743,10 @@
             "fec32bda-a322-95d7-c053-183da76a678e"
         ]
     },
+    "415f9c5c-d88e-2dba-a2f9-8ad4823e8d11": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Thumbnails/Ninja Main.mtli.nasset.tex.nasset"
+    },
     "429bebc4-eb54-c946-a7b6-2a8e2b5ada01": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Heist/Material Instances/Pants.mtli.nasset",
@@ -626,6 +771,10 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "44c062d8-0b24-f957-f6ad-e785abc3f622": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Thumbnails/Ninja Eye Black.mtli.nasset.tex.nasset"
+    },
     "4513cf74-a08d-6964-cc0f-7adfe459be14": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -645,6 +794,16 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Monsters/Big/AAA_Animations/Monster_Jump_Loop.anim.nasset"
+    },
+    "4744bfc9-44d6-2c71-7357-079b0a9c5016": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Eye White.meshskin.nasset",
+        "dependencies": [
+            "9e1b9b91-2303-75e8-a337-7a2f2de759aa",
+            "58f9fb42-ee78-d77f-0613-4fb9aeb5999e",
+            "d96c4bf4-c727-58f5-1c4b-b64a123c8278"
+        ]
     },
     "47a445de-cbf0-af0b-7d92-cb4e9718012b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -757,6 +916,18 @@
             "5d811aae-aa46-e655-1b5f-73bc4e23cfae"
         ]
     },
+    "50825539-6e25-5eaf-80c5-ebcdef7d732d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Skin.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "fe46405c-0581-e9fe-18b1-6997c31039e6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "5088ff58-acd5-3da2-14f5-dfb5ce27141c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Monsters/Rounded/Penguin/Textures/T_Penguin_D.tex.nasset"
@@ -777,6 +948,16 @@
             "308c1076-00b0-6ee2-adf5-dc2df48dafc4",
             "062eb09e-9e46-2923-be83-e717af5c2e27",
             "a5917b54-a1f4-d747-ae67-b33bfd6002cf"
+        ]
+    },
+    "52ae9588-3619-0f5a-98a2-897affd40f56": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Belt.meshskin.nasset",
+        "dependencies": [
+            "005eef08-8837-2699-f864-f62a5ed7fdb8",
+            "58f9fb42-ee78-d77f-0613-4fb9aeb5999e",
+            "f9597621-63fa-c4f3-3498-ca1ca984e49f"
         ]
     },
     "5383edbe-0e6c-9c1e-bdb0-03291b98f472": {
@@ -883,6 +1064,14 @@
     "5df2ba05-a7ec-890e-d9a7-80d330a70f25": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Mechs/Robot/Material Instances/Thumbnails/Main.mtli.nasset.tex.nasset"
+    },
+    "5eb18411-3984-0976-65d8-e85f83b311c5": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Ninja Sword Blade.mtli.nasset",
+        "thumbnail": "b0de64e5-58b3-d57f-6a57-03a7f3446a49",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "5ebd00f3-f1d8-5115-93c3-41b05ac3e934": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -1187,6 +1376,10 @@
             "ea8416b1-7173-fe38-575d-35ac0b97b420"
         ]
     },
+    "74d26751-2710-6d59-8473-4925f2593bde": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Animals/Spider/Material Instances/Thumbnails/Spider Main.mtli.nasset.tex.nasset"
+    },
     "74d3494f-799b-d256-edd8-0e7a7013c43c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/AAA_Animations/Material Instances/Skin.mtli.nasset",
@@ -1224,6 +1417,20 @@
             "193903f3-032a-aadc-c77e-99b9b91b56fa",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "75ae4cfa-b0e7-24d1-29f3-ef95a08338bf": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Sword Blade.meshskin.nasset",
+        "dependencies": [
+            "99fe199c-46b1-4f87-3053-be0a6ded12fc",
+            "58f9fb42-ee78-d77f-0613-4fb9aeb5999e",
+            "5eb18411-3984-0976-65d8-e85f83b311c5"
+        ]
+    },
+    "76bc5c1e-6765-6312-133b-ce9f0032d14b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Thumbnails/Ninja Belt.mtli.nasset.tex.nasset"
     },
     "776c3a90-f78a-7595-8eba-64612af04020": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1302,6 +1509,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Thumbnails/Eyes.mtli.nasset.tex.nasset"
     },
+    "7f19aab2-8f21-8520-e5cc-e9507b836619": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Thumbnails/Ninja Skin.mtli.nasset.tex.nasset"
+    },
     "7f7cbcd8-4777-29c5-4ac0-286e913b8e90": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1356,6 +1567,10 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Monsters/Rounded/AAA_Animations/Ball_Run.anim.nasset"
+    },
+    "83ba8884-4092-9ddb-1af0-0217cf07aa13": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Animals/Spider/Material Instances/Thumbnails/Spider Eyes.mtli.nasset.tex.nasset"
     },
     "84891c54-24c4-9fdb-3f3e-f67e500895fb": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1430,6 +1645,7 @@
     "8700bd7c-cd10-9736-bd46-b3cd8cb5a065": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Animals/Spider/Material Instances/Spider Eyes.mtli.nasset",
+        "thumbnail": "83ba8884-4092-9ddb-1af0-0217cf07aa13",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1454,6 +1670,15 @@
         "dependencies": [
             "133799e8-3433-9aba-fda8-2fa6aea1d41b",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "88078735-a97c-4758-9d4f-ae8852aa852b": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Monsters/Big/Ninja/Ninja Player.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f",
+        "dependencies": [
+            "01672b1c-f6a9-f919-f136-a59c870b280b"
         ]
     },
     "8946c7d6-af91-02b3-747c-f0264b7b6169": {
@@ -1510,6 +1735,16 @@
             "8946c7d6-af91-02b3-747c-f0264b7b6169",
             "4e16005c-0939-813e-7248-b7c3a9a6359f",
             "704dd06d-c505-ee41-1783-77680c7841a4"
+        ]
+    },
+    "8aa3d46a-7d6c-61e1-8770-d3eea44895e9": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Gold.meshskin.nasset",
+        "dependencies": [
+            "06270684-bfae-a251-8759-c8bc47a7a83b",
+            "58f9fb42-ee78-d77f-0613-4fb9aeb5999e",
+            "e5e117a8-292a-40dd-4f7c-4ef612656214"
         ]
     },
     "8b238638-fdd7-1c17-29ca-5d235968a15a": {
@@ -1702,6 +1937,16 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "982c92f2-e708-dd0e-f680-eba3ea4e26c3": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Armband.meshskin.nasset",
+        "dependencies": [
+            "2c1fe583-73b7-725b-d9da-502584b5f799",
+            "58f9fb42-ee78-d77f-0613-4fb9aeb5999e",
+            "0151e565-2704-515e-ef61-5c49391a17f4"
+        ]
+    },
     "98d24f28-2e31-4af0-b53f-d822f158d3cd": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Monsters/Big/AAA_Animations/Material Instances/Base Pupil.mtli.nasset"
@@ -1714,6 +1959,18 @@
             "26aab986-ecd8-2e5b-fa20-bbba9afad2fd",
             "704dd06d-c505-ee41-1783-77680c7841a4",
             "06dec0af-b15e-e429-4431-19474b509e54"
+        ]
+    },
+    "99fe199c-46b1-4f87-3053-be0a6ded12fc": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Sword Blade.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5eb18411-3984-0976-65d8-e85f83b311c5",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "9afb1e9a-0fbe-4246-b3ed-1a8a517c5d81": {
@@ -1743,6 +2000,18 @@
         "path": "Assets/Characters/Modular_Toon/Witch/SK_Witch.scene.nasset/SK_Witch.scene.nasset",
         "dependencies": [
             "b57cbaf8-ec47-b96e-5d76-b7667109ba97"
+        ]
+    },
+    "9e1b9b91-2303-75e8-a337-7a2f2de759aa": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Eye White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d96c4bf4-c727-58f5-1c4b-b64a123c8278",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "9ffad4a7-9e88-e2de-e584-cf61da338119": {
@@ -1860,6 +2129,10 @@
         "dependencies": [
             "71947905-93bd-4e26-9eff-6be5475eb61b"
         ]
+    },
+    "b0de64e5-58b3-d57f-6a57-03a7f3446a49": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Thumbnails/Ninja Sword Blade.mtli.nasset.tex.nasset"
     },
     "b2a933c9-5ae1-ac22-b6c6-8bcb61b2e90e": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -1997,6 +2270,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Heist/Material Instances/Thumbnails/Blue Grey.mtli.nasset.tex.nasset"
     },
+    "ba87fa94-3822-0d76-81c5-f75c9fc1f987": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Animals/Spider/Material Instances/Thumbnails/Spider White.mtli.nasset.tex.nasset"
+    },
     "bb850203-f577-a93c-48c5-d31a1e0a25f0": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -2049,6 +2326,16 @@
             "af66922c-f5da-b617-85be-d66f5c4f886f",
             "d2579157-f78f-07e4-7de4-bac976c28095",
             "74d4681d-7dd2-fa92-b9e9-066526acae54"
+        ]
+    },
+    "be4f109b-ea0e-de67-6ad1-95dba9ef150f": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Main.meshskin.nasset",
+        "dependencies": [
+            "33898a5b-006a-7212-0e05-84dc4c107272",
+            "58f9fb42-ee78-d77f-0613-4fb9aeb5999e",
+            "00bd77c2-90a0-a82c-0ac7-89319c76ecda"
         ]
     },
     "bf1f97e5-65ce-fde7-0608-5acc27aded7d": {
@@ -2115,6 +2402,10 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Voxel/Danny/SK_Danny.scene.nasset/SK Danny.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "c5314602-afee-7ecc-ac68-9ce2dc62115d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Animals/Spider/Material Instances/Thumbnails/Spider Secondary.mtli.nasset.tex.nasset"
+    },
     "c5519ec4-f0ce-25cf-48d2-bc4f0bc0c8ae": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -2164,6 +2455,7 @@
     "c965188d-d1a2-645a-9663-c08045ae7f92": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Animals/Spider/Material Instances/Spider Main.mtli.nasset",
+        "thumbnail": "74d26751-2710-6d59-8473-4925f2593bde",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -2204,14 +2496,23 @@
     "cc90760b-e510-3b2e-8797-23324b8b1479": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Animals/Spider/Material Instances/Spider Secondary.mtli.nasset",
+        "thumbnail": "c5314602-afee-7ecc-ac68-9ce2dc62115d",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "cde7ff5d-cb60-cce5-b6b7-910f27aef759": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Thumbnails/Ninja Armband.mtli.nasset.tex.nasset"
     },
     "cea8bcd0-aad2-d8f8-9064-f84a3af9dd39": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Monsters/Rounded/Penguin/SK_Ball_Penguin.scene.nasset/SK Ball Penguin.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "cf122f0f-7dc1-29f7-0fa1-9d4264d01a9b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Thumbnails/Ninja Gold.mtli.nasset.tex.nasset"
     },
     "d0ca65b9-493c-16f3-ca50-d37957114135": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -2273,6 +2574,7 @@
     "d40f1667-3ce6-57d4-9042-aa3eec117866": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Animals/Spider/Material Instances/Spider White.mtli.nasset",
+        "thumbnail": "ba87fa94-3822-0d76-81c5-f75c9fc1f987",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -2301,6 +2603,10 @@
             "168dd918-458d-874d-bf82-79ae00ea4a15"
         ]
     },
+    "d597057b-ff1e-c96a-6058-4b37c1ff80f1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Animals/Spider/Material Instances/Thumbnails/Spider Brown.mtli.nasset.tex.nasset"
+    },
     "d7211d59-62dd-3f27-6a02-da852b0a6412": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Extras/Material Instances/Face.mtli.nasset"
@@ -2311,6 +2617,14 @@
         "path": "Assets/Characters/Monsters/Big/AAA_Animations/SK_Monster_Base.scene.nasset/SK Monster Base.mesh.nasset/SK Monster Base Base Pupil.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d96c4bf4-c727-58f5-1c4b-b64a123c8278": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Ninja Eye White.mtli.nasset",
+        "thumbnail": "38761bef-e7c2-9e25-796c-cf1570ba1c9c",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "da5dae06-5230-daba-b483-2e3d57309e76": {
@@ -2397,6 +2711,14 @@
     "e4943a01-19e9-48b0-b516-3deb8c950138": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Monsters/Big/Yeti/Material Instances/Thumbnails/Yeti Armbands.mtli.nasset.tex.nasset"
+    },
+    "e5e117a8-292a-40dd-4f7c-4ef612656214": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Ninja Gold.mtli.nasset",
+        "thumbnail": "cf122f0f-7dc1-29f7-0fa1-9d4264d01a9b",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "e78262a2-99d6-4383-b4a8-b8839bc12f2e": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -2504,6 +2826,7 @@
     "edd3849f-6c09-b06d-ad53-354c61ea972f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Animals/Spider/Material Instances/Spider Brown.mtli.nasset",
+        "thumbnail": "d597057b-ff1e-c96a-6058-4b37c1ff80f1",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -2516,6 +2839,16 @@
             "e96492a8-7f81-969e-ad35-3444f5d4e31d",
             "704dd06d-c505-ee41-1783-77680c7841a4",
             "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa"
+        ]
+    },
+    "ee8d5d74-9ae6-c8ee-9b6e-2ac1bba5a653": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Skin.meshskin.nasset",
+        "dependencies": [
+            "50825539-6e25-5eaf-80c5-ebcdef7d732d",
+            "58f9fb42-ee78-d77f-0613-4fb9aeb5999e",
+            "fe46405c-0581-e9fe-18b1-6997c31039e6"
         ]
     },
     "ee9c3efa-4bd9-01f6-0d7c-20b3e0bcf362": {
@@ -2633,6 +2966,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "f9597621-63fa-c4f3-3498-ca1ca984e49f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Ninja Belt.mtli.nasset",
+        "thumbnail": "76bc5c1e-6765-6312-133b-ce9f0032d14b",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "f9a0b553-8aee-5492-9b96-573c7a263257": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -2682,6 +3023,14 @@
     "fd6e98c9-08bc-106e-c8e8-077bb2bc04c4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Extras/Material Instances/Skin.mtli.nasset"
+    },
+    "fe46405c-0581-e9fe-18b1-6997c31039e6": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Ninja Skin.mtli.nasset",
+        "thumbnail": "7f19aab2-8f21-8520-e5cc-e9507b836619",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "fec32bda-a322-95d7-c053-183da76a678e": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
