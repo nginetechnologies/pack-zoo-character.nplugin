@@ -75,6 +75,16 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Thumbnails/Skin.mtli.nasset.tex.nasset"
     },
+    "0ae3ba40-dad4-b1a1-d551-36d615610376": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Animals/Spider/SK_Spider.scene.nasset/SK Spider.mesh.nasset/SK Spider Spider White.meshskin.nasset",
+        "dependencies": [
+            "63fda3c0-db16-85ef-a17a-f605bdc1c416",
+            "1308dd4f-bebd-1efc-661c-e622cd746e3c",
+            "d40f1667-3ce6-57d4-9042-aa3eec117866"
+        ]
+    },
     "0b1e0e93-80a5-2fe9-550c-b45de80ea20e": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/AAA_Animations/Material Instances/Shirt.mtli.nasset",
@@ -96,6 +106,14 @@
         "path": "Assets/Characters/Modular_Toon/Witch/Run.anim.nasset",
         "dependencies": [
             "dda0686c-bec9-a968-7a9e-8f2208623753"
+        ]
+    },
+    "0c86023b-da7a-45ac-ad62-09740b9a468b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Spider/Spider_Walk.anim.nasset",
+        "dependencies": [
+            "1308dd4f-bebd-1efc-661c-e622cd746e3c"
         ]
     },
     "0cdb3984-07b6-fd49-3325-aef2e42db8e7": {
@@ -141,6 +159,14 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "11945c4b-5f8e-4b51-8fd6-e71d883083fd": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Spider/Spider_Run.anim.nasset",
+        "dependencies": [
+            "1308dd4f-bebd-1efc-661c-e622cd746e3c"
+        ]
+    },
     "123d324f-7f88-433c-9727-bf81366a1573": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -157,6 +183,11 @@
             "675f918e-4310-16e0-be95-5b5af81d10e4",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "1308dd4f-bebd-1efc-661c-e622cd746e3c": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Spider/SK_Spider.scene.nasset/SK Spider.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "131edb48-37c9-f481-27d3-6933879e77f6": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -474,6 +505,18 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Modular_Toon/AAA_Animations/Avatar_Walk.anim.nasset"
     },
+    "3bc02cf0-a806-24b1-2cb8-017e24340678": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Animals/Spider/SK_Spider.scene.nasset/SK Spider.mesh.nasset/SK Spider Spider Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c965188d-d1a2-645a-9663-c08045ae7f92",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "3bed0744-e4ea-36fb-b08a-1471b3322d7f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -678,6 +721,32 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Heist/Walk.anim.nasset"
     },
+    "50179118-2784-13bb-f5ba-b59388a7c630": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Animals/Spider/SK_Spider.scene.nasset/SK Spider.mesh.nasset/SK Spider.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "cc90760b-e510-3b2e-8797-23324b8b1479",
+            "fd2a5dc2-dbe6-0f3a-3fb8-447e7ffd3517",
+            "9216cebd-9ea6-a6d0-b062-129d82cc69a5",
+            "edd3849f-6c09-b06d-ad53-354c61ea972f",
+            "97937c4e-63cf-3143-cc81-91bcf5182b02",
+            "6fed3403-bd8c-40d5-6825-511eea7f412f",
+            "d40f1667-3ce6-57d4-9042-aa3eec117866",
+            "63fda3c0-db16-85ef-a17a-f605bdc1c416",
+            "0ae3ba40-dad4-b1a1-d551-36d615610376",
+            "8700bd7c-cd10-9736-bd46-b3cd8cb5a065",
+            "7c364725-f2b1-e576-3d31-aacb63c16d23",
+            "7e1401a3-5bd6-069f-1209-09eea9eddc41",
+            "c965188d-d1a2-645a-9663-c08045ae7f92",
+            "3bc02cf0-a806-24b1-2cb8-017e24340678",
+            "c297b0cf-fed9-7ea0-b933-810eab73b340",
+            "1308dd4f-bebd-1efc-661c-e622cd746e3c"
+        ]
+    },
     "504170d0-0fea-c35f-c608-a179614c4be1": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -691,6 +760,14 @@
     "5088ff58-acd5-3da2-14f5-dfb5ce27141c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Monsters/Rounded/Penguin/Textures/T_Penguin_D.tex.nasset"
+    },
+    "509a6f21-cfc0-44ae-8bdb-0310fd83179f": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Spider/Spider_Jump End.anim.nasset",
+        "dependencies": [
+            "1308dd4f-bebd-1efc-661c-e622cd746e3c"
+        ]
     },
     "50b5b892-9809-f58e-ab29-19a1a247fdda": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -757,6 +834,14 @@
             "776c3a90-f78a-7595-8eba-64612af04020",
             "a6d631e2-4bae-3bc4-010a-28fab114d884",
             "b2a933c9-5ae1-ac22-b6c6-8bcb61b2e90e"
+        ]
+    },
+    "5bf98f22-233b-3ce5-f54c-73b884387525": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Animals/Spider/SK_Spider.scene.nasset/SK_Spider.scene.nasset",
+        "dependencies": [
+            "50179118-2784-13bb-f5ba-b59388a7c630"
         ]
     },
     "5c7fd010-55ed-d076-2928-a0670849291f": {
@@ -868,9 +953,29 @@
             "7a87bb9d-d0cc-0883-9cbd-8d005fdae678"
         ]
     },
+    "62272817-b009-4942-8b3e-3feafa71b343": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Spider/Spider_Idle.anim.nasset",
+        "dependencies": [
+            "1308dd4f-bebd-1efc-661c-e622cd746e3c"
+        ]
+    },
     "63df2c3f-b3ba-08ee-5762-dfa2225d35af": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Heist/Material Instances/Thumbnails/Hazmat.mtli.nasset.tex.nasset"
+    },
+    "63fda3c0-db16-85ef-a17a-f605bdc1c416": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Animals/Spider/SK_Spider.scene.nasset/SK Spider.mesh.nasset/SK Spider Spider White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d40f1667-3ce6-57d4-9042-aa3eec117866",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "64979109-6b8c-dad4-a608-739fc9fde0cc": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -946,6 +1051,14 @@
             "168dd918-458d-874d-bf82-79ae00ea4a15"
         ]
     },
+    "6eafeba7-15d9-43b6-a118-e471ba367851": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Spider/Spider_Jump Start.anim.nasset",
+        "dependencies": [
+            "1308dd4f-bebd-1efc-661c-e622cd746e3c"
+        ]
+    },
     "6edc617e-ef89-47cd-9c16-6708a1286209": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -961,6 +1074,16 @@
         "dependencies": [
             "b77e5779-902f-4a4c-7eae-2aa55de220a2",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6fed3403-bd8c-40d5-6825-511eea7f412f": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Animals/Spider/SK_Spider.scene.nasset/SK Spider.mesh.nasset/SK Spider Spider Brown.meshskin.nasset",
+        "dependencies": [
+            "97937c4e-63cf-3143-cc81-91bcf5182b02",
+            "1308dd4f-bebd-1efc-661c-e622cd746e3c",
+            "edd3849f-6c09-b06d-ad53-354c61ea972f"
         ]
     },
     "704dd06d-c505-ee41-1783-77680c7841a4": {
@@ -1137,6 +1260,18 @@
             "168dd918-458d-874d-bf82-79ae00ea4a15"
         ]
     },
+    "7c364725-f2b1-e576-3d31-aacb63c16d23": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Animals/Spider/SK_Spider.scene.nasset/SK Spider.mesh.nasset/SK Spider Spider Eyes.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "8700bd7c-cd10-9736-bd46-b3cd8cb5a065",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "7cbcf053-014d-f7c5-94f6-17dc5aba705c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Voxel/Danny/SK_Danny.scene.nasset/SK Danny.mesh.nasset/Thumbnails/SK Danny.mesh.nasset.tex.nasset"
@@ -1151,6 +1286,16 @@
         "dependencies": [
             "717cab1f-ff25-bd86-79f5-1561a8fec4c4",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7e1401a3-5bd6-069f-1209-09eea9eddc41": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Animals/Spider/SK_Spider.scene.nasset/SK Spider.mesh.nasset/SK Spider Spider Eyes.meshskin.nasset",
+        "dependencies": [
+            "7c364725-f2b1-e576-3d31-aacb63c16d23",
+            "1308dd4f-bebd-1efc-661c-e622cd746e3c",
+            "8700bd7c-cd10-9736-bd46-b3cd8cb5a065"
         ]
     },
     "7ed5d857-cb46-7e95-2b62-fdc7b0dba6ae": {
@@ -1280,6 +1425,13 @@
             "776c3a90-f78a-7595-8eba-64612af04020",
             "5b773a0d-c72c-0174-f1d8-1760250a845b",
             "a6d631e2-4bae-3bc4-010a-28fab114d884"
+        ]
+    },
+    "8700bd7c-cd10-9736-bd46-b3cd8cb5a065": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Animals/Spider/Material Instances/Spider Eyes.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "874a756f-a102-a483-54c6-a45579c4caad": {
@@ -1464,6 +1616,16 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK Alien.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "9216cebd-9ea6-a6d0-b062-129d82cc69a5": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Animals/Spider/SK_Spider.scene.nasset/SK Spider.mesh.nasset/SK Spider Spider Secondary.meshskin.nasset",
+        "dependencies": [
+            "fd2a5dc2-dbe6-0f3a-3fb8-447e7ffd3517",
+            "1308dd4f-bebd-1efc-661c-e622cd746e3c",
+            "cc90760b-e510-3b2e-8797-23324b8b1479"
+        ]
+    },
     "94965006-1378-487b-a2a6-c9fa3d71831a": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1518,6 +1680,18 @@
             "9c3aaf3b-d11e-8474-fd58-56248248c2f7",
             "d2579157-f78f-07e4-7de4-bac976c28095",
             "4097c310-ab3a-6544-0e95-41051ca3c2b6"
+        ]
+    },
+    "97937c4e-63cf-3143-cc81-91bcf5182b02": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Animals/Spider/SK_Spider.scene.nasset/SK Spider.mesh.nasset/SK Spider Spider Brown.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "edd3849f-6c09-b06d-ad53-354c61ea972f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "97d8138a-0214-c616-0d91-dccb1f190b2f": {
@@ -1918,6 +2092,16 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Monsters/Big/Yeti/Material Instances/Thumbnails/Yeti Tongue.mtli.nasset.tex.nasset"
     },
+    "c297b0cf-fed9-7ea0-b933-810eab73b340": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Animals/Spider/SK_Spider.scene.nasset/SK Spider.mesh.nasset/SK Spider Spider Main.meshskin.nasset",
+        "dependencies": [
+            "3bc02cf0-a806-24b1-2cb8-017e24340678",
+            "1308dd4f-bebd-1efc-661c-e622cd746e3c",
+            "c965188d-d1a2-645a-9663-c08045ae7f92"
+        ]
+    },
     "c4212bdb-de20-4f00-b97d-76a12658b5f8": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1977,6 +2161,13 @@
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Characters/Monsters/Big/AAA_Animations/SK_Monster_Base.scene.nasset/SK Monster Base.mesh.nasset/SK Monster Base Base Secondary.meshskin.nasset"
     },
+    "c965188d-d1a2-645a-9663-c08045ae7f92": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Animals/Spider/Material Instances/Spider Main.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "c9824c63-8f3c-74f8-4b2b-d96b9536f2ea": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1999,6 +2190,22 @@
         "dependencies": [
             "80c6f587-c367-a7e3-4384-732f6b7c3523",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "cc12ada0-fd0f-4069-ac10-5d286a8598f0": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Animals/Spider/Spider Player.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f",
+        "dependencies": [
+            "b8bf7aa5-05e6-b5e1-8022-e3d399ea6786"
+        ]
+    },
+    "cc90760b-e510-3b2e-8797-23324b8b1479": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Animals/Spider/Material Instances/Spider Secondary.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "cea8bcd0-aad2-d8f8-9064-f84a3af9dd39": {
@@ -2061,6 +2268,13 @@
         "dependencies": [
             "612482df-ad57-3456-6fc0-8fd0e0a46cc4",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d40f1667-3ce6-57d4-9042-aa3eec117866": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Animals/Spider/Material Instances/Spider White.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "d5133a63-dbea-8552-0f57-1369390a55e6": {
@@ -2254,6 +2468,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Voxel/Danny/Material Instances/Thumbnails/Danny.mtli.nasset.tex.nasset"
     },
+    "eceb27d8-c828-4d9a-9b22-69ac813c1fb1": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Spider/Spider_Jump Loop.anim.nasset",
+        "dependencies": [
+            "1308dd4f-bebd-1efc-661c-e622cd746e3c"
+        ]
+    },
     "ed45d85e-760d-2a59-fc4c-ee14b1396fda": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -2275,6 +2497,13 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Monsters/Big/Yeti/Material Instances/Yeti Tongue.mtli.nasset",
         "thumbnail": "c1e76a22-583a-d51c-bca1-f571ceaeea49",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "edd3849f-6c09-b06d-ad53-354c61ea972f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Animals/Spider/Material Instances/Spider Brown.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -2435,6 +2664,18 @@
         ],
         "dependencies": [
             "91140d2e-c27a-bfce-fe42-6b8b96c725cc",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "fd2a5dc2-dbe6-0f3a-3fb8-447e7ffd3517": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Animals/Spider/SK_Spider.scene.nasset/SK Spider.mesh.nasset/SK Spider Spider Secondary.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "cc90760b-e510-3b2e-8797-23324b8b1479",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
