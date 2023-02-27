@@ -226,6 +226,7 @@
     "0f920536-8057-a096-6e5a-f28d8ed73253": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Mechs/Leela/Material Instances/Leela.mtli.nasset",
+        "thumbnail": "a36a2369-c892-5aa1-3158-11657726d504",
         "dependencies": [
             "846a87e3-b738-4471-a336-bcac78e126b1",
             "3eb2bf6e-565d-21c4-745a-4c0c581be823"
@@ -2029,6 +2030,10 @@
     "a356fe33-9b73-0fc6-04db-0a5b3c9158c1": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Monsters/Big/AAA_Animations/Material Instances/Base Tongue.mtli.nasset"
+    },
+    "a36a2369-c892-5aa1-3158-11657726d504": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Mechs/Leela/Material Instances/Thumbnails/Leela.mtli.nasset.tex.nasset"
     },
     "a5917b54-a1f4-d747-ae67-b33bfd6002cf": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
