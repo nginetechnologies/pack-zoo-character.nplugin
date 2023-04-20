@@ -60,7 +60,7 @@
                         {
                             "typeGuid": "0d3920f0-883f-41fc-bf30-2079a383cb27",
                             "positionSpeed": 10.0,
-                            "rotationSpeed": 100.0,
+                            "rotationSpeed": 5.0,
                             "verticalStep": 1.0
                         }
                     ]
