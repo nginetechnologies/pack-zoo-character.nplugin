@@ -1,7 +1,6 @@
 {
     "guid": "3dc053dc-464b-4d4e-89e8-dfc6359cf263",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "274a0aea-93b9-4782-9dab-0b8feae2cd66",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 1024.0
     },
