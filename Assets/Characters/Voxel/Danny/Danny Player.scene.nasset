@@ -142,34 +142,46 @@
                                 },
                                 {
                                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                    "templateInstanceGuid": "75c2a281-875c-f6f3-506c-ac58bf83b0b4"
+                                    "templateInstanceGuid": "25505ea1-b3eb-d6e0-527a-a50bdfd44c87"
                                 }
                             ],
                             "children": [
                                 {
-                                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-                                    "instanceGuid": "97b785be-3829-4440-810f-2b7bc94b70e5",
+                                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                                    "instanceGuid": "411c1e79-722e-426e-96d1-a4a9a566835d",
                                     "data_components": [
                                         {
-                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                            "flags": 4
-                                        },
-                                        {
-                                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
-                                            "move_animations": [
-                                                "5ef10529-012b-4f65-895f-e0e4c0fbce78",
-                                                "e78262a2-99d6-4383-b4a8-b8839bc12f2e",
-                                                "a8146617-705b-45d8-8081-2fec12d073ef"
-                                            ],
-                                            "jump_animations": [
-                                                "6d0ab017-8399-4b5c-978e-99e5d0f1b248",
-                                                "25cf799a-060f-4dcf-8993-c95c01cf5735",
-                                                "d553038a-3287-4d7a-8c5c-9d5b349af7b6"
-                                            ]
-                                        },
-                                        {
                                             "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                            "templateInstanceGuid": "7b8a64e4-9a04-ee09-6a62-106fabab9caf"
+                                            "templateInstanceGuid": "064ec81b-9b47-3851-dc58-5cbf31719e65"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                                            "instanceGuid": "97b785be-3829-4440-810f-2b7bc94b70e5",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "flags": 4
+                                                },
+                                                {
+                                                    "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                                                    "move_animations": [
+                                                        "5ef10529-012b-4f65-895f-e0e4c0fbce78",
+                                                        "e78262a2-99d6-4383-b4a8-b8839bc12f2e",
+                                                        "a8146617-705b-45d8-8081-2fec12d073ef"
+                                                    ],
+                                                    "jump_animations": [
+                                                        "6d0ab017-8399-4b5c-978e-99e5d0f1b248",
+                                                        "25cf799a-060f-4dcf-8993-c95c01cf5735",
+                                                        "d553038a-3287-4d7a-8c5c-9d5b349af7b6"
+                                                    ]
+                                                },
+                                                {
+                                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                    "templateInstanceGuid": "e07158b1-fdbf-8034-429b-03449753d32c"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }

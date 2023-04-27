@@ -139,10 +139,6 @@
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                                     "name": "Yeti character scene"
-                                },
-                                {
-                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                    "templateInstanceGuid": "75c2a281-875c-f6f3-506c-ac58bf83b0b4"
                                 }
                             ]
                         }
