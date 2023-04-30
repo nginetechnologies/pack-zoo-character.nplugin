@@ -213,6 +213,11 @@
             "1eecb370-ad46-3f4b-6034-089550e52e9a"
         ]
     },
+    "0eaeff54-959c-56fc-919f-9706ffedbe64": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Monsters/Rounded/AAA_Animations/SK_Ball.scene.nasset/SK Ball.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
     "0f0d4dde-d741-37eb-bc55-91e0d8369dc9": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -1135,6 +1140,13 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "612e5203-4eaf-f99b-11de-82656df0175e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Characters/Monsters/Rounded/AAA_Animations/SK_Ball.scene.nasset/SK Ball.mesh.nasset/SK Ball.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "6215d895-0371-36a4-5136-9e2d79984fa4": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1166,6 +1178,10 @@
             "d40f1667-3ce6-57d4-9042-aa3eec117866",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "642febeb-a8bf-7a27-05a7-8438a01c9b5f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Characters/Monsters/Rounded/AAA_Animations/SK_Ball.scene.nasset/SK_Ball.scene.nasset"
     },
     "64979109-6b8c-dad4-a608-739fc9fde0cc": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -2013,6 +2029,16 @@
         "dependencies": [
             "d96c4bf4-c727-58f5-1c4b-b64a123c8278",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9ec2eec7-2172-47fa-0a3a-d37c80913c5b": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Rounded/AAA_Animations/SK_Ball.scene.nasset/SK Ball.mesh.nasset/SK Ball Base.meshskin.nasset",
+        "dependencies": [
+            "f4719362-bedc-3636-6155-d659b56396b7",
+            "0eaeff54-959c-56fc-919f-9706ffedbe64",
+            "5383edbe-0e6c-9c1e-bdb0-03291b98f472"
         ]
     },
     "9ffad4a7-9e88-e2de-e584-cf61da338119": {
@@ -2945,6 +2971,18 @@
             "bb9b1f01-7b1a-f3f4-1c67-b5831cc8221b",
             "dda0686c-bec9-a968-7a9e-8f2208623753",
             "f207aea0-315e-6d11-6942-57377279724f"
+        ]
+    },
+    "f4719362-bedc-3636-6155-d659b56396b7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Rounded/AAA_Animations/SK_Ball.scene.nasset/SK Ball.mesh.nasset/SK Ball Base.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5383edbe-0e6c-9c1e-bdb0-03291b98f472",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "f64ca87a-380c-c3f9-ded2-8680aae47c1c": {

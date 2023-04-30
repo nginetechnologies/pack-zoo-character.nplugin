@@ -1,9 +1,9 @@
 {
-    "guid": "74067a11-f582-6aca-8d61-00d849a1ef37",
+    "guid": "642febeb-a8bf-7a27-05a7-8438a01c9b5f",
     "source": "../SK_Ball.fbx",
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "300fab14-648a-9485-11b5-e3c4ed46b189",
+    "instanceGuid": "42f59f1e-1d20-5a0a-2792-41c720079847",
     "data_components": [
         {
             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -13,7 +13,7 @@
     "children": [
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "6e9cafee-b4e4-b2ba-4d3c-9d097fd6deaa",
+            "instanceGuid": "6b980853-5ad0-98e6-b34f-cfd17026efce",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -21,14 +21,14 @@
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "ea8416b1-7173-fe38-575d-35ac0b97b420"
+                "scene": "612e5203-4eaf-f99b-11de-82656df0175e"
             }
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "74067a11-f582-6aca-8d61-00d849a1ef37"
+        "scene": "642febeb-a8bf-7a27-05a7-8438a01c9b5f"
     },
     "dependencies": [
-        "ea8416b1-7173-fe38-575d-35ac0b97b420"
+        "612e5203-4eaf-f99b-11de-82656df0175e"
     ]
 }

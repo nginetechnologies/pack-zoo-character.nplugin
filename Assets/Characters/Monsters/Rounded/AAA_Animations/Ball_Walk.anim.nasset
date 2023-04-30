@@ -1,24 +1,17 @@
 {
-    "guid": "8996d6ba-878b-4112-9aea-c061b9de2cbf",
+    "guid": "40c52940-b405-47f5-b3ea-44e86195056f",
     "source": "A_Ball_Walk.fbx",
-    "skeleton": "ea8416b1-7173-fe38-575d-35ac0b97b420",
-    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "c6995951-4187-05dd-d5f1-adfcbcb45aaf",
+    "skeleton": "0eaeff54-959c-56fc-919f-9706ffedbe64",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "e8f07cff-821c-4f44-b94d-b70a6f081d98",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": "ea8416b1-7173-fe38-575d-35ac0b97b420"
+        "skeleton": "0eaeff54-959c-56fc-919f-9706ffedbe64"
     },
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": "8996d6ba-878b-4112-9aea-c061b9de2cbf"
-        },
-        {
-            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-            "name": "Ball Walk"
+            "animation": "40c52940-b405-47f5-b3ea-44e86195056f"
         }
     ],
-    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "8996d6ba-878b-4112-9aea-c061b9de2cbf"
-    }
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
 }

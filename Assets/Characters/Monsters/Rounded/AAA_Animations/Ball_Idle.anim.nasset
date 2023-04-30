@@ -1,24 +1,17 @@
 {
     "source": "A_Ball_Idle.fbx",
-    "skeleton": "ea8416b1-7173-fe38-575d-35ac0b97b420",
-    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
+    "skeleton": "0eaeff54-959c-56fc-919f-9706ffedbe64",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "d76cc3a7-a151-4e61-acc2-e3cb35decfc2",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": "ea8416b1-7173-fe38-575d-35ac0b97b420"
+        "skeleton": "0eaeff54-959c-56fc-919f-9706ffedbe64"
     },
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": "6edc617e-ef89-47cd-9c16-6708a1286209"
-        },
-        {
-            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-            "name": "Ball Idle"
+            "animation": "8f6d20aa-1841-4a6c-8c0a-a3949f48ea2c"
         }
     ],
-    "guid": "6edc617e-ef89-47cd-9c16-6708a1286209",
-    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "6edc617e-ef89-47cd-9c16-6708a1286209"
-    }
+    "guid": "8f6d20aa-1841-4a6c-8c0a-a3949f48ea2c",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
 }
