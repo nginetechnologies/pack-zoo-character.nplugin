@@ -170,5 +170,23 @@
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "3bed0744-e4ea-36fb-b08a-1471b3322d7f"
-    }
+    },
+    "dependencies": [
+        "69d912d3-1096-6074-9b60-1b8fbcd24954",
+        "8cd68141-b911-363a-5401-9e0276278001",
+        "b2e8f78b-d4bc-2fd3-94ab-5f5c6863b5ff",
+        "6b119aa8-9a73-de85-0d0d-0e077477c66f",
+        "97d8138a-0214-c616-0d91-dccb1f190b2f",
+        "c82adadb-ec69-7884-29a5-cbccdeec9183",
+        "21caada7-6734-bbf4-f09b-aaba522d8ef6",
+        "e36e3801-e95f-825b-0b7d-1636463e984c",
+        "b64668d3-ab2c-c383-47bd-7b9f430ff4fb",
+        "98d24f28-2e31-4af0-b53f-d822f158d3cd",
+        "d954e09e-eefa-f913-02b4-a386c10e4588",
+        "8b238638-fdd7-1c17-29ca-5d235968a15a",
+        "a356fe33-9b73-0fc6-04db-0a5b3c9158c1",
+        "f91aa247-b5f7-4656-55f4-aa9ffe0f7b07",
+        "2b0a5e9d-e66d-5148-b9b2-dc61d06f7690",
+        "2faa50ba-2b11-bfcc-3046-66d06f31f36c"
+    ]
 }
