@@ -44,13 +44,13 @@
                             "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
                             "move_animations": [
                                 "a9f3884c-3026-4742-a788-9c1c91625bd8",
-                                "3d9becb1-7c03-4ffb-bf9d-212fbaaefaae",
-                                "8cf201d8-f8fb-48c8-983f-5a21b94808a9"
+                                "b0277646-6441-437e-a768-9a47e5a64520",
+                                "f100eff4-4f75-4ea4-962b-751f8af415ed"
                             ],
                             "jump_animations": [
-                                "60f04952-be96-4d54-b86c-438a71cf97a9",
-                                "8e0af0cf-e8a0-4822-8d5b-e71862770e2f",
-                                "96e52271-e359-4ec0-a4ab-507d54315cb7"
+                                "20cf6175-5fc4-41fb-938d-08db6a1371a1",
+                                "e85881cb-1f1c-41e8-9073-a8fe2f0b840d",
+                                "34f2f830-ab2c-4ab9-a68f-5e9de49454bc"
                             ]
                         },
                         {
