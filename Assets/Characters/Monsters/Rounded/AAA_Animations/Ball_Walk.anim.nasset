@@ -1,17 +1,20 @@
 {
-    "guid": "40c52940-b405-47f5-b3ea-44e86195056f",
     "source": "A_Ball_Walk.fbx",
     "skeleton": "0eaeff54-959c-56fc-919f-9706ffedbe64",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-    "instanceGuid": "e8f07cff-821c-4f44-b94d-b70a6f081d98",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
         "skeleton": "0eaeff54-959c-56fc-919f-9706ffedbe64"
     },
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": "40c52940-b405-47f5-b3ea-44e86195056f"
+            "animation": "67ffc542-10b9-4a72-a2ae-f13901860142"
         }
     ],
-    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+    "guid": "67ffc542-10b9-4a72-a2ae-f13901860142",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "0eaeff54-959c-56fc-919f-9706ffedbe64"
+    ],
+    "instanceGuid": "4612ca0d-4f5a-2662-ca92-6b71cf394416"
 }
