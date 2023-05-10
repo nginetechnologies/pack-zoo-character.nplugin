@@ -14,7 +14,6 @@
     "children": [
         {
             "typeGuid": "d4e4838b-b9dc-4788-8e33-7316ffef1693",
-            "instanceGuid": "05d8c77e-c827-4bfa-b666-170762eb37d8",
             "d4e4838b-b9dc-4788-8e33-7316ffef1693": {
                 "jumpHeight": 2.0,
                 "walkingSpeed": 2.0,
@@ -34,7 +33,6 @@
             "children": [
                 {
                     "typeGuid": "b0ec7111-5de9-4039-bee2-d915f63f929e",
-                    "instanceGuid": "4ca540b9-a73b-41c2-b993-0a546cb6cb62",
                     "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                         "position": [
                             0,
@@ -67,7 +65,6 @@
                 },
                 {
                     "typeGuid": "1d21d79c-5708-46c9-8e57-ee9e86476b80",
-                    "instanceGuid": "6bc2ecd6-fdc9-5bae-a5c7-5cc849bffc88",
                     "a413cecf-a566-413d-bb01-bd1317cd4bb2": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
                     },
@@ -99,7 +96,6 @@
                     "children": [
                         {
                             "typeGuid": "a87d82b2-1cd5-4b81-8103-85248c61d585",
-                            "instanceGuid": "adeed443-251c-4ae7-b176-49f122eb4a8b",
                             "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                                 "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
                             },
