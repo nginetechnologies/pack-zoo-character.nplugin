@@ -1,0 +1,140 @@
+{
+    "guid": "970aa2c0-fdca-aa64-c48c-844f88e5548c",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "fb1818fa-2993-037f-b4ed-dee7be62c792",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "dca04672-99a9-f237-cd1f-ad430b8bff6b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Stegosaurus Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "ecbcf104-3a7c-81bf-a53a-b9d74a6eddcf",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "22a1a375-592a-4c6e-8832-182d112c4a8d",
+                                "f223cb53-8d3d-4e8f-b5ee-6a59e094a070",
+                                "fdbbef53-9fc9-4657-b30b-4f275db3f28f"
+                            ],
+                            "jump_animations": [
+                                "b05fee07-e982-4053-8025-eeb60b37f02f",
+                                "bfd8055a-9fa1-4d5b-af8f-dfc3822d774c",
+                                "251fee53-555b-4c85-a1b3-df5180e983fa"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "79794989-3781-34d5-423b-1b601e8b8efb",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Stegosaurus Stegosaurus Fins Belly"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f67d9d34-93a4-56e7-4ab9-d08f78a29da4",
+                                "material_instance": "fc46e49f-7ded-b28d-0524-ef3720470407"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "ddb97e42-244e-aba9-d97c-8ebbdcb33b6e"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "81874e33-8e88-30e7-c960-398f9f39386f",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Stegosaurus Stegosaurus Body"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "54d24624-aa4b-41ac-2d3b-6719f839709f",
+                                "material_instance": "476f8b7d-78c7-b065-59bb-07476ddbe9d3"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "bfd02a6d-3213-2d05-1f1b-7dbda5742e7d"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "9b0474d1-7cff-d9c0-bcbe-13a9909963ef",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Stegosaurus Stegosaurus Fins"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d5743c78-1915-c2d9-677d-d22acb2e278a",
+                                "material_instance": "0e17f6b5-5fe5-9a40-3643-1583ecb87cf9"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "b7789727-265d-64a9-6d8e-911e9492c38c"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "3d65b732-ebfc-12da-ec51-362e7a40c166"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "970aa2c0-fdca-aa64-c48c-844f88e5548c"
+    },
+    "dependencies": [
+        "fc46e49f-7ded-b28d-0524-ef3720470407",
+        "f67d9d34-93a4-56e7-4ab9-d08f78a29da4",
+        "ddb97e42-244e-aba9-d97c-8ebbdcb33b6e",
+        "476f8b7d-78c7-b065-59bb-07476ddbe9d3",
+        "54d24624-aa4b-41ac-2d3b-6719f839709f",
+        "bfd02a6d-3213-2d05-1f1b-7dbda5742e7d",
+        "0e17f6b5-5fe5-9a40-3643-1583ecb87cf9",
+        "d5743c78-1915-c2d9-677d-d22acb2e278a",
+        "b7789727-265d-64a9-6d8e-911e9492c38c",
+        "3d65b732-ebfc-12da-ec51-362e7a40c166"
+    ]
+}

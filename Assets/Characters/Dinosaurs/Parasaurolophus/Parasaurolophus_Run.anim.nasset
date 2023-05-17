@@ -1,0 +1,20 @@
+{
+    "source": "A_Parasaurolophus_Run.fbx",
+    "skeleton": "3c728aeb-ffa3-feb9-efb4-1308c9ec4957",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "59a4d0cf-bd7f-08e1-a8a7-42801eeb7102",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "3c728aeb-ffa3-feb9-efb4-1308c9ec4957"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "b27c0b19-bd6a-4129-9d14-0807172e183e"
+        }
+    ],
+    "guid": "b27c0b19-bd6a-4129-9d14-0807172e183e",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "3c728aeb-ffa3-feb9-efb4-1308c9ec4957"
+    ]
+}

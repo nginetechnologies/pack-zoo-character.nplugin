@@ -1,0 +1,140 @@
+{
+    "guid": "e7b304e7-64b0-3ad4-ae5b-3bcb763e55bf",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "a0da7516-6403-2080-2c27-cd3097152b38",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "2be07105-5d6a-058f-97a1-32de938449d7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Velociraptor Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "9f73b3da-5728-0355-9f64-716743439674",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "8e8cd862-f07d-4305-94f8-390bcdd98328",
+                                "29830238-534e-4c24-9688-92e7e9f64763",
+                                "73974afa-8d92-432b-8141-7ffca85e52a5"
+                            ],
+                            "jump_animations": [
+                                "3ec7cdc7-5681-4a02-a3b7-439347cf620d",
+                                "de4ed9a7-4b2f-4314-88c2-ab8f3393fdd1",
+                                "f0ebff09-fc19-4690-aaca-880560975b4a"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "74bb4394-c62f-9517-3379-9192c0a4bc7f",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Velociraptor Raptor Chest"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "23c9d8e5-4ca8-b3ef-ba94-4afacdde5a01",
+                                "material_instance": "16b510d1-7754-fbcd-1a29-325efc9a7c92"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "152dc43f-fd84-bdf5-fe8e-1ed1ad386538"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "ac184350-c16d-3da9-2ab6-2ceddf5bc08d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Velociraptor Raptor Skin"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "64a1a73c-ea96-3cd6-9d29-9797fe7cca71",
+                                "material_instance": "f62fde47-6fc6-9eb3-5833-53bf814426ba"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "2f87f0a2-bae6-e9c1-d813-74caf8cd2321"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "a994094a-7ebf-aa74-d694-3e04931d9b46",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Velociraptor Raptor Toes"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "27b11236-d33f-2453-13f3-202123dd4d74",
+                                "material_instance": "069e5e09-f1a1-153a-f44c-a0af0c731598"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "312e615b-8342-2e44-34d0-2abc019a63ad"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "bc6c4d4b-a05b-6e71-5d0f-7689c128925b"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "e7b304e7-64b0-3ad4-ae5b-3bcb763e55bf"
+    },
+    "dependencies": [
+        "16b510d1-7754-fbcd-1a29-325efc9a7c92",
+        "23c9d8e5-4ca8-b3ef-ba94-4afacdde5a01",
+        "152dc43f-fd84-bdf5-fe8e-1ed1ad386538",
+        "f62fde47-6fc6-9eb3-5833-53bf814426ba",
+        "64a1a73c-ea96-3cd6-9d29-9797fe7cca71",
+        "2f87f0a2-bae6-e9c1-d813-74caf8cd2321",
+        "069e5e09-f1a1-153a-f44c-a0af0c731598",
+        "27b11236-d33f-2453-13f3-202123dd4d74",
+        "312e615b-8342-2e44-34d0-2abc019a63ad",
+        "bc6c4d4b-a05b-6e71-5d0f-7689c128925b"
+    ]
+}

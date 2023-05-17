@@ -1,0 +1,20 @@
+{
+    "source": "A_Stegosaurus_Jump_End.fbx",
+    "skeleton": "3d65b732-ebfc-12da-ec51-362e7a40c166",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "a7edeebb-4fb2-10a7-a89c-c941f4b4f368",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "3d65b732-ebfc-12da-ec51-362e7a40c166"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "251fee53-555b-4c85-a1b3-df5180e983fa"
+        }
+    ],
+    "guid": "251fee53-555b-4c85-a1b3-df5180e983fa",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "3d65b732-ebfc-12da-ec51-362e7a40c166"
+    ]
+}

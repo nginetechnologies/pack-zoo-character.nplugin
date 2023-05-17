@@ -1,0 +1,20 @@
+{
+    "guid": "29830238-534e-4c24-9688-92e7e9f64763",
+    "source": "A_Velociraptor_Walk.fbx",
+    "skeleton": "bc6c4d4b-a05b-6e71-5d0f-7689c128925b",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "c6995951-4187-05dd-d5f1-adfcbcb45aaf",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "bc6c4d4b-a05b-6e71-5d0f-7689c128925b"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "29830238-534e-4c24-9688-92e7e9f64763"
+        }
+    ],
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "bc6c4d4b-a05b-6e71-5d0f-7689c128925b"
+    ]
+}

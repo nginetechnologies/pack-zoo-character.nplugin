@@ -1,0 +1,20 @@
+{
+    "guid": "f2fc4a48-d36c-4f6d-94c4-d8adffd15cb1",
+    "source": "A_Trex_Walk.fbx",
+    "skeleton": "8e676748-0b12-e7c7-d974-4ff4c059a00b",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "c6995951-4187-05dd-d5f1-adfcbcb45aaf",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "8e676748-0b12-e7c7-d974-4ff4c059a00b"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "f2fc4a48-d36c-4f6d-94c4-d8adffd15cb1"
+        }
+    ],
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "8e676748-0b12-e7c7-d974-4ff4c059a00b"
+    ]
+}

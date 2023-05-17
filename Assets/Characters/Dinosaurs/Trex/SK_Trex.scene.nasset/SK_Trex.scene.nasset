@@ -1,0 +1,34 @@
+{
+    "guid": "f72634f3-643d-89eb-0bf6-e7fdea65b4f9",
+    "source": "../SK_Trex.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "cf616518-627b-7843-da87-150e24599224",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Trex"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "70bd6ed7-2806-abd5-34a4-1741c7216ccb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Trex"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "cda990b2-83bb-5692-3b6d-8bb15fcb90db"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "f72634f3-643d-89eb-0bf6-e7fdea65b4f9"
+    },
+    "dependencies": [
+        "cda990b2-83bb-5692-3b6d-8bb15fcb90db"
+    ]
+}

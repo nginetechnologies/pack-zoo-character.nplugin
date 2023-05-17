@@ -1,0 +1,192 @@
+{
+    "guid": "cda990b2-83bb-5692-3b6d-8bb15fcb90db",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "065ba4e6-fa79-123e-a9c4-0c9f03d373e0",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "4b5e5f9d-7076-65c6-06c7-5217254aa72d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Trex Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "eaf6182d-f6aa-9c05-9708-ae0445a4de4a",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "754c4af1-b647-4735-8198-9bebe1c4a719",
+                                "f2fc4a48-d36c-4f6d-94c4-d8adffd15cb1",
+                                "cf2d7841-7b05-4b90-84c1-f701241d98f1"
+                            ],
+                            "jump_animations": [
+                                "fb3d77a8-ef1e-47c5-9cc1-117a726ecfbe",
+                                "9455d160-7279-43c8-8591-8e9874506043",
+                                "bf8c54cf-70ff-460f-b18f-caea84289bc8"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "6d0be5f5-6fd6-4d8c-45e9-5b317d2ba33b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Trex Trex Teeth"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "8eb1e903-8d98-ab9b-8dfc-60c37bd13a7e",
+                                "material_instance": "2c92cf66-75b1-38ef-0eef-c9d80d400822"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "c7dfcb41-e05b-e67c-0f34-ae408e8e43c3"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "3da4e5bd-45eb-949e-7923-5d6b57fc995c",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Trex Trex Belly"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "5e4b71d5-64c5-9f34-c93f-2b0077ea5fe7",
+                                "material_instance": "cde05d69-5fc9-af10-72c4-7370efa03c01"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "130e29a4-f520-580e-6bbf-8fe4efc9e492"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "40015bbd-7f48-ba77-8cfd-33baa2208fae",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Trex Trex Skin"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "9e0da31e-5818-5a5c-9e07-a5b7bc82539d",
+                                "material_instance": "9736396f-6556-53e4-52d8-6357c5a7c802"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "6fb26075-b299-962e-c563-e6bb3221ee4a"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "6a3e5413-b14b-3cad-4673-e3ad0b496d23",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Trex Trex Nails"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4ac160ab-2e42-7193-8984-66e0909a7933",
+                                "material_instance": "317aa5f0-f2af-bd2f-93c9-23d6382f76a5"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "d08b48dc-4dc7-2658-1e84-69e4f6ff50e0"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "ab843fb7-3bd0-9868-98eb-545b6c242c59",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Trex Trex Mouth"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "68a4eabe-4fe8-98ad-bec2-029bd7fb223d",
+                                "material_instance": "c0631c66-38d2-3e30-0d4a-23fe1dec4502"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "f7504f0c-5a3f-4b8d-327f-07e70506d46d"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8e676748-0b12-e7c7-d974-4ff4c059a00b"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "cda990b2-83bb-5692-3b6d-8bb15fcb90db"
+    },
+    "dependencies": [
+        "2c92cf66-75b1-38ef-0eef-c9d80d400822",
+        "8eb1e903-8d98-ab9b-8dfc-60c37bd13a7e",
+        "c7dfcb41-e05b-e67c-0f34-ae408e8e43c3",
+        "cde05d69-5fc9-af10-72c4-7370efa03c01",
+        "5e4b71d5-64c5-9f34-c93f-2b0077ea5fe7",
+        "130e29a4-f520-580e-6bbf-8fe4efc9e492",
+        "9736396f-6556-53e4-52d8-6357c5a7c802",
+        "9e0da31e-5818-5a5c-9e07-a5b7bc82539d",
+        "6fb26075-b299-962e-c563-e6bb3221ee4a",
+        "317aa5f0-f2af-bd2f-93c9-23d6382f76a5",
+        "4ac160ab-2e42-7193-8984-66e0909a7933",
+        "d08b48dc-4dc7-2658-1e84-69e4f6ff50e0",
+        "c0631c66-38d2-3e30-0d4a-23fe1dec4502",
+        "68a4eabe-4fe8-98ad-bec2-029bd7fb223d",
+        "f7504f0c-5a3f-4b8d-327f-07e70506d46d",
+        "8e676748-0b12-e7c7-d974-4ff4c059a00b"
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "guid": "43cf97b1-49a4-2041-8855-3bc6b39b7980",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "5f8616e5-5215-5631-01d4-3bb1d12af880",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "b5a622ab-35b2-2d2d-2497-cc7bd46f25fa",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Parasaurolophus Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "4846c957-fcd3-8d2f-ec0e-804187d30edc",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "526a4c23-35be-4537-a176-b491dc61dbc9",
+                                "e917845d-eb0a-4908-be0f-ba362caaa929",
+                                "b27c0b19-bd6a-4129-9d14-0807172e183e"
+                            ],
+                            "jump_animations": [
+                                "0ab691d9-5e35-4649-be17-64b6187ffafd",
+                                "ff736798-aeba-49d6-a9d0-1468d00dc3e9",
+                                "502be326-7942-4112-93ab-d696bd881344"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "45a5d991-d722-8aa5-b4f3-b45dcac84842",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Parasaurolophus Parasaurolophus Belly"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7525214c-a327-16e4-d384-1943ddef6eaf",
+                                "material_instance": "1ded6e80-1ade-2e14-daea-200e4b05a186"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "f2407175-7007-99e1-a60a-2c25931e982c"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "b6cca458-5dc6-77cc-d00e-2cd65c360449",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Parasaurolophus Parasaurolophus Body"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "bcbaad05-36e3-b008-bbd9-3e4b86494e06",
+                                "material_instance": "8c5d756c-045b-c8c6-ca3d-f30e16450d26"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "8012bc3e-3d80-ce13-4533-a2d8ebb4a26a"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d251540e-79dc-15a1-5d46-5432dd00fe18",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Parasaurolophus Parasaurolophus Nails"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "9879e9fb-04f2-cdd1-5ab4-3120897b1434",
+                                "material_instance": "2d892fd4-ec5e-309c-6a82-8da148ab6e48"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "8e2e9764-5f49-779c-ccb3-2f407501da32"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "beafbcb6-35c3-c981-603c-4b0b7bcd68b4",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Parasaurolophus Parasaurolophus Ridge"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "9d782186-4b81-f3eb-debc-923745c58947",
+                                "material_instance": "555cace4-7a0f-e012-3b96-0474285690af"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "9022b417-09ae-5717-9668-c1aed12d40fd"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "3c728aeb-ffa3-feb9-efb4-1308c9ec4957"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "43cf97b1-49a4-2041-8855-3bc6b39b7980"
+    },
+    "dependencies": [
+        "1ded6e80-1ade-2e14-daea-200e4b05a186",
+        "7525214c-a327-16e4-d384-1943ddef6eaf",
+        "f2407175-7007-99e1-a60a-2c25931e982c",
+        "8c5d756c-045b-c8c6-ca3d-f30e16450d26",
+        "bcbaad05-36e3-b008-bbd9-3e4b86494e06",
+        "8012bc3e-3d80-ce13-4533-a2d8ebb4a26a",
+        "2d892fd4-ec5e-309c-6a82-8da148ab6e48",
+        "9879e9fb-04f2-cdd1-5ab4-3120897b1434",
+        "8e2e9764-5f49-779c-ccb3-2f407501da32",
+        "555cace4-7a0f-e012-3b96-0474285690af",
+        "9d782186-4b81-f3eb-debc-923745c58947",
+        "9022b417-09ae-5717-9668-c1aed12d40fd",
+        "3c728aeb-ffa3-feb9-efb4-1308c9ec4957"
+    ]
+}

@@ -70,6 +70,23 @@
             "58f9fb42-ee78-d77f-0613-4fb9aeb5999e"
         ]
     },
+    "023e8386-78a4-0698-7cd0-e7cbc4c424ff": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Dinosaurs/Stegosaurus/SK_Stegosaurus.scene.nasset/SK_Stegosaurus.scene.nasset",
+        "dependencies": [
+            "970aa2c0-fdca-aa64-c48c-844f88e5548c"
+        ]
+    },
+    "02e34007-17a5-41dc-b6a3-6b7d660c9b87": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Dinosaurs/Triceratops/Triceratops Player.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f",
+        "dependencies": [
+            "b893785f-57e4-fef1-3436-e763cc011156"
+        ]
+    },
     "038d9705-c19c-6454-e74c-b13f6a5bf19c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Monsters/Rounded/Alien/Textures/T_Alien_D.tex.nasset"
@@ -130,6 +147,13 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "069e5e09-f1a1-153a-f44c-a0af0c731598": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Dinosaurs/Velociraptor/Material Instances/Raptor Toes.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "06dec0af-b15e-e429-4431-19474b509e54": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Heist/Material Instances/Character Main.mtli.nasset",
@@ -153,6 +177,14 @@
     "0840c848-b03c-926a-6755-38ffa687c03f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Thumbnails/Skin.mtli.nasset.tex.nasset"
+    },
+    "0ab691d9-5e35-4649-be17-64b6187ffafd": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Parasaurolophus/Parasaurolophus_Jump_Start.anim.nasset",
+        "dependencies": [
+            "3c728aeb-ffa3-feb9-efb4-1308c9ec4957"
+        ]
     },
     "0ae3ba40-dad4-b1a1-d551-36d615610376": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -216,6 +248,13 @@
     "0d2c4d51-328b-50ab-8b2a-d526797bbd37": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Thumbnails/Fuschia 600.mtli.nasset.tex.nasset"
+    },
+    "0e17f6b5-5fe5-9a40-3643-1583ecb87cf9": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Dinosaurs/Stegosaurus/Material Instances/Stegosaurus Fins.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "0e6235e6-0b61-c009-dd14-b600f2915037": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -297,6 +336,16 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Animals/Spider/SK_Spider.scene.nasset/SK Spider.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "130e29a4-f520-580e-6bbf-8fe4efc9e492": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Dinosaurs/Trex/SK_Trex.scene.nasset/SK Trex.mesh.nasset/SK Trex Trex Belly.meshskin.nasset",
+        "dependencies": [
+            "5e4b71d5-64c5-9f34-c93f-2b0077ea5fe7",
+            "8e676748-0b12-e7c7-d974-4ff4c059a00b",
+            "cde05d69-5fc9-af10-72c4-7370efa03c01"
+        ]
+    },
     "131edb48-37c9-f481-27d3-6933879e77f6": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Mechs/Robot/Material Instances/Silver.mtli.nasset",
@@ -324,6 +373,16 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Modular_Toon/AAA_Animations/Avatar_Idle.anim.nasset"
     },
+    "152dc43f-fd84-bdf5-fe8e-1ed1ad386538": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Dinosaurs/Velociraptor/SK_Velociraptor.scene.nasset/SK Velociraptor.mesh.nasset/SK Velociraptor Raptor Chest.meshskin.nasset",
+        "dependencies": [
+            "23c9d8e5-4ca8-b3ef-ba94-4afacdde5a01",
+            "bc6c4d4b-a05b-6e71-5d0f-7689c128925b",
+            "16b510d1-7754-fbcd-1a29-325efc9a7c92"
+        ]
+    },
     "16238f9f-05b2-1c9d-b50b-bbe1a3c66b24": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -340,6 +399,13 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Leela/SK_Leela.scene.nasset/SK Leela.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "16b510d1-7754-fbcd-1a29-325efc9a7c92": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Dinosaurs/Velociraptor/Material Instances/Raptor Chest.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "176b3f49-21ba-4348-c06a-b775823c9f77": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -362,6 +428,16 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Monsters/Rounded/Alien/Ball Alien Player.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+    },
+    "19af4918-0890-72f3-1d1a-a98847658d95": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Dinosaurs/Triceratops/SK_Triceratops.scene.nasset/SK Triceratops.mesh.nasset/SK Triceratops Purple.meshskin.nasset",
+        "dependencies": [
+            "7705a633-79d4-8567-b29c-c2fdfbbc2385",
+            "add9eeac-039d-8c56-5381-6e886b6b3b0e",
+            "7ba29c6c-d48a-5fd0-7200-31442793658c"
+        ]
     },
     "19b19569-c321-5389-4727-049317369185": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -390,6 +466,15 @@
             "9c3aaf3b-d11e-8474-fd58-56248248c2f7",
             "96f90fdd-0cbf-d23e-d557-5c930e30588f",
             "d2579157-f78f-07e4-7de4-bac976c28095"
+        ]
+    },
+    "19cf1add-fd28-4722-b536-f6a8c0957ba6": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Dinosaurs/Trex/Trex Player.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f",
+        "dependencies": [
+            "cda990b2-83bb-5692-3b6d-8bb15fcb90db"
         ]
     },
     "19ec2653-bc4f-8a11-f0bc-6073056225d1": {
@@ -428,6 +513,13 @@
             "b800e499-d7e5-2329-b255-904483eae751",
             "d2579157-f78f-07e4-7de4-bac976c28095",
             "74d3494f-799b-d256-edd8-0e7a7013c43c"
+        ]
+    },
+    "1ded6e80-1ade-2e14-daea-200e4b05a186": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Dinosaurs/Parasaurolophus/Material Instances/Parasaurolophus Belly.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "1e582fb0-4f30-4c8d-fab7-bc23eb2d3243": {
@@ -490,6 +582,14 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "22a1a375-592a-4c6e-8832-182d112c4a8d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Stegosaurus/Stegosaurus_Idle.anim.nasset",
+        "dependencies": [
+            "3d65b732-ebfc-12da-ec51-362e7a40c166"
+        ]
+    },
     "23ad9335-3592-e612-628a-bd551a06f19d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -499,6 +599,30 @@
         ],
         "dependencies": [
             "1eecb370-ad46-3f4b-6034-089550e52e9a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "23c9d8e5-4ca8-b3ef-ba94-4afacdde5a01": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Dinosaurs/Velociraptor/SK_Velociraptor.scene.nasset/SK Velociraptor.mesh.nasset/SK Velociraptor Raptor Chest.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "16b510d1-7754-fbcd-1a29-325efc9a7c92",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "242e71af-9549-bc3c-db6e-a315c15dd71b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Dinosaurs/Triceratops/SK_Triceratops.scene.nasset/SK Triceratops.mesh.nasset/SK Triceratops Triceratops Horns.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "352e12bc-f3e6-c9d1-4ab2-31282ad2d7bf",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -512,6 +636,14 @@
     "24dcf608-bd37-bd03-566c-73f765076704": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Voxel/Danny/Textures/T_Player_D.tex.nasset"
+    },
+    "251fee53-555b-4c85-a1b3-df5180e983fa": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Stegosaurus/Stegosaurus_Jump_End.anim.nasset",
+        "dependencies": [
+            "3d65b732-ebfc-12da-ec51-362e7a40c166"
+        ]
     },
     "25b3d9d7-65a0-4b79-8f76-16b8b4affdf3": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -576,9 +708,29 @@
             "24b91fc4-ae66-b040-5fba-604acac3ea81"
         ]
     },
+    "27b11236-d33f-2453-13f3-202123dd4d74": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Dinosaurs/Velociraptor/SK_Velociraptor.scene.nasset/SK Velociraptor.mesh.nasset/SK Velociraptor Raptor Toes.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "069e5e09-f1a1-153a-f44c-a0af0c731598",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "295dc61d-2f3d-57bc-9e54-2f6670374672": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Monsters/Big/Yeti/Material Instances/Thumbnails/Yeti Secondary.mtli.nasset.tex.nasset"
+    },
+    "29830238-534e-4c24-9688-92e7e9f64763": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Velociraptor/Velociraptor_Walk.anim.nasset",
+        "dependencies": [
+            "bc6c4d4b-a05b-6e71-5d0f-7689c128925b"
+        ]
     },
     "29c9e618-b209-c8fb-476b-3314bb7421e1": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -614,6 +766,20 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "2c92cf66-75b1-38ef-0eef-c9d80d400822": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Dinosaurs/Trex/Material Instances/Trex Teeth.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "2d892fd4-ec5e-309c-6a82-8da148ab6e48": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Dinosaurs/Parasaurolophus/Material Instances/Parasaurolophus Nails.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "2f7463ff-ce46-e370-d3cb-e08821bbd775": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -622,6 +788,16 @@
             "724f1717-733a-1e08-7254-9dc8e6a47d09",
             "c50b45c1-4d5a-6d62-6fa9-1d7614e1d959",
             "04923f94-6d3d-a296-66e1-c36f6eb6ca70"
+        ]
+    },
+    "2f87f0a2-bae6-e9c1-d813-74caf8cd2321": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Dinosaurs/Velociraptor/SK_Velociraptor.scene.nasset/SK Velociraptor.mesh.nasset/SK Velociraptor Raptor Skin.meshskin.nasset",
+        "dependencies": [
+            "64a1a73c-ea96-3cd6-9d29-9797fe7cca71",
+            "bc6c4d4b-a05b-6e71-5d0f-7689c128925b",
+            "f62fde47-6fc6-9eb3-5833-53bf814426ba"
         ]
     },
     "2faa50ba-2b11-bfcc-3046-66d06f31f36c": {
@@ -649,9 +825,26 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "312e615b-8342-2e44-34d0-2abc019a63ad": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Dinosaurs/Velociraptor/SK_Velociraptor.scene.nasset/SK Velociraptor.mesh.nasset/SK Velociraptor Raptor Toes.meshskin.nasset",
+        "dependencies": [
+            "27b11236-d33f-2453-13f3-202123dd4d74",
+            "bc6c4d4b-a05b-6e71-5d0f-7689c128925b",
+            "069e5e09-f1a1-153a-f44c-a0af0c731598"
+        ]
+    },
     "31323076-4fc3-d882-6289-4539d94b5b3a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Monsters/Big/Yeti/Material Instances/Thumbnails/Yeti Main.mtli.nasset.tex.nasset"
+    },
+    "317aa5f0-f2af-bd2f-93c9-23d6382f76a5": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Dinosaurs/Trex/Material Instances/Trex Nails.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "3201c0de-d554-49ea-8568-a14bd92c9f65": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -675,6 +868,13 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Voxel/Danny/Jump_End.anim.nasset"
+    },
+    "352e12bc-f3e6-c9d1-4ab2-31282ad2d7bf": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Dinosaurs/Triceratops/Material Instances/Triceratops Horns.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "35e510e8-58bc-cbbd-8a02-09c10599ed7a": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -727,6 +927,25 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Modular_Toon/AAA_Animations/Avatar_Walk.anim.nasset"
     },
+    "3b3c9843-1546-a620-cbf3-8da64b11c400": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Dinosaurs/Triceratops/SK_Triceratops.scene.nasset/SK Triceratops.mesh.nasset/SK Triceratops Triceratops Horns.meshskin.nasset",
+        "dependencies": [
+            "242e71af-9549-bc3c-db6e-a315c15dd71b",
+            "add9eeac-039d-8c56-5381-6e886b6b3b0e",
+            "352e12bc-f3e6-c9d1-4ab2-31282ad2d7bf"
+        ]
+    },
+    "3bbb55b9-5034-4d04-85c6-f0ada21dada8": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Dinosaurs/Parasaurolophus/Parasaurolophus Player.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f",
+        "dependencies": [
+            "43cf97b1-49a4-2041-8855-3bc6b39b7980"
+        ]
+    },
     "3bc02cf0-a806-24b1-2cb8-017e24340678": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -765,6 +984,11 @@
             "2faa50ba-2b11-bfcc-3046-66d06f31f36c"
         ]
     },
+    "3c728aeb-ffa3-feb9-efb4-1308c9ec4957": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Parasaurolophus/SK_Parasaurolophus.scene.nasset/SK Parasaurolophus.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
     "3ce7f640-a04f-761c-8d85-e88f6a3a8052": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -778,6 +1002,11 @@
             "1bc9d122-741a-fe64-a09e-a91d9121f4d3",
             "cea8bcd0-aad2-d8f8-9064-f84a3af9dd39"
         ]
+    },
+    "3d65b732-ebfc-12da-ec51-362e7a40c166": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Stegosaurus/SK_Stegosaurus.scene.nasset/SK Stegosaurus.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "3d9becb1-7c03-4ffb-bf9d-212fbaaefaae": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -796,6 +1025,14 @@
     "3eb2bf6e-565d-21c4-745a-4c0c581be823": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Mechs/Leela/Textures/T_Leela_D.tex.nasset"
+    },
+    "3ec7cdc7-5681-4a02-a3b7-439347cf620d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Velociraptor/Velociraptor_Jump_Start.anim.nasset",
+        "dependencies": [
+            "bc6c4d4b-a05b-6e71-5d0f-7689c128925b"
+        ]
     },
     "3fd0b19f-8763-55ae-ae7c-7e5298afe54f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -870,6 +1107,29 @@
             "dda0686c-bec9-a968-7a9e-8f2208623753"
         ]
     },
+    "43cf97b1-49a4-2041-8855-3bc6b39b7980": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Dinosaurs/Parasaurolophus/SK_Parasaurolophus.scene.nasset/SK Parasaurolophus.mesh.nasset/SK Parasaurolophus.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "1ded6e80-1ade-2e14-daea-200e4b05a186",
+            "7525214c-a327-16e4-d384-1943ddef6eaf",
+            "f2407175-7007-99e1-a60a-2c25931e982c",
+            "8c5d756c-045b-c8c6-ca3d-f30e16450d26",
+            "bcbaad05-36e3-b008-bbd9-3e4b86494e06",
+            "8012bc3e-3d80-ce13-4533-a2d8ebb4a26a",
+            "2d892fd4-ec5e-309c-6a82-8da148ab6e48",
+            "9879e9fb-04f2-cdd1-5ab4-3120897b1434",
+            "8e2e9764-5f49-779c-ccb3-2f407501da32",
+            "555cace4-7a0f-e012-3b96-0474285690af",
+            "9d782186-4b81-f3eb-debc-923745c58947",
+            "9022b417-09ae-5717-9668-c1aed12d40fd",
+            "3c728aeb-ffa3-feb9-efb4-1308c9ec4957"
+        ]
+    },
     "44241c1d-5f63-a2b8-29cb-7fcea2313c98": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Amber 500.mtli.nasset",
@@ -905,6 +1165,14 @@
             "2faa50ba-2b11-bfcc-3046-66d06f31f36c"
         ]
     },
+    "46cda11e-d091-4f92-9175-3acb64b2d203": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Triceratops/Triceratops_Run.anim.nasset",
+        "dependencies": [
+            "add9eeac-039d-8c56-5381-6e886b6b3b0e"
+        ]
+    },
     "4744bfc9-44d6-2c71-7357-079b0a9c5016": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -913,6 +1181,13 @@
             "9e1b9b91-2303-75e8-a337-7a2f2de759aa",
             "58f9fb42-ee78-d77f-0613-4fb9aeb5999e",
             "d96c4bf4-c727-58f5-1c4b-b64a123c8278"
+        ]
+    },
+    "476f8b7d-78c7-b065-59bb-07476ddbe9d3": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Dinosaurs/Stegosaurus/Material Instances/Stegosaurus Body.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "47a445de-cbf0-af0b-7d92-cb4e9718012b": {
@@ -955,12 +1230,36 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Thumbnails/Nails.mtli.nasset.tex.nasset"
     },
+    "4ac160ab-2e42-7193-8984-66e0909a7933": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Dinosaurs/Trex/SK_Trex.scene.nasset/SK Trex.mesh.nasset/SK Trex Trex Nails.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "317aa5f0-f2af-bd2f-93c9-23d6382f76a5",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "4b97998e-3017-c833-ce30-50f096a35d8d": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Monsters/Rounded/Penguin/SK_Ball_Penguin.scene.nasset/SK_Ball_Penguin.scene.nasset",
         "dependencies": [
             "3ce7f640-a04f-761c-8d85-e88f6a3a8052"
+        ]
+    },
+    "4cb1b44c-062a-4374-95c1-28bb6d66f295": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Dinosaurs/Velociraptor/Velociraptor Player.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "e7b304e7-64b0-3ad4-ae5b-3bcb763e55bf"
         ]
     },
     "4d397e44-ed9a-c373-477c-1e4f98687556": {
@@ -1022,6 +1321,14 @@
             "1308dd4f-bebd-1efc-661c-e622cd746e3c"
         ]
     },
+    "502be326-7942-4112-93ab-d696bd881344": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Parasaurolophus/Parasaurolophus_Jump_End.anim.nasset",
+        "dependencies": [
+            "3c728aeb-ffa3-feb9-efb4-1308c9ec4957"
+        ]
+    },
     "504170d0-0fea-c35f-c608-a179614c4be1": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -1066,6 +1373,14 @@
             "a5917b54-a1f4-d747-ae67-b33bfd6002cf"
         ]
     },
+    "526a4c23-35be-4537-a176-b491dc61dbc9": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Parasaurolophus/Parasaurolophus_Idle.anim.nasset",
+        "dependencies": [
+            "3c728aeb-ffa3-feb9-efb4-1308c9ec4957"
+        ]
+    },
     "52ae9588-3619-0f5a-98a2-897affd40f56": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -1079,6 +1394,25 @@
     "5383edbe-0e6c-9c1e-bdb0-03291b98f472": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Monsters/Rounded/AAA_Animations/Material Instances/Base.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "54d24624-aa4b-41ac-2d3b-6719f839709f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Dinosaurs/Stegosaurus/SK_Stegosaurus.scene.nasset/SK Stegosaurus.mesh.nasset/SK Stegosaurus Stegosaurus Body.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "476f8b7d-78c7-b065-59bb-07476ddbe9d3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "555cace4-7a0f-e012-3b96-0474285690af": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Dinosaurs/Parasaurolophus/Material Instances/Parasaurolophus Ridge.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1177,9 +1511,29 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "5de90641-6aaf-4abb-ac16-ee0e1eb32da8": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Triceratops/Triceratops_Jump_End.anim.nasset",
+        "dependencies": [
+            "add9eeac-039d-8c56-5381-6e886b6b3b0e"
+        ]
+    },
     "5df2ba05-a7ec-890e-d9a7-80d330a70f25": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Mechs/Robot/Material Instances/Thumbnails/Main.mtli.nasset.tex.nasset"
+    },
+    "5e4b71d5-64c5-9f34-c93f-2b0077ea5fe7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Dinosaurs/Trex/SK_Trex.scene.nasset/SK Trex.mesh.nasset/SK Trex Trex Belly.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "cde05d69-5fc9-af10-72c4-7370efa03c01",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "5eb18411-3984-0976-65d8-e85f83b311c5": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -1314,6 +1668,18 @@
             "30a2fad9-4d16-0bc0-6062-2e027cff9ede"
         ]
     },
+    "64a1a73c-ea96-3cd6-9d29-9797fe7cca71": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Dinosaurs/Velociraptor/SK_Velociraptor.scene.nasset/SK Velociraptor.mesh.nasset/SK Velociraptor Raptor Skin.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f62fde47-6fc6-9eb3-5833-53bf814426ba",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "675f918e-4310-16e0-be95-5b5af81d10e4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Eyes.mtli.nasset",
@@ -1336,6 +1702,18 @@
         "path": "Assets/Characters/Monsters/Rounded/AAA_Animations/Ball_Walk.anim.nasset",
         "dependencies": [
             "0eaeff54-959c-56fc-919f-9706ffedbe64"
+        ]
+    },
+    "68a4eabe-4fe8-98ad-bec2-029bd7fb223d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Dinosaurs/Trex/SK_Trex.scene.nasset/SK Trex.mesh.nasset/SK Trex Trex Mouth.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c0631c66-38d2-3e30-0d4a-23fe1dec4502",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "69bc925c-3013-4d5b-f4d6-222f5937f904": {
@@ -1413,6 +1791,16 @@
         "dependencies": [
             "b77e5779-902f-4a4c-7eae-2aa55de220a2",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6fb26075-b299-962e-c563-e6bb3221ee4a": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Dinosaurs/Trex/SK_Trex.scene.nasset/SK Trex.mesh.nasset/SK Trex Trex Skin.meshskin.nasset",
+        "dependencies": [
+            "9e0da31e-5818-5a5c-9e07-a5b7bc82539d",
+            "8e676748-0b12-e7c7-d974-4ff4c059a00b",
+            "9736396f-6556-53e4-52d8-6357c5a7c802"
         ]
     },
     "6fed3403-bd8c-40d5-6825-511eea7f412f": {
@@ -1508,6 +1896,14 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "73974afa-8d92-432b-8141-7ffca85e52a5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Velociraptor/Velociraptor_Run.anim.nasset",
+        "dependencies": [
+            "bc6c4d4b-a05b-6e71-5d0f-7689c128925b"
+        ]
+    },
     "73b5a02d-41ac-a6c2-b88e-b04dc75d5392": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -1548,6 +1944,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "7525214c-a327-16e4-d384-1943ddef6eaf": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Dinosaurs/Parasaurolophus/SK_Parasaurolophus.scene.nasset/SK Parasaurolophus.mesh.nasset/SK Parasaurolophus Parasaurolophus Belly.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "1ded6e80-1ade-2e14-daea-200e4b05a186",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "7526201f-e63d-5444-6733-4e045a46755e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1558,6 +1966,14 @@
         "dependencies": [
             "193903f3-032a-aadc-c77e-99b9b91b56fa",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "754c4af1-b647-4735-8198-9bebe1c4a719": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Trex/Trex_Idle.anim.nasset",
+        "dependencies": [
+            "8e676748-0b12-e7c7-d974-4ff4c059a00b"
         ]
     },
     "75ae4cfa-b0e7-24d1-29f3-ef95a08338bf": {
@@ -1573,6 +1989,18 @@
     "76bc5c1e-6765-6312-133b-ce9f0032d14b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Thumbnails/Ninja Belt.mtli.nasset.tex.nasset"
+    },
+    "7705a633-79d4-8567-b29c-c2fdfbbc2385": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Dinosaurs/Triceratops/SK_Triceratops.scene.nasset/SK Triceratops.mesh.nasset/SK Triceratops Purple.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "7ba29c6c-d48a-5fd0-7200-31442793658c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "77580f0b-6568-f33e-4a4b-08ee58078601": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1621,6 +2049,13 @@
             "ea3c164f-7ce7-6062-813d-9a366e5956b6",
             "37fbb575-41bd-cfef-9662-d086f2365de8",
             "168dd918-458d-874d-bf82-79ae00ea4a15"
+        ]
+    },
+    "7ba29c6c-d48a-5fd0-7200-31442793658c": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Dinosaurs/Triceratops/Material Instances/Purple.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "7c364725-f2b1-e576-3d31-aacb63c16d23": {
@@ -1681,6 +2116,16 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "8012bc3e-3d80-ce13-4533-a2d8ebb4a26a": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Dinosaurs/Parasaurolophus/SK_Parasaurolophus.scene.nasset/SK Parasaurolophus.mesh.nasset/SK Parasaurolophus Parasaurolophus Body.meshskin.nasset",
+        "dependencies": [
+            "bcbaad05-36e3-b008-bbd9-3e4b86494e06",
+            "3c728aeb-ffa3-feb9-efb4-1308c9ec4957",
+            "8c5d756c-045b-c8c6-ca3d-f30e16450d26"
+        ]
+    },
     "805b6222-d556-04ae-5ee3-6bc2c3dfd6d0": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -1707,6 +2152,13 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/White.mtli.nasset",
         "thumbnail": "a99252c6-7e25-4e2c-f3c1-6e30caf7aa2c",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "81c4b1b3-4526-98c2-4d4e-194b11a4a9df": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Dinosaurs/Triceratops/Material Instances/Triceratops Trim.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1903,6 +2355,13 @@
             "98d24f28-2e31-4af0-b53f-d822f158d3cd"
         ]
     },
+    "8c5d756c-045b-c8c6-ca3d-f30e16450d26": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Dinosaurs/Parasaurolophus/Material Instances/Parasaurolophus Body.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "8cd68141-b911-363a-5401-9e0276278001": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1941,12 +2400,35 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Modular_Toon/Alien/Alien_Jump_Loop.anim.nasset"
     },
+    "8e2e9764-5f49-779c-ccb3-2f407501da32": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Dinosaurs/Parasaurolophus/SK_Parasaurolophus.scene.nasset/SK Parasaurolophus.mesh.nasset/SK Parasaurolophus Parasaurolophus Nails.meshskin.nasset",
+        "dependencies": [
+            "9879e9fb-04f2-cdd1-5ab4-3120897b1434",
+            "3c728aeb-ffa3-feb9-efb4-1308c9ec4957",
+            "2d892fd4-ec5e-309c-6a82-8da148ab6e48"
+        ]
+    },
     "8e4c6d61-b043-0f8e-bf0c-5640a7ee71d2": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Monsters/Rounded/Penguin/Material Instances/Penguin.mtli.nasset",
         "dependencies": [
             "846a87e3-b738-4471-a336-bcac78e126b1",
             "5088ff58-acd5-3da2-14f5-dfb5ce27141c"
+        ]
+    },
+    "8e676748-0b12-e7c7-d974-4ff4c059a00b": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Trex/SK_Trex.scene.nasset/SK Trex.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "8e8cd862-f07d-4305-94f8-390bcdd98328": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Velociraptor/Velociraptor_Idle.anim.nasset",
+        "dependencies": [
+            "bc6c4d4b-a05b-6e71-5d0f-7689c128925b"
         ]
     },
     "8e93a32b-22f1-8f62-1957-d0d4950efe31": {
@@ -1958,6 +2440,18 @@
         ],
         "dependencies": [
             "5619f6ac-abd8-5fa5-d60a-9ba5db40360b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8eb1e903-8d98-ab9b-8dfc-60c37bd13a7e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Dinosaurs/Trex/SK_Trex.scene.nasset/SK Trex.mesh.nasset/SK Trex Trex Teeth.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2c92cf66-75b1-38ef-0eef-c9d80d400822",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -1985,6 +2479,16 @@
             "ca075ef7-5701-fb03-243f-4554388b52ce",
             "920c0ce0-9f6a-d77d-988e-e674c14dd274",
             "80c6f587-c367-a7e3-4384-732f6b7c3523"
+        ]
+    },
+    "9022b417-09ae-5717-9668-c1aed12d40fd": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Dinosaurs/Parasaurolophus/SK_Parasaurolophus.scene.nasset/SK Parasaurolophus.mesh.nasset/SK Parasaurolophus Parasaurolophus Ridge.meshskin.nasset",
+        "dependencies": [
+            "9d782186-4b81-f3eb-debc-923745c58947",
+            "3c728aeb-ffa3-feb9-efb4-1308c9ec4957",
+            "555cace4-7a0f-e012-3b96-0474285690af"
         ]
     },
     "906bff30-d089-b901-28e7-f1f6bc430ec4": {
@@ -2029,6 +2533,22 @@
             "fd2a5dc2-dbe6-0f3a-3fb8-447e7ffd3517",
             "1308dd4f-bebd-1efc-661c-e622cd746e3c",
             "cc90760b-e510-3b2e-8797-23324b8b1479"
+        ]
+    },
+    "9304ccdf-89fb-d918-4601-622d2d1f9677": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Dinosaurs/Velociraptor/SK_Velociraptor.scene.nasset/SK_Velociraptor.scene.nasset",
+        "dependencies": [
+            "e7b304e7-64b0-3ad4-ae5b-3bcb763e55bf"
+        ]
+    },
+    "9455d160-7279-43c8-8591-8e9874506043": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Trex/Trex_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "8e676748-0b12-e7c7-d974-4ff4c059a00b"
         ]
     },
     "94965006-1378-487b-a2a6-c9fa3d71831a": {
@@ -2087,6 +2607,33 @@
             "4097c310-ab3a-6544-0e95-41051ca3c2b6"
         ]
     },
+    "970aa2c0-fdca-aa64-c48c-844f88e5548c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Dinosaurs/Stegosaurus/SK_Stegosaurus.scene.nasset/SK Stegosaurus.mesh.nasset/SK Stegosaurus.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "fc46e49f-7ded-b28d-0524-ef3720470407",
+            "f67d9d34-93a4-56e7-4ab9-d08f78a29da4",
+            "ddb97e42-244e-aba9-d97c-8ebbdcb33b6e",
+            "476f8b7d-78c7-b065-59bb-07476ddbe9d3",
+            "54d24624-aa4b-41ac-2d3b-6719f839709f",
+            "bfd02a6d-3213-2d05-1f1b-7dbda5742e7d",
+            "0e17f6b5-5fe5-9a40-3643-1583ecb87cf9",
+            "d5743c78-1915-c2d9-677d-d22acb2e278a",
+            "b7789727-265d-64a9-6d8e-911e9492c38c",
+            "3d65b732-ebfc-12da-ec51-362e7a40c166"
+        ]
+    },
+    "9736396f-6556-53e4-52d8-6357c5a7c802": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Dinosaurs/Trex/Material Instances/Trex Skin.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "97937c4e-63cf-3143-cc81-91bcf5182b02": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2119,6 +2666,18 @@
             "2c1fe583-73b7-725b-d9da-502584b5f799",
             "58f9fb42-ee78-d77f-0613-4fb9aeb5999e",
             "0151e565-2704-515e-ef61-5c49391a17f4"
+        ]
+    },
+    "9879e9fb-04f2-cdd1-5ab4-3120897b1434": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Dinosaurs/Parasaurolophus/SK_Parasaurolophus.scene.nasset/SK Parasaurolophus.mesh.nasset/SK Parasaurolophus Parasaurolophus Nails.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2d892fd4-ec5e-309c-6a82-8da148ab6e48",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "98d24f28-2e31-4af0-b53f-d822f158d3cd": {
@@ -2171,6 +2730,30 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "9d782186-4b81-f3eb-debc-923745c58947": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Dinosaurs/Parasaurolophus/SK_Parasaurolophus.scene.nasset/SK Parasaurolophus.mesh.nasset/SK Parasaurolophus Parasaurolophus Ridge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "555cace4-7a0f-e012-3b96-0474285690af",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9e0da31e-5818-5a5c-9e07-a5b7bc82539d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Dinosaurs/Trex/SK_Trex.scene.nasset/SK Trex.mesh.nasset/SK Trex Trex Skin.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9736396f-6556-53e4-52d8-6357c5a7c802",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "9e130da2-d478-ce8d-002c-436ef2e06688": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2218,6 +2801,18 @@
         "thumbnail": "f1557775-89e3-c818-29a8-8231b967eb27",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "a65dd105-d3b4-bb86-7393-cdbd7cc2e33e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Dinosaurs/Triceratops/SK_Triceratops.scene.nasset/SK Triceratops.mesh.nasset/SK Triceratops Triceratops Trim.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "81c4b1b3-4526-98c2-4d4e-194b11a4a9df",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "a778f972-f56d-0a42-3465-c851e1713681": {
@@ -2295,6 +2890,11 @@
             "2faa50ba-2b11-bfcc-3046-66d06f31f36c"
         ]
     },
+    "add9eeac-039d-8c56-5381-6e886b6b3b0e": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Triceratops/SK_Triceratops.scene.nasset/SK Triceratops.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
     "af66922c-f5da-b617-85be-d66f5c4f886f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2320,9 +2920,33 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Voxel/Danny/Walk.anim.nasset"
     },
+    "b05fee07-e982-4053-8025-eeb60b37f02f": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Stegosaurus/Stegosaurus_Jump_Start.anim.nasset",
+        "dependencies": [
+            "3d65b732-ebfc-12da-ec51-362e7a40c166"
+        ]
+    },
     "b0de64e5-58b3-d57f-6a57-03a7f3446a49": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Thumbnails/Ninja Sword Blade.mtli.nasset.tex.nasset"
+    },
+    "b0e336fb-9336-4be6-b04b-be902191d190": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Triceratops/Triceratops_Idle.anim.nasset",
+        "dependencies": [
+            "add9eeac-039d-8c56-5381-6e886b6b3b0e"
+        ]
+    },
+    "b27c0b19-bd6a-4129-9d14-0807172e183e": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Parasaurolophus/Parasaurolophus_Run.anim.nasset",
+        "dependencies": [
+            "3c728aeb-ffa3-feb9-efb4-1308c9ec4957"
+        ]
     },
     "b2a933c9-5ae1-ac22-b6c6-8bcb61b2e90e": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -2409,6 +3033,16 @@
             "21caada7-6734-bbf4-f09b-aaba522d8ef6"
         ]
     },
+    "b7789727-265d-64a9-6d8e-911e9492c38c": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Dinosaurs/Stegosaurus/SK_Stegosaurus.scene.nasset/SK Stegosaurus.mesh.nasset/SK Stegosaurus Stegosaurus Fins.meshskin.nasset",
+        "dependencies": [
+            "d5743c78-1915-c2d9-677d-d22acb2e278a",
+            "3d65b732-ebfc-12da-ec51-362e7a40c166",
+            "0e17f6b5-5fe5-9a40-3643-1583ecb87cf9"
+        ]
+    },
     "b77e5779-902f-4a4c-7eae-2aa55de220a2": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Z Face.mtli.nasset",
@@ -2433,6 +3067,26 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "b893785f-57e4-fef1-3436-e763cc011156": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Dinosaurs/Triceratops/SK_Triceratops.scene.nasset/SK Triceratops.mesh.nasset/SK Triceratops.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "81c4b1b3-4526-98c2-4d4e-194b11a4a9df",
+            "a65dd105-d3b4-bb86-7393-cdbd7cc2e33e",
+            "cbdf5e3a-d005-1df3-43ea-dde9b2ef8757",
+            "7ba29c6c-d48a-5fd0-7200-31442793658c",
+            "7705a633-79d4-8567-b29c-c2fdfbbc2385",
+            "19af4918-0890-72f3-1d1a-a98847658d95",
+            "352e12bc-f3e6-c9d1-4ab2-31282ad2d7bf",
+            "242e71af-9549-bc3c-db6e-a315c15dd71b",
+            "3b3c9843-1546-a620-cbf3-8da64b11c400",
+            "add9eeac-039d-8c56-5381-6e886b6b3b0e"
+        ]
+    },
     "b8bf7aa5-05e6-b5e1-8022-e3d399ea6786": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2444,6 +3098,14 @@
         "thumbnail": "9bfdc526-a49c-7822-9750-8303cfe56ca9",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "b924d59b-386a-aecb-8e70-54ab9d556cae": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Dinosaurs/Parasaurolophus/SK_Parasaurolophus.scene.nasset/SK_Parasaurolophus.scene.nasset",
+        "dependencies": [
+            "43cf97b1-49a4-2041-8855-3bc6b39b7980"
         ]
     },
     "b9c4f19c-b071-4ee5-51fe-645e9c0f8eed": {
@@ -2486,6 +3148,23 @@
         "path": "Assets/Characters/Heist/SK_Heist_Hazmat.scene.nasset/SK_Heist_Hazmat.scene.nasset",
         "dependencies": [
             "f07a06e6-2918-ffb8-7886-1c8e3caa907e"
+        ]
+    },
+    "bc6c4d4b-a05b-6e71-5d0f-7689c128925b": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Velociraptor/SK_Velociraptor.scene.nasset/SK Velociraptor.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "bcbaad05-36e3-b008-bbd9-3e4b86494e06": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Dinosaurs/Parasaurolophus/SK_Parasaurolophus.scene.nasset/SK Parasaurolophus.mesh.nasset/SK Parasaurolophus Parasaurolophus Body.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "8c5d756c-045b-c8c6-ca3d-f30e16450d26",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "bd7c0208-445b-4b6e-bb7f-1fad3b532b61": {
@@ -2533,6 +3212,14 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Heist/Jump_Loop.anim.nasset"
     },
+    "bf8c54cf-70ff-460f-b18f-caea84289bc8": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Trex/Trex_Jump_End.anim.nasset",
+        "dependencies": [
+            "8e676748-0b12-e7c7-d974-4ff4c059a00b"
+        ]
+    },
     "bf9a204b-ac74-7d7d-35da-8513e172aec6": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -2543,12 +3230,37 @@
             "193903f3-032a-aadc-c77e-99b9b91b56fa"
         ]
     },
+    "bfd02a6d-3213-2d05-1f1b-7dbda5742e7d": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Dinosaurs/Stegosaurus/SK_Stegosaurus.scene.nasset/SK Stegosaurus.mesh.nasset/SK Stegosaurus Stegosaurus Body.meshskin.nasset",
+        "dependencies": [
+            "54d24624-aa4b-41ac-2d3b-6719f839709f",
+            "3d65b732-ebfc-12da-ec51-362e7a40c166",
+            "476f8b7d-78c7-b065-59bb-07476ddbe9d3"
+        ]
+    },
+    "bfd8055a-9fa1-4d5b-af8f-dfc3822d774c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Stegosaurus/Stegosaurus_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "3d65b732-ebfc-12da-ec51-362e7a40c166"
+        ]
+    },
     "c01c9183-3d06-6b3d-869d-6f71acfeda45": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Heist/SK_Heist_Enemy.scene.nasset/SK_Heist_Enemy.scene.nasset",
         "dependencies": [
             "abfaf3ed-4ec7-8b5d-6030-6cb81e089ffa"
+        ]
+    },
+    "c0631c66-38d2-3e30-0d4a-23fe1dec4502": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Dinosaurs/Trex/Material Instances/Trex Mouth.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "c0f1f834-6816-10ab-9f20-167de71076cd": {
@@ -2636,6 +3348,16 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Monsters/Big/Yeti/Material Instances/Thumbnails/Yeti Eye White.mtli.nasset.tex.nasset"
     },
+    "c7dfcb41-e05b-e67c-0f34-ae408e8e43c3": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Dinosaurs/Trex/SK_Trex.scene.nasset/SK Trex.mesh.nasset/SK Trex Trex Teeth.meshskin.nasset",
+        "dependencies": [
+            "8eb1e903-8d98-ab9b-8dfc-60c37bd13a7e",
+            "8e676748-0b12-e7c7-d974-4ff4c059a00b",
+            "2c92cf66-75b1-38ef-0eef-c9d80d400822"
+        ]
+    },
     "c82adadb-ec69-7884-29a5-cbccdeec9183": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -2678,6 +3400,16 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "cbdf5e3a-d005-1df3-43ea-dde9b2ef8757": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Dinosaurs/Triceratops/SK_Triceratops.scene.nasset/SK Triceratops.mesh.nasset/SK Triceratops Triceratops Trim.meshskin.nasset",
+        "dependencies": [
+            "a65dd105-d3b4-bb86-7393-cdbd7cc2e33e",
+            "add9eeac-039d-8c56-5381-6e886b6b3b0e",
+            "81c4b1b3-4526-98c2-4d4e-194b11a4a9df"
+        ]
+    },
     "cc12ada0-fd0f-4069-ac10-5d286a8598f0": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2695,6 +3427,39 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "cda990b2-83bb-5692-3b6d-8bb15fcb90db": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Dinosaurs/Trex/SK_Trex.scene.nasset/SK Trex.mesh.nasset/SK Trex.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "2c92cf66-75b1-38ef-0eef-c9d80d400822",
+            "8eb1e903-8d98-ab9b-8dfc-60c37bd13a7e",
+            "c7dfcb41-e05b-e67c-0f34-ae408e8e43c3",
+            "cde05d69-5fc9-af10-72c4-7370efa03c01",
+            "5e4b71d5-64c5-9f34-c93f-2b0077ea5fe7",
+            "130e29a4-f520-580e-6bbf-8fe4efc9e492",
+            "9736396f-6556-53e4-52d8-6357c5a7c802",
+            "9e0da31e-5818-5a5c-9e07-a5b7bc82539d",
+            "6fb26075-b299-962e-c563-e6bb3221ee4a",
+            "317aa5f0-f2af-bd2f-93c9-23d6382f76a5",
+            "4ac160ab-2e42-7193-8984-66e0909a7933",
+            "d08b48dc-4dc7-2658-1e84-69e4f6ff50e0",
+            "c0631c66-38d2-3e30-0d4a-23fe1dec4502",
+            "68a4eabe-4fe8-98ad-bec2-029bd7fb223d",
+            "f7504f0c-5a3f-4b8d-327f-07e70506d46d",
+            "8e676748-0b12-e7c7-d974-4ff4c059a00b"
+        ]
+    },
+    "cde05d69-5fc9-af10-72c4-7370efa03c01": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Dinosaurs/Trex/Material Instances/Trex Belly.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "cde7ff5d-cb60-cce5-b6b7-910f27aef759": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Thumbnails/Ninja Armband.mtli.nasset.tex.nasset"
@@ -2708,6 +3473,24 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Thumbnails/Ninja Gold.mtli.nasset.tex.nasset"
     },
+    "cf2d7841-7b05-4b90-84c1-f701241d98f1": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Trex/Trex_Run.anim.nasset",
+        "dependencies": [
+            "8e676748-0b12-e7c7-d974-4ff4c059a00b"
+        ]
+    },
+    "d08b48dc-4dc7-2658-1e84-69e4f6ff50e0": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Dinosaurs/Trex/SK_Trex.scene.nasset/SK Trex.mesh.nasset/SK Trex Trex Nails.meshskin.nasset",
+        "dependencies": [
+            "4ac160ab-2e42-7193-8984-66e0909a7933",
+            "8e676748-0b12-e7c7-d974-4ff4c059a00b",
+            "317aa5f0-f2af-bd2f-93c9-23d6382f76a5"
+        ]
+    },
     "d0ca65b9-493c-16f3-ca50-d37957114135": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -2716,6 +3499,14 @@
             "fcba0c15-18bd-49e7-95a3-77150a0a9ce1",
             "53d32f7f-0696-cb59-dcf3-e64055737f0e",
             "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa"
+        ]
+    },
+    "d107f9f5-e688-25c1-4f95-10a2f2c3f9a4": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Dinosaurs/Triceratops/SK_Triceratops.scene.nasset/SK_Triceratops.scene.nasset",
+        "dependencies": [
+            "b893785f-57e4-fef1-3436-e763cc011156"
         ]
     },
     "d1453db8-7ce5-41cc-bd6a-b2e0f29c3e82": {
@@ -2795,6 +3586,18 @@
             "168dd918-458d-874d-bf82-79ae00ea4a15"
         ]
     },
+    "d5743c78-1915-c2d9-677d-d22acb2e278a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Dinosaurs/Stegosaurus/SK_Stegosaurus.scene.nasset/SK Stegosaurus.mesh.nasset/SK Stegosaurus Stegosaurus Fins.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0e17f6b5-5fe5-9a40-3643-1583ecb87cf9",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "d597057b-ff1e-c96a-6058-4b37c1ff80f1": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Animals/Spider/Material Instances/Thumbnails/Spider Brown.mtli.nasset.tex.nasset"
@@ -2843,6 +3646,24 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Modular_Toon/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "ddb97e42-244e-aba9-d97c-8ebbdcb33b6e": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Dinosaurs/Stegosaurus/SK_Stegosaurus.scene.nasset/SK Stegosaurus.mesh.nasset/SK Stegosaurus Stegosaurus Fins Belly.meshskin.nasset",
+        "dependencies": [
+            "f67d9d34-93a4-56e7-4ab9-d08f78a29da4",
+            "3d65b732-ebfc-12da-ec51-362e7a40c166",
+            "fc46e49f-7ded-b28d-0524-ef3720470407"
+        ]
+    },
+    "de4ed9a7-4b2f-4314-88c2-ab8f3393fdd1": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Velociraptor/Velociraptor_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "bc6c4d4b-a05b-6e71-5d0f-7689c128925b"
+        ]
     },
     "debbd74c-8411-427d-b37f-c27dfd0fa41a": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -2928,6 +3749,34 @@
             "168dd918-458d-874d-bf82-79ae00ea4a15"
         ]
     },
+    "e787852e-f0a2-4453-a1e4-95093a839d52": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Triceratops/Triceratops_Walk.anim.nasset",
+        "dependencies": [
+            "add9eeac-039d-8c56-5381-6e886b6b3b0e"
+        ]
+    },
+    "e7b304e7-64b0-3ad4-ae5b-3bcb763e55bf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Dinosaurs/Velociraptor/SK_Velociraptor.scene.nasset/SK Velociraptor.mesh.nasset/SK Velociraptor.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "16b510d1-7754-fbcd-1a29-325efc9a7c92",
+            "23c9d8e5-4ca8-b3ef-ba94-4afacdde5a01",
+            "152dc43f-fd84-bdf5-fe8e-1ed1ad386538",
+            "f62fde47-6fc6-9eb3-5833-53bf814426ba",
+            "64a1a73c-ea96-3cd6-9d29-9797fe7cca71",
+            "2f87f0a2-bae6-e9c1-d813-74caf8cd2321",
+            "069e5e09-f1a1-153a-f44c-a0af0c731598",
+            "27b11236-d33f-2453-13f3-202123dd4d74",
+            "312e615b-8342-2e44-34d0-2abc019a63ad",
+            "bc6c4d4b-a05b-6e71-5d0f-7689c128925b"
+        ]
+    },
     "e81c3cb9-ece2-980b-ef40-9d207fce78ba": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2948,6 +3797,14 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Voxel/Danny/Jump_Loop.anim.nasset"
+    },
+    "e917845d-eb0a-4908-be0f-ba362caaa929": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Parasaurolophus/Parasaurolophus_Walk.anim.nasset",
+        "dependencies": [
+            "3c728aeb-ffa3-feb9-efb4-1308c9ec4957"
+        ]
     },
     "e95160b5-9f01-a360-4319-88759e54333f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3088,6 +3945,14 @@
             "53d32f7f-0696-cb59-dcf3-e64055737f0e"
         ]
     },
+    "f0ebff09-fc19-4690-aaca-880560975b4a": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Velociraptor/Velociraptor_Jump_End.anim.nasset",
+        "dependencies": [
+            "bc6c4d4b-a05b-6e71-5d0f-7689c128925b"
+        ]
+    },
     "f100eff4-4f75-4ea4-962b-751f8af415ed": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -3127,6 +3992,32 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "f223cb53-8d3d-4e8f-b5ee-6a59e094a070": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Stegosaurus/Stegosaurus_Walk.anim.nasset",
+        "dependencies": [
+            "3d65b732-ebfc-12da-ec51-362e7a40c166"
+        ]
+    },
+    "f2407175-7007-99e1-a60a-2c25931e982c": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Dinosaurs/Parasaurolophus/SK_Parasaurolophus.scene.nasset/SK Parasaurolophus.mesh.nasset/SK Parasaurolophus Parasaurolophus Belly.meshskin.nasset",
+        "dependencies": [
+            "7525214c-a327-16e4-d384-1943ddef6eaf",
+            "3c728aeb-ffa3-feb9-efb4-1308c9ec4957",
+            "1ded6e80-1ade-2e14-daea-200e4b05a186"
+        ]
+    },
+    "f2fc4a48-d36c-4f6d-94c4-d8adffd15cb1": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Trex/Trex_Walk.anim.nasset",
+        "dependencies": [
+            "8e676748-0b12-e7c7-d974-4ff4c059a00b"
+        ]
+    },
     "f43b1ef0-ca79-fecf-da12-a409c99ad3b3": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -3149,9 +4040,55 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "f62fde47-6fc6-9eb3-5833-53bf814426ba": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Dinosaurs/Velociraptor/Material Instances/Raptor Skin.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "f64ca87a-380c-c3f9-ded2-8680aae47c1c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Thumbnails/Purple 700.mtli.nasset.tex.nasset"
+    },
+    "f67d9d34-93a4-56e7-4ab9-d08f78a29da4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Dinosaurs/Stegosaurus/SK_Stegosaurus.scene.nasset/SK Stegosaurus.mesh.nasset/SK Stegosaurus Stegosaurus Fins Belly.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "fc46e49f-7ded-b28d-0524-ef3720470407",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f72634f3-643d-89eb-0bf6-e7fdea65b4f9": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Dinosaurs/Trex/SK_Trex.scene.nasset/SK_Trex.scene.nasset",
+        "dependencies": [
+            "cda990b2-83bb-5692-3b6d-8bb15fcb90db"
+        ]
+    },
+    "f7504f0c-5a3f-4b8d-327f-07e70506d46d": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Dinosaurs/Trex/SK_Trex.scene.nasset/SK Trex.mesh.nasset/SK Trex Trex Mouth.meshskin.nasset",
+        "dependencies": [
+            "68a4eabe-4fe8-98ad-bec2-029bd7fb223d",
+            "8e676748-0b12-e7c7-d974-4ff4c059a00b",
+            "c0631c66-38d2-3e30-0d4a-23fe1dec4502"
+        ]
+    },
+    "f7c1fdba-3127-4a9b-a88a-4abf8bc5a8ae": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Dinosaurs/Stegosaurus/Stegosaurus Player.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f",
+        "dependencies": [
+            "970aa2c0-fdca-aa64-c48c-844f88e5548c"
+        ]
     },
     "f82886c0-d907-2957-42f4-ddde443b20f2": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3195,6 +4132,21 @@
             "91140d2e-c27a-bfce-fe42-6b8b96c725cc"
         ]
     },
+    "fb3d77a8-ef1e-47c5-9cc1-117a726ecfbe": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Trex/Trex_Jump_Start.anim.nasset",
+        "dependencies": [
+            "8e676748-0b12-e7c7-d974-4ff4c059a00b"
+        ]
+    },
+    "fc46e49f-7ded-b28d-0524-ef3720470407": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Dinosaurs/Stegosaurus/Material Instances/Stegosaurus Fins Belly.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "fcba0c15-18bd-49e7-95a3-77150a0a9ce1": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3231,9 +4183,25 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "fd3e8d89-6e67-4f0c-a790-5d8e7b63736d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Triceratops/Triceratops_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "add9eeac-039d-8c56-5381-6e886b6b3b0e"
+        ]
+    },
     "fd6e98c9-08bc-106e-c8e8-077bb2bc04c4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Extras/Material Instances/Skin.mtli.nasset"
+    },
+    "fdbbef53-9fc9-4657-b30b-4f275db3f28f": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Stegosaurus/Stegosaurus_Run.anim.nasset",
+        "dependencies": [
+            "3d65b732-ebfc-12da-ec51-362e7a40c166"
+        ]
     },
     "fe46405c-0581-e9fe-18b1-6997c31039e6": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -3249,6 +4217,22 @@
         "thumbnail": "63df2c3f-b3ba-08ee-5762-dfa2225d35af",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "ff736798-aeba-49d6-a9d0-1468d00dc3e9": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Parasaurolophus/Parasaurolophus_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "3c728aeb-ffa3-feb9-efb4-1308c9ec4957"
+        ]
+    },
+    "fff5e2d1-e1e2-4951-a0b9-95542fe4aece": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Triceratops/Triceratops_Jump_Start.anim.nasset",
+        "dependencies": [
+            "add9eeac-039d-8c56-5381-6e886b6b3b0e"
         ]
     },
     "guid": "457ff619-747a-42ec-09af-01f6ee736a6b"

@@ -1,0 +1,20 @@
+{
+    "guid": "f223cb53-8d3d-4e8f-b5ee-6a59e094a070",
+    "source": "A_Stegosaurus_Walk.fbx",
+    "skeleton": "3d65b732-ebfc-12da-ec51-362e7a40c166",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "c6995951-4187-05dd-d5f1-adfcbcb45aaf",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "3d65b732-ebfc-12da-ec51-362e7a40c166"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "f223cb53-8d3d-4e8f-b5ee-6a59e094a070"
+        }
+    ],
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "3d65b732-ebfc-12da-ec51-362e7a40c166"
+    ]
+}

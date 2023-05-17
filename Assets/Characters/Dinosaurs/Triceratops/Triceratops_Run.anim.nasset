@@ -1,0 +1,20 @@
+{
+    "source": "A_Triceratops_Run.fbx",
+    "skeleton": "add9eeac-039d-8c56-5381-6e886b6b3b0e",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "59a4d0cf-bd7f-08e1-a8a7-42801eeb7102",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "add9eeac-039d-8c56-5381-6e886b6b3b0e"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "46cda11e-d091-4f92-9175-3acb64b2d203"
+        }
+    ],
+    "guid": "46cda11e-d091-4f92-9175-3acb64b2d203",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "add9eeac-039d-8c56-5381-6e886b6b3b0e"
+    ]
+}

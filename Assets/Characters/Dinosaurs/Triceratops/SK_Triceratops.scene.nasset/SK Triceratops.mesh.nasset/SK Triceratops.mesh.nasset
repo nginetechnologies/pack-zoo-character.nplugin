@@ -1,0 +1,140 @@
+{
+    "guid": "b893785f-57e4-fef1-3436-e763cc011156",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "82e01000-faef-6064-181b-99805c2583dc",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "14b8dc0e-3ab8-8b36-54a9-b9e2b6a81859",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Triceratops Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "99dd236e-0bd2-8115-e8cb-32b2f5a575f4",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "b0e336fb-9336-4be6-b04b-be902191d190",
+                                "e787852e-f0a2-4453-a1e4-95093a839d52",
+                                "46cda11e-d091-4f92-9175-3acb64b2d203"
+                            ],
+                            "jump_animations": [
+                                "fff5e2d1-e1e2-4951-a0b9-95542fe4aece",
+                                "fd3e8d89-6e67-4f0c-a790-5d8e7b63736d",
+                                "5de90641-6aaf-4abb-ac16-ee0e1eb32da8"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "984beee0-cac2-3248-838d-7a4140e6be51",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Triceratops Triceratops Trim"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a65dd105-d3b4-bb86-7393-cdbd7cc2e33e",
+                                "material_instance": "81c4b1b3-4526-98c2-4d4e-194b11a4a9df"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "cbdf5e3a-d005-1df3-43ea-dde9b2ef8757"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "be71b78a-4535-c149-5022-d6a67d897828",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Triceratops Purple"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7705a633-79d4-8567-b29c-c2fdfbbc2385",
+                                "material_instance": "7ba29c6c-d48a-5fd0-7200-31442793658c"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "19af4918-0890-72f3-1d1a-a98847658d95"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "64aa1f17-b6fa-3cd3-800a-cc3826df326d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Triceratops Triceratops Horns"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "242e71af-9549-bc3c-db6e-a315c15dd71b",
+                                "material_instance": "352e12bc-f3e6-c9d1-4ab2-31282ad2d7bf"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "3b3c9843-1546-a620-cbf3-8da64b11c400"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "add9eeac-039d-8c56-5381-6e886b6b3b0e"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "b893785f-57e4-fef1-3436-e763cc011156"
+    },
+    "dependencies": [
+        "81c4b1b3-4526-98c2-4d4e-194b11a4a9df",
+        "a65dd105-d3b4-bb86-7393-cdbd7cc2e33e",
+        "cbdf5e3a-d005-1df3-43ea-dde9b2ef8757",
+        "7ba29c6c-d48a-5fd0-7200-31442793658c",
+        "7705a633-79d4-8567-b29c-c2fdfbbc2385",
+        "19af4918-0890-72f3-1d1a-a98847658d95",
+        "352e12bc-f3e6-c9d1-4ab2-31282ad2d7bf",
+        "242e71af-9549-bc3c-db6e-a315c15dd71b",
+        "3b3c9843-1546-a620-cbf3-8da64b11c400",
+        "add9eeac-039d-8c56-5381-6e886b6b3b0e"
+    ]
+}
