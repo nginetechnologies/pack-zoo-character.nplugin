@@ -83,6 +83,9 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Dinosaurs/Triceratops/Triceratops Player.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
         "dependencies": [
             "b893785f-57e4-fef1-3436-e763cc011156"
         ]
@@ -473,6 +476,9 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Dinosaurs/Trex/Trex Player.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
         "dependencies": [
             "cda990b2-83bb-5692-3b6d-8bb15fcb90db"
         ]
@@ -942,6 +948,9 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Dinosaurs/Parasaurolophus/Parasaurolophus Player.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
         "dependencies": [
             "43cf97b1-49a4-2041-8855-3bc6b39b7980"
         ]
@@ -4086,6 +4095,9 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Dinosaurs/Stegosaurus/Stegosaurus Player.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
         "dependencies": [
             "970aa2c0-fdca-aa64-c48c-844f88e5548c"
         ]
