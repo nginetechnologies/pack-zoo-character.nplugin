@@ -15,7 +15,7 @@
         {
             "typeGuid": "d4e4838b-b9dc-4788-8e33-7316ffef1693",
             "d4e4838b-b9dc-4788-8e33-7316ffef1693": {
-                "jumpHeight": 2.0,
+                "jumpHeight": 1.2,
                 "walkingSpeed": 2.0,
                 "runningSpeed": 4.0,
                 "walkingTurnSpeed": 3.0,
