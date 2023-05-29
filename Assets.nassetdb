@@ -284,6 +284,14 @@
             "5d458fc9-d257-7b83-bae1-34d4170cced2"
         ]
     },
+    "0f920536-8057-a096-6e5a-f28d8ed73253": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Leela/Material Instances/Leela.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "3eb2bf6e-565d-21c4-745a-4c0c581be823"
+        ]
+    },
     "0fd6b31f-62b0-42e3-8ca4-2853d3a7a723": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -388,6 +396,11 @@
             "131edb48-37c9-f481-27d3-6933879e77f6",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "168dd918-458d-874d-bf82-79ae00ea4a15": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Leela/SK_Leela.scene.nasset/SK Leela.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "16b510d1-7754-fbcd-1a29-325efc9a7c92": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -642,6 +655,14 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Modular_Toon/AAA_Animations/Avatar_Jump_End.anim.nasset"
     },
+    "25cf799a-060f-4dcf-8993-c95c01cf5735": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Leela/Leela_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "168dd918-458d-874d-bf82-79ae00ea4a15"
+        ]
+    },
     "25e18331-6a1b-4c35-a314-0968f8f31f9b": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -885,6 +906,16 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "37fbb575-41bd-cfef-9662-d086f2365de8": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Leela/SK_Leela.scene.nasset/SK Leela.mesh.nasset/SK Leela Leela.meshskin.nasset",
+        "dependencies": [
+            "ea3c164f-7ce7-6062-813d-9a366e5956b6",
+            "168dd918-458d-874d-bf82-79ae00ea4a15",
+            "0f920536-8057-a096-6e5a-f28d8ed73253"
+        ]
+    },
     "38761bef-e7c2-9e25-796c-cf1570ba1c9c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Thumbnails/Ninja Eye White.mtli.nasset.tex.nasset"
@@ -1001,6 +1032,10 @@
         "dependencies": [
             "865092ef-727b-5ec1-70b2-fd89fe4ed47e"
         ]
+    },
+    "3eb2bf6e-565d-21c4-745a-4c0c581be823": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Mechs/Leela/Textures/T_Leela_D.tex.nasset"
     },
     "3ec7cdc7-5681-4a02-a3b7-439347cf620d": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -1533,6 +1568,14 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "5ef10529-012b-4f65-895f-e0e4c0fbce78": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Leela/Leela_Idle.anim.nasset",
+        "dependencies": [
+            "168dd918-458d-874d-bf82-79ae00ea4a15"
+        ]
+    },
     "5f810a42-20b3-f2d9-bbe0-813860f2df6c": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -1595,6 +1638,14 @@
             "0eaeff54-959c-56fc-919f-9706ffedbe64"
         ]
     },
+    "6215d895-0371-36a4-5136-9e2d79984fa4": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Mechs/Leela/SK_Leela.scene.nasset/SK_Leela.scene.nasset",
+        "dependencies": [
+            "7a87bb9d-d0cc-0883-9cbd-8d005fdae678"
+        ]
+    },
     "62272817-b009-4942-8b3e-3feafa71b343": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1647,6 +1698,15 @@
         "dependencies": [
             "f62fde47-6fc6-9eb3-5833-53bf814426ba",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6672dec6-e117-44ed-bc30-b4d2cefbe9d2": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Mechs/Leela/Leela Player.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f",
+        "dependencies": [
+            "7a87bb9d-d0cc-0883-9cbd-8d005fdae678"
         ]
     },
     "675f918e-4310-16e0-be95-5b5af81d10e4": {
@@ -1732,6 +1792,14 @@
         "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK_Heist_Soldier.scene.nasset",
         "dependencies": [
             "8a710282-72e0-c192-75a6-ddc2d5525035"
+        ]
+    },
+    "6d0ab017-8399-4b5c-978e-99e5d0f1b248": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Leela/Leela_Jump_Start.anim.nasset",
+        "dependencies": [
+            "168dd918-458d-874d-bf82-79ae00ea4a15"
         ]
     },
     "6eafeba7-15d9-43b6-a118-e471ba367851": {
@@ -1997,6 +2065,20 @@
     "7a221d85-79a7-bf21-b8a2-dc6707ae978b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Heist/Material Instances/Thumbnails/Red.mtli.nasset.tex.nasset"
+    },
+    "7a87bb9d-d0cc-0883-9cbd-8d005fdae678": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Mechs/Leela/SK_Leela.scene.nasset/SK Leela.mesh.nasset/SK Leela.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0f920536-8057-a096-6e5a-f28d8ed73253",
+            "ea3c164f-7ce7-6062-813d-9a366e5956b6",
+            "37fbb575-41bd-cfef-9662-d086f2365de8",
+            "168dd918-458d-874d-bf82-79ae00ea4a15"
+        ]
     },
     "7ba29c6c-d48a-5fd0-7200-31442793658c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -2770,6 +2852,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "a8146617-705b-45d8-8081-2fec12d073ef": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Leela/Leela_Run.anim.nasset",
+        "dependencies": [
+            "168dd918-458d-874d-bf82-79ae00ea4a15"
+        ]
+    },
     "a99252c6-7e25-4e2c-f3c1-6e30caf7aa2c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Thumbnails/White.mtli.nasset.tex.nasset"
@@ -3516,6 +3606,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Mechs/Robot/Material Instances/Thumbnails/Grey.mtli.nasset.tex.nasset"
     },
+    "d553038a-3287-4d7a-8c5c-9d5b349af7b6": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Leela/Leela_Jump_End.anim.nasset",
+        "dependencies": [
+            "168dd918-458d-874d-bf82-79ae00ea4a15"
+        ]
+    },
     "d5743c78-1915-c2d9-677d-d22acb2e278a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3671,6 +3769,14 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "e78262a2-99d6-4383-b4a8-b8839bc12f2e": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Leela/Leela_Walk.anim.nasset",
+        "dependencies": [
+            "168dd918-458d-874d-bf82-79ae00ea4a15"
+        ]
+    },
     "e787852e-f0a2-4453-a1e4-95093a839d52": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -3741,6 +3847,18 @@
         ],
         "dependencies": [
             "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ea3c164f-7ce7-6062-813d-9a366e5956b6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Leela/SK_Leela.scene.nasset/SK Leela.mesh.nasset/SK Leela Leela.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0f920536-8057-a096-6e5a-f28d8ed73253",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
