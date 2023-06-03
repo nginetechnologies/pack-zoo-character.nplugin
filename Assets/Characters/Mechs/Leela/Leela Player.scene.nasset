@@ -16,8 +16,8 @@
             "instanceGuid": "05d8c77e-c827-4bfa-b666-170762eb37d8",
             "d4e4838b-b9dc-4788-8e33-7316ffef1693": {
                 "jumpHeight": 2.0,
-                "walkingSpeed": 12.0,
-                "runningSpeed": 14.0,
+                "walkingSpeed": 2.0,
+                "runningSpeed": 4.0,
                 "walkingTurnSpeed": 3.0,
                 "runningTurnSpeed": 5.5
             },
@@ -37,8 +37,8 @@
                     "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                         "position": [
                             0,
-                            -5,
-                            2
+                            -2,
+                            1
                         ],
                         "rotation": [
                             -20.0,
@@ -129,7 +129,7 @@
                                     -0.6
                                 ],
                                 "scale": [
-                                    0.66
+                                    0.25
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
