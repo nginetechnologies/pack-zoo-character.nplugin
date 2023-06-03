@@ -2,7 +2,6 @@
     "source": "A_Avatar_Jump_Loop.fbx",
     "skeleton": "d2579157-f78f-07e4-7de4-bac976c28095",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-    "instanceGuid": "4fba63ab-ba4d-4b62-4de9-29c64315abfb",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
         "skeleton": "d2579157-f78f-07e4-7de4-bac976c28095"
     },
@@ -13,5 +12,9 @@
         }
     ],
     "guid": "45ff5a68-c63a-493b-8c98-f80295125e4c",
-    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "d2579157-f78f-07e4-7de4-bac976c28095"
+    ],
+    "instanceGuid": "109924a4-23dc-df25-e96c-8d289d581eb8"
 }
