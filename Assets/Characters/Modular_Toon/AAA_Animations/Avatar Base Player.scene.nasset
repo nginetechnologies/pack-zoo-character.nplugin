@@ -16,11 +16,11 @@
             "typeGuid": "d4e4838b-b9dc-4788-8e33-7316ffef1693",
             "instanceGuid": "05d8c77e-c827-4bfa-b666-170762eb37d8",
             "d4e4838b-b9dc-4788-8e33-7316ffef1693": {
-                "jumpHeight": 3.0,
-                "walkingSpeed": 4.0,
-                "runningSpeed": 8.0,
-                "walkingTurnSpeed": 1.0,
-                "runningTurnSpeed": 3.5
+                "jumpHeight": 2.0,
+                "walkingSpeed": 2.0,
+                "runningSpeed": 5.0,
+                "walkingTurnSpeed": 2.0,
+                "runningTurnSpeed": 4.5
             },
             "data_components": [
                 {
