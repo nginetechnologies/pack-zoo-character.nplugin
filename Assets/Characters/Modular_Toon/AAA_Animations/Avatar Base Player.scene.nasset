@@ -38,8 +38,8 @@
                     "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                         "position": [
                             0,
-                            -7,
-                            2.5
+                            -4,
+                            1.0
                         ],
                         "rotation": [
                             -20.0,
@@ -104,7 +104,7 @@
                                 "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
                             },
                             "a87d82b2-1cd5-4b81-8103-85248c61d585": {
-                                "radius": 0.25,
+                                "radius": 0.5,
                                 "half_height": 0.25
                             },
                             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
