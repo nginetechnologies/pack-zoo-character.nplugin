@@ -1,5 +1,5 @@
 {
-    "guid": "f7c1fdba-3127-4a9b-a88a-4abf8bc5a8ae",
+    "guid": "02e34007-17a5-41dc-b6a3-6b7d660c9b87",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 1024.0
@@ -134,12 +134,12 @@
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": "970aa2c0-fdca-aa64-c48c-844f88e5548c"
+                                "scene": "b893785f-57e4-fef1-3436-e763cc011156"
                             },
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Trex character scene"
+                                    "name": "Triceratops character scene"
                                 }
                             ]
                         }
@@ -177,10 +177,10 @@
     },
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "f7c1fdba-3127-4a9b-a88a-4abf8bc5a8ae"
+        "scene": "02e34007-17a5-41dc-b6a3-6b7d660c9b87"
     },
-    "thumbnailGuid": "e95160b5-9f01-a360-4319-88759e54333f",
+    "thumbnailGuid": "0c963dbd-8b0d-4081-8fd3-65ef1cc7cd2c",
     "dependencies": [
-        "970aa2c0-fdca-aa64-c48c-844f88e5548c"
+        "b893785f-57e4-fef1-3436-e763cc011156"
     ]
 }
