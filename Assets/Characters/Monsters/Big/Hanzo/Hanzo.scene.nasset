@@ -130,12 +130,12 @@
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": "01672b1c-f6a9-f919-f136-a59c870b280b"
+                                "scene": ""
                             },
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Ninja Scene"
+                                    "name": "Hanzo Scene"
                                 }
                             ]
                         }
@@ -175,7 +175,7 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "88078735-a97c-4758-9d4f-ae8852aa852b"
     },
-    "thumbnailGuid": "e95160b5-9f01-a360-4319-88759e54333f",
+    "thumbnailGuid": "39dfc81f-b468-4259-ba05-f1a5f2c0cac5",
     "dependencies": [
         "01672b1c-f6a9-f919-f136-a59c870b280b"
     ]
