@@ -1,0 +1,94 @@
+{
+    "guid": "a2e3f6da-7d05-695f-2187-12088a16e0ec",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "d12259d1-ee8b-f985-6d6e-447e6b28a33e",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "ae7967a2-7fe6-4a61-3e9a-6230b1ce6f15",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Mike Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "03ce027c-c232-0677-6956-1451a63b8fab",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "47cfee45-670c-4879-9f54-1e3fc7919f07",
+                                "b1db667f-6052-40c4-a902-e3784afbfd13",
+                                "dfe65151-24af-4a96-8270-d175daa9a3d1"
+                            ],
+                            "jump_animations": [
+                                "b635f360-e0db-467d-b950-da6ef343d100",
+                                "95e5e13a-c6c0-46b3-a61c-d926fdc3ddba",
+                                "bb23b909-4c09-4089-9f2c-307a93de2ba1"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "e46b66c2-2b72-2186-003d-85cf40d23592",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Mike Mike"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "34c95c75-776b-9ff9-49fb-490138277ae8",
+                                "material_instance": "5b38c6aa-e364-57a8-55ac-c0d2b6f4a1d0"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "8be8a690-ed5b-d5f2-aa8a-9213e7097d06"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8c4b352d-bdd7-0487-81ba-6923d5363231"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "a2e3f6da-7d05-695f-2187-12088a16e0ec"
+    },
+    "dependencies": [
+        "5b38c6aa-e364-57a8-55ac-c0d2b6f4a1d0",
+        "34c95c75-776b-9ff9-49fb-490138277ae8",
+        "8be8a690-ed5b-d5f2-aa8a-9213e7097d06",
+        "8c4b352d-bdd7-0487-81ba-6923d5363231",
+        "47cfee45-670c-4879-9f54-1e3fc7919f07",
+        "b1db667f-6052-40c4-a902-e3784afbfd13",
+        "dfe65151-24af-4a96-8270-d175daa9a3d1",
+        "b635f360-e0db-467d-b950-da6ef343d100",
+        "95e5e13a-c6c0-46b3-a61c-d926fdc3ddba",
+        "bb23b909-4c09-4089-9f2c-307a93de2ba1"
+    ]
+}

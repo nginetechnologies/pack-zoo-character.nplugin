@@ -1,0 +1,20 @@
+{
+    "source": "A_Mike_Run.fbx",
+    "skeleton": "8c4b352d-bdd7-0487-81ba-6923d5363231",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "59a4d0cf-bd7f-08e1-a8a7-42801eeb7102",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "8c4b352d-bdd7-0487-81ba-6923d5363231"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "dfe65151-24af-4a96-8270-d175daa9a3d1"
+        }
+    ],
+    "guid": "dfe65151-24af-4a96-8270-d175daa9a3d1",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "8c4b352d-bdd7-0487-81ba-6923d5363231"
+    ]
+}

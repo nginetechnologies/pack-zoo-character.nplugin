@@ -11,26 +11,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "003cffd9-66f7-91f1-5ca8-27dedb5265a4": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Monsters/Big/Yeti/Material Instances/Yeti Teeth.mtli.nasset",
-        "thumbnail": "f82886c0-d907-2957-42f4-ddde443b20f2",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "005eef08-8837-2699-f864-f62a5ed7fdb8": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Belt.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "f9597621-63fa-c4f3-3498-ca1ca984e49f",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "00a25ff7-f322-be3c-eba7-40138e52c875": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Mechs/Robot/Material Instances/Silver.mtli.nasset",
@@ -43,57 +23,6 @@
         "path": "Assets/Characters/Mechs/Gwart/Material Instances/Gwart Trim.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "00bd77c2-90a0-a82c-0ac7-89319c76ecda": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Ninja Main.mtli.nasset",
-        "thumbnail": "415f9c5c-d88e-2dba-a2f9-8ad4823e8d11",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "0151e565-2704-515e-ef61-5c49391a17f4": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Ninja Armband.mtli.nasset",
-        "thumbnail": "cde7ff5d-cb60-cce5-b6b7-910f27aef759",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "01672b1c-f6a9-f919-f136-a59c870b280b": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "0151e565-2704-515e-ef61-5c49391a17f4",
-            "2c1fe583-73b7-725b-d9da-502584b5f799",
-            "982c92f2-e708-dd0e-f680-eba3ea4e26c3",
-            "00bd77c2-90a0-a82c-0ac7-89319c76ecda",
-            "33898a5b-006a-7212-0e05-84dc4c107272",
-            "be4f109b-ea0e-de67-6ad1-95dba9ef150f",
-            "e5e117a8-292a-40dd-4f7c-4ef612656214",
-            "06270684-bfae-a251-8759-c8bc47a7a83b",
-            "8aa3d46a-7d6c-61e1-8770-d3eea44895e9",
-            "d96c4bf4-c727-58f5-1c4b-b64a123c8278",
-            "9e1b9b91-2303-75e8-a337-7a2f2de759aa",
-            "4744bfc9-44d6-2c71-7357-079b0a9c5016",
-            "5eb18411-3984-0976-65d8-e85f83b311c5",
-            "99fe199c-46b1-4f87-3053-be0a6ded12fc",
-            "75ae4cfa-b0e7-24d1-29f3-ef95a08338bf",
-            "1eecb370-ad46-3f4b-6034-089550e52e9a",
-            "23ad9335-3592-e612-628a-bd551a06f19d",
-            "0e6235e6-0b61-c009-dd14-b600f2915037",
-            "fe46405c-0581-e9fe-18b1-6997c31039e6",
-            "50825539-6e25-5eaf-80c5-ebcdef7d732d",
-            "ee8d5d74-9ae6-c8ee-9b6e-2ac1bba5a653",
-            "f9597621-63fa-c4f3-3498-ca1ca984e49f",
-            "005eef08-8837-2699-f864-f62a5ed7fdb8",
-            "52ae9588-3619-0f5a-98a2-897affd40f56",
-            "58f9fb42-ee78-d77f-0613-4fb9aeb5999e"
         ]
     },
     "01fbe80d-7539-4212-b6ca-6242c2567f15": {
@@ -179,17 +108,9 @@
             "24dcf608-bd37-bd03-566c-73f765076704"
         ]
     },
-    "06270684-bfae-a251-8759-c8bc47a7a83b": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Gold.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "e5e117a8-292a-40dd-4f7c-4ef612656214",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
+    "067be3a9-bbd2-4d79-b26f-f21449a0d852": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Monsters/Big/Kappa/Thumbnails/Kappa.scene.nasset.tex.nasset"
     },
     "069e5e09-f1a1-153a-f44c-a0af0c731598": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -295,14 +216,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Dinosaurs/Triceratops/Thumbnails/Triceratops.scene.nasset.tex.nasset"
     },
-    "0cdb3984-07b6-fd49-3325-aef2e42db8e7": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Monsters/Big/Yeti/Material Instances/Yeti Eye Black.mtli.nasset",
-        "thumbnail": "da5dae06-5230-daba-b483-2e3d57309e76",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
     "0cfe740b-f015-3f29-8bdd-ae578ce2aa56": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -332,16 +245,6 @@
         "path": "Assets/Characters/Dinosaurs/Stegosaurus/Material Instances/Stegosaurus Fins.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "0e6235e6-0b61-c009-dd14-b600f2915037": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Eye Black.meshskin.nasset",
-        "dependencies": [
-            "23ad9335-3592-e612-628a-bd551a06f19d",
-            "58f9fb42-ee78-d77f-0613-4fb9aeb5999e",
-            "1eecb370-ad46-3f4b-6034-089550e52e9a"
         ]
     },
     "0eaeff54-959c-56fc-919f-9706ffedbe64": {
@@ -448,6 +351,10 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Animals/Rat/Rat_Run.anim.nasset"
     },
+    "14efef50-cbb0-40ef-8f1e-333d2ff6728f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Monsters/Big/Lucifer/Thumbnails/Lucifer.scene.nasset.tex.nasset"
+    },
     "152a8f27-1122-4f41-91b9-1d662a9363ee": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -501,14 +408,6 @@
         "path": "Assets/Characters/Dinosaurs/Velociraptor/Material Instances/Raptor Chest.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "176b3f49-21ba-4348-c06a-b775823c9f77": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK_Ninja.scene.nasset",
-        "dependencies": [
-            "01672b1c-f6a9-f919-f136-a59c870b280b"
         ]
     },
     "1789de8e-96df-face-7b3c-6e9e4a8837e2": {
@@ -645,6 +544,10 @@
             "74d3494f-799b-d256-edd8-0e7a7013c43c"
         ]
     },
+    "1c0e0482-4a4a-4af6-8364-566e84f59e53": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Mechs/Mike/Thumbnails/Mike.scene.nasset.tex.nasset"
+    },
     "1d0d9665-e606-208b-624a-cb609187ac9e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -682,14 +585,6 @@
             "d3c92672-9d37-ecc7-3f78-0cfaa2590b90",
             "920c0ce0-9f6a-d77d-988e-e674c14dd274",
             "612482df-ad57-3456-6fc0-8fd0e0a46cc4"
-        ]
-    },
-    "1eecb370-ad46-3f4b-6034-089550e52e9a": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Ninja Eye Black.mtli.nasset",
-        "thumbnail": "44c062d8-0b24-f957-f6ad-e785abc3f622",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "202013cd-6eed-43d8-8ca4-555b393fb9e9": {
@@ -750,18 +645,6 @@
         "path": "Assets/Characters/Mechs/George/George_Jump_Start.anim.nasset",
         "dependencies": [
             "a85be35e-5a2b-8bba-8c91-c1e7580edd7f"
-        ]
-    },
-    "23ad9335-3592-e612-628a-bd551a06f19d": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Eye Black.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "1eecb370-ad46-3f4b-6034-089550e52e9a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "23c9d8e5-4ca8-b3ef-ba94-4afacdde5a01": {
@@ -915,10 +798,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Heist/Thumbnails/Redman.scene.nasset.tex.nasset"
     },
-    "295dc61d-2f3d-57bc-9e54-2f6670374672": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Monsters/Big/Yeti/Material Instances/Thumbnails/Yeti Secondary.mtli.nasset.tex.nasset"
-    },
     "29830238-534e-4c24-9688-92e7e9f64763": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1014,18 +893,6 @@
             "7475c9ac-2a88-7fe4-116b-6ae38202c7ff"
         ]
     },
-    "2c1fe583-73b7-725b-d9da-502584b5f799": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Armband.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "0151e565-2704-515e-ef61-5c49391a17f4",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "2c92cf66-75b1-38ef-0eef-c9d80d400822": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Dinosaurs/Trex/Material Instances/Trex Teeth.mtli.nasset",
@@ -1100,10 +967,6 @@
             "069e5e09-f1a1-153a-f44c-a0af0c731598"
         ]
     },
-    "31323076-4fc3-d882-6289-4539d94b5b3a": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Monsters/Big/Yeti/Material Instances/Thumbnails/Yeti Main.mtli.nasset.tex.nasset"
-    },
     "317aa5f0-f2af-bd2f-93c9-23d6382f76a5": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Dinosaurs/Trex/Material Instances/Trex Nails.mtli.nasset",
@@ -1117,6 +980,10 @@
         "path": "Assets/Characters/Monsters/Rounded/Crab/Ball Crab Player.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
     },
+    "3344f9d9-3b00-4294-a1f4-0f063c1c402a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Monsters/Big/Meyer/Thumbnails/Meyer.scene.nasset.tex.nasset"
+    },
     "3384231e-1e46-f82f-66d2-8719d85f00e9": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -1125,18 +992,6 @@
             "1d0d9665-e606-208b-624a-cb609187ac9e",
             "94d419e3-39e8-88eb-70f7-35d7e3b05b79",
             "00a41e83-78f0-c827-61a8-4ee173ced3dd"
-        ]
-    },
-    "33898a5b-006a-7212-0e05-84dc4c107272": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "00bd77c2-90a0-a82c-0ac7-89319c76ecda",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "33973dee-9e3b-4ee2-a3df-74854e6da0a6": {
@@ -1152,6 +1007,18 @@
         "path": "Assets/Characters/Mechs/Ronnie/Material Instances/Ronnie Main.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "34c95c75-776b-9ff9-49fb-490138277ae8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Mike/SK_Mike.scene.nasset/SK Mike.mesh.nasset/SK Mike Mike.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5b38c6aa-e364-57a8-55ac-c0d2b6f4a1d0",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "34f2f830-ab2c-4ab9-a68f-5e9de49454bc": {
@@ -1223,15 +1090,15 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
-    "38761bef-e7c2-9e25-796c-cf1570ba1c9c": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Thumbnails/Ninja Eye White.mtli.nasset.tex.nasset"
-    },
     "3950147f-563e-446b-9875-5911818b2647": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Monsters/Rounded/Cactus/Ball Cactus Player.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+    },
+    "39dfc81f-b468-4259-ba05-f1a5f2c0cac5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Monsters/Big/Hanzo/Thumbnails/Hanzo.scene.nasset.tex.nasset"
     },
     "39f30485-744a-3be6-6042-10f790a50f6e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1351,7 +1218,7 @@
     "3dc053dc-464b-4d4e-89e8-dfc6359cf263": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Monsters/Big/Yeti/Yeti Player.scene.nasset",
+        "path": "Assets/Characters/Monsters/Big/Yeti/Yeti.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f",
         "dependencies": [
             "865092ef-727b-5ec1-70b2-fd89fe4ed47e"
@@ -1423,14 +1290,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "4043bc50-5ef6-a3a6-b5ba-d34f1cc87eb2": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Monsters/Big/Yeti/Material Instances/Yeti Secondary.mtli.nasset",
-        "thumbnail": "295dc61d-2f3d-57bc-9e54-2f6670374672",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
     "4097c310-ab3a-6544-0e95-41051ca3c2b6": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/AAA_Animations/Material Instances/Hair.mtli.nasset",
@@ -1455,10 +1314,6 @@
             "53d32f7f-0696-cb59-dcf3-e64055737f0e",
             "fec32bda-a322-95d7-c053-183da76a678e"
         ]
-    },
-    "415f9c5c-d88e-2dba-a2f9-8ad4823e8d11": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Thumbnails/Ninja Main.mtli.nasset.tex.nasset"
     },
     "4298c884-2217-4576-bf0b-2774e8a6a515": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -1521,10 +1376,6 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
-    "44c062d8-0b24-f957-f6ad-e785abc3f622": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Thumbnails/Ninja Eye Black.mtli.nasset.tex.nasset"
-    },
     "453df314-5a4b-4b29-81e8-bcd188363b0c": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1573,16 +1424,6 @@
             "add9eeac-039d-8c56-5381-6e886b6b3b0e"
         ]
     },
-    "4744bfc9-44d6-2c71-7357-079b0a9c5016": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Eye White.meshskin.nasset",
-        "dependencies": [
-            "9e1b9b91-2303-75e8-a337-7a2f2de759aa",
-            "58f9fb42-ee78-d77f-0613-4fb9aeb5999e",
-            "d96c4bf4-c727-58f5-1c4b-b64a123c8278"
-        ]
-    },
     "476f8b7d-78c7-b065-59bb-07476ddbe9d3": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Dinosaurs/Stegosaurus/Material Instances/Stegosaurus Body.mtli.nasset",
@@ -1590,29 +1431,21 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "47cfee45-670c-4879-9f54-1e3fc7919f07": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Mike/Mike_Idle.anim.nasset",
+        "dependencies": [
+            "8c4b352d-bdd7-0487-81ba-6923d5363231"
+        ]
+    },
     "47db1cc6-ce32-1b1f-d49c-c84b74a8603e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Mechs/George/Textures/T_George_D.tex.nasset"
     },
-    "48b47f59-c1c3-336c-a006-b06de38cf52a": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Monsters/Big/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Yeti Armbands.meshskin.nasset",
-        "dependencies": [
-            "d5133a63-dbea-8552-0f57-1369390a55e6",
-            "a6d631e2-4bae-3bc4-010a-28fab114d884",
-            "5ebd00f3-f1d8-5115-93c3-41b05ac3e934"
-        ]
-    },
-    "495bfd35-f6cc-8551-6eac-ed2fadf318d8": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Monsters/Big/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Yeti Teeth.meshskin.nasset",
-        "dependencies": [
-            "906bff30-d089-b901-28e7-f1f6bc430ec4",
-            "a6d631e2-4bae-3bc4-010a-28fab114d884",
-            "003cffd9-66f7-91f1-5ca8-27dedb5265a4"
-        ]
+    "48c07248-d205-4917-ae12-a2763d783cab": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Monsters/Big/Prickly Pear/Thumbnails/Prickly_Pear.scene.nasset.tex.nasset"
     },
     "4a504788-37e8-28a8-1211-d28d6ea4b8bf": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1680,6 +1513,10 @@
             "b91be93c-455e-d613-9950-bb6f5dff4610"
         ]
     },
+    "4e37ddf4-55e9-4e0a-b5e4-2749bb7296f6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Monsters/Big/Yeti/Thumbnails/Yeti.scene.nasset.tex.nasset"
+    },
     "5001c231-81f0-4c3b-829d-4bf77766a3e5": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1739,18 +1576,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Mechs/Stan/Textures/T_Stan_D.tex.nasset"
     },
-    "50825539-6e25-5eaf-80c5-ebcdef7d732d": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Skin.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "fe46405c-0581-e9fe-18b1-6997c31039e6",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "5088ff58-acd5-3da2-14f5-dfb5ce27141c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Monsters/Rounded/Penguin/Textures/T_Penguin_D.tex.nasset"
@@ -1769,16 +1594,6 @@
         "path": "Assets/Characters/Dinosaurs/Parasaurolophus/Parasaurolophus_Idle.anim.nasset",
         "dependencies": [
             "3c728aeb-ffa3-feb9-efb4-1308c9ec4957"
-        ]
-    },
-    "52ae9588-3619-0f5a-98a2-897affd40f56": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Belt.meshskin.nasset",
-        "dependencies": [
-            "005eef08-8837-2699-f864-f62a5ed7fdb8",
-            "58f9fb42-ee78-d77f-0613-4fb9aeb5999e",
-            "f9597621-63fa-c4f3-3498-ca1ca984e49f"
         ]
     },
     "5383edbe-0e6c-9c1e-bdb0-03291b98f472": {
@@ -1845,6 +1660,10 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "56401c70-34be-4c35-ab98-4f1e5cb16e4b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Monsters/Big/Prince/Thumbnails/Prince.scene.nasset.tex.nasset"
+    },
     "568cd598-fa43-e48e-8424-a96bfb294526": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1892,6 +1711,14 @@
             "2b52c73d-0d1e-7e45-9fa1-beb10d939916"
         ]
     },
+    "5b38c6aa-e364-57a8-55ac-c0d2b6f4a1d0": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Mike/Material Instances/Mike.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "b47fdb30-1afe-d97a-c413-cbf29fc5e84e"
+        ]
+    },
     "5b4e0fba-b3d0-74be-618d-176f93e0fd34": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1904,32 +1731,12 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "5b773a0d-c72c-0174-f1d8-1760250a845b": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Monsters/Big/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Yeti Eye White.meshskin.nasset",
-        "dependencies": [
-            "776c3a90-f78a-7595-8eba-64612af04020",
-            "a6d631e2-4bae-3bc4-010a-28fab114d884",
-            "b2a933c9-5ae1-ac22-b6c6-8bcb61b2e90e"
-        ]
-    },
     "5bf98f22-233b-3ce5-f54c-73b884387525": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Animals/Spider/SK_Spider.scene.nasset/SK_Spider.scene.nasset",
         "dependencies": [
             "50179118-2784-13bb-f5ba-b59388a7c630"
-        ]
-    },
-    "5c7fd010-55ed-d076-2928-a0670849291f": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Monsters/Big/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Yeti Eye Black.meshskin.nasset",
-        "dependencies": [
-            "7141c87c-0bbf-6f5d-a43a-59222ef5a742",
-            "a6d631e2-4bae-3bc4-010a-28fab114d884",
-            "0cdb3984-07b6-fd49-3325-aef2e42db8e7"
         ]
     },
     "5cc41c23-f7be-49d6-a5fa-ec18fe9c16fa": {
@@ -1982,38 +1789,12 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "5eb18411-3984-0976-65d8-e85f83b311c5": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Ninja Sword Blade.mtli.nasset",
-        "thumbnail": "b0de64e5-58b3-d57f-6a57-03a7f3446a49",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "5ebd00f3-f1d8-5115-93c3-41b05ac3e934": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Monsters/Big/Yeti/Material Instances/Yeti Armbands.mtli.nasset",
-        "thumbnail": "e4943a01-19e9-48b0-b516-3deb8c950138",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
     "5ef10529-012b-4f65-895f-e0e4c0fbce78": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Leela/Leela_Idle.anim.nasset",
         "dependencies": [
             "168dd918-458d-874d-bf82-79ae00ea4a15"
-        ]
-    },
-    "5f810a42-20b3-f2d9-bbe0-813860f2df6c": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Monsters/Big/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Yeti Secondary.meshskin.nasset",
-        "dependencies": [
-            "b33d6926-8f0e-5f24-c899-44349487626a",
-            "a6d631e2-4bae-3bc4-010a-28fab114d884",
-            "4043bc50-5ef6-a3a6-b5ba-d34f1cc87eb2"
         ]
     },
     "60200fef-5d55-47d4-9ca9-2afe17acabf1": {
@@ -2121,6 +1902,12 @@
         "dependencies": [
             "220790e2-60ee-b80e-0633-0981fe5894ce"
         ]
+    },
+    "632fac2a-1392-40aa-b838-ba0b67255efd": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Mechs/Mike/Mike.scene.nasset",
+        "thumbnail": "b29e7dd0-99d7-422c-a68f-43adc16aed01"
     },
     "63c6c76a-191a-41d2-bf67-06ac6d02c08d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2390,18 +2177,6 @@
             "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480"
         ]
     },
-    "7141c87c-0bbf-6f5d-a43a-59222ef5a742": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Monsters/Big/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Yeti Eye Black.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "0cdb3984-07b6-fd49-3325-aef2e42db8e7",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "71687d46-3362-4a65-b838-5f4af2be2e12": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -2498,6 +2273,10 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "73342d7e-7ab4-4ea5-a7cc-f2c4904f990d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Monsters/Big/Cain/Thumbnails/Cain.scene.nasset.tex.nasset"
+    },
     "73974afa-8d92-432b-8141-7ffca85e52a5": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -2547,18 +2326,6 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
-    "74e559a0-6f59-1cad-8a5b-7bc931d7a4ae": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Monsters/Big/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Yeti Tongue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ed9a73c0-b0b7-cbb9-458d-ac07c4c9d3ac",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "7525214c-a327-16e4-d384-1943ddef6eaf": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2591,20 +2358,6 @@
             "8e676748-0b12-e7c7-d974-4ff4c059a00b"
         ]
     },
-    "75ae4cfa-b0e7-24d1-29f3-ef95a08338bf": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Sword Blade.meshskin.nasset",
-        "dependencies": [
-            "99fe199c-46b1-4f87-3053-be0a6ded12fc",
-            "58f9fb42-ee78-d77f-0613-4fb9aeb5999e",
-            "5eb18411-3984-0976-65d8-e85f83b311c5"
-        ]
-    },
-    "76bc5c1e-6765-6312-133b-ce9f0032d14b": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Thumbnails/Ninja Belt.mtli.nasset.tex.nasset"
-    },
     "7705a633-79d4-8567-b29c-c2fdfbbc2385": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2629,18 +2382,6 @@
             "8ece0857-2306-54cd-bd53-de275ee5c836",
             "0d0b8a69-139e-8a42-dfc7-5ab1487a37af",
             "0eaeff54-959c-56fc-919f-9706ffedbe64"
-        ]
-    },
-    "776c3a90-f78a-7595-8eba-64612af04020": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Monsters/Big/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Yeti Eye White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "b2a933c9-5ae1-ac22-b6c6-8bcb61b2e90e",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "778a26a5-2149-d397-8a5d-2e33a51b3829": {
@@ -2794,10 +2535,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Thumbnails/Eyes.mtli.nasset.tex.nasset"
     },
-    "7f19aab2-8f21-8520-e5cc-e9507b836619": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Thumbnails/Ninja Skin.mtli.nasset.tex.nasset"
-    },
     "7f7cbcd8-4777-29c5-4ac0-286e913b8e90": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2857,14 +2594,6 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
-    "81ff2e7d-d149-aa03-3f2f-ea1ac743b4e1": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Monsters/Big/Yeti/SK_Monster_Yeti.scene.nasset/SK_Monster_Yeti.scene.nasset",
-        "dependencies": [
-            "865092ef-727b-5ec1-70b2-fd89fe4ed47e"
-        ]
-    },
     "82e9235b-1350-400e-b919-8ae16780c1d0": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2880,18 +2609,6 @@
     "83ba8884-4092-9ddb-1af0-0217cf07aa13": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Animals/Spider/Material Instances/Thumbnails/Spider Eyes.mtli.nasset.tex.nasset"
-    },
-    "84891c54-24c4-9fdb-3f3e-f67e500895fb": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Monsters/Big/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Yeti Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "d393c1f0-a964-6c8a-ee05-81489e6a0c31",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
     },
     "84c4fc94-8c05-4167-a7ff-93e031796da9": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2912,38 +2629,6 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
-    "865092ef-727b-5ec1-70b2-fd89fe4ed47e": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Monsters/Big/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "5ebd00f3-f1d8-5115-93c3-41b05ac3e934",
-            "d5133a63-dbea-8552-0f57-1369390a55e6",
-            "48b47f59-c1c3-336c-a006-b06de38cf52a",
-            "003cffd9-66f7-91f1-5ca8-27dedb5265a4",
-            "906bff30-d089-b901-28e7-f1f6bc430ec4",
-            "495bfd35-f6cc-8551-6eac-ed2fadf318d8",
-            "d393c1f0-a964-6c8a-ee05-81489e6a0c31",
-            "84891c54-24c4-9fdb-3f3e-f67e500895fb",
-            "874a756f-a102-a483-54c6-a45579c4caad",
-            "4043bc50-5ef6-a3a6-b5ba-d34f1cc87eb2",
-            "b33d6926-8f0e-5f24-c899-44349487626a",
-            "5f810a42-20b3-f2d9-bbe0-813860f2df6c",
-            "0cdb3984-07b6-fd49-3325-aef2e42db8e7",
-            "7141c87c-0bbf-6f5d-a43a-59222ef5a742",
-            "5c7fd010-55ed-d076-2928-a0670849291f",
-            "ed9a73c0-b0b7-cbb9-458d-ac07c4c9d3ac",
-            "74e559a0-6f59-1cad-8a5b-7bc931d7a4ae",
-            "bf1f97e5-65ce-fde7-0608-5acc27aded7d",
-            "b2a933c9-5ae1-ac22-b6c6-8bcb61b2e90e",
-            "776c3a90-f78a-7595-8eba-64612af04020",
-            "5b773a0d-c72c-0174-f1d8-1760250a845b",
-            "a6d631e2-4bae-3bc4-010a-28fab114d884"
-        ]
-    },
     "8700bd7c-cd10-9736-bd46-b3cd8cb5a065": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Animals/Spider/Material Instances/Spider Eyes.mtli.nasset",
@@ -2952,21 +2637,14 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
-    "874a756f-a102-a483-54c6-a45579c4caad": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Monsters/Big/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Yeti Main.meshskin.nasset",
-        "dependencies": [
-            "84891c54-24c4-9fdb-3f3e-f67e500895fb",
-            "a6d631e2-4bae-3bc4-010a-28fab114d884",
-            "d393c1f0-a964-6c8a-ee05-81489e6a0c31"
-        ]
-    },
     "88078735-a97c-4758-9d4f-ae8852aa852b": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Monsters/Big/Ninja/Ninja Player.scene.nasset",
+        "path": "Assets/Characters/Monsters/Big/Hanzo/Hanzo.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
         "dependencies": [
             "01672b1c-f6a9-f919-f136-a59c870b280b"
         ]
@@ -3038,16 +2716,6 @@
             "704dd06d-c505-ee41-1783-77680c7841a4"
         ]
     },
-    "8aa3d46a-7d6c-61e1-8770-d3eea44895e9": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Gold.meshskin.nasset",
-        "dependencies": [
-            "06270684-bfae-a251-8759-c8bc47a7a83b",
-            "58f9fb42-ee78-d77f-0613-4fb9aeb5999e",
-            "e5e117a8-292a-40dd-4f7c-4ef612656214"
-        ]
-    },
     "8b238638-fdd7-1c17-29ca-5d235968a15a": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -3064,6 +2732,21 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "8be8a690-ed5b-d5f2-aa8a-9213e7097d06": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Mike/SK_Mike.scene.nasset/SK Mike.mesh.nasset/SK Mike Mike.meshskin.nasset",
+        "dependencies": [
+            "34c95c75-776b-9ff9-49fb-490138277ae8",
+            "8c4b352d-bdd7-0487-81ba-6923d5363231",
+            "5b38c6aa-e364-57a8-55ac-c0d2b6f4a1d0"
+        ]
+    },
+    "8c4b352d-bdd7-0487-81ba-6923d5363231": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Mike/SK_Mike.scene.nasset/SK Mike.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "8c5d756c-045b-c8c6-ca3d-f30e16450d26": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -3121,6 +2804,10 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Modular_Toon/Alien/Alien_Jump_Loop.anim.nasset"
+    },
+    "8e2a80fc-bee9-4ead-9752-03fb9a92035b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Monsters/Big/Omek/Thumbnails/Omek.scene.nasset.tex.nasset"
     },
     "8e2e9764-5f49-779c-ccb3-2f407501da32": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -3203,6 +2890,10 @@
             "80c6f587-c367-a7e3-4384-732f6b7c3523"
         ]
     },
+    "8ffdf79a-b014-4b96-ae18-a3c647d21d31": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Monsters/Big/Jinn/Thumbnails/Jinn.scene.nasset.tex.nasset"
+    },
     "9022b417-09ae-5717-9668-c1aed12d40fd": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -3211,18 +2902,6 @@
             "9d782186-4b81-f3eb-debc-923745c58947",
             "3c728aeb-ffa3-feb9-efb4-1308c9ec4957",
             "555cace4-7a0f-e012-3b96-0474285690af"
-        ]
-    },
-    "906bff30-d089-b901-28e7-f1f6bc430ec4": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Monsters/Big/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Yeti Teeth.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "003cffd9-66f7-91f1-5ca8-27dedb5265a4",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "91140d2e-c27a-bfce-fe42-6b8b96c725cc": {
@@ -3318,6 +2997,14 @@
         "path": "Assets/Characters/Mechs/George/George_Jump_End.anim.nasset",
         "dependencies": [
             "a85be35e-5a2b-8bba-8c91-c1e7580edd7f"
+        ]
+    },
+    "95e5e13a-c6c0-46b3-a61c-d926fdc3ddba": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Mike/Mike_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "8c4b352d-bdd7-0487-81ba-6923d5363231"
         ]
     },
     "960fd0e1-4cf9-3e2b-5ebf-b275b8035606": {
@@ -3417,16 +3104,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "982c92f2-e708-dd0e-f680-eba3ea4e26c3": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Armband.meshskin.nasset",
-        "dependencies": [
-            "2c1fe583-73b7-725b-d9da-502584b5f799",
-            "58f9fb42-ee78-d77f-0613-4fb9aeb5999e",
-            "0151e565-2704-515e-ef61-5c49391a17f4"
-        ]
-    },
     "9879e9fb-04f2-cdd1-5ab4-3120897b1434": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3489,18 +3166,6 @@
         ],
         "dependencies": [
             "85c03a10-3ec0-2097-67b0-14f574e95af3",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "99fe199c-46b1-4f87-3053-be0a6ded12fc": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Sword Blade.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "5eb18411-3984-0976-65d8-e85f83b311c5",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -3620,18 +3285,6 @@
             "b57cbaf8-ec47-b96e-5d76-b7667109ba97"
         ]
     },
-    "9e1b9b91-2303-75e8-a337-7a2f2de759aa": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Eye White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "d96c4bf4-c727-58f5-1c4b-b64a123c8278",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "9ec2eec7-2172-47fa-0a3a-d37c80913c5b": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -3669,6 +3322,26 @@
         "dependencies": [
             "1789de8e-96df-face-7b3c-6e9e4a8837e2",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a2e3f6da-7d05-695f-2187-12088a16e0ec": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Mechs/Mike/SK_Mike.scene.nasset/SK Mike.mesh.nasset/SK Mike.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "5b38c6aa-e364-57a8-55ac-c0d2b6f4a1d0",
+            "34c95c75-776b-9ff9-49fb-490138277ae8",
+            "8be8a690-ed5b-d5f2-aa8a-9213e7097d06",
+            "8c4b352d-bdd7-0487-81ba-6923d5363231",
+            "47cfee45-670c-4879-9f54-1e3fc7919f07",
+            "b1db667f-6052-40c4-a902-e3784afbfd13",
+            "dfe65151-24af-4a96-8270-d175daa9a3d1",
+            "b635f360-e0db-467d-b950-da6ef343d100",
+            "95e5e13a-c6c0-46b3-a61c-d926fdc3ddba",
+            "bb23b909-4c09-4089-9f2c-307a93de2ba1"
         ]
     },
     "a356fe33-9b73-0fc6-04db-0a5b3c9158c1": {
@@ -3736,6 +3409,10 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/George/SK_George.scene.nasset/SK George.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "a93286de-6178-43d2-9739-a48702d816e9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Monsters/Big/Sue/Thumbnails/Sue.scene.nasset.tex.nasset"
     },
     "a97f6f7a-37db-4e2f-acc0-0205f05e178f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3922,10 +3599,6 @@
             "3d65b732-ebfc-12da-ec51-362e7a40c166"
         ]
     },
-    "b0de64e5-58b3-d57f-6a57-03a7f3446a49": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Thumbnails/Ninja Sword Blade.mtli.nasset.tex.nasset"
-    },
     "b0dff68a-55f3-43e8-9f83-6687cb814c7f": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -3952,6 +3625,14 @@
             "20c5a01b-5b03-92d9-1285-71d6871c9a67"
         ]
     },
+    "b1db667f-6052-40c4-a902-e3784afbfd13": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Mike/Mike_Walk.anim.nasset",
+        "dependencies": [
+            "8c4b352d-bdd7-0487-81ba-6923d5363231"
+        ]
+    },
     "b27b7214-db3b-46ee-9995-a42c4b5df376": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3976,14 +3657,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Mechs/Stan/Thumbnails/Stan.scene.nasset.tex.nasset"
     },
-    "b2a933c9-5ae1-ac22-b6c6-8bcb61b2e90e": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Monsters/Big/Yeti/Material Instances/Yeti Eye White.mtli.nasset",
-        "thumbnail": "c74ca06b-20fd-fc1e-af76-4fd4b2228de9",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
     "b2e8f78b-d4bc-2fd3-94ab-5f5c6863b5ff": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -3992,18 +3665,6 @@
             "8cd68141-b911-363a-5401-9e0276278001",
             "2faa50ba-2b11-bfcc-3046-66d06f31f36c",
             "69d912d3-1096-6074-9b60-1b8fbcd24954"
-        ]
-    },
-    "b33d6926-8f0e-5f24-c899-44349487626a": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Monsters/Big/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Yeti Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "4043bc50-5ef6-a3a6-b5ba-d34f1cc87eb2",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "b410f5d4-bf3d-7a0d-1e49-c9b35159007c": {
@@ -4019,9 +3680,25 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Heist/Jump_Start.anim.nasset"
     },
+    "b47fdb30-1afe-d97a-c413-cbf29fc5e84e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Mechs/Mike/Textures/T_Mike_D.tex.nasset"
+    },
     "b4f4db88-7518-4c07-97ea-d92b33e60433": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Dinosaurs/Velociraptor/Thumbnails/Velociraptor.scene.nasset.tex.nasset"
+    },
+    "b4f944cd-9b5a-c1eb-951f-af523b357be5": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Mechs/Mike/SK_Mike.scene.nasset/SK_Mike.scene.nasset",
+        "dependencies": [
+            "a2e3f6da-7d05-695f-2187-12088a16e0ec"
+        ]
+    },
+    "b5713928-28ee-4571-9b14-811bdfc0d2f8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Monsters/Big/Uglee/Thumbnails/Uglee.scene.nasset.tex.nasset"
     },
     "b57cbaf8-ec47-b96e-5d76-b7667109ba97": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4061,6 +3738,14 @@
         "path": "Assets/Characters/Mechs/Stan/Stan_Jump_Loop.anim.nasset",
         "dependencies": [
             "220790e2-60ee-b80e-0633-0981fe5894ce"
+        ]
+    },
+    "b635f360-e0db-467d-b950-da6ef343d100": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Mike/Mike_Jump_Start.anim.nasset",
+        "dependencies": [
+            "8c4b352d-bdd7-0487-81ba-6923d5363231"
         ]
     },
     "b64668d3-ab2c-c383-47bd-7b9f430ff4fb": {
@@ -4197,6 +3882,14 @@
             "de064ec9-6de9-997d-9daf-1161ee2e3c4d"
         ]
     },
+    "bb23b909-4c09-4089-9f2c-307a93de2ba1": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Mike/Mike_Jump_End.anim.nasset",
+        "dependencies": [
+            "8c4b352d-bdd7-0487-81ba-6923d5363231"
+        ]
+    },
     "bb850203-f577-a93c-48c5-d31a1e0a25f0": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -4284,32 +3977,12 @@
             "74d4681d-7dd2-fa92-b9e9-066526acae54"
         ]
     },
-    "be4f109b-ea0e-de67-6ad1-95dba9ef150f": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Main.meshskin.nasset",
-        "dependencies": [
-            "33898a5b-006a-7212-0e05-84dc4c107272",
-            "58f9fb42-ee78-d77f-0613-4fb9aeb5999e",
-            "00bd77c2-90a0-a82c-0ac7-89319c76ecda"
-        ]
-    },
     "bea6bdb9-aff1-44e6-a5dc-c563fa99b46f": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Stan/Stan_Run.anim.nasset",
         "dependencies": [
             "220790e2-60ee-b80e-0633-0981fe5894ce"
-        ]
-    },
-    "bf1f97e5-65ce-fde7-0608-5acc27aded7d": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Monsters/Big/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Yeti Tongue.meshskin.nasset",
-        "dependencies": [
-            "74e559a0-6f59-1cad-8a5b-7bc931d7a4ae",
-            "a6d631e2-4bae-3bc4-010a-28fab114d884",
-            "ed9a73c0-b0b7-cbb9-458d-ac07c4c9d3ac"
         ]
     },
     "bf260724-7066-4cc8-9a37-6708053f3e17": {
@@ -4379,10 +4052,6 @@
     "c15a77a5-0b5a-1472-83a8-5e4def7b4755": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Thumbnails/Z Face.mtli.nasset.tex.nasset"
-    },
-    "c1e76a22-583a-d51c-bca1-f571ceaeea49": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Monsters/Big/Yeti/Material Instances/Thumbnails/Yeti Tongue.mtli.nasset.tex.nasset"
     },
     "c297b0cf-fed9-7ea0-b933-810eab73b340": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -4481,10 +4150,6 @@
             "b410f5d4-bf3d-7a0d-1e49-c9b35159007c"
         ]
     },
-    "c74ca06b-20fd-fc1e-af76-4fd4b2228de9": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Monsters/Big/Yeti/Material Instances/Thumbnails/Yeti Eye White.mtli.nasset.tex.nasset"
-    },
     "c7dfcb41-e05b-e67c-0f34-ae408e8e43c3": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -4524,6 +4189,10 @@
             "44241c1d-5f63-a2b8-29cb-7fcea2313c98",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "c9e6ecf3-1c52-46a9-80db-486a11ab7e4e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Monsters/Big/Snapper/Thumbnails/Snapper.scene.nasset.tex.nasset"
     },
     "ca075ef7-5701-fb03-243f-4554388b52ce": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -4624,10 +4293,6 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
-    "cde7ff5d-cb60-cce5-b6b7-910f27aef759": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Thumbnails/Ninja Armband.mtli.nasset.tex.nasset"
-    },
     "ce92ba99-28bf-add6-f683-a6f3545ad9e3": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -4642,10 +4307,6 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Monsters/Rounded/Penguin/SK_Ball_Penguin.scene.nasset/SK Ball Penguin.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
-    "cf122f0f-7dc1-29f7-0fa1-9d4264d01a9b": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Thumbnails/Ninja Gold.mtli.nasset.tex.nasset"
     },
     "cf2d7841-7b05-4b90-84c1-f701241d98f1": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -4716,14 +4377,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Thumbnails/Blue 700.mtli.nasset.tex.nasset"
     },
-    "d393c1f0-a964-6c8a-ee05-81489e6a0c31": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Monsters/Big/Yeti/Material Instances/Yeti Main.mtli.nasset",
-        "thumbnail": "31323076-4fc3-d882-6289-4539d94b5b3a",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
     "d3c92672-9d37-ecc7-3f78-0cfaa2590b90": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4754,18 +4407,6 @@
         "thumbnail": "ba87fa94-3822-0d76-81c5-f75c9fc1f987",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "d5133a63-dbea-8552-0f57-1369390a55e6": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Monsters/Big/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Yeti Armbands.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "5ebd00f3-f1d8-5115-93c3-41b05ac3e934",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "d553038a-3287-4d7a-8c5c-9d5b349af7b6": {
@@ -4826,6 +4467,10 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Extras/Material Instances/Face.mtli.nasset"
     },
+    "d8a157ef-683c-47f6-a7c1-11695f7baf92": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Monsters/Big/Penny/Thumbnails/Penny.scene.nasset.tex.nasset"
+    },
     "d954e09e-eefa-f913-02b4-a386c10e4588": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4837,18 +4482,6 @@
             "98d24f28-2e31-4af0-b53f-d822f158d3cd",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "d96c4bf4-c727-58f5-1c4b-b64a123c8278": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Ninja Eye White.mtli.nasset",
-        "thumbnail": "38761bef-e7c2-9e25-796c-cf1570ba1c9c",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "da5dae06-5230-daba-b483-2e3d57309e76": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Monsters/Big/Yeti/Material Instances/Thumbnails/Yeti Eye Black.mtli.nasset.tex.nasset"
     },
     "db74d506-121b-3205-0a45-b703931cfdca": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -4996,6 +4629,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "dfe65151-24af-4a96-8270-d175daa9a3d1": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Mike/Mike_Run.anim.nasset",
+        "dependencies": [
+            "8c4b352d-bdd7-0487-81ba-6923d5363231"
+        ]
+    },
     "e05e8d3d-368c-47db-8efe-4ad404d4bd2f": {
         "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
         "path": "Package.nplugin",
@@ -5053,18 +4694,6 @@
             "72312694-0e4d-3177-383e-3396724592ed",
             "02905ff4-6727-df2f-7e63-001005fbf912",
             "d2014c2b-3063-2f77-db91-784ffdc786fc"
-        ]
-    },
-    "e4943a01-19e9-48b0-b516-3deb8c950138": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Monsters/Big/Yeti/Material Instances/Thumbnails/Yeti Armbands.mtli.nasset.tex.nasset"
-    },
-    "e5e117a8-292a-40dd-4f7c-4ef612656214": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Ninja Gold.mtli.nasset",
-        "thumbnail": "cf122f0f-7dc1-29f7-0fa1-9d4264d01a9b",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "e78262a2-99d6-4383-b4a8-b8839bc12f2e": {
@@ -5144,6 +4773,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "e9a6b5c7-fd2d-4907-a033-1c567d812f6a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Monsters/Big/Bobo/Thumbnails/Bobo.scene.nasset.tex.nasset"
+    },
     "ea3c164f-7ce7-6062-813d-9a366e5956b6": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -5220,14 +4853,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "ed9a73c0-b0b7-cbb9-458d-ac07c4c9d3ac": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Monsters/Big/Yeti/Material Instances/Yeti Tongue.mtli.nasset",
-        "thumbnail": "c1e76a22-583a-d51c-bca1-f571ceaeea49",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
     "edd3849f-6c09-b06d-ad53-354c61ea972f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Animals/Spider/Material Instances/Spider Brown.mtli.nasset",
@@ -5249,16 +4874,6 @@
             "e96492a8-7f81-969e-ad35-3444f5d4e31d",
             "704dd06d-c505-ee41-1783-77680c7841a4",
             "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa"
-        ]
-    },
-    "ee8d5d74-9ae6-c8ee-9b6e-2ac1bba5a653": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Monsters/Big/Ninja/SK_Ninja.scene.nasset/SK Ninja.mesh.nasset/SK Ninja Ninja Skin.meshskin.nasset",
-        "dependencies": [
-            "50825539-6e25-5eaf-80c5-ebcdef7d732d",
-            "58f9fb42-ee78-d77f-0613-4fb9aeb5999e",
-            "fe46405c-0581-e9fe-18b1-6997c31039e6"
         ]
     },
     "ee9c3efa-4bd9-01f6-0d7c-20b3e0bcf362": {
@@ -5480,10 +5095,6 @@
             "970aa2c0-fdca-aa64-c48c-844f88e5548c"
         ]
     },
-    "f82886c0-d907-2957-42f4-ddde443b20f2": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Monsters/Big/Yeti/Material Instances/Thumbnails/Yeti Teeth.mtli.nasset.tex.nasset"
-    },
     "f8b355f8-5654-485c-b227-603f9371a839": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -5514,14 +5125,6 @@
         "dependencies": [
             "a356fe33-9b73-0fc6-04db-0a5b3c9158c1",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "f9597621-63fa-c4f3-3498-ca1ca984e49f": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Ninja Belt.mtli.nasset",
-        "thumbnail": "76bc5c1e-6765-6312-133b-ce9f0032d14b",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "f9a0b553-8aee-5492-9b96-573c7a263257": {
@@ -5615,14 +5218,6 @@
         "path": "Assets/Characters/Dinosaurs/Stegosaurus/Stegosaurus_Run.anim.nasset",
         "dependencies": [
             "3d65b732-ebfc-12da-ec51-362e7a40c166"
-        ]
-    },
-    "fe46405c-0581-e9fe-18b1-6997c31039e6": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Ninja Skin.mtli.nasset",
-        "thumbnail": "7f19aab2-8f21-8520-e5cc-e9507b836619",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "fec32bda-a322-95d7-c053-183da76a678e": {
