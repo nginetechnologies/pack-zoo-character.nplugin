@@ -1,0 +1,120 @@
+{
+    "guid": "7244f1fa-28c0-2a09-837e-c4da36d8a529",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "7b90d79d-a9aa-ccf4-3212-9964a0dc6764",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "6f9c7a6f-a555-3ee1-a543-ad232eff9424",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Apatosaurus Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "365a06cc-4fcc-15e3-3703-f9f019e89bb7",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "f2d1dca6-d6c7-4e14-b80c-20f02232ae01",
+                                "dc855cb1-6dbe-45a0-9eca-6038fb79c2f3",
+                                "7b06f555-f506-4081-a0e4-b7eab76462ca"
+                            ],
+                            "jump_animations": [
+                                "d58d3140-d3cc-4d1d-980b-59487c46624f",
+                                "784e7dd6-4aa2-443f-880f-ba1427737aa1",
+                                "5706163a-c443-4022-94c1-bcf8bc40cdba"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "3ba96463-3f43-de86-64b3-62d4432440f8",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Apatosaurus Apatosaurus Belly"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d3f3631a-c1a2-60eb-d2f2-0fa03bfdb023",
+                                "material_instance": "706c367c-7e7e-d8af-7b76-94fa60c55532"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "ea89ab58-3388-4a0a-2416-a9fba69503ee"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d25f79bf-ca40-5905-04cb-0406ddf6fad7",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Apatosaurus Apatosaurus Body"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7bf31a5d-99af-fcf8-9e5c-0a729c1ab751",
+                                "material_instance": "8b3f26a9-bef3-08a7-7089-155a82259f5c"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "cbff5551-48c3-bbcc-32e4-e4b10345b849"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "3f4ea462-e616-5161-190b-8d033fcf1171"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "7244f1fa-28c0-2a09-837e-c4da36d8a529"
+    },
+    "dependencies": [
+        "706c367c-7e7e-d8af-7b76-94fa60c55532",
+        "d3f3631a-c1a2-60eb-d2f2-0fa03bfdb023",
+        "ea89ab58-3388-4a0a-2416-a9fba69503ee",
+        "8b3f26a9-bef3-08a7-7089-155a82259f5c",
+        "7bf31a5d-99af-fcf8-9e5c-0a729c1ab751",
+        "cbff5551-48c3-bbcc-32e4-e4b10345b849",
+        "3f4ea462-e616-5161-190b-8d033fcf1171",
+        "f2d1dca6-d6c7-4e14-b80c-20f02232ae01",
+        "dc855cb1-6dbe-45a0-9eca-6038fb79c2f3",
+        "7b06f555-f506-4081-a0e4-b7eab76462ca",
+        "d58d3140-d3cc-4d1d-980b-59487c46624f",
+        "784e7dd6-4aa2-443f-880f-ba1427737aa1",
+        "5706163a-c443-4022-94c1-bcf8bc40cdba"
+    ]
+}

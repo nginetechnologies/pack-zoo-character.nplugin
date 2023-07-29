@@ -1,0 +1,20 @@
+{
+    "source": "A_Gwart_Run.fbx",
+    "skeleton": "94d419e3-39e8-88eb-70f7-35d7e3b05b79",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "59a4d0cf-bd7f-08e1-a8a7-42801eeb7102",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "94d419e3-39e8-88eb-70f7-35d7e3b05b79"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "976b52f2-f4a9-47f8-9059-1ea2ccc24f05"
+        }
+    ],
+    "guid": "976b52f2-f4a9-47f8-9059-1ea2ccc24f05",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "94d419e3-39e8-88eb-70f7-35d7e3b05b79"
+    ]
+}

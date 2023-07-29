@@ -1,0 +1,20 @@
+{
+    "guid": "7053a253-f8eb-40f2-a333-8d66b650f010",
+    "source": "A_Gwart_Walk.fbx",
+    "skeleton": "94d419e3-39e8-88eb-70f7-35d7e3b05b79",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "c6995951-4187-05dd-d5f1-adfcbcb45aaf",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "94d419e3-39e8-88eb-70f7-35d7e3b05b79"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "7053a253-f8eb-40f2-a333-8d66b650f010"
+        }
+    ],
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "94d419e3-39e8-88eb-70f7-35d7e3b05b79"
+    ]
+}

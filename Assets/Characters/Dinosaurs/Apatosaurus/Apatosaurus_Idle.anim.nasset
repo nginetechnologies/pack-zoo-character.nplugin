@@ -1,0 +1,20 @@
+{
+    "source": "A_Apatosaurus_Idle.fbx",
+    "skeleton": "3f4ea462-e616-5161-190b-8d033fcf1171",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "3f4ea462-e616-5161-190b-8d033fcf1171"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "f2d1dca6-d6c7-4e14-b80c-20f02232ae01"
+        }
+    ],
+    "guid": "f2d1dca6-d6c7-4e14-b80c-20f02232ae01",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "3f4ea462-e616-5161-190b-8d033fcf1171"
+    ]
+}

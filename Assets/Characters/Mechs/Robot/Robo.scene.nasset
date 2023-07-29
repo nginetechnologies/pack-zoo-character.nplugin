@@ -113,7 +113,6 @@
                         },
                         {
                             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-                            "instanceGuid": "fe2ea494-ee07-457e-a0d4-6ec753f8d9c5",
                             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                                 "rotation": [
                                     0.0,
@@ -130,7 +129,7 @@
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": "85369f56-6529-552d-fe0c-07216b04210c"
+                                "scene": "de064ec9-6de9-997d-9daf-1161ee2e3c4d"
                             },
                             "data_components": [
                                 {
@@ -175,5 +174,8 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "25e18331-6a1b-4c35-a314-0968f8f31f9b"
     },
-    "thumbnailGuid": "99029d92-f497-4c98-be8b-85a5a9bba823"
+    "thumbnailGuid": "99029d92-f497-4c98-be8b-85a5a9bba823",
+    "dependencies": [
+        "de064ec9-6de9-997d-9daf-1161ee2e3c4d"
+    ]
 }

@@ -1,0 +1,198 @@
+{
+    "guid": "ffc24bac-2211-40b0-a6a6-de8f25d3bd97",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "cc176c9b-f286-81ff-4a44-54cbd3eb5703",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "381dc604-5929-8b3d-1cb9-0ea51f9a1ad2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Ronnie Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "6fe3bd5d-9aa3-97e8-ae4e-9e89a48b5d33",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "0b72007d-9f2c-4caf-bfcc-ccb961b91ee1",
+                                "453df314-5a4b-4b29-81e8-bcd188363b0c",
+                                "71021b82-7f36-4109-9ec3-da8c5642bde4"
+                            ],
+                            "jump_animations": [
+                                "0b72007d-9f2c-4caf-bfcc-ccb961b91ee1",
+                                "0b72007d-9f2c-4caf-bfcc-ccb961b91ee1",
+                                "0b72007d-9f2c-4caf-bfcc-ccb961b91ee1"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "af7295ad-8926-9ef3-0a68-69d7f6cfbd05",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Ronnie Ronnie Secondary"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a0d432e3-02c5-5604-6d96-e7316c05544c",
+                                "material_instance": "1789de8e-96df-face-7b3c-6e9e4a8837e2"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "dcc2aba1-824d-d24a-4b69-ce4492b95085"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "f7dcb7ee-22f5-b25b-f710-6dd045267a46",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Ronnie Ronnie Edge"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7e733175-2385-0f4d-e361-86198c620c1b",
+                                "material_instance": "9dbe171d-1630-c047-0e64-406f54c0c2c7"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "793f7db6-2b2c-4712-c416-ced78a90b500"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "eb73c46b-5b70-be0b-fb12-1877ef9332c3",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Ronnie Ronnie Main"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ac110f9e-3bf0-5152-ee0f-9f021a75c9e9",
+                                "material_instance": "33d66126-bd02-3f2c-ba2b-7892ed00adf0"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "cbe332b0-7d6f-785f-37e3-a608cf87a15d"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "53659628-bc3a-fd64-e127-e60e0ceea9b3",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Ronnie Ronnie Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "99af2816-ce37-c9cb-c703-23098f631f24",
+                                "material_instance": "85c03a10-3ec0-2097-67b0-14f574e95af3"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "2d9bc9c5-b42e-203e-28c6-f46eedaf8223"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "8fdc0674-aef9-7486-8625-9fc7f051b2d2",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Ronnie Ronnie Eye"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "0009406c-2227-053c-b106-24a2f91ba400",
+                                "material_instance": "3efeacdc-5db2-2a94-8e46-789f80a12f8d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "36067433-0b51-9197-49dd-9ba1951241c0"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "ffc24bac-2211-40b0-a6a6-de8f25d3bd97"
+    },
+    "dependencies": [
+        "1789de8e-96df-face-7b3c-6e9e4a8837e2",
+        "a0d432e3-02c5-5604-6d96-e7316c05544c",
+        "dcc2aba1-824d-d24a-4b69-ce4492b95085",
+        "9dbe171d-1630-c047-0e64-406f54c0c2c7",
+        "7e733175-2385-0f4d-e361-86198c620c1b",
+        "793f7db6-2b2c-4712-c416-ced78a90b500",
+        "33d66126-bd02-3f2c-ba2b-7892ed00adf0",
+        "ac110f9e-3bf0-5152-ee0f-9f021a75c9e9",
+        "cbe332b0-7d6f-785f-37e3-a608cf87a15d",
+        "85c03a10-3ec0-2097-67b0-14f574e95af3",
+        "99af2816-ce37-c9cb-c703-23098f631f24",
+        "2d9bc9c5-b42e-203e-28c6-f46eedaf8223",
+        "3efeacdc-5db2-2a94-8e46-789f80a12f8d",
+        "0009406c-2227-053c-b106-24a2f91ba400",
+        "36067433-0b51-9197-49dd-9ba1951241c0",
+        "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480",
+        "0b72007d-9f2c-4caf-bfcc-ccb961b91ee1",
+        "453df314-5a4b-4b29-81e8-bcd188363b0c",
+        "71021b82-7f36-4109-9ec3-da8c5642bde4",
+        "0b72007d-9f2c-4caf-bfcc-ccb961b91ee1",
+        "0b72007d-9f2c-4caf-bfcc-ccb961b91ee1",
+        "0b72007d-9f2c-4caf-bfcc-ccb961b91ee1"
+    ]
+}

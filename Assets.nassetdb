@@ -1,4 +1,16 @@
 {
+    "0009406c-2227-053c-b106-24a2f91ba400": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Ronnie/SK_Ronnie.scene.nasset/SK Ronnie.mesh.nasset/SK Ronnie Ronnie Eye.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3efeacdc-5db2-2a94-8e46-789f80a12f8d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "003cffd9-66f7-91f1-5ca8-27dedb5265a4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Monsters/Big/Yeti/Material Instances/Yeti Teeth.mtli.nasset",
@@ -17,6 +29,20 @@
         "dependencies": [
             "f9597621-63fa-c4f3-3498-ca1ca984e49f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "00a25ff7-f322-be3c-eba7-40138e52c875": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Robot/Material Instances/Silver.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "00a41e83-78f0-c827-61a8-4ee173ced3dd": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Gwart/Material Instances/Gwart Trim.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "00bd77c2-90a0-a82c-0ac7-89319c76ecda": {
@@ -70,6 +96,14 @@
             "58f9fb42-ee78-d77f-0613-4fb9aeb5999e"
         ]
     },
+    "01fbe80d-7539-4212-b6ca-6242c2567f15": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Mechley/Mech_2Legs_Jump_Start.anim.nasset",
+        "dependencies": [
+            "7475c9ac-2a88-7fe4-116b-6ae38202c7ff"
+        ]
+    },
     "023e8386-78a4-0698-7cd0-e7cbc4c424ff": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -100,6 +134,18 @@
         "path": "Assets/Characters/Voxel/Danny/SK_Danny.scene.nasset/SK_Danny.scene.nasset",
         "dependencies": [
             "b8bf7aa5-05e6-b5e1-8022-e3d399ea6786"
+        ]
+    },
+    "0405ebc9-f180-0c9c-9e77-893268235763": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Mechley/SK_Mech_2Legs.scene.nasset/SK Mech 2Legs.mesh.nasset/SK Mech 2Legs Mech 2Leg Secondary.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3858271c-9362-0f4b-e21a-d2b8a07ba385",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "0433d203-79bd-a1ec-fd59-581e582b90e2": {
@@ -145,11 +191,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "062eb09e-9e46-2923-be83-e717af5c2e27": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
     "069e5e09-f1a1-153a-f44c-a0af0c731598": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Dinosaurs/Velociraptor/Material Instances/Raptor Toes.mtli.nasset",
@@ -180,6 +221,18 @@
     "0840c848-b03c-926a-6755-38ffa687c03f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Thumbnails/Skin.mtli.nasset.tex.nasset"
+    },
+    "0a250487-13bf-882d-8600-f0db1104d024": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Gwart/Material Instances/Gwart Dark.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Ronnie/SK_Ronnie.scene.nasset/SK Ronnie.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "0ab691d9-5e35-4649-be17-64b6187ffafd": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -222,6 +275,14 @@
             "dda0686c-bec9-a968-7a9e-8f2208623753"
         ]
     },
+    "0b72007d-9f2c-4caf-bfcc-ccb961b91ee1": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Ronnie/Ronnie_Idle.anim.nasset",
+        "dependencies": [
+            "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480"
+        ]
+    },
     "0c86023b-da7a-45ac-ad62-09740b9a468b": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -240,6 +301,16 @@
         "thumbnail": "da5dae06-5230-daba-b483-2e3d57309e76",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "0cfe740b-f015-3f29-8bdd-ae578ce2aa56": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot White.meshskin.nasset",
+        "dependencies": [
+            "9f565e28-1aa8-5df3-6a71-f717c9f13735",
+            "eddd8214-b9e9-8bdb-a3d6-17a6446490e8",
+            "2acb44fd-8f14-e949-f08d-c398aef25d00"
         ]
     },
     "0d0b8a69-139e-8a42-dfc7-5ab1487a37af": {
@@ -304,12 +375,12 @@
             "2faa50ba-2b11-bfcc-3046-66d06f31f36c"
         ]
     },
-    "10641e5d-0f44-3599-c8a1-c55046c57a59": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Mechs/Robot/Material Instances/Grey.mtli.nasset",
-        "thumbnail": "d5171a71-2a8d-0881-0c44-ff58b6853071",
+    "106a4624-28a7-440b-9a45-13dcc0feb144": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Stan/Stan_Walk.anim.nasset",
         "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+            "220790e2-60ee-b80e-0633-0981fe5894ce"
         ]
     },
     "11945c4b-5f8e-4b51-8fd6-e71d883083fd": {
@@ -340,6 +411,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "12e57665-196c-a4d0-6a15-ab6dc5f73c4d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Mechley/Material Instances/Mech 2Leg Main.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "1308dd4f-bebd-1efc-661c-e622cd746e3c": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -355,27 +433,20 @@
             "cde05d69-5fc9-af10-72c4-7370efa03c01"
         ]
     },
-    "131edb48-37c9-f481-27d3-6933879e77f6": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Mechs/Robot/Material Instances/Silver.mtli.nasset",
-        "thumbnail": "96cca2c6-bdd9-1bcd-9bfa-985e01860de7",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "133799e8-3433-9aba-fda8-2fa6aea1d41b": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Mechs/Robot/Material Instances/White.mtli.nasset",
-        "thumbnail": "49d33877-8049-f47d-2085-9b9bdff9aec5",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
+    "1365f4d3-ba8b-4f98-96fe-e2fe5628e131": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Animals/Rat/Thumbnails/Rat.scene.nasset.tex.nasset"
     },
     "139bd1fd-1232-4bf0-8d90-8a9c89e1cf57": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Monsters/Rounded/Alien_Tall/Ball Alien Tall Player.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+    },
+    "13a53a18-15e5-4b4c-b8c6-9ba5749df1c4": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Rat/Rat_Run.anim.nasset"
     },
     "152a8f27-1122-4f41-91b9-1d662a9363ee": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -395,16 +466,29 @@
             "16b510d1-7754-fbcd-1a29-325efc9a7c92"
         ]
     },
-    "16238f9f-05b2-1c9d-b50b-bbe1a3c66b24": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot Silver.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
+    "155b9bc2-3d72-0027-80db-3f385300f026": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Gwart/SK_Gwart.scene.nasset/SK Gwart.mesh.nasset/SK Gwart Gwart Dark.meshskin.nasset",
         "dependencies": [
-            "131edb48-37c9-f481-27d3-6933879e77f6",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+            "2707552f-0b77-b6b6-c88d-3a0c2527b2c8",
+            "94d419e3-39e8-88eb-70f7-35d7e3b05b79",
+            "0a250487-13bf-882d-8600-f0db1104d024"
+        ]
+    },
+    "165240e7-2241-484f-8ef3-c723091cc6f4": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Gwart/Gwart_Idle.anim.nasset",
+        "dependencies": [
+            "94d419e3-39e8-88eb-70f7-35d7e3b05b79"
+        ]
+    },
+    "168afce9-5187-0e51-633f-16d8963b418d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Robot/Material Instances/Main.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "168dd918-458d-874d-bf82-79ae00ea4a15": {
@@ -427,12 +511,37 @@
             "01672b1c-f6a9-f919-f136-a59c870b280b"
         ]
     },
+    "1789de8e-96df-face-7b3c-6e9e4a8837e2": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Ronnie/Material Instances/Ronnie Secondary.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "17acaf04-a3fb-f72e-1316-ea496a18b123": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/George/SK_George.scene.nasset/SK George.mesh.nasset/SK George George.meshskin.nasset",
+        "dependencies": [
+            "5b4e0fba-b3d0-74be-618d-176f93e0fd34",
+            "a85be35e-5a2b-8bba-8c91-c1e7580edd7f",
+            "4581a936-3256-52f7-8782-3b956b2a0ab8"
+        ]
+    },
     "193903f3-032a-aadc-c77e-99b9b91b56fa": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Nails.mtli.nasset",
         "thumbnail": "4a504788-37e8-28a8-1211-d28d6ea4b8bf",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "19a577ba-976d-eeb6-0b69-975502413c96": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Animals/Rat/SK_Rat.scene.nasset/SK_Rat.scene.nasset",
+        "dependencies": [
+            "aff00ef6-0159-05f6-aee7-61e08496d69d"
         ]
     },
     "19a9780c-02bd-4fb4-ab43-4eb90a37d093": {
@@ -536,6 +645,18 @@
             "74d3494f-799b-d256-edd8-0e7a7013c43c"
         ]
     },
+    "1d0d9665-e606-208b-624a-cb609187ac9e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Gwart/SK_Gwart.scene.nasset/SK Gwart.mesh.nasset/SK Gwart Gwart Trim.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "00a41e83-78f0-c827-61a8-4ee173ced3dd",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "1ded6e80-1ade-2e14-daea-200e4b05a186": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Dinosaurs/Parasaurolophus/Material Instances/Parasaurolophus Belly.mtli.nasset",
@@ -576,12 +697,19 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Robot/Robot_Walk.anim.nasset",
         "dependencies": [
-            "062eb09e-9e46-2923-be83-e717af5c2e27"
+            "eddd8214-b9e9-8bdb-a3d6-17a6446490e8"
         ]
     },
     "20a5bf7c-9a80-734d-163a-5d4e7a537bda": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Heist/Material Instances/Thumbnails/Dark.mtli.nasset.tex.nasset"
+    },
+    "20c5a01b-5b03-92d9-1285-71d6871c9a67": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Gwart/Material Instances/Gwart Edge.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "20cf6175-5fc4-41fb-938d-08db6a1371a1": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -603,12 +731,25 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "220790e2-60ee-b80e-0633-0981fe5894ce": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Stan/SK_Stan.scene.nasset/SK Stan.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
     "22a1a375-592a-4c6e-8832-182d112c4a8d": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Dinosaurs/Stegosaurus/Stegosaurus_Idle.anim.nasset",
         "dependencies": [
             "3d65b732-ebfc-12da-ec51-362e7a40c166"
+        ]
+    },
+    "23ace2be-f579-448a-9228-4ea4c6484578": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/George/George_Jump_Start.anim.nasset",
+        "dependencies": [
+            "a85be35e-5a2b-8bba-8c91-c1e7580edd7f"
         ]
     },
     "23ad9335-3592-e612-628a-bd551a06f19d": {
@@ -633,6 +774,14 @@
         "dependencies": [
             "16b510d1-7754-fbcd-1a29-325efc9a7c92",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "23dfe40c-8988-4fc3-93b7-0465021b8c4a": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Mechley/Mech_2Legs_Run.anim.nasset",
+        "dependencies": [
+            "7475c9ac-2a88-7fe4-116b-6ae38202c7ff"
         ]
     },
     "242e71af-9549-bc3c-db6e-a315c15dd71b": {
@@ -689,6 +838,9 @@
         "thumbnail": "99029d92-f497-4c98-be8b-85a5a9bba823",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "de064ec9-6de9-997d-9daf-1161ee2e3c4d"
         ]
     },
     "265ed15e-1b09-c46a-be38-5cd95b8600e4": {
@@ -713,6 +865,18 @@
         "thumbnail": "f64ca87a-380c-c3f9-ded2-8680aae47c1c",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "2707552f-0b77-b6b6-c88d-3a0c2527b2c8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Gwart/SK_Gwart.scene.nasset/SK Gwart.mesh.nasset/SK Gwart Gwart Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0a250487-13bf-882d-8600-f0db1104d024",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "27897906-0c10-aa9f-f737-50074c44281a": {
@@ -747,6 +911,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "27b1f684-2502-4868-a6ee-8e55ffee9f20": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Heist/Thumbnails/Redman.scene.nasset.tex.nasset"
+    },
     "295dc61d-2f3d-57bc-9e54-2f6670374672": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Monsters/Big/Yeti/Material Instances/Thumbnails/Yeti Secondary.mtli.nasset.tex.nasset"
@@ -757,6 +925,38 @@
         "path": "Assets/Characters/Dinosaurs/Velociraptor/Velociraptor_Walk.anim.nasset",
         "dependencies": [
             "bc6c4d4b-a05b-6e71-5d0f-7689c128925b"
+        ]
+    },
+    "29856867-3020-e013-c2ff-0a58611ef83b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Mechs/Gwart/SK_Gwart.scene.nasset/SK Gwart.mesh.nasset/SK Gwart.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "20c5a01b-5b03-92d9-1285-71d6871c9a67",
+            "c4d5185b-ec4d-e651-19db-75c5e19014a0",
+            "b1644edf-7366-f7d0-a54c-50da20f893e4",
+            "00a41e83-78f0-c827-61a8-4ee173ced3dd",
+            "1d0d9665-e606-208b-624a-cb609187ac9e",
+            "3384231e-1e46-f82f-66d2-8719d85f00e9",
+            "0a250487-13bf-882d-8600-f0db1104d024",
+            "2707552f-0b77-b6b6-c88d-3a0c2527b2c8",
+            "155b9bc2-3d72-0027-80db-3f385300f026",
+            "72d4fb2c-6795-e451-60e1-f4aeb45e978a",
+            "c61b9d38-2c17-d334-7217-9d0882f9a751",
+            "aa98929f-de02-7b92-75a7-ab7abdb3bfd0",
+            "3b4d1e88-e757-80ee-a52b-d5a1952f2a97",
+            "de03b733-8429-e6a3-b92c-19fcc8566cae",
+            "5438251c-dbec-8285-bb3e-6289871dd01a",
+            "94d419e3-39e8-88eb-70f7-35d7e3b05b79",
+            "165240e7-2241-484f-8ef3-c723091cc6f4",
+            "7053a253-f8eb-40f2-a333-8d66b650f010",
+            "976b52f2-f4a9-47f8-9059-1ea2ccc24f05",
+            "71687d46-3362-4a65-b838-5f4af2be2e12",
+            "33973dee-9e3b-4ee2-a3df-74854e6da0a6",
+            "618faef9-ce00-45da-97ed-8b2d35d9cf18"
         ]
     },
     "29c9e618-b209-c8fb-476b-3314bb7421e1": {
@@ -771,6 +971,13 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Heist/Material Instances/Thumbnails/Grey Dark.mtli.nasset.tex.nasset"
     },
+    "2acb44fd-8f14-e949-f08d-c398aef25d00": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Robot/Material Instances/White.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "2b0a5e9d-e66d-5148-b9b2-dc61d06f7690": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -779,6 +986,32 @@
             "f91aa247-b5f7-4656-55f4-aa9ffe0f7b07",
             "2faa50ba-2b11-bfcc-3046-66d06f31f36c",
             "a356fe33-9b73-0fc6-04db-0a5b3c9158c1"
+        ]
+    },
+    "2b52c73d-0d1e-7e45-9fa1-beb10d939916": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Mechs/Mechley/SK_Mech_2Legs.scene.nasset/SK Mech 2Legs.mesh.nasset/SK Mech 2Legs.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "3858271c-9362-0f4b-e21a-d2b8a07ba385",
+            "0405ebc9-f180-0c9c-9e77-893268235763",
+            "778a26a5-2149-d397-8a5d-2e33a51b3829",
+            "12e57665-196c-a4d0-6a15-ab6dc5f73c4d",
+            "d5e25680-ba87-0d14-ae08-ac3cdc8f2f59",
+            "a63e1b38-a29a-576e-aa27-335f420cfc26",
+            "a7ed0225-02af-b2c7-bfdc-c3f85d0524e2",
+            "644063a7-2b5d-964e-e2f1-ed5f22788697",
+            "ce92ba99-28bf-add6-f683-a6f3545ad9e3",
+            "62b3e2c5-f926-f13c-4b71-27413432ebae",
+            "bd1a945a-95e2-a5af-f0f8-53cd82f00e76",
+            "791a88aa-a5d8-2c18-65f0-77968cab6c3e",
+            "792455f1-f581-e465-2003-b089ae162c4b",
+            "9d1cb72a-3202-f0bf-e174-24c8df52d672",
+            "b6c4d51b-36e6-f9fc-dc6a-f9000d18fcd9",
+            "7475c9ac-2a88-7fe4-116b-6ae38202c7ff"
         ]
     },
     "2c1fe583-73b7-725b-d9da-502584b5f799": {
@@ -807,6 +1040,16 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "2d9bc9c5-b42e-203e-28c6-f46eedaf8223": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Ronnie/SK_Ronnie.scene.nasset/SK Ronnie.mesh.nasset/SK Ronnie Ronnie Black.meshskin.nasset",
+        "dependencies": [
+            "99af2816-ce37-c9cb-c703-23098f631f24",
+            "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480",
+            "85c03a10-3ec0-2097-67b0-14f574e95af3"
+        ]
+    },
     "2f7463ff-ce46-e370-d3cb-e08821bbd775": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -815,6 +1058,13 @@
             "724f1717-733a-1e08-7254-9dc8e6a47d09",
             "c50b45c1-4d5a-6d62-6fa9-1d7614e1d959",
             "04923f94-6d3d-a296-66e1-c36f6eb6ca70"
+        ]
+    },
+    "2f79bb5a-efc7-8c3a-4fb0-83fd0df9caff": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Animals/Rat/Material Instances/Rat Secondary.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "2f87f0a2-bae6-e9c1-d813-74caf8cd2321": {
@@ -831,18 +1081,6 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Monsters/Big/AAA_Animations/SK_Monster_Base.scene.nasset/SK Monster Base.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
-    "308c1076-00b0-6ee2-adf5-dc2df48dafc4": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot Black.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a5917b54-a1f4-d747-ae67-b33bfd6002cf",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
     },
     "30a2fad9-4d16-0bc0-6062-2e027cff9ede": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -879,6 +1117,16 @@
         "path": "Assets/Characters/Monsters/Rounded/Crab/Ball Crab Player.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
     },
+    "3384231e-1e46-f82f-66d2-8719d85f00e9": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Gwart/SK_Gwart.scene.nasset/SK Gwart.mesh.nasset/SK Gwart Gwart Trim.meshskin.nasset",
+        "dependencies": [
+            "1d0d9665-e606-208b-624a-cb609187ac9e",
+            "94d419e3-39e8-88eb-70f7-35d7e3b05b79",
+            "00a41e83-78f0-c827-61a8-4ee173ced3dd"
+        ]
+    },
     "33898a5b-006a-7212-0e05-84dc4c107272": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -889,6 +1137,21 @@
         "dependencies": [
             "00bd77c2-90a0-a82c-0ac7-89319c76ecda",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "33973dee-9e3b-4ee2-a3df-74854e6da0a6": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Gwart/Gwart_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "94d419e3-39e8-88eb-70f7-35d7e3b05b79"
+        ]
+    },
+    "33d66126-bd02-3f2c-ba2b-7892ed00adf0": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Ronnie/Material Instances/Ronnie Main.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "34f2f830-ab2c-4ab9-a68f-5e9de49454bc": {
@@ -925,6 +1188,24 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "36067433-0b51-9197-49dd-9ba1951241c0": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Ronnie/SK_Ronnie.scene.nasset/SK Ronnie.mesh.nasset/SK Ronnie Ronnie Eye.meshskin.nasset",
+        "dependencies": [
+            "0009406c-2227-053c-b106-24a2f91ba400",
+            "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480",
+            "3efeacdc-5db2-2a94-8e46-789f80a12f8d"
+        ]
+    },
+    "36f05629-0cc6-4c65-82cf-d89c2a515a8c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/George/George_Idle.anim.nasset",
+        "dependencies": [
+            "a85be35e-5a2b-8bba-8c91-c1e7580edd7f"
+        ]
+    },
     "37fbb575-41bd-cfef-9662-d086f2365de8": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -933,6 +1214,13 @@
             "ea3c164f-7ce7-6062-813d-9a366e5956b6",
             "168dd918-458d-874d-bf82-79ae00ea4a15",
             "0f920536-8057-a096-6e5a-f28d8ed73253"
+        ]
+    },
+    "3858271c-9362-0f4b-e21a-d2b8a07ba385": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Mechley/Material Instances/Mech 2Leg Secondary.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "38761bef-e7c2-9e25-796c-cf1570ba1c9c": {
@@ -948,6 +1236,13 @@
     "39f30485-744a-3be6-6042-10f790a50f6e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Thumbnails/Cyan 600.mtli.nasset.tex.nasset"
+    },
+    "3a98ae42-46e1-eb69-b2eb-70cc6093bc4b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Robot/Material Instances/Black.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "3aa192c8-f63f-47d5-91b5-2e6f7935af5d": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -965,6 +1260,13 @@
             "242e71af-9549-bc3c-db6e-a315c15dd71b",
             "add9eeac-039d-8c56-5381-6e886b6b3b0e",
             "352e12bc-f3e6-c9d1-4ab2-31282ad2d7bf"
+        ]
+    },
+    "3b4d1e88-e757-80ee-a52b-d5a1952f2a97": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Gwart/Material Instances/Gwart Eye.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "3bbb55b9-5034-4d04-85c6-f0ada21dada8": {
@@ -1055,6 +1357,36 @@
             "865092ef-727b-5ec1-70b2-fd89fe4ed47e"
         ]
     },
+    "3e66a21b-1adc-25ba-1991-d4f080d5529d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Mechs/George/SK_George.scene.nasset/SK George.mesh.nasset/SK George.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "4581a936-3256-52f7-8782-3b956b2a0ab8",
+            "5b4e0fba-b3d0-74be-618d-176f93e0fd34",
+            "17acaf04-a3fb-f72e-1316-ea496a18b123",
+            "a85be35e-5a2b-8bba-8c91-c1e7580edd7f",
+            "36f05629-0cc6-4c65-82cf-d89c2a515a8c",
+            "ecbcdb1e-9778-41b1-a829-1a440b6c7194",
+            "f524c14a-8656-4400-912c-e98f126ce313",
+            "23ace2be-f579-448a-9228-4ea4c6484578",
+            "c2af3cd0-3d2d-45cf-9112-a24102a039fb",
+            "956bbaa5-b388-46ce-8a80-60845b609e37"
+        ]
+    },
+    "3eaca601-41e9-d9bb-d64a-69a2ed5ae200": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Animals/Rat/SK_Rat.scene.nasset/SK Rat.mesh.nasset/SK Rat Rat Secondary.meshskin.nasset",
+        "dependencies": [
+            "df3ab44e-d9d3-6408-a436-886dfa59273b",
+            "9dd63c1d-36ad-2a75-441a-0a4c8e478586",
+            "2f79bb5a-efc7-8c3a-4fb0-83fd0df9caff"
+        ]
+    },
     "3eb2bf6e-565d-21c4-745a-4c0c581be823": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Mechs/Leela/Textures/T_Leela_D.tex.nasset"
@@ -1066,6 +1398,18 @@
         "dependencies": [
             "bc6c4d4b-a05b-6e71-5d0f-7689c128925b"
         ]
+    },
+    "3efeacdc-5db2-2a94-8e46-789f80a12f8d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Ronnie/Material Instances/Ronnie Eye.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "3f4ea462-e616-5161-190b-8d033fcf1171": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Apatosaurus/SK_Apatosaurus.scene.nasset/SK Apatosaurus.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "3fd0b19f-8763-55ae-ae7c-7e5298afe54f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1099,7 +1443,7 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Robot/Robot_Jump_Start.anim.nasset",
         "dependencies": [
-            "062eb09e-9e46-2923-be83-e717af5c2e27"
+            "eddd8214-b9e9-8bdb-a3d6-17a6446490e8"
         ]
     },
     "40f3297b-7105-5b09-0a65-84b9536251dd": {
@@ -1121,7 +1465,7 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Robot/Robot_Jump_End.anim.nasset",
         "dependencies": [
-            "062eb09e-9e46-2923-be83-e717af5c2e27"
+            "eddd8214-b9e9-8bdb-a3d6-17a6446490e8"
         ]
     },
     "429bebc4-eb54-c946-a7b6-2a8e2b5ada01": {
@@ -1181,14 +1525,20 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Thumbnails/Ninja Eye Black.mtli.nasset.tex.nasset"
     },
-    "4513cf74-a08d-6964-cc0f-7adfe459be14": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot Silver.meshskin.nasset",
+    "453df314-5a4b-4b29-81e8-bcd188363b0c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Ronnie/Ronnie_Walk.anim.nasset",
         "dependencies": [
-            "16238f9f-05b2-1c9d-b50b-bbe1a3c66b24",
-            "062eb09e-9e46-2923-be83-e717af5c2e27",
-            "131edb48-37c9-f481-27d3-6933879e77f6"
+            "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480"
+        ]
+    },
+    "4581a936-3256-52f7-8782-3b956b2a0ab8": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/George/Material Instances/George.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "47db1cc6-ce32-1b1f-d49c-c84b74a8603e"
         ]
     },
     "45ff5a68-c63a-493b-8c98-f80295125e4c": {
@@ -1197,6 +1547,14 @@
         "path": "Assets/Characters/Modular_Toon/AAA_Animations/Avatar_Jump_Loop.anim.nasset",
         "dependencies": [
             "d2579157-f78f-07e4-7de4-bac976c28095"
+        ]
+    },
+    "46460d8b-9dd2-7050-3320-382065ef95f7": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Mechs/Ronnie/SK_Ronnie.scene.nasset/SK_Ronnie.scene.nasset",
+        "dependencies": [
+            "ffc24bac-2211-40b0-a6a6-de8f25d3bd97"
         ]
     },
     "46731b77-9108-4ad7-8e8c-32f92b0c1a7b": {
@@ -1232,17 +1590,9 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
-    "47a445de-cbf0-af0b-7d92-cb4e9718012b": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot Grey.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "10641e5d-0f44-3599-c8a1-c55046c57a59",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
+    "47db1cc6-ce32-1b1f-d49c-c84b74a8603e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Mechs/George/Textures/T_George_D.tex.nasset"
     },
     "48b47f59-c1c3-336c-a006-b06de38cf52a": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -1264,13 +1614,17 @@
             "003cffd9-66f7-91f1-5ca8-27dedb5265a4"
         ]
     },
-    "49d33877-8049-f47d-2085-9b9bdff9aec5": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Mechs/Robot/Material Instances/Thumbnails/White.mtli.nasset.tex.nasset"
-    },
     "4a504788-37e8-28a8-1211-d28d6ea4b8bf": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Thumbnails/Nails.mtli.nasset.tex.nasset"
+    },
+    "4a677e99-3ef7-4c33-bab2-d1e21b366adb": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Mechley/Mech_2Legs_Walk.anim.nasset",
+        "dependencies": [
+            "7475c9ac-2a88-7fe4-116b-6ae38202c7ff"
+        ]
     },
     "4ac160ab-2e42-7193-8984-66e0909a7933": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1381,6 +1735,10 @@
             "5d811aae-aa46-e655-1b5f-73bc4e23cfae"
         ]
     },
+    "507fb6bc-b291-c872-4da3-16c508c7ce24": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Mechs/Stan/Textures/T_Stan_D.tex.nasset"
+    },
     "50825539-6e25-5eaf-80c5-ebcdef7d732d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1403,16 +1761,6 @@
         "path": "Assets/Characters/Animals/Spider/Spider_Jump End.anim.nasset",
         "dependencies": [
             "1308dd4f-bebd-1efc-661c-e622cd746e3c"
-        ]
-    },
-    "50b5b892-9809-f58e-ab29-19a1a247fdda": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot Black.meshskin.nasset",
-        "dependencies": [
-            "308c1076-00b0-6ee2-adf5-dc2df48dafc4",
-            "062eb09e-9e46-2923-be83-e717af5c2e27",
-            "a5917b54-a1f4-d747-ae67-b33bfd6002cf"
         ]
     },
     "526a4c23-35be-4537-a176-b491dc61dbc9": {
@@ -1440,6 +1788,16 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "5438251c-dbec-8285-bb3e-6289871dd01a": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Gwart/SK_Gwart.scene.nasset/SK Gwart.mesh.nasset/SK Gwart Gwart Eye.meshskin.nasset",
+        "dependencies": [
+            "de03b733-8429-e6a3-b92c-19fcc8566cae",
+            "94d419e3-39e8-88eb-70f7-35d7e3b05b79",
+            "3b4d1e88-e757-80ee-a52b-d5a1952f2a97"
+        ]
+    },
     "54d24624-aa4b-41ac-2d3b-6719f839709f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1459,6 +1817,16 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "55947494-2f83-ef2e-158a-198d8878499e": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot Black.meshskin.nasset",
+        "dependencies": [
+            "8931f32d-7522-7ffa-0a21-c19232bfc9da",
+            "eddd8214-b9e9-8bdb-a3d6-17a6446490e8",
+            "3a98ae42-46e1-eb69-b2eb-70cc6093bc4b"
+        ]
+    },
     "55c48aac-e1ef-c629-12f8-f5d0bbcea152": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -1476,6 +1844,19 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "568cd598-fa43-e48e-8424-a96bfb294526": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Dinosaurs/Apatosaurus/SK_Apatosaurus.scene.nasset/SK_Apatosaurus.scene.nasset",
+        "dependencies": [
+            "7244f1fa-28c0-2a09-837e-c4da36d8a529"
+        ]
+    },
+    "5706163a-c443-4022-94c1-bcf8bc40cdba": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Apatosaurus/Apatosaurus_Jump_End.anim.nasset"
     },
     "58b778ad-94ed-4ce5-1dca-225474c1ff16": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -1497,6 +1878,30 @@
             "69bc925c-3013-4d5b-f4d6-222f5937f904",
             "dda0686c-bec9-a968-7a9e-8f2208623753",
             "26dc6fe0-4edd-183c-6f42-897581fae5fe"
+        ]
+    },
+    "5a6c4cbc-4813-4c40-b5be-decf6113e543": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Mechs/Mechley/Mechley.scene.nasset",
+        "thumbnail": "942e9729-2adb-4ca3-9f4a-753a2511dc9e",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "2b52c73d-0d1e-7e45-9fa1-beb10d939916"
+        ]
+    },
+    "5b4e0fba-b3d0-74be-618d-176f93e0fd34": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/George/SK_George.scene.nasset/SK George.mesh.nasset/SK George George.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4581a936-3256-52f7-8782-3b956b2a0ab8",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "5b773a0d-c72c-0174-f1d8-1760250a845b": {
@@ -1565,10 +1970,6 @@
             "add9eeac-039d-8c56-5381-6e886b6b3b0e"
         ]
     },
-    "5df2ba05-a7ec-890e-d9a7-80d330a70f25": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Mechs/Robot/Material Instances/Thumbnails/Main.mtli.nasset.tex.nasset"
-    },
     "5e4b71d5-64c5-9f34-c93f-2b0077ea5fe7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1622,6 +2023,9 @@
         "thumbnail": "67bafe6f-6889-43e8-8a2e-74951e14cc97",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "8a710282-72e0-c192-75a6-ddc2d5525035"
         ]
     },
     "609da2cb-e4a0-947c-e5d7-9d4743f792cb": {
@@ -1667,6 +2071,26 @@
             "0eaeff54-959c-56fc-919f-9706ffedbe64"
         ]
     },
+    "618faef9-ce00-45da-97ed-8b2d35d9cf18": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Gwart/Gwart_Jump_End.anim.nasset",
+        "dependencies": [
+            "94d419e3-39e8-88eb-70f7-35d7e3b05b79"
+        ]
+    },
+    "620be590-c551-a7a1-d456-65258ecbc37c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "168afce9-5187-0e51-633f-16d8963b418d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "6215d895-0371-36a4-5136-9e2d79984fa4": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1682,6 +2106,25 @@
         "dependencies": [
             "1308dd4f-bebd-1efc-661c-e622cd746e3c"
         ]
+    },
+    "62b3e2c5-f926-f13c-4b71-27413432ebae": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Mechley/Material Instances/Mech 2Leg Black.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "62bf758d-0241-4dac-bd3e-9c22fcdefee0": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Stan/Stan_Jump_Start.anim.nasset",
+        "dependencies": [
+            "220790e2-60ee-b80e-0633-0981fe5894ce"
+        ]
+    },
+    "63c6c76a-191a-41d2-bf67-06ac6d02c08d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Mechs/George/Thumbnails/George.scene.nasset.tex.nasset"
     },
     "63df2c3f-b3ba-08ee-5762-dfa2225d35af": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1705,6 +2148,18 @@
         "path": "Assets/Characters/Monsters/Rounded/AAA_Animations/SK_Ball.scene.nasset/SK_Ball.scene.nasset",
         "dependencies": [
             "612e5203-4eaf-f99b-11de-82656df0175e"
+        ]
+    },
+    "644063a7-2b5d-964e-e2f1-ed5f22788697": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Mechley/SK_Mech_2Legs.scene.nasset/SK Mech 2Legs.mesh.nasset/SK Mech 2Legs Mech 2Leg Trim.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a7ed0225-02af-b2c7-bfdc-c3f85d0524e2",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "64979109-6b8c-dad4-a608-739fc9fde0cc": {
@@ -1741,6 +2196,15 @@
             "7a87bb9d-d0cc-0883-9cbd-8d005fdae678"
         ]
     },
+    "66ed6e43-16d5-438d-a584-6772ed618424": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Dinosaurs/Apatosaurus/Thumbnails/Apatosaurus.scene.nasset.tex.nasset"
+    },
+    "6752dae9-4321-4155-b1ff-f9e86e55229e": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Rat/Rat_Jump_Loop.anim.nasset"
+    },
     "675f918e-4310-16e0-be95-5b5af81d10e4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Eyes.mtli.nasset",
@@ -1760,6 +2224,16 @@
     "67bafe6f-6889-43e8-8a2e-74951e14cc97": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Heist/Thumbnails/Soldier.scene.nasset.tex.nasset"
+    },
+    "67d04dfd-8df5-21c8-1cc3-4ebbd752242a": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Stan/SK_Stan.scene.nasset/SK Stan.mesh.nasset/SK Stan Stan.meshskin.nasset",
+        "dependencies": [
+            "c6b3b08e-494b-528d-bb41-7004897824db",
+            "220790e2-60ee-b80e-0633-0981fe5894ce",
+            "aa52e282-e01d-95c6-d5f7-5f5e205798dc"
+        ]
     },
     "67ffc542-10b9-4a72-a2ae-f13901860142": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -1838,6 +2312,16 @@
             "168dd918-458d-874d-bf82-79ae00ea4a15"
         ]
     },
+    "6dabc083-028e-5745-bee6-54d16ec09264": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot Grey.meshskin.nasset",
+        "dependencies": [
+            "84c4fc94-8c05-4167-a7ff-93e031796da9",
+            "eddd8214-b9e9-8bdb-a3d6-17a6446490e8",
+            "f07bec9a-7ac5-f672-65a2-7dfb6298ad2f"
+        ]
+    },
     "6eafeba7-15d9-43b6-a118-e471ba367851": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1883,6 +2367,29 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK Heist Soldier.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "7053a253-f8eb-40f2-a333-8d66b650f010": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Gwart/Gwart_Walk.anim.nasset",
+        "dependencies": [
+            "94d419e3-39e8-88eb-70f7-35d7e3b05b79"
+        ]
+    },
+    "706c367c-7e7e-d8af-7b76-94fa60c55532": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Dinosaurs/Apatosaurus/Material Instances/Apatosaurus Belly.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "71021b82-7f36-4109-9ec3-da8c5642bde4": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Ronnie/Ronnie_Run.anim.nasset",
+        "dependencies": [
+            "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480"
+        ]
+    },
     "7141c87c-0bbf-6f5d-a43a-59222ef5a742": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1893,6 +2400,14 @@
         "dependencies": [
             "0cdb3984-07b6-fd49-3325-aef2e42db8e7",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "71687d46-3362-4a65-b838-5f4af2be2e12": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Gwart/Gwart_Jump_Start.anim.nasset",
+        "dependencies": [
+            "94d419e3-39e8-88eb-70f7-35d7e3b05b79"
         ]
     },
     "717cab1f-ff25-bd86-79f5-1561a8fec4c4": {
@@ -1941,6 +2456,29 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "7244f1fa-28c0-2a09-837e-c4da36d8a529": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Dinosaurs/Apatosaurus/SK_Apatosaurus.scene.nasset/SK Apatosaurus.mesh.nasset/SK Apatosaurus.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "706c367c-7e7e-d8af-7b76-94fa60c55532",
+            "d3f3631a-c1a2-60eb-d2f2-0fa03bfdb023",
+            "ea89ab58-3388-4a0a-2416-a9fba69503ee",
+            "8b3f26a9-bef3-08a7-7089-155a82259f5c",
+            "7bf31a5d-99af-fcf8-9e5c-0a729c1ab751",
+            "cbff5551-48c3-bbcc-32e4-e4b10345b849",
+            "3f4ea462-e616-5161-190b-8d033fcf1171",
+            "f2d1dca6-d6c7-4e14-b80c-20f02232ae01",
+            "dc855cb1-6dbe-45a0-9eca-6038fb79c2f3",
+            "7b06f555-f506-4081-a0e4-b7eab76462ca",
+            "d58d3140-d3cc-4d1d-980b-59487c46624f",
+            "784e7dd6-4aa2-443f-880f-ba1427737aa1",
+            "5706163a-c443-4022-94c1-bcf8bc40cdba"
+        ]
+    },
     "724f1717-733a-1e08-7254-9dc8e6a47d09": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1953,10 +2491,9 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "725358d1-9c64-6f29-614d-b5d53cb22a25": {
+    "72d4fb2c-6795-e451-60e1-f4aeb45e978a": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Mechs/Robot/Material Instances/Main.mtli.nasset",
-        "thumbnail": "5df2ba05-a7ec-890e-d9a7-80d330a70f25",
+        "path": "Assets/Characters/Mechs/Gwart/Material Instances/Gwart Main.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1978,6 +2515,19 @@
             "dda0686c-bec9-a968-7a9e-8f2208623753",
             "609da2cb-e4a0-947c-e5d7-9d4743f792cb"
         ]
+    },
+    "74007bdd-f33b-48f5-a268-9fca81d0d5ad": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Stan/Stan_Idle.anim.nasset",
+        "dependencies": [
+            "220790e2-60ee-b80e-0633-0981fe5894ce"
+        ]
+    },
+    "7475c9ac-2a88-7fe4-116b-6ae38202c7ff": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Mechley/SK_Mech_2Legs.scene.nasset/SK Mech 2Legs.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "74d26751-2710-6d59-8473-4925f2593bde": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2093,10 +2643,55 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "778a26a5-2149-d397-8a5d-2e33a51b3829": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Mechley/SK_Mech_2Legs.scene.nasset/SK Mech 2Legs.mesh.nasset/SK Mech 2Legs Mech 2Leg Secondary.meshskin.nasset",
+        "dependencies": [
+            "0405ebc9-f180-0c9c-9e77-893268235763",
+            "7475c9ac-2a88-7fe4-116b-6ae38202c7ff",
+            "3858271c-9362-0f4b-e21a-d2b8a07ba385"
+        ]
+    },
+    "784e7dd6-4aa2-443f-880f-ba1427737aa1": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Apatosaurus/Apatosaurus_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "3f4ea462-e616-5161-190b-8d033fcf1171"
+        ]
+    },
     "7900fc0a-1be1-4179-80be-dbce2cb90f23": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Heist/Run.anim.nasset"
+    },
+    "791a88aa-a5d8-2c18-65f0-77968cab6c3e": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Mechley/SK_Mech_2Legs.scene.nasset/SK Mech 2Legs.mesh.nasset/SK Mech 2Legs Mech 2Leg Black.meshskin.nasset",
+        "dependencies": [
+            "bd1a945a-95e2-a5af-f0f8-53cd82f00e76",
+            "7475c9ac-2a88-7fe4-116b-6ae38202c7ff",
+            "62b3e2c5-f926-f13c-4b71-27413432ebae"
+        ]
+    },
+    "792455f1-f581-e465-2003-b089ae162c4b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Mechley/Material Instances/Mech 2Leg Eye.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "793f7db6-2b2c-4712-c416-ced78a90b500": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Ronnie/SK_Ronnie.scene.nasset/SK Ronnie.mesh.nasset/SK Ronnie Ronnie Edge.meshskin.nasset",
+        "dependencies": [
+            "7e733175-2385-0f4d-e361-86198c620c1b",
+            "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480",
+            "9dbe171d-1630-c047-0e64-406f54c0c2c7"
+        ]
     },
     "7a221d85-79a7-bf21-b8a2-dc6707ae978b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2118,11 +2713,31 @@
             "d553038a-3287-4d7a-8c5c-9d5b349af7b6"
         ]
     },
+    "7b06f555-f506-4081-a0e4-b7eab76462ca": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Apatosaurus/Apatosaurus_Run.anim.nasset",
+        "dependencies": [
+            "3f4ea462-e616-5161-190b-8d033fcf1171"
+        ]
+    },
     "7ba29c6c-d48a-5fd0-7200-31442793658c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Dinosaurs/Triceratops/Material Instances/Purple.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "7bf31a5d-99af-fcf8-9e5c-0a729c1ab751": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Dinosaurs/Apatosaurus/SK_Apatosaurus.scene.nasset/SK Apatosaurus.mesh.nasset/SK Apatosaurus Apatosaurus Body.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "8b3f26a9-bef3-08a7-7089-155a82259f5c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "7c364725-f2b1-e576-3d31-aacb63c16d23": {
@@ -2161,6 +2776,18 @@
             "7c364725-f2b1-e576-3d31-aacb63c16d23",
             "1308dd4f-bebd-1efc-661c-e622cd746e3c",
             "8700bd7c-cd10-9736-bd46-b3cd8cb5a065"
+        ]
+    },
+    "7e733175-2385-0f4d-e361-86198c620c1b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Ronnie/SK_Ronnie.scene.nasset/SK Ronnie.mesh.nasset/SK Ronnie Ronnie Edge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9dbe171d-1630-c047-0e64-406f54c0c2c7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "7ed5d857-cb46-7e95-2b62-fdc7b0dba6ae": {
@@ -2238,6 +2865,18 @@
             "865092ef-727b-5ec1-70b2-fd89fe4ed47e"
         ]
     },
+    "82e9235b-1350-400e-b919-8ae16780c1d0": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Mechs/Ronnie/Ronnie.scene.nasset",
+        "thumbnail": "eb0cfe6a-2b16-4871-b469-7652e8237421",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "ffc24bac-2211-40b0-a6a6-de8f25d3bd97"
+        ]
+    },
     "83ba8884-4092-9ddb-1af0-0217cf07aa13": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Animals/Spider/Material Instances/Thumbnails/Spider Eyes.mtli.nasset.tex.nasset"
@@ -2254,30 +2893,23 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "85369f56-6529-552d-fe0c-07216b04210c": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot.mesh.nasset",
+    "84c4fc94-8c05-4167-a7ff-93e031796da9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot Grey.mesh.nasset",
         "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
         "dependencies": [
-            "a5917b54-a1f4-d747-ae67-b33bfd6002cf",
-            "308c1076-00b0-6ee2-adf5-dc2df48dafc4",
-            "50b5b892-9809-f58e-ab29-19a1a247fdda",
-            "725358d1-9c64-6f29-614d-b5d53cb22a25",
-            "c57ff556-4c23-ce7c-3a58-e09313b0ed05",
-            "894cf8ac-91c8-cc91-1743-e6ade129344f",
-            "133799e8-3433-9aba-fda8-2fa6aea1d41b",
-            "87cd522f-b3f8-f223-3de6-f23d0c0d43d1",
-            "f203a569-851b-9c6b-e6ca-d7a111b47fae",
-            "10641e5d-0f44-3599-c8a1-c55046c57a59",
-            "47a445de-cbf0-af0b-7d92-cb4e9718012b",
-            "90e44ec0-d423-f268-58ad-e13fe95c6a4a",
-            "131edb48-37c9-f481-27d3-6933879e77f6",
-            "16238f9f-05b2-1c9d-b50b-bbe1a3c66b24",
-            "4513cf74-a08d-6964-cc0f-7adfe459be14",
-            "062eb09e-9e46-2923-be83-e717af5c2e27"
+            "f07bec9a-7ac5-f672-65a2-7dfb6298ad2f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "85c03a10-3ec0-2097-67b0-14f574e95af3": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Ronnie/Material Instances/Ronnie Black.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "865092ef-727b-5ec1-70b2-fd89fe4ed47e": {
@@ -2330,18 +2962,6 @@
             "d393c1f0-a964-6c8a-ee05-81489e6a0c31"
         ]
     },
-    "87cd522f-b3f8-f223-3de6-f23d0c0d43d1": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "133799e8-3433-9aba-fda8-2fa6aea1d41b",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "88078735-a97c-4758-9d4f-ae8852aa852b": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2349,6 +2969,28 @@
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f",
         "dependencies": [
             "01672b1c-f6a9-f919-f136-a59c870b280b"
+        ]
+    },
+    "888b2656-142b-6510-0aa6-48d5e4f0adf6": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot Silver.meshskin.nasset",
+        "dependencies": [
+            "adad63b7-dfae-0dc1-ff1c-3a419f357a35",
+            "eddd8214-b9e9-8bdb-a3d6-17a6446490e8",
+            "00a25ff7-f322-be3c-eba7-40138e52c875"
+        ]
+    },
+    "8931f32d-7522-7ffa-0a21-c19232bfc9da": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3a98ae42-46e1-eb69-b2eb-70cc6093bc4b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "8946c7d6-af91-02b3-747c-f0264b7b6169": {
@@ -2361,16 +3003,6 @@
         "dependencies": [
             "b91be93c-455e-d613-9950-bb6f5dff4610",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "894cf8ac-91c8-cc91-1743-e6ade129344f": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot Main.meshskin.nasset",
-        "dependencies": [
-            "c57ff556-4c23-ce7c-3a58-e09313b0ed05",
-            "062eb09e-9e46-2923-be83-e717af5c2e27",
-            "725358d1-9c64-6f29-614d-b5d53cb22a25"
         ]
     },
     "8a171e76-8763-46c9-a168-afdf46ecb0d3": {
@@ -2426,6 +3058,13 @@
             "98d24f28-2e31-4af0-b53f-d822f158d3cd"
         ]
     },
+    "8b3f26a9-bef3-08a7-7089-155a82259f5c": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Dinosaurs/Apatosaurus/Material Instances/Apatosaurus Body.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "8c5d756c-045b-c8c6-ca3d-f30e16450d26": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Dinosaurs/Parasaurolophus/Material Instances/Parasaurolophus Body.mtli.nasset",
@@ -2464,6 +3103,18 @@
         "path": "Assets/Characters/Monsters/Big/AAA_Animations/Monster_Walk.anim.nasset",
         "dependencies": [
             "2faa50ba-2b11-bfcc-3046-66d06f31f36c"
+        ]
+    },
+    "8dd942d3-4abc-4563-9b7e-c47be5250e3d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Heist/Redman.scene.nasset",
+        "thumbnail": "27b1f684-2502-4868-a6ee-8e55ffee9f20",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "abfaf3ed-4ec7-8b5d-6030-6cb81e089ffa"
         ]
     },
     "8e0af0cf-e8a0-4822-8d5b-e71862770e2f": {
@@ -2574,16 +3225,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "90e44ec0-d423-f268-58ad-e13fe95c6a4a": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot Grey.meshskin.nasset",
-        "dependencies": [
-            "47a445de-cbf0-af0b-7d92-cb4e9718012b",
-            "062eb09e-9e46-2923-be83-e717af5c2e27",
-            "10641e5d-0f44-3599-c8a1-c55046c57a59"
-        ]
-    },
     "91140d2e-c27a-bfce-fe42-6b8b96c725cc": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/AAA_Animations/Material Instances/Belt.mtli.nasset",
@@ -2618,12 +3259,24 @@
             "e7b304e7-64b0-3ad4-ae5b-3bcb763e55bf"
         ]
     },
+    "942e9729-2adb-4ca3-9f4a-753a2511dc9e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Mechs/Mechley/Thumbnails/Mechley.scene.nasset.tex.nasset"
+    },
     "9455d160-7279-43c8-8591-8e9874506043": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Dinosaurs/Trex/Trex_Jump_Loop.anim.nasset",
         "dependencies": [
             "8e676748-0b12-e7c7-d974-4ff4c059a00b"
+        ]
+    },
+    "94794a84-7af7-4378-a0f9-9398cc285594": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Mechley/Mech_2Legs_Idle.anim.nasset",
+        "dependencies": [
+            "7475c9ac-2a88-7fe4-116b-6ae38202c7ff"
         ]
     },
     "94965006-1378-487b-a2a6-c9fa3d71831a": {
@@ -2633,6 +3286,19 @@
         "dependencies": [
             "dda0686c-bec9-a968-7a9e-8f2208623753"
         ]
+    },
+    "94b5109a-9162-471b-838b-19e29012e0cd": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Stan/Stan_Jump_End.anim.nasset",
+        "dependencies": [
+            "220790e2-60ee-b80e-0633-0981fe5894ce"
+        ]
+    },
+    "94d419e3-39e8-88eb-70f7-35d7e3b05b79": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Gwart/SK_Gwart.scene.nasset/SK Gwart.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "95472f34-13d3-d192-5503-021e6c3c7b44": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2644,6 +3310,14 @@
         "dependencies": [
             "5d811aae-aa46-e655-1b5f-73bc4e23cfae",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "956bbaa5-b388-46ce-8a80-60845b609e37": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/George/George_Jump_End.anim.nasset",
+        "dependencies": [
+            "a85be35e-5a2b-8bba-8c91-c1e7580edd7f"
         ]
     },
     "960fd0e1-4cf9-3e2b-5ebf-b275b8035606": {
@@ -2665,10 +3339,6 @@
         "dependencies": [
             "d2579157-f78f-07e4-7de4-bac976c28095"
         ]
-    },
-    "96cca2c6-bdd9-1bcd-9bfa-985e01860de7": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Mechs/Robot/Material Instances/Thumbnails/Silver.mtli.nasset.tex.nasset"
     },
     "96e52271-e359-4ec0-a4ab-507d54315cb7": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -2713,6 +3383,14 @@
         "path": "Assets/Characters/Dinosaurs/Trex/Material Instances/Trex Skin.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "976b52f2-f4a9-47f8-9059-1ea2ccc24f05": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Gwart/Gwart_Run.anim.nasset",
+        "dependencies": [
+            "94d419e3-39e8-88eb-70f7-35d7e3b05b79"
         ]
     },
     "97937c4e-63cf-3143-cc81-91bcf5182b02": {
@@ -2761,6 +3439,26 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "988223e9-b56d-56c0-d781-2ce0c9d535d6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Mechs/Stan/SK_Stan.scene.nasset/SK Stan.mesh.nasset/SK Stan.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "aa52e282-e01d-95c6-d5f7-5f5e205798dc",
+            "c6b3b08e-494b-528d-bb41-7004897824db",
+            "67d04dfd-8df5-21c8-1cc3-4ebbd752242a",
+            "220790e2-60ee-b80e-0633-0981fe5894ce",
+            "74007bdd-f33b-48f5-a268-9fca81d0d5ad",
+            "106a4624-28a7-440b-9a45-13dcc0feb144",
+            "106a4624-28a7-440b-9a45-13dcc0feb144",
+            "62bf758d-0241-4dac-bd3e-9c22fcdefee0",
+            "b5910bc3-9317-45b9-98fd-a36575956658",
+            "94b5109a-9162-471b-838b-19e29012e0cd"
+        ]
+    },
     "98d24f28-2e31-4af0-b53f-d822f158d3cd": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Monsters/Big/AAA_Animations/Material Instances/Base Pupil.mtli.nasset",
@@ -2780,6 +3478,18 @@
             "26aab986-ecd8-2e5b-fa20-bbba9afad2fd",
             "704dd06d-c505-ee41-1783-77680c7841a4",
             "06dec0af-b15e-e429-4431-19474b509e54"
+        ]
+    },
+    "99af2816-ce37-c9cb-c703-23098f631f24": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Ronnie/SK_Ronnie.scene.nasset/SK Ronnie.mesh.nasset/SK Ronnie Ronnie Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "85c03a10-3ec0-2097-67b0-14f574e95af3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "99fe199c-46b1-4f87-3053-be0a6ded12fc": {
@@ -2802,6 +3512,21 @@
     "9b0074bf-2245-41cd-b1fe-891366d92258": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Mechs/Leela/Thumbnails/Leela.scene.nasset.tex.nasset"
+    },
+    "9b130c78-eea7-df5d-98f7-a873fec5e19f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Animals/Rat/Material Instances/Rat Skin.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "9bd321cf-33a8-eb48-49a6-c48b11001c97": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Mechs/Stan/SK_Stan.scene.nasset/SK_Stan.scene.nasset",
+        "dependencies": [
+            "988223e9-b56d-56c0-d781-2ce0c9d535d6"
+        ]
     },
     "9bfdc526-a49c-7822-9750-8303cfe56ca9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2831,6 +3556,18 @@
             "19b19569-c321-5389-4727-049317369185"
         ]
     },
+    "9d1cb72a-3202-f0bf-e174-24c8df52d672": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Mechley/SK_Mech_2Legs.scene.nasset/SK Mech 2Legs.mesh.nasset/SK Mech 2Legs Mech 2Leg Eye.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "792455f1-f581-e465-2003-b089ae162c4b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "9d782186-4b81-f3eb-debc-923745c58947": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2843,6 +3580,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "9dbe171d-1630-c047-0e64-406f54c0c2c7": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Ronnie/Material Instances/Ronnie Edge.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "9dd63c1d-36ad-2a75-441a-0a4c8e478586": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Rat/SK_Rat.scene.nasset/SK Rat.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
     "9e0da31e-5818-5a5c-9e07-a5b7bc82539d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2853,6 +3602,14 @@
         "dependencies": [
             "9736396f-6556-53e4-52d8-6357c5a7c802",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9e126fab-659a-53b6-c31e-f5b7feb579b5": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Mechs/George/SK_George.scene.nasset/SK_George.scene.nasset",
+        "dependencies": [
+            "3e66a21b-1adc-25ba-1991-d4f080d5529d"
         ]
     },
     "9e130da2-d478-ce8d-002c-436ef2e06688": {
@@ -2885,6 +3642,35 @@
             "5383edbe-0e6c-9c1e-bdb0-03291b98f472"
         ]
     },
+    "9f565e28-1aa8-5df3-6a71-f717c9f13735": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2acb44fd-8f14-e949-f08d-c398aef25d00",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a05d53bd-f31e-4cde-8f18-381d3111da0b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Rat/Rat_Idle.anim.nasset"
+    },
+    "a0d432e3-02c5-5604-6d96-e7316c05544c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Ronnie/SK_Ronnie.scene.nasset/SK Ronnie.mesh.nasset/SK Ronnie Ronnie Secondary.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "1789de8e-96df-face-7b3c-6e9e4a8837e2",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "a356fe33-9b73-0fc6-04db-0a5b3c9158c1": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Monsters/Big/AAA_Animations/Material Instances/Base Tongue.mtli.nasset",
@@ -2892,12 +3678,19 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
-    "a5917b54-a1f4-d747-ae67-b33bfd6002cf": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Mechs/Robot/Material Instances/Black.mtli.nasset",
-        "thumbnail": "f1557775-89e3-c818-29a8-8231b967eb27",
+    "a50f1203-11b9-4415-b770-507cb9c2cf9e": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Rat/Rat_Jump_End.anim.nasset"
+    },
+    "a63e1b38-a29a-576e-aa27-335f420cfc26": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Mechley/SK_Mech_2Legs.scene.nasset/SK Mech 2Legs.mesh.nasset/SK Mech 2Legs Mech 2Leg Main.meshskin.nasset",
         "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+            "d5e25680-ba87-0d14-ae08-ac3cdc8f2f59",
+            "7475c9ac-2a88-7fe4-116b-6ae38202c7ff",
+            "12e57665-196c-a4d0-6a15-ab6dc5f73c4d"
         ]
     },
     "a65dd105-d3b4-bb86-7393-cdbd7cc2e33e": {
@@ -2924,6 +3717,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "a7ed0225-02af-b2c7-bfdc-c3f85d0524e2": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Mechley/Material Instances/Mech 2Leg Trim.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "a8146617-705b-45d8-8081-2fec12d073ef": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -2931,6 +3731,15 @@
         "dependencies": [
             "168dd918-458d-874d-bf82-79ae00ea4a15"
         ]
+    },
+    "a85be35e-5a2b-8bba-8c91-c1e7580edd7f": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/George/SK_George.scene.nasset/SK George.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "a97f6f7a-37db-4e2f-acc0-0205f05e178f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Mechs/Gwart/Thumbnails/Gwart.scene.nasset.tex.nasset"
     },
     "a99252c6-7e25-4e2c-f3c1-6e30caf7aa2c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2940,6 +3749,24 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Voxel/Danny/Idle.anim.nasset"
+    },
+    "aa52e282-e01d-95c6-d5f7-5f5e205798dc": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Stan/Material Instances/Stan.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "507fb6bc-b291-c872-4da3-16c508c7ce24"
+        ]
+    },
+    "aa98929f-de02-7b92-75a7-ab7abdb3bfd0": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Gwart/SK_Gwart.scene.nasset/SK Gwart.mesh.nasset/SK Gwart Gwart Main.meshskin.nasset",
+        "dependencies": [
+            "c61b9d38-2c17-d334-7217-9d0882f9a751",
+            "94d419e3-39e8-88eb-70f7-35d7e3b05b79",
+            "72d4fb2c-6795-e451-60e1-f4aeb45e978a"
+        ]
     },
     "abfaf3ed-4ec7-8b5d-6030-6cb81e089ffa": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2964,7 +3791,33 @@
             "960fd0e1-4cf9-3e2b-5ebf-b275b8035606",
             "db74d506-121b-3205-0a45-b703931cfdca",
             "c5519ec4-f0ce-25cf-48d2-bc4f0bc0c8ae",
-            "02905ff4-6727-df2f-7e63-001005fbf912"
+            "02905ff4-6727-df2f-7e63-001005fbf912",
+            "6b47686f-498d-4532-a01a-f14af1493053",
+            "500b0631-53a1-4111-abda-704cbb183b62",
+            "7900fc0a-1be1-4179-80be-dbce2cb90f23",
+            "b41f21ba-81cf-4f8d-a081-d01a18fd3096",
+            "bf260724-7066-4cc8-9a37-6708053f3e17",
+            "9afb1e9a-0fbe-4246-b3ed-1a8a517c5d81"
+        ]
+    },
+    "ac04c105-5c66-a1b7-bfb7-eb2446299b36": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Mechs/Gwart/SK_Gwart.scene.nasset/SK_Gwart.scene.nasset",
+        "dependencies": [
+            "29856867-3020-e013-c2ff-0a58611ef83b"
+        ]
+    },
+    "ac110f9e-3bf0-5152-ee0f-9f021a75c9e9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Ronnie/SK_Ronnie.scene.nasset/SK Ronnie.mesh.nasset/SK Ronnie Ronnie Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "33d66126-bd02-3f2c-ba2b-7892ed00adf0",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "ac2850c4-3ae6-7370-fb82-47fe669ffb88": {
@@ -2979,12 +3832,29 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "ac7dbe80-bdab-4fe5-9631-481d75f4b289": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Rat/Rat_Jump_Start.anim.nasset"
+    },
     "ad74b9c5-4bc9-4638-85aa-c0964b90777c": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Monsters/Big/AAA_Animations/Monster_Jump_End.anim.nasset",
         "dependencies": [
             "2faa50ba-2b11-bfcc-3046-66d06f31f36c"
+        ]
+    },
+    "adad63b7-dfae-0dc1-ff1c-3a419f357a35": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot Silver.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "00a25ff7-f322-be3c-eba7-40138e52c875",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "adaf091c-808f-426c-a9f8-3fc7b25853d3": {
@@ -3014,6 +3884,29 @@
         "path": "Assets/Characters/Modular_Toon/Alien/SK_Alien.scene.nasset/SK_Alien.scene.nasset",
         "dependencies": [
             "71947905-93bd-4e26-9eff-6be5475eb61b"
+        ]
+    },
+    "aff00ef6-0159-05f6-aee7-61e08496d69d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Animals/Rat/SK_Rat.scene.nasset/SK Rat.mesh.nasset/SK Rat.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "9b130c78-eea7-df5d-98f7-a873fec5e19f",
+            "fcf48c7c-d0e3-fee7-0dd2-c742bb0acd9a",
+            "d6c29de9-7b2b-03e2-6412-ccf7eb85e446",
+            "2f79bb5a-efc7-8c3a-4fb0-83fd0df9caff",
+            "df3ab44e-d9d3-6408-a436-886dfa59273b",
+            "3eaca601-41e9-d9bb-d64a-69a2ed5ae200",
+            "9dd63c1d-36ad-2a75-441a-0a4c8e478586",
+            "a05d53bd-f31e-4cde-8f18-381d3111da0b",
+            "b95f7cd9-b77e-4cc9-9997-33bcb5ee514d",
+            "13a53a18-15e5-4b4c-b8c6-9ba5749df1c4",
+            "ac7dbe80-bdab-4fe5-9631-481d75f4b289",
+            "6752dae9-4321-4155-b1ff-f9e86e55229e",
+            "a50f1203-11b9-4415-b770-507cb9c2cf9e"
         ]
     },
     "b0277646-6441-437e-a768-9a47e5a64520": {
@@ -3049,6 +3942,28 @@
             "add9eeac-039d-8c56-5381-6e886b6b3b0e"
         ]
     },
+    "b1644edf-7366-f7d0-a54c-50da20f893e4": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Gwart/SK_Gwart.scene.nasset/SK Gwart.mesh.nasset/SK Gwart Gwart Edge.meshskin.nasset",
+        "dependencies": [
+            "c4d5185b-ec4d-e651-19db-75c5e19014a0",
+            "94d419e3-39e8-88eb-70f7-35d7e3b05b79",
+            "20c5a01b-5b03-92d9-1285-71d6871c9a67"
+        ]
+    },
+    "b27b7214-db3b-46ee-9995-a42c4b5df376": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Mechs/Stan/Stan.scene.nasset",
+        "thumbnail": "b29e7dd0-99d7-422c-a68f-43adc16aed01",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "988223e9-b56d-56c0-d781-2ce0c9d535d6"
+        ]
+    },
     "b27c0b19-bd6a-4129-9d14-0807172e183e": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -3056,6 +3971,10 @@
         "dependencies": [
             "3c728aeb-ffa3-feb9-efb4-1308c9ec4957"
         ]
+    },
+    "b29e7dd0-99d7-422c-a68f-43adc16aed01": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Mechs/Stan/Thumbnails/Stan.scene.nasset.tex.nasset"
     },
     "b2a933c9-5ae1-ac22-b6c6-8bcb61b2e90e": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -3136,6 +4055,14 @@
             "dda0686c-bec9-a968-7a9e-8f2208623753"
         ]
     },
+    "b5910bc3-9317-45b9-98fd-a36575956658": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Stan/Stan_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "220790e2-60ee-b80e-0633-0981fe5894ce"
+        ]
+    },
     "b64668d3-ab2c-c383-47bd-7b9f430ff4fb": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -3144,6 +4071,16 @@
             "e36e3801-e95f-825b-0b7d-1636463e984c",
             "2faa50ba-2b11-bfcc-3046-66d06f31f36c",
             "21caada7-6734-bbf4-f09b-aaba522d8ef6"
+        ]
+    },
+    "b6c4d51b-36e6-f9fc-dc6a-f9000d18fcd9": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Mechley/SK_Mech_2Legs.scene.nasset/SK Mech 2Legs.mesh.nasset/SK Mech 2Legs Mech 2Leg Eye.meshskin.nasset",
+        "dependencies": [
+            "9d1cb72a-3202-f0bf-e174-24c8df52d672",
+            "7475c9ac-2a88-7fe4-116b-6ae38202c7ff",
+            "792455f1-f581-e465-2003-b089ae162c4b"
         ]
     },
     "b7789727-265d-64a9-6d8e-911e9492c38c": {
@@ -3221,13 +4158,44 @@
             "43cf97b1-49a4-2041-8855-3bc6b39b7980"
         ]
     },
+    "b95f7cd9-b77e-4cc9-9997-33bcb5ee514d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animals/Rat/Rat_Walk.anim.nasset"
+    },
     "b9c4f19c-b071-4ee5-51fe-645e9c0f8eed": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Heist/Material Instances/Thumbnails/Blue Grey.mtli.nasset.tex.nasset"
     },
+    "ba549898-1560-40df-b702-756b91074939": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Mechley/Mech_2Legs_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "7475c9ac-2a88-7fe4-116b-6ae38202c7ff"
+        ]
+    },
     "ba87fa94-3822-0d76-81c5-f75c9fc1f987": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Animals/Spider/Material Instances/Thumbnails/Spider White.mtli.nasset.tex.nasset"
+    },
+    "baedeae8-b1f4-1c61-7886-b99af77f92a8": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot Main.meshskin.nasset",
+        "dependencies": [
+            "620be590-c551-a7a1-d456-65258ecbc37c",
+            "eddd8214-b9e9-8bdb-a3d6-17a6446490e8",
+            "168afce9-5187-0e51-633f-16d8963b418d"
+        ]
+    },
+    "baf46bb9-34ce-ee9b-c794-7a40bda38c16": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK_Robot.scene.nasset",
+        "dependencies": [
+            "de064ec9-6de9-997d-9daf-1161ee2e3c4d"
+        ]
     },
     "bb850203-f577-a93c-48c5-d31a1e0a25f0": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -3280,6 +4248,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "bd1a945a-95e2-a5af-f0f8-53cd82f00e76": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Mechley/SK_Mech_2Legs.scene.nasset/SK Mech 2Legs.mesh.nasset/SK Mech 2Legs Mech 2Leg Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "62b3e2c5-f926-f13c-4b71-27413432ebae",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "bd7c0208-445b-4b6e-bb7f-1fad3b532b61": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3312,6 +4292,14 @@
             "33898a5b-006a-7212-0e05-84dc4c107272",
             "58f9fb42-ee78-d77f-0613-4fb9aeb5999e",
             "00bd77c2-90a0-a82c-0ac7-89319c76ecda"
+        ]
+    },
+    "bea6bdb9-aff1-44e6-a5dc-c563fa99b46f": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Stan/Stan_Run.anim.nasset",
+        "dependencies": [
+            "220790e2-60ee-b80e-0633-0981fe5894ce"
         ]
     },
     "bf1f97e5-65ce-fde7-0608-5acc27aded7d": {
@@ -3406,6 +4394,14 @@
             "c965188d-d1a2-645a-9663-c08045ae7f92"
         ]
     },
+    "c2af3cd0-3d2d-45cf-9112-a24102a039fb": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/George/George_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "a85be35e-5a2b-8bba-8c91-c1e7580edd7f"
+        ]
+    },
     "c2c9dc57-332a-434c-95c8-b1632d844d28": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3418,6 +4414,18 @@
         "path": "Assets/Characters/Modular_Toon/Witch/Jump_Start.anim.nasset",
         "dependencies": [
             "dda0686c-bec9-a968-7a9e-8f2208623753"
+        ]
+    },
+    "c4d5185b-ec4d-e651-19db-75c5e19014a0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Gwart/SK_Gwart.scene.nasset/SK Gwart.mesh.nasset/SK Gwart Gwart Edge.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "20c5a01b-5b03-92d9-1285-71d6871c9a67",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "c50b45c1-4d5a-6d62-6fa9-1d7614e1d959": {
@@ -3439,15 +4447,27 @@
             "960fd0e1-4cf9-3e2b-5ebf-b275b8035606"
         ]
     },
-    "c57ff556-4c23-ce7c-3a58-e09313b0ed05": {
+    "c61b9d38-2c17-d334-7217-9d0882f9a751": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot Main.mesh.nasset",
+        "path": "Assets/Characters/Mechs/Gwart/SK_Gwart.scene.nasset/SK Gwart.mesh.nasset/SK Gwart Gwart Main.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
         "dependencies": [
-            "725358d1-9c64-6f29-614d-b5d53cb22a25",
+            "72d4fb2c-6795-e451-60e1-f4aeb45e978a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c6b3b08e-494b-528d-bb41-7004897824db": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Stan/SK_Stan.scene.nasset/SK Stan.mesh.nasset/SK Stan Stan.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "aa52e282-e01d-95c6-d5f7-5f5e205798dc",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -3527,6 +4547,30 @@
             "81c4b1b3-4526-98c2-4d4e-194b11a4a9df"
         ]
     },
+    "cbe332b0-7d6f-785f-37e3-a608cf87a15d": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Ronnie/SK_Ronnie.scene.nasset/SK Ronnie.mesh.nasset/SK Ronnie Ronnie Main.meshskin.nasset",
+        "dependencies": [
+            "ac110f9e-3bf0-5152-ee0f-9f021a75c9e9",
+            "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480",
+            "33d66126-bd02-3f2c-ba2b-7892ed00adf0"
+        ]
+    },
+    "cbff5551-48c3-bbcc-32e4-e4b10345b849": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Dinosaurs/Apatosaurus/SK_Apatosaurus.scene.nasset/SK Apatosaurus.mesh.nasset/SK Apatosaurus Apatosaurus Body.meshskin.nasset",
+        "dependencies": [
+            "7bf31a5d-99af-fcf8-9e5c-0a729c1ab751",
+            "3f4ea462-e616-5161-190b-8d033fcf1171",
+            "8b3f26a9-bef3-08a7-7089-155a82259f5c"
+        ]
+    },
+    "cc01505d-881b-4f92-a7e7-ece621731365": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Heist/Thumbnails/Hazmat.scene.nasset.tex.nasset"
+    },
     "cc12ada0-fd0f-4069-ac10-5d286a8598f0": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3584,6 +4628,16 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Monsters/Big/Ninja/Material Instances/Thumbnails/Ninja Armband.mtli.nasset.tex.nasset"
     },
+    "ce92ba99-28bf-add6-f683-a6f3545ad9e3": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Mechley/SK_Mech_2Legs.scene.nasset/SK Mech 2Legs.mesh.nasset/SK Mech 2Legs Mech 2Leg Trim.meshskin.nasset",
+        "dependencies": [
+            "644063a7-2b5d-964e-e2f1-ed5f22788697",
+            "7475c9ac-2a88-7fe4-116b-6ae38202c7ff",
+            "a7ed0225-02af-b2c7-bfdc-c3f85d0524e2"
+        ]
+    },
     "cea8bcd0-aad2-d8f8-9064-f84a3af9dd39": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -3599,6 +4653,14 @@
         "path": "Assets/Characters/Dinosaurs/Trex/Trex_Run.anim.nasset",
         "dependencies": [
             "8e676748-0b12-e7c7-d974-4ff4c059a00b"
+        ]
+    },
+    "d05fb3f4-765b-65d3-fb3e-8b08af278f92": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Mechs/Mechley/SK_Mech_2Legs.scene.nasset/SK_Mech_2Legs.scene.nasset",
+        "dependencies": [
+            "2b52c73d-0d1e-7e45-9fa1-beb10d939916"
         ]
     },
     "d08b48dc-4dc7-2658-1e84-69e4f6ff50e0": {
@@ -3674,6 +4736,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "d3f3631a-c1a2-60eb-d2f2-0fa03bfdb023": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Dinosaurs/Apatosaurus/SK_Apatosaurus.scene.nasset/SK Apatosaurus.mesh.nasset/SK Apatosaurus Apatosaurus Belly.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "706c367c-7e7e-d8af-7b76-94fa60c55532",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "d40f1667-3ce6-57d4-9042-aa3eec117866": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Animals/Spider/Material Instances/Spider White.mtli.nasset",
@@ -3693,10 +4767,6 @@
             "5ebd00f3-f1d8-5115-93c3-41b05ac3e934",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "d5171a71-2a8d-0881-0c44-ff58b6853071": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Mechs/Robot/Material Instances/Thumbnails/Grey.mtli.nasset.tex.nasset"
     },
     "d553038a-3287-4d7a-8c5c-9d5b349af7b6": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -3718,9 +4788,39 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "d58d3140-d3cc-4d1d-980b-59487c46624f": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Apatosaurus/Apatosaurus_Jump_Start.anim.nasset",
+        "dependencies": [
+            "3f4ea462-e616-5161-190b-8d033fcf1171"
+        ]
+    },
     "d597057b-ff1e-c96a-6058-4b37c1ff80f1": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Animals/Spider/Material Instances/Thumbnails/Spider Brown.mtli.nasset.tex.nasset"
+    },
+    "d5e25680-ba87-0d14-ae08-ac3cdc8f2f59": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Mechley/SK_Mech_2Legs.scene.nasset/SK Mech 2Legs.mesh.nasset/SK Mech 2Legs Mech 2Leg Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "12e57665-196c-a4d0-6a15-ab6dc5f73c4d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d6c29de9-7b2b-03e2-6412-ccf7eb85e446": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Animals/Rat/SK_Rat.scene.nasset/SK Rat.mesh.nasset/SK Rat Rat Skin.meshskin.nasset",
+        "dependencies": [
+            "fcf48c7c-d0e3-fee7-0dd2-c742bb0acd9a",
+            "9dd63c1d-36ad-2a75-441a-0a4c8e478586",
+            "9b130c78-eea7-df5d-98f7-a873fec5e19f"
+        ]
     },
     "d7211d59-62dd-3f27-6a02-da852b0a6412": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -3762,9 +4862,39 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "dc855cb1-6dbe-45a0-9eca-6038fb79c2f3": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Apatosaurus/Apatosaurus_Walk.anim.nasset",
+        "dependencies": [
+            "3f4ea462-e616-5161-190b-8d033fcf1171"
+        ]
+    },
     "dc8dd89b-11da-44ae-80fa-3a63042a74fc": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Dinosaurs/Stegosaurus/Thumbnails/Stegosaurus.scene.nasset.tex.nasset"
+    },
+    "dcb6b080-de19-48a8-90d2-7f8792db3a59": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Animals/Rat/Rat.scene.nasset",
+        "thumbnail": "1365f4d3-ba8b-4f98-96fe-e2fe5628e131",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "aff00ef6-0159-05f6-aee7-61e08496d69d"
+        ]
+    },
+    "dcc2aba1-824d-d24a-4b69-ce4492b95085": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Mechs/Ronnie/SK_Ronnie.scene.nasset/SK Ronnie.mesh.nasset/SK Ronnie Ronnie Secondary.meshskin.nasset",
+        "dependencies": [
+            "a0d432e3-02c5-5604-6d96-e7316c05544c",
+            "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480",
+            "1789de8e-96df-face-7b3c-6e9e4a8837e2"
+        ]
     },
     "dda0686c-bec9-a968-7a9e-8f2208623753": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
@@ -3779,6 +4909,62 @@
             "f67d9d34-93a4-56e7-4ab9-d08f78a29da4",
             "3d65b732-ebfc-12da-ec51-362e7a40c166",
             "fc46e49f-7ded-b28d-0524-ef3720470407"
+        ]
+    },
+    "de03b733-8429-e6a3-b92c-19fcc8566cae": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Mechs/Gwart/SK_Gwart.scene.nasset/SK Gwart.mesh.nasset/SK Gwart Gwart Eye.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3b4d1e88-e757-80ee-a52b-d5a1952f2a97",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "de064ec9-6de9-997d-9daf-1161ee2e3c4d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "3a98ae42-46e1-eb69-b2eb-70cc6093bc4b",
+            "8931f32d-7522-7ffa-0a21-c19232bfc9da",
+            "55947494-2f83-ef2e-158a-198d8878499e",
+            "168afce9-5187-0e51-633f-16d8963b418d",
+            "620be590-c551-a7a1-d456-65258ecbc37c",
+            "baedeae8-b1f4-1c61-7886-b99af77f92a8",
+            "2acb44fd-8f14-e949-f08d-c398aef25d00",
+            "9f565e28-1aa8-5df3-6a71-f717c9f13735",
+            "0cfe740b-f015-3f29-8bdd-ae578ce2aa56",
+            "f07bec9a-7ac5-f672-65a2-7dfb6298ad2f",
+            "84c4fc94-8c05-4167-a7ff-93e031796da9",
+            "6dabc083-028e-5745-bee6-54d16ec09264",
+            "00a25ff7-f322-be3c-eba7-40138e52c875",
+            "adad63b7-dfae-0dc1-ff1c-3a419f357a35",
+            "888b2656-142b-6510-0aa6-48d5e4f0adf6",
+            "eddd8214-b9e9-8bdb-a3d6-17a6446490e8",
+            "e2b7d8c0-866f-45e5-9c1e-8437baf09000",
+            "202013cd-6eed-43d8-8ca4-555b393fb9e9",
+            "ef074b98-688d-4fa9-93dc-73d991a28b24",
+            "40ebf4d2-b44a-47a1-8638-ef100a595d82",
+            "f8b355f8-5654-485c-b227-603f9371a839",
+            "4298c884-2217-4576-bf0b-2774e8a6a515"
+        ]
+    },
+    "de167f54-4885-460e-ac0b-9aa6a557e9d9": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Dinosaurs/Apatosaurus/Apatosaurus.scene.nasset",
+        "thumbnail": "66ed6e43-16d5-438d-a584-6772ed618424",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "7244f1fa-28c0-2a09-837e-c4da36d8a529"
         ]
     },
     "de4ed9a7-4b2f-4314-88c2-ab8f3393fdd1": {
@@ -3796,6 +4982,18 @@
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f",
         "dependencies": [
             "71947905-93bd-4e26-9eff-6be5475eb61b"
+        ]
+    },
+    "df3ab44e-d9d3-6408-a436-886dfa59273b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Animals/Rat/SK_Rat.scene.nasset/SK Rat.mesh.nasset/SK Rat Rat Secondary.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2f79bb5a-efc7-8c3a-4fb0-83fd0df9caff",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "e05e8d3d-368c-47db-8efe-4ad404d4bd2f": {
@@ -3820,15 +5018,19 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Robot/Robot_Idle.anim.nasset",
         "dependencies": [
-            "062eb09e-9e46-2923-be83-e717af5c2e27"
+            "eddd8214-b9e9-8bdb-a3d6-17a6446490e8"
         ]
     },
-    "e2d082ba-6577-ef2a-22eb-7ad619898165": {
+    "e35ef854-1392-4d4d-82f6-03727e987782": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK_Robot.scene.nasset",
+        "path": "Assets/Characters/Heist/Hazmat.scene.nasset",
+        "thumbnail": "cc01505d-881b-4f92-a7e7-ece621731365",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
         "dependencies": [
-            "85369f56-6529-552d-fe0c-07216b04210c"
+            "f07a06e6-2918-ffb8-7886-1c8e3caa907e"
         ]
     },
     "e36e3801-e95f-825b-0b7d-1636463e984c": {
@@ -3954,11 +5156,45 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "ea89ab58-3388-4a0a-2416-a9fba69503ee": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Dinosaurs/Apatosaurus/SK_Apatosaurus.scene.nasset/SK Apatosaurus.mesh.nasset/SK Apatosaurus Apatosaurus Belly.meshskin.nasset",
+        "dependencies": [
+            "d3f3631a-c1a2-60eb-d2f2-0fa03bfdb023",
+            "3f4ea462-e616-5161-190b-8d033fcf1171",
+            "706c367c-7e7e-d8af-7b76-94fa60c55532"
+        ]
+    },
+    "eb0cfe6a-2b16-4871-b469-7652e8237421": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Mechs/Ronnie/Thumbnails/Ronnie.scene.nasset.tex.nasset"
+    },
+    "eb29940b-4e5f-49c8-abe0-d8e6e62447b7": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Mechs/Gwart/Gwart.scene.nasset",
+        "thumbnail": "a97f6f7a-37db-4e2f-acc0-0205f05e178f",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "29856867-3020-e013-c2ff-0a58611ef83b"
+        ]
+    },
     "ebea8b31-2da2-419b-8214-2ad713b80784": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Monsters/Rounded/Bat/Ball Bat Player.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+    },
+    "ecbcdb1e-9778-41b1-a829-1a440b6c7194": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/George/George_Walk.anim.nasset",
+        "dependencies": [
+            "a85be35e-5a2b-8bba-8c91-c1e7580edd7f"
+        ]
     },
     "ecc83271-e4d6-fdd7-c8be-06b1d63ffa40": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -4000,6 +5236,11 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "eddd8214-b9e9-8bdb-a3d6-17a6446490e8": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
     "ee820886-5b54-1244-ed19-d13916a5f48f": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -4033,7 +5274,7 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Robot/Robot_Run.anim.nasset",
         "dependencies": [
-            "062eb09e-9e46-2923-be83-e717af5c2e27"
+            "eddd8214-b9e9-8bdb-a3d6-17a6446490e8"
         ]
     },
     "eff07364-e0ef-4df5-a8d4-ac2a2102ea6f": {
@@ -4065,7 +5306,20 @@
             "30a2fad9-4d16-0bc0-6062-2e027cff9ede",
             "4d397e44-ed9a-c373-477c-1e4f98687556",
             "64979109-6b8c-dad4-a608-739fc9fde0cc",
-            "53d32f7f-0696-cb59-dcf3-e64055737f0e"
+            "53d32f7f-0696-cb59-dcf3-e64055737f0e",
+            "6b47686f-498d-4532-a01a-f14af1493053",
+            "500b0631-53a1-4111-abda-704cbb183b62",
+            "7900fc0a-1be1-4179-80be-dbce2cb90f23",
+            "b41f21ba-81cf-4f8d-a081-d01a18fd3096",
+            "bf260724-7066-4cc8-9a37-6708053f3e17",
+            "9afb1e9a-0fbe-4246-b3ed-1a8a517c5d81"
+        ]
+    },
+    "f07bec9a-7ac5-f672-65a2-7dfb6298ad2f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Mechs/Robot/Material Instances/Grey.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "f0ebff09-fc19-4690-aaca-880560975b4a": {
@@ -4081,10 +5335,6 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Voxel/Danny/Run.anim.nasset"
     },
-    "f1557775-89e3-c818-29a8-8231b967eb27": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Mechs/Robot/Material Instances/Thumbnails/Black.mtli.nasset.tex.nasset"
-    },
     "f1afe1da-2602-cbfc-8b7c-f9bf4ea1fbf1": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4095,16 +5345,6 @@
         "dependencies": [
             "fec32bda-a322-95d7-c053-183da76a678e",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "f203a569-851b-9c6b-e6ca-d7a111b47fae": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Mechs/Robot/SK_Robot.scene.nasset/SK Robot.mesh.nasset/SK Robot White.meshskin.nasset",
-        "dependencies": [
-            "87cd522f-b3f8-f223-3de6-f23d0c0d43d1",
-            "062eb09e-9e46-2923-be83-e717af5c2e27",
-            "133799e8-3433-9aba-fda8-2fa6aea1d41b"
         ]
     },
     "f207aea0-315e-6d11-6942-57377279724f": {
@@ -4133,12 +5373,28 @@
             "1ded6e80-1ade-2e14-daea-200e4b05a186"
         ]
     },
+    "f2d1dca6-d6c7-4e14-b80c-20f02232ae01": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dinosaurs/Apatosaurus/Apatosaurus_Idle.anim.nasset",
+        "dependencies": [
+            "3f4ea462-e616-5161-190b-8d033fcf1171"
+        ]
+    },
     "f2fc4a48-d36c-4f6d-94c4-d8adffd15cb1": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Dinosaurs/Trex/Trex_Walk.anim.nasset",
         "dependencies": [
             "8e676748-0b12-e7c7-d974-4ff4c059a00b"
+        ]
+    },
+    "f4003127-f26e-42e5-8838-f1e3b408a8ba": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/Mechley/Mech_2Legs_Jump_End.anim.nasset",
+        "dependencies": [
+            "7475c9ac-2a88-7fe4-116b-6ae38202c7ff"
         ]
     },
     "f43b1ef0-ca79-fecf-da12-a409c99ad3b3": {
@@ -4161,6 +5417,14 @@
         "dependencies": [
             "5383edbe-0e6c-9c1e-bdb0-03291b98f472",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f524c14a-8656-4400-912c-e98f126ce313": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Mechs/George/George_Run.anim.nasset",
+        "dependencies": [
+            "a85be35e-5a2b-8bba-8c91-c1e7580edd7f"
         ]
     },
     "f62fde47-6fc6-9eb3-5833-53bf814426ba": {
@@ -4225,7 +5489,19 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Robot/Robot_Jump_Loop.anim.nasset",
         "dependencies": [
-            "062eb09e-9e46-2923-be83-e717af5c2e27"
+            "eddd8214-b9e9-8bdb-a3d6-17a6446490e8"
+        ]
+    },
+    "f8ef1fca-b9ac-4831-a7be-a11930bfcfbe": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Mechs/George/George.scene.nasset",
+        "thumbnail": "63c6c76a-191a-41d2-bf67-06ac6d02c08d",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "3e66a21b-1adc-25ba-1991-d4f080d5529d"
         ]
     },
     "f91aa247-b5f7-4656-55f4-aa9ffe0f7b07": {
@@ -4297,6 +5573,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "fcf48c7c-d0e3-fee7-0dd2-c742bb0acd9a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Animals/Rat/SK_Rat.scene.nasset/SK Rat.mesh.nasset/SK Rat Rat Skin.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9b130c78-eea7-df5d-98f7-a873fec5e19f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "fd2a5dc2-dbe6-0f3a-3fb8-447e7ffd3517": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4351,6 +5639,38 @@
         "path": "Assets/Characters/Dinosaurs/Parasaurolophus/Parasaurolophus_Jump_Loop.anim.nasset",
         "dependencies": [
             "3c728aeb-ffa3-feb9-efb4-1308c9ec4957"
+        ]
+    },
+    "ffc24bac-2211-40b0-a6a6-de8f25d3bd97": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Mechs/Ronnie/SK_Ronnie.scene.nasset/SK Ronnie.mesh.nasset/SK Ronnie.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "1789de8e-96df-face-7b3c-6e9e4a8837e2",
+            "a0d432e3-02c5-5604-6d96-e7316c05544c",
+            "dcc2aba1-824d-d24a-4b69-ce4492b95085",
+            "9dbe171d-1630-c047-0e64-406f54c0c2c7",
+            "7e733175-2385-0f4d-e361-86198c620c1b",
+            "793f7db6-2b2c-4712-c416-ced78a90b500",
+            "33d66126-bd02-3f2c-ba2b-7892ed00adf0",
+            "ac110f9e-3bf0-5152-ee0f-9f021a75c9e9",
+            "cbe332b0-7d6f-785f-37e3-a608cf87a15d",
+            "85c03a10-3ec0-2097-67b0-14f574e95af3",
+            "99af2816-ce37-c9cb-c703-23098f631f24",
+            "2d9bc9c5-b42e-203e-28c6-f46eedaf8223",
+            "3efeacdc-5db2-2a94-8e46-789f80a12f8d",
+            "0009406c-2227-053c-b106-24a2f91ba400",
+            "36067433-0b51-9197-49dd-9ba1951241c0",
+            "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480",
+            "0b72007d-9f2c-4caf-bfcc-ccb961b91ee1",
+            "453df314-5a4b-4b29-81e8-bcd188363b0c",
+            "71021b82-7f36-4109-9ec3-da8c5642bde4",
+            "0b72007d-9f2c-4caf-bfcc-ccb961b91ee1",
+            "0b72007d-9f2c-4caf-bfcc-ccb961b91ee1",
+            "0b72007d-9f2c-4caf-bfcc-ccb961b91ee1"
         ]
     },
     "fff5e2d1-e1e2-4951-a0b9-95542fe4aece": {

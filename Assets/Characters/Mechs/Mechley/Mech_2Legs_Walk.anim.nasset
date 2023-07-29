@@ -1,0 +1,20 @@
+{
+    "guid": "4a677e99-3ef7-4c33-bab2-d1e21b366adb",
+    "source": "A_Mech_2Legs_Walk.fbx",
+    "skeleton": "7475c9ac-2a88-7fe4-116b-6ae38202c7ff",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "7475c9ac-2a88-7fe4-116b-6ae38202c7ff"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "4a677e99-3ef7-4c33-bab2-d1e21b366adb"
+        }
+    ],
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "7475c9ac-2a88-7fe4-116b-6ae38202c7ff"
+    ],
+    "instanceGuid": "3cf247d6-4018-93f8-3306-ae9e5062c6c5"
+}

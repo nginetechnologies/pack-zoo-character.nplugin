@@ -1,0 +1,20 @@
+{
+    "source": "A_Gwart_Jump_End.fbx",
+    "skeleton": "94d419e3-39e8-88eb-70f7-35d7e3b05b79",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "a7edeebb-4fb2-10a7-a89c-c941f4b4f368",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "94d419e3-39e8-88eb-70f7-35d7e3b05b79"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "618faef9-ce00-45da-97ed-8b2d35d9cf18"
+        }
+    ],
+    "guid": "618faef9-ce00-45da-97ed-8b2d35d9cf18",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "94d419e3-39e8-88eb-70f7-35d7e3b05b79"
+    ]
+}

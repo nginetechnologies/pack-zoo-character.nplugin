@@ -1,0 +1,192 @@
+{
+    "guid": "2b52c73d-0d1e-7e45-9fa1-beb10d939916",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "6b7b7e7a-fc94-5c11-a623-bb712d4c67be",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "0b9cefe8-5dfe-7a75-722a-8b0c2ff635e7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Mech 2Legs Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "9c60f23a-5c74-5295-5a64-6f1367ecaa77",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "94794a84-7af7-4378-a0f9-9398cc285594",
+                                "4a677e99-3ef7-4c33-bab2-d1e21b366adb",
+                                "23dfe40c-8988-4fc3-93b7-0465021b8c4a"
+                            ],
+                            "jump_animations": [
+                                "01fbe80d-7539-4212-b6ca-6242c2567f15",
+                                "ba549898-1560-40df-b702-756b91074939",
+                                "f4003127-f26e-42e5-8838-f1e3b408a8ba"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "e9fdeafb-67b2-b4f3-65b7-5abc3391f5d8",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Mech 2Legs Mech 2Leg Secondary"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "0405ebc9-f180-0c9c-9e77-893268235763",
+                                "material_instance": "3858271c-9362-0f4b-e21a-d2b8a07ba385"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "778a26a5-2149-d397-8a5d-2e33a51b3829"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "732d1f8b-f417-5142-7cb5-923478570113",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Mech 2Legs Mech 2Leg Main"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d5e25680-ba87-0d14-ae08-ac3cdc8f2f59",
+                                "material_instance": "12e57665-196c-a4d0-6a15-ab6dc5f73c4d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "a63e1b38-a29a-576e-aa27-335f420cfc26"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "88c14c9b-f3d0-aad7-12d3-586fe11138d7",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Mech 2Legs Mech 2Leg Trim"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "644063a7-2b5d-964e-e2f1-ed5f22788697",
+                                "material_instance": "a7ed0225-02af-b2c7-bfdc-c3f85d0524e2"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "ce92ba99-28bf-add6-f683-a6f3545ad9e3"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "9aab9b59-4a0d-58e9-7e5c-ba300c1c13d2",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Mech 2Legs Mech 2Leg Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "bd1a945a-95e2-a5af-f0f8-53cd82f00e76",
+                                "material_instance": "62b3e2c5-f926-f13c-4b71-27413432ebae"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "791a88aa-a5d8-2c18-65f0-77968cab6c3e"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "a878c499-84cd-9e50-d7a1-10953dd941d3",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Mech 2Legs Mech 2Leg Eye"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "9d1cb72a-3202-f0bf-e174-24c8df52d672",
+                                "material_instance": "792455f1-f581-e465-2003-b089ae162c4b"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "b6c4d51b-36e6-f9fc-dc6a-f9000d18fcd9"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "7475c9ac-2a88-7fe4-116b-6ae38202c7ff"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "2b52c73d-0d1e-7e45-9fa1-beb10d939916"
+    },
+    "dependencies": [
+        "3858271c-9362-0f4b-e21a-d2b8a07ba385",
+        "0405ebc9-f180-0c9c-9e77-893268235763",
+        "778a26a5-2149-d397-8a5d-2e33a51b3829",
+        "12e57665-196c-a4d0-6a15-ab6dc5f73c4d",
+        "d5e25680-ba87-0d14-ae08-ac3cdc8f2f59",
+        "a63e1b38-a29a-576e-aa27-335f420cfc26",
+        "a7ed0225-02af-b2c7-bfdc-c3f85d0524e2",
+        "644063a7-2b5d-964e-e2f1-ed5f22788697",
+        "ce92ba99-28bf-add6-f683-a6f3545ad9e3",
+        "62b3e2c5-f926-f13c-4b71-27413432ebae",
+        "bd1a945a-95e2-a5af-f0f8-53cd82f00e76",
+        "791a88aa-a5d8-2c18-65f0-77968cab6c3e",
+        "792455f1-f581-e465-2003-b089ae162c4b",
+        "9d1cb72a-3202-f0bf-e174-24c8df52d672",
+        "b6c4d51b-36e6-f9fc-dc6a-f9000d18fcd9",
+        "7475c9ac-2a88-7fe4-116b-6ae38202c7ff"
+    ]
+}

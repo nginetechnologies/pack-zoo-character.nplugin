@@ -1,0 +1,34 @@
+{
+    "guid": "19a577ba-976d-eeb6-0b69-975502413c96",
+    "source": "../SK_Rat.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "37164858-e9e4-b765-1039-d2f7ec7694ef",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Rat"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "381679f6-f189-d41e-8544-6ee6b1c8a6ff",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Rat"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "aff00ef6-0159-05f6-aee7-61e08496d69d"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "19a577ba-976d-eeb6-0b69-975502413c96"
+    },
+    "dependencies": [
+        "aff00ef6-0159-05f6-aee7-61e08496d69d"
+    ]
+}

@@ -1,11 +1,10 @@
 {
     "guid": "e2b7d8c0-866f-45e5-9c1e-8437baf09000",
     "source": "A_Robot_Idle.fbx",
-    "skeleton": "062eb09e-9e46-2923-be83-e717af5c2e27",
+    "skeleton": "eddd8214-b9e9-8bdb-a3d6-17a6446490e8",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-    "instanceGuid": "c6995951-4187-05dd-d5f1-adfcbcb45aaf",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": "062eb09e-9e46-2923-be83-e717af5c2e27"
+        "skeleton": "eddd8214-b9e9-8bdb-a3d6-17a6446490e8"
     },
     "data_components": [
         {
@@ -15,6 +14,7 @@
     ],
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        "062eb09e-9e46-2923-be83-e717af5c2e27"
-    ]
+        "eddd8214-b9e9-8bdb-a3d6-17a6446490e8"
+    ],
+    "instanceGuid": "ab74c1d3-7f2b-c1fb-8561-fd6ff47d8c29"
 }

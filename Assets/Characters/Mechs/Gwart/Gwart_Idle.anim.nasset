@@ -1,0 +1,20 @@
+{
+    "source": "A_Gwart_Idle.fbx",
+    "skeleton": "94d419e3-39e8-88eb-70f7-35d7e3b05b79",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "94d419e3-39e8-88eb-70f7-35d7e3b05b79"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "165240e7-2241-484f-8ef3-c723091cc6f4"
+        }
+    ],
+    "guid": "165240e7-2241-484f-8ef3-c723091cc6f4",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "94d419e3-39e8-88eb-70f7-35d7e3b05b79"
+    ]
+}

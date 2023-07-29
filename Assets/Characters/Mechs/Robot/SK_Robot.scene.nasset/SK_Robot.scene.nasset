@@ -1,9 +1,9 @@
 {
-    "guid": "e2d082ba-6577-ef2a-22eb-7ad619898165",
+    "guid": "baf46bb9-34ce-ee9b-c794-7a40bda38c16",
     "source": "../SK_Robot.fbx",
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "c4524664-06fb-aac2-42c9-2a0185f596a6",
+    "instanceGuid": "fd6c6a8b-678a-56e2-df13-5e8ec05536aa",
     "data_components": [
         {
             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -13,7 +13,7 @@
     "children": [
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "5982bd11-7e26-be6c-0f66-a9557e16a038",
+            "instanceGuid": "2cf932ba-ba48-5b39-7ad1-d7bfb7d9e6c8",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -21,14 +21,14 @@
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "85369f56-6529-552d-fe0c-07216b04210c"
+                "scene": "de064ec9-6de9-997d-9daf-1161ee2e3c4d"
             }
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "e2d082ba-6577-ef2a-22eb-7ad619898165"
+        "scene": "baf46bb9-34ce-ee9b-c794-7a40bda38c16"
     },
     "dependencies": [
-        "85369f56-6529-552d-fe0c-07216b04210c"
+        "de064ec9-6de9-997d-9daf-1161ee2e3c4d"
     ]
 }

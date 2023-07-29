@@ -1,0 +1,19 @@
+{
+    "source": "A_Stan_Jump_End.fbx",
+    "skeleton": "220790e2-60ee-b80e-0633-0981fe5894ce",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "220790e2-60ee-b80e-0633-0981fe5894ce"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "94b5109a-9162-471b-838b-19e29012e0cd"
+        }
+    ],
+    "guid": "94b5109a-9162-471b-838b-19e29012e0cd",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "220790e2-60ee-b80e-0633-0981fe5894ce"
+    ]
+}

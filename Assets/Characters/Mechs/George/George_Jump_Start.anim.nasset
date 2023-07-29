@@ -1,0 +1,20 @@
+{
+    "source": "A_George_Jump_Start.fbx",
+    "skeleton": "a85be35e-5a2b-8bba-8c91-c1e7580edd7f",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "a85be35e-5a2b-8bba-8c91-c1e7580edd7f"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "23ace2be-f579-448a-9228-4ea4c6484578"
+        }
+    ],
+    "guid": "23ace2be-f579-448a-9228-4ea4c6484578",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "a85be35e-5a2b-8bba-8c91-c1e7580edd7f"
+    ],
+    "instanceGuid": "ca12e94f-3f3f-3254-d37b-a44bce72bdf6"
+}

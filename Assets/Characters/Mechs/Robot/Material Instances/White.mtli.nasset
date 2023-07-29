@@ -1,5 +1,5 @@
 {
-    "guid": "133799e8-3433-9aba-fda8-2fa6aea1d41b",
+    "guid": "2acb44fd-8f14-e949-f08d-c398aef25d00",
     "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
     "dependencies": [
         "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
@@ -18,6 +18,5 @@
             "type": 1,
             "value": 0.8585
         }
-    ],
-    "thumbnailGuid": "49d33877-8049-f47d-2085-9b9bdff9aec5"
+    ]
 }

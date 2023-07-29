@@ -1,0 +1,20 @@
+{
+    "source": "A_Mech_2Legs_Jump_Loop.fbx",
+    "skeleton": "7475c9ac-2a88-7fe4-116b-6ae38202c7ff",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "7475c9ac-2a88-7fe4-116b-6ae38202c7ff"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "ba549898-1560-40df-b702-756b91074939"
+        }
+    ],
+    "guid": "ba549898-1560-40df-b702-756b91074939",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "7475c9ac-2a88-7fe4-116b-6ae38202c7ff"
+    ],
+    "instanceGuid": "e276c58a-e7e7-36af-2de6-238b5bf46ce2"
+}

@@ -1,10 +1,9 @@
 {
     "source": "A_Robot_Jump_Loop.fbx",
-    "skeleton": "062eb09e-9e46-2923-be83-e717af5c2e27",
+    "skeleton": "eddd8214-b9e9-8bdb-a3d6-17a6446490e8",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-    "instanceGuid": "4fba63ab-ba4d-4b62-4de9-29c64315abfb",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": "062eb09e-9e46-2923-be83-e717af5c2e27"
+        "skeleton": "eddd8214-b9e9-8bdb-a3d6-17a6446490e8"
     },
     "data_components": [
         {
@@ -15,6 +14,7 @@
     "guid": "f8b355f8-5654-485c-b227-603f9371a839",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        "062eb09e-9e46-2923-be83-e717af5c2e27"
-    ]
+        "eddd8214-b9e9-8bdb-a3d6-17a6446490e8"
+    ],
+    "instanceGuid": "907d769d-f07e-9035-fbcd-78a77971752f"
 }

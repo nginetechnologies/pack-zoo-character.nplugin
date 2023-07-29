@@ -1,0 +1,198 @@
+{
+    "guid": "29856867-3020-e013-c2ff-0a58611ef83b",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "8762f008-422e-81f4-d9e2-e7b504a3ede9",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "c286c278-4694-5180-ceb6-38901093d35c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Gwart Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "ab225a2a-fba2-9a0f-59d3-f52a506eaa95",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "165240e7-2241-484f-8ef3-c723091cc6f4",
+                                "7053a253-f8eb-40f2-a333-8d66b650f010",
+                                "976b52f2-f4a9-47f8-9059-1ea2ccc24f05"
+                            ],
+                            "jump_animations": [
+                                "71687d46-3362-4a65-b838-5f4af2be2e12",
+                                "33973dee-9e3b-4ee2-a3df-74854e6da0a6",
+                                "618faef9-ce00-45da-97ed-8b2d35d9cf18"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "5f987900-aa47-5aac-a023-d6afa1c44471",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Gwart Gwart Edge"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c4d5185b-ec4d-e651-19db-75c5e19014a0",
+                                "material_instance": "20c5a01b-5b03-92d9-1285-71d6871c9a67"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "b1644edf-7366-f7d0-a54c-50da20f893e4"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "3bd4c431-dfdd-506d-c49b-a14f790061ea",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Gwart Gwart Trim"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "1d0d9665-e606-208b-624a-cb609187ac9e",
+                                "material_instance": "00a41e83-78f0-c827-61a8-4ee173ced3dd"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "3384231e-1e46-f82f-66d2-8719d85f00e9"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d91ed4dd-5f4d-1cec-929c-a5f8dcb6eed9",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Gwart Gwart Dark"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "2707552f-0b77-b6b6-c88d-3a0c2527b2c8",
+                                "material_instance": "0a250487-13bf-882d-8600-f0db1104d024"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "155b9bc2-3d72-0027-80db-3f385300f026"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "6e29999d-a76c-85e1-f9d0-c02613e7538d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Gwart Gwart Main"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c61b9d38-2c17-d334-7217-9d0882f9a751",
+                                "material_instance": "72d4fb2c-6795-e451-60e1-f4aeb45e978a"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "aa98929f-de02-7b92-75a7-ab7abdb3bfd0"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "0bceede4-65cf-390c-d85a-4a4241b610ac",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Gwart Gwart Eye"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "de03b733-8429-e6a3-b92c-19fcc8566cae",
+                                "material_instance": "3b4d1e88-e757-80ee-a52b-d5a1952f2a97"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "5438251c-dbec-8285-bb3e-6289871dd01a"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "94d419e3-39e8-88eb-70f7-35d7e3b05b79"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "29856867-3020-e013-c2ff-0a58611ef83b"
+    },
+    "dependencies": [
+        "20c5a01b-5b03-92d9-1285-71d6871c9a67",
+        "c4d5185b-ec4d-e651-19db-75c5e19014a0",
+        "b1644edf-7366-f7d0-a54c-50da20f893e4",
+        "00a41e83-78f0-c827-61a8-4ee173ced3dd",
+        "1d0d9665-e606-208b-624a-cb609187ac9e",
+        "3384231e-1e46-f82f-66d2-8719d85f00e9",
+        "0a250487-13bf-882d-8600-f0db1104d024",
+        "2707552f-0b77-b6b6-c88d-3a0c2527b2c8",
+        "155b9bc2-3d72-0027-80db-3f385300f026",
+        "72d4fb2c-6795-e451-60e1-f4aeb45e978a",
+        "c61b9d38-2c17-d334-7217-9d0882f9a751",
+        "aa98929f-de02-7b92-75a7-ab7abdb3bfd0",
+        "3b4d1e88-e757-80ee-a52b-d5a1952f2a97",
+        "de03b733-8429-e6a3-b92c-19fcc8566cae",
+        "5438251c-dbec-8285-bb3e-6289871dd01a",
+        "94d419e3-39e8-88eb-70f7-35d7e3b05b79",
+        "165240e7-2241-484f-8ef3-c723091cc6f4",
+        "7053a253-f8eb-40f2-a333-8d66b650f010",
+        "976b52f2-f4a9-47f8-9059-1ea2ccc24f05",
+        "71687d46-3362-4a65-b838-5f4af2be2e12",
+        "33973dee-9e3b-4ee2-a3df-74854e6da0a6",
+        "618faef9-ce00-45da-97ed-8b2d35d9cf18"
+    ]
+}

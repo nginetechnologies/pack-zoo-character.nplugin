@@ -1,0 +1,94 @@
+{
+    "guid": "988223e9-b56d-56c0-d781-2ce0c9d535d6",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "2f0ca447-c451-81bd-48f9-38ce3d640c71",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "49760d28-f4d2-06da-f4c8-88b3449cb722",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Stan Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "b1e757aa-516e-ed89-b4f2-6d12fb0c9c39",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "74007bdd-f33b-48f5-a268-9fca81d0d5ad",
+                                "106a4624-28a7-440b-9a45-13dcc0feb144",
+                                "bea6bdb9-aff1-44e6-a5dc-c563fa99b46f"
+                            ],
+                            "jump_animations": [
+                                "62bf758d-0241-4dac-bd3e-9c22fcdefee0",
+                                "b5910bc3-9317-45b9-98fd-a36575956658",
+                                "94b5109a-9162-471b-838b-19e29012e0cd"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "7de1d81d-045c-6024-02bd-3704a25724cb",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Stan Stan"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c6b3b08e-494b-528d-bb41-7004897824db",
+                                "material_instance": "aa52e282-e01d-95c6-d5f7-5f5e205798dc"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "67d04dfd-8df5-21c8-1cc3-4ebbd752242a"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "220790e2-60ee-b80e-0633-0981fe5894ce"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "988223e9-b56d-56c0-d781-2ce0c9d535d6"
+    },
+    "dependencies": [
+        "aa52e282-e01d-95c6-d5f7-5f5e205798dc",
+        "c6b3b08e-494b-528d-bb41-7004897824db",
+        "67d04dfd-8df5-21c8-1cc3-4ebbd752242a",
+        "220790e2-60ee-b80e-0633-0981fe5894ce",
+        "74007bdd-f33b-48f5-a268-9fca81d0d5ad",
+        "106a4624-28a7-440b-9a45-13dcc0feb144",
+        "106a4624-28a7-440b-9a45-13dcc0feb144",
+        "62bf758d-0241-4dac-bd3e-9c22fcdefee0",
+        "b5910bc3-9317-45b9-98fd-a36575956658",
+        "94b5109a-9162-471b-838b-19e29012e0cd"
+    ]
+}

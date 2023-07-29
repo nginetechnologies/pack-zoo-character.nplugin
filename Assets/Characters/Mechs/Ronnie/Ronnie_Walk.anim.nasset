@@ -1,0 +1,20 @@
+{
+    "guid": "453df314-5a4b-4b29-81e8-bcd188363b0c",
+    "source": "A_Ronnie_Walk.fbx",
+    "skeleton": "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "c6995951-4187-05dd-d5f1-adfcbcb45aaf",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "453df314-5a4b-4b29-81e8-bcd188363b0c"
+        }
+    ],
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480"
+    ]
+}

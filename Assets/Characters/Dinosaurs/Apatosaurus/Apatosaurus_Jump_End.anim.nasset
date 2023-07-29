@@ -1,0 +1,17 @@
+{
+    "source": "A_Apatosaurus_Jump_End.fbx",
+    "skeleton": "3f4ea462-e616-5161-190b-8d033fcf1171",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "a7edeebb-4fb2-10a7-a89c-c941f4b4f368",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "3f4ea462-e616-5161-190b-8d033fcf1171"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "5706163a-c443-4022-94c1-bcf8bc40cdba"
+        }
+    ],
+    "guid": "5706163a-c443-4022-94c1-bcf8bc40cdba",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+}

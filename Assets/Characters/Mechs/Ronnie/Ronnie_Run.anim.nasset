@@ -1,0 +1,20 @@
+{
+    "source": "A_Ronnie_Run.fbx",
+    "skeleton": "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "59a4d0cf-bd7f-08e1-a8a7-42801eeb7102",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "71021b82-7f36-4109-9ec3-da8c5642bde4"
+        }
+    ],
+    "guid": "71021b82-7f36-4109-9ec3-da8c5642bde4",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480"
+    ]
+}
