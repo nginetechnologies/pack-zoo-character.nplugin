@@ -1,0 +1,20 @@
+{
+    "source": "A_Alpaca_Jump_Loop.fbx",
+    "skeleton": "125cd8a8-6a61-0b44-61b0-ea6c323702e8",
+    "guid": "0b5ec55b-ff6d-4181-8f26-97ff7d496f1e",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "0b5ec55b-ff6d-4181-8f26-97ff7d496f1e"
+        }
+    ],
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "125cd8a8-6a61-0b44-61b0-ea6c323702e8"
+    },
+    "dependencies": [
+        "125cd8a8-6a61-0b44-61b0-ea6c323702e8"
+    ],
+    "instanceGuid": "77c62349-bf40-0ca3-858c-164081361ce2"
+}
