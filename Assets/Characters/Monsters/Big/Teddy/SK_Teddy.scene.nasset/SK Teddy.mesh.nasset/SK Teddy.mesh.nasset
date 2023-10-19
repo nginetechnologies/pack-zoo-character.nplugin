@@ -1,0 +1,224 @@
+{
+    "guid": "c5c54f75-ba7d-aa94-84f4-8ff019b54f53",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "c1037d0d-30e9-5f32-4a70-313130541e79",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "a635bf33-6b10-1289-d18b-fe475fbdee58",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Teddy Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "5337f4e6-7f99-418b-8ad9-5a5a6d9420c2",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "b2ebfbc6-d39a-42ca-893c-d10551e874a3",
+                                "39e06ae1-2ccd-45ba-a962-899aa7d61436",
+                                "f7ec8e00-4246-479f-a3c4-6059bc4e8d88"
+                            ],
+                            "jump_animations": [
+                                "027476d5-faf1-435f-9fd4-8a6c316c05fe",
+                                "d53eb050-dbeb-43d6-84c6-60dd996099e1",
+                                "6d512e35-97be-41d3-a565-505b3560a079"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "4f5de79c-8bb2-7107-550b-9de3bdac94e3",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Teddy Yeti Teeth"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c519adb8-ea80-11e2-b3f4-5155e09f57d0",
+                                "material_instance": "5a18f94e-c041-c61c-9451-4f85ce062540"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "2f979d84-da38-3459-6133-ee20731572ee"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "2fe9b786-416e-8ac5-5e89-3f208daa5f37",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Teddy Yeti Main"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c448c2ec-7df6-44de-acf8-4467c5414d96",
+                                "material_instance": "17e180ba-914e-f51d-adb7-05a7777775cb"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "9f2137b7-9f22-a80b-e557-45edf742530c"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "a3acdf69-b81c-5e97-f35e-845ad4bdb5c1",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Teddy Yeti Secondary"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d2d15041-1591-3c04-42fc-0c86f862b8fa",
+                                "material_instance": "02dd2e1c-af1e-a70b-f7a1-62256767658d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "21d71db5-155b-21de-f851-0ab5ac76087b"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "ce418d96-5951-e616-d874-a47ffd7a20d8",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Teddy Yeti Eye Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "6b97deaa-daeb-eb94-d565-de79d0eef337",
+                                "material_instance": "deb2c41c-ff70-4911-9d32-c0619e4be19f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "e7959682-63ff-8308-839f-4a7fd570263e"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "678c96c6-f58a-8920-d531-4b58778d87df",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Teddy Yeti Tongue"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a88a5032-2a77-1d07-4164-5fcc4f9fdfbb",
+                                "material_instance": "0d091b2c-ed29-dcdd-df44-8324e8e5861e"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "9beef49e-4774-f1fc-a971-d6f1c5b97797"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "c7719d0c-fe44-4e5a-6bdd-7fdaf7bf0a7f",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Teddy Yeti Eye White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "70874ff6-288c-9422-10ee-9d99460ef07c",
+                                "material_instance": "aadf716e-ee85-f82d-005c-b641448b3453"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "7c58956f-fbdb-4d68-ec8a-a68b78993740"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "793c6a70-4969-f8d8-e862-721b1ccf5d02"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "c5c54f75-ba7d-aa94-84f4-8ff019b54f53"
+    },
+    "dependencies": [
+        "5a18f94e-c041-c61c-9451-4f85ce062540",
+        "c519adb8-ea80-11e2-b3f4-5155e09f57d0",
+        "2f979d84-da38-3459-6133-ee20731572ee",
+        "17e180ba-914e-f51d-adb7-05a7777775cb",
+        "c448c2ec-7df6-44de-acf8-4467c5414d96",
+        "9f2137b7-9f22-a80b-e557-45edf742530c",
+        "02dd2e1c-af1e-a70b-f7a1-62256767658d",
+        "d2d15041-1591-3c04-42fc-0c86f862b8fa",
+        "21d71db5-155b-21de-f851-0ab5ac76087b",
+        "deb2c41c-ff70-4911-9d32-c0619e4be19f",
+        "6b97deaa-daeb-eb94-d565-de79d0eef337",
+        "e7959682-63ff-8308-839f-4a7fd570263e",
+        "0d091b2c-ed29-dcdd-df44-8324e8e5861e",
+        "a88a5032-2a77-1d07-4164-5fcc4f9fdfbb",
+        "9beef49e-4774-f1fc-a971-d6f1c5b97797",
+        "aadf716e-ee85-f82d-005c-b641448b3453",
+        "70874ff6-288c-9422-10ee-9d99460ef07c",
+        "7c58956f-fbdb-4d68-ec8a-a68b78993740",
+        "793c6a70-4969-f8d8-e862-721b1ccf5d02",
+        "b2ebfbc6-d39a-42ca-893c-d10551e874a3",
+        "39e06ae1-2ccd-45ba-a962-899aa7d61436",
+        "f7ec8e00-4246-479f-a3c4-6059bc4e8d88",
+        "027476d5-faf1-435f-9fd4-8a6c316c05fe",
+        "d53eb050-dbeb-43d6-84c6-60dd996099e1",
+        "6d512e35-97be-41d3-a565-505b3560a079"
+    ]
+}

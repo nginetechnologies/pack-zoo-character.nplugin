@@ -33,6 +33,13 @@
             "7475c9ac-2a88-7fe4-116b-6ae38202c7ff"
         ]
     },
+    "021f33b9-9a73-6796-799a-78cdbca206fb": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Misc/Alien/Material Instances/Eyes.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "023e8386-78a4-0698-7cd0-e7cbc4c424ff": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -47,6 +54,13 @@
         "path": "Assets/Characters/Monsters/Big/Hanzo/Hanzo_Jump_Start.anim.nasset",
         "dependencies": [
             "793c6a70-4969-f8d8-e862-721b1ccf5d02"
+        ]
+    },
+    "02dd2e1c-af1e-a70b-f7a1-62256767658d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Teddy/Material Instances/Yeti Secondary.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "02e34007-17a5-41dc-b6a3-6b7d660c9b87": {
@@ -159,6 +173,44 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "073a5db1-d2aa-e36f-2a73-7f863363c977": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "62574fa5-02df-da40-1a07-4f8fd2213aba",
+            "daacb7a6-e3a3-2406-f045-45a780838279",
+            "cedf4a77-d846-6c83-bc88-5da9103218fd",
+            "a9d80174-885a-96ff-d0d5-6e19f831aa12",
+            "0c1c7403-b05c-1462-6332-67e0058f2684",
+            "4405cefc-2556-6b17-d891-02fd483f9681",
+            "ac2b7001-7062-a24a-7612-2e553ca7d90f",
+            "80b66372-ae43-fa9c-a94c-ba7ab5963575",
+            "d3005a14-3011-b4a5-d916-50627d2062c6",
+            "12971631-2eec-4794-8a30-bd0d1c13cf58",
+            "40c5005e-0d61-b8c9-a1f1-3be582502871",
+            "cd5eca99-0615-ddf1-90df-822034dbf6b6",
+            "3d3b8a89-6c1a-d276-1f0b-598e6f734ce5",
+            "37836af8-5f3b-ed8c-f60d-469d6f34d34e",
+            "b3142bf9-24e9-122e-0d46-c4f1aacbff78",
+            "e91f5e4b-cf85-50aa-d0f5-2364a828cdb5",
+            "b2d23685-4246-62db-f1de-dc57763d41ec",
+            "48dbec17-6250-897c-9ac1-295f516f5011",
+            "e06afe4b-9e14-5569-8b5b-f5078b283377",
+            "dd22f2e7-b34a-1c81-2ce8-886f97232d1f",
+            "856bd768-704b-e669-f53c-5ebc6064d04b",
+            "793c6a70-4969-f8d8-e862-721b1ccf5d02",
+            "b2ebfbc6-d39a-42ca-893c-d10551e874a3",
+            "39e06ae1-2ccd-45ba-a962-899aa7d61436",
+            "f7ec8e00-4246-479f-a3c4-6059bc4e8d88",
+            "027476d5-faf1-435f-9fd4-8a6c316c05fe",
+            "d53eb050-dbeb-43d6-84c6-60dd996099e1",
+            "6d512e35-97be-41d3-a565-505b3560a079"
+        ]
+    },
     "07e0879b-248d-6d8c-9893-63c1adc8c200": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -203,6 +255,14 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/Ronnie/SK_Ronnie.scene.nasset/SK Ronnie.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "0aad54cb-2209-aa05-4672-429880665af8": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK_Teddy.scene.nasset",
+        "dependencies": [
+            "c5c54f75-ba7d-aa94-84f4-8ff019b54f53"
+        ]
     },
     "0ab691d9-5e35-4649-be17-64b6187ffafd": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -261,6 +321,30 @@
             "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480"
         ]
     },
+    "0b7f492a-cfd8-4d93-bbcd-b47f593e661a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Monsters/Big/Uglee/Uglee.scene.nasset",
+        "thumbnail": "b5713928-28ee-4571-9b14-811bdfc0d2f8",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "073a5db1-d2aa-e36f-2a73-7f863363c977"
+        ]
+    },
+    "0c1c7403-b05c-1462-6332-67e0058f2684": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Uglee Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a9d80174-885a-96ff-d0d5-6e19f831aa12",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "0c86023b-da7a-45ac-ad62-09740b9a468b": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -283,6 +367,13 @@
             "2acb44fd-8f14-e949-f08d-c398aef25d00"
         ]
     },
+    "0d091b2c-ed29-dcdd-df44-8324e8e5861e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Teddy/Material Instances/Yeti Tongue.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "0d0b8a69-139e-8a42-dfc7-5ab1487a37af": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -296,6 +387,18 @@
     "0d2c4d51-328b-50ab-8b2a-d526797bbd37": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Thumbnails/Fuschia 600.mtli.nasset.tex.nasset"
+    },
+    "0da20ae6-cccb-28a8-22a2-9dbdb09e4dbd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Eye Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "510ecd4e-9e27-0e13-6dd7-026019296f8d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "0e17f6b5-5fe5-9a40-3643-1583ecb87cf9": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -395,6 +498,23 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Animals/Alpaca/SK_Alpaca.scene.nasset/SK Alpaca.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "12971631-2eec-4794-8a30-bd0d1c13cf58": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Uglee/Material Instances/Eye Black.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "12b4b7cc-d553-7d13-cdac-441c42a062c5": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Misc/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien White.meshskin.nasset",
+        "dependencies": [
+            "ba37628f-765a-fbaf-039b-89c08fbcded6",
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc",
+            "2c4448e2-7d5d-e5a7-6c41-3715fc971646"
+        ]
+    },
     "12e57665-196c-a4d0-6a15-ab6dc5f73c4d": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Mechs/Mechley/Material Instances/Mech 2Leg Main.mtli.nasset",
@@ -470,6 +590,24 @@
             "6cefa566-b7d4-4d98-97c4-2217c49a6fd3"
         ]
     },
+    "14b0637f-05be-7242-8630-a6d01a97a473": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Eye White.meshskin.nasset",
+        "dependencies": [
+            "6dd2217c-91d4-8926-540e-f5c746aaa901",
+            "fba9d5de-3e54-7227-fb4d-45cb02fc69d5",
+            "dfdf01d0-dde0-d2fd-2b2e-aad2f747e0ab"
+        ]
+    },
+    "14dc563a-b9f1-4793-a25c-05ab487fdd1f": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Misc/Alien/Rogue_Run.anim.nasset",
+        "dependencies": [
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
+        ]
+    },
     "14efef50-cbb0-40ef-8f1e-333d2ff6728f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Monsters/Big/Lucifer/Thumbnails/Lucifer.scene.nasset.tex.nasset"
@@ -490,6 +628,14 @@
             "23c9d8e5-4ca8-b3ef-ba94-4afacdde5a01",
             "bc6c4d4b-a05b-6e71-5d0f-7689c128925b",
             "16b510d1-7754-fbcd-1a29-325efc9a7c92"
+        ]
+    },
+    "15388f8e-a624-a7bb-c0ec-1d9fba7e2917": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK_Uglee.scene.nasset",
+        "dependencies": [
+            "073a5db1-d2aa-e36f-2a73-7f863363c977"
         ]
     },
     "155b9bc2-3d72-0027-80db-3f385300f026": {
@@ -581,6 +727,13 @@
             "2f8f13f8-bb7a-4c60-89bf-79aa8bfeb0f2"
         ]
     },
+    "17e180ba-914e-f51d-adb7-05a7777775cb": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Teddy/Material Instances/Yeti Main.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "193903f3-032a-aadc-c77e-99b9b91b56fa": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Nails.mtli.nasset",
@@ -666,6 +819,18 @@
         "path": "Assets/Characters/Monsters/Rounded/Alien/SK_Ball_Alien.scene.nasset/SK_Ball_Alien.scene.nasset",
         "dependencies": [
             "77580f0b-6568-f33e-4a4b-08ee58078601"
+        ]
+    },
+    "1a1043f6-94dc-cfcd-721e-b5cea5601e71": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "6ccd44eb-9d4b-c0a2-2383-b713c9966de4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "1aaae4f9-3684-8131-3396-5332e05340d7": {
@@ -811,6 +976,16 @@
             "0eaeff54-959c-56fc-919f-9706ffedbe64"
         ]
     },
+    "21d71db5-155b-21de-f851-0ab5ac76087b": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Secondary.meshskin.nasset",
+        "dependencies": [
+            "d2d15041-1591-3c04-42fc-0c86f862b8fa",
+            "fc602d62-9b9b-bc62-ad31-49cdbfefbab6",
+            "02dd2e1c-af1e-a70b-f7a1-62256767658d"
+        ]
+    },
     "220790e2-60ee-b80e-0633-0981fe5894ce": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -924,7 +1099,8 @@
         "path": "Assets/Characters/Mechs/Robot/Robo.scene.nasset",
         "thumbnail": "99029d92-f497-4c98-be8b-85a5a9bba823",
         "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
             "de064ec9-6de9-997d-9daf-1161ee2e3c4d"
@@ -1061,6 +1237,13 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Heist/Material Instances/Thumbnails/Grey Dark.mtli.nasset.tex.nasset"
     },
+    "2ac34ad7-d032-06a4-98d0-e4b078b536ec": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Misc/Alien/Material Instances/Stripe.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "2acb44fd-8f14-e949-f08d-c398aef25d00": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Mechs/Robot/Material Instances/White.mtli.nasset",
@@ -1100,6 +1283,13 @@
         "path": "Assets/Characters/Animals/Sheep/Sheep_Run.anim.nasset",
         "dependencies": [
             "2f050a23-72d8-d988-775d-af027c0d625c"
+        ]
+    },
+    "2c4448e2-7d5d-e5a7-6c41-3715fc971646": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Misc/Alien/Material Instances/White.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "2c92cf66-75b1-38ef-0eef-c9d80d400822": {
@@ -1193,6 +1383,16 @@
             "2f050a23-72d8-d988-775d-af027c0d625c"
         ]
     },
+    "2f979d84-da38-3459-6133-ee20731572ee": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Teeth.meshskin.nasset",
+        "dependencies": [
+            "c519adb8-ea80-11e2-b3f4-5155e09f57d0",
+            "fc602d62-9b9b-bc62-ad31-49cdbfefbab6",
+            "5a18f94e-c041-c61c-9451-4f85ce062540"
+        ]
+    },
     "2fc23854-619e-4e72-a44b-bb1fa7292f82": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Animals/Fox/Thumbnails/Fox.scene.nasset.tex.nasset"
@@ -1246,6 +1446,18 @@
             "c545e312-3eac-376c-3766-fcbfcddc6ca3"
         ]
     },
+    "32daad25-9a06-13a9-54ca-698faaf1a9cf": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Misc/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien Eyes.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "021f33b9-9a73-6796-799a-78cdbca206fb",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "3384231e-1e46-f82f-66d2-8719d85f00e9": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -1281,6 +1493,15 @@
         "dependencies": [
             "5b38c6aa-e364-57a8-55ac-c0d2b6f4a1d0",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "34e39f80-6438-4a19-abd0-2091f5066700": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Misc/Alien/Rogue.scene.nasset",
+        "thumbnail": "f1e8f9de-a20d-4c45-a0e7-dab43a0c0eb4",
+        "dependencies": [
+            "abc6f9bb-d521-dda2-87bd-9986bd3abb80"
         ]
     },
     "34f2f830-ab2c-4ab9-a68f-5e9de49454bc": {
@@ -1339,12 +1560,29 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Misc/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
     "36f05629-0cc6-4c65-82cf-d89c2a515a8c": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/George/George_Idle.anim.nasset",
         "dependencies": [
             "a85be35e-5a2b-8bba-8c91-c1e7580edd7f"
+        ]
+    },
+    "37836af8-5f3b-ed8c-f60d-469d6f34d34e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Shoe Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3d3b8a89-6c1a-d276-1f0b-598e6f734ce5",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "37fbb575-41bd-cfef-9662-d086f2365de8": {
@@ -1469,15 +1707,54 @@
             "cea8bcd0-aad2-d8f8-9064-f84a3af9dd39"
         ]
     },
+    "3d3b8a89-6c1a-d276-1f0b-598e6f734ce5": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Uglee/Material Instances/Shoe Red.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "3d65b732-ebfc-12da-ec51-362e7a40c166": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Dinosaurs/Stegosaurus/SK_Stegosaurus.scene.nasset/SK Stegosaurus.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "3d9278df-7c2a-0c07-13d6-bf3129aefdee": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Misc/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien Glass.meshskin.nasset",
+        "dependencies": [
+            "e4a753d5-0a00-1fc9-e07e-26de279a40ae",
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc",
+            "a2d66a82-e2c7-e70f-1bf3-f3d9cb02ac0a"
+        ]
+    },
     "3d9becb1-7c03-4ffb-bf9d-212fbaaefaae": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Modular_Toon/Alien/Alien_Walk.anim.nasset"
+    },
+    "3dbe4828-f902-f182-2202-65374cdf737a": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Misc/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien Stripe.meshskin.nasset",
+        "dependencies": [
+            "e610081e-8f74-9a05-4b54-eef6d4b28cb6",
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc",
+            "2ac34ad7-d032-06a4-98d0-e4b078b536ec"
+        ]
+    },
+    "3dc053dc-464b-4d4e-89e8-dfc6359cf263": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Monsters/Big/Teddy/Teddy.scene.nasset",
+        "thumbnail": "4e37ddf4-55e9-4e0a-b5e4-2749bb7296f6",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "865092ef-727b-5ec1-70b2-fd89fe4ed47e"
+        ]
     },
     "3e391207-2b71-a02a-d251-dee784dad145": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -1579,6 +1856,18 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "40c5005e-0d61-b8c9-a1f1-3be582502871": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Eye Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "12971631-2eec-4794-8a30-bd0d1c13cf58",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "40ebf4d2-b44a-47a1-8638-ef100a595d82": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1664,6 +1953,16 @@
             "9d782186-4b81-f3eb-debc-923745c58947",
             "9022b417-09ae-5717-9668-c1aed12d40fd",
             "3c728aeb-ffa3-feb9-efb4-1308c9ec4957"
+        ]
+    },
+    "4405cefc-2556-6b17-d891-02fd483f9681": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Uglee Main.meshskin.nasset",
+        "dependencies": [
+            "0c1c7403-b05c-1462-6332-67e0058f2684",
+            "265d1a29-d656-a2e5-7771-8fe8e116e427",
+            "a9d80174-885a-96ff-d0d5-6e19f831aa12"
         ]
     },
     "44241c1d-5f63-a2b8-29cb-7fcea2313c98": {
@@ -1761,6 +2060,23 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Monsters/Big/Prickly Pear/Thumbnails/Prickly_Pear.scene.nasset.tex.nasset"
     },
+    "48d0d3f5-399e-f04f-eba7-4cb7df44d1ed": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Misc/Alien/Material Instances/Body.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "48dbec17-6250-897c-9ac1-295f516f5011": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Shoe Blue.meshskin.nasset",
+        "dependencies": [
+            "b2d23685-4246-62db-f1de-dc57763d41ec",
+            "265d1a29-d656-a2e5-7771-8fe8e116e427",
+            "e91f5e4b-cf85-50aa-d0f5-2364a828cdb5"
+        ]
+    },
     "498cdd8d-fce3-4c50-bb5b-17f38ae55f4a": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1850,6 +2166,14 @@
         ],
         "dependencies": [
             "14028f54-74f6-ecd6-3b1f-548c118aeb92"
+        ]
+    },
+    "4dfc9358-c647-0944-d58d-e1b056bd209f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK_Snapper.scene.nasset",
+        "dependencies": [
+            "d41bcbff-78b9-6467-1e93-b3604d5a15c9"
         ]
     },
     "4e16005c-0939-813e-7248-b7c3a9a6359f": {
@@ -1955,6 +2279,25 @@
         "path": "Assets/Characters/Animals/Spider/Spider_Jump End.anim.nasset",
         "dependencies": [
             "1308dd4f-bebd-1efc-661c-e622cd746e3c"
+        ]
+    },
+    "50f5822f-5fcf-157d-9393-eb6410a99231": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Misc/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien Nails.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "617630b0-1ca8-98df-caee-21d056fcc01a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "510ecd4e-9e27-0e13-6dd7-026019296f8d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Snapper/Material Instances/Snapper Eye Black.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "526a4c23-35be-4537-a176-b491dc61dbc9": {
@@ -2163,13 +2506,21 @@
             "26dc6fe0-4edd-183c-6f42-897581fae5fe"
         ]
     },
+    "5a18f94e-c041-c61c-9451-4f85ce062540": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Teddy/Material Instances/Yeti Teeth.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "5a6c4cbc-4813-4c40-b5be-decf6113e543": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Mechs/Mechley/Mechley.scene.nasset",
         "thumbnail": "942e9729-2adb-4ca3-9f4a-753a2511dc9e",
         "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
             "2b52c73d-0d1e-7e45-9fa1-beb10d939916"
@@ -2289,7 +2640,8 @@
         "path": "Assets/Characters/Heist/Soldier.scene.nasset",
         "thumbnail": "67bafe6f-6889-43e8-8a2e-74951e14cc97",
         "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
             "8a710282-72e0-c192-75a6-ddc2d5525035"
@@ -2338,6 +2690,13 @@
             "0eaeff54-959c-56fc-919f-9706ffedbe64"
         ]
     },
+    "617630b0-1ca8-98df-caee-21d056fcc01a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Misc/Alien/Material Instances/Nails.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "617c8b75-3d4c-43d8-8915-fa85deb7b3b3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Monsters/Big/Meyer/Thumbnails/Meyer.scene.nasset.tex.nasset"
@@ -2378,6 +2737,13 @@
             "1308dd4f-bebd-1efc-661c-e622cd746e3c"
         ]
     },
+    "62574fa5-02df-da40-1a07-4f8fd2213aba": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Uglee/Material Instances/Secondary.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "62b3e2c5-f926-f13c-4b71-27413432ebae": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Mechs/Mechley/Material Instances/Mech 2Leg Black.mtli.nasset",
@@ -2397,9 +2763,10 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Mechs/Mike/Mike.scene.nasset",
-        "thumbnail": "b29e7dd0-99d7-422c-a68f-43adc16aed01",
+        "thumbnail": "1c0e0482-4a4a-4af6-8364-566e84f59e53",
         "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
             "a2e3f6da-7d05-695f-2187-12088a16e0ec"
@@ -2485,7 +2852,8 @@
         "path": "Assets/Characters/Mechs/Leela/Leela.scene.nasset",
         "thumbnail": "9b0074bf-2245-41cd-b1fe-891366d92258",
         "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
             "7a87bb9d-d0cc-0883-9cbd-8d005fdae678"
@@ -2506,6 +2874,14 @@
         "thumbnail": "7ed5d857-cb46-7e95-2b62-fdc7b0dba6ae",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "679c103c-2a24-7f3d-f734-93b1beafea0f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Misc/Alien/SK_Rogue.scene.nasset/SK_Rogue.scene.nasset",
+        "dependencies": [
+            "abc6f9bb-d521-dda2-87bd-9986bd3abb80"
         ]
     },
     "67bafe6f-6889-43e8-8a2e-74951e14cc97": {
@@ -2579,12 +2955,31 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Heist/Idle.anim.nasset"
     },
+    "6b97deaa-daeb-eb94-d565-de79d0eef337": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Eye Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "deb2c41c-ff70-4911-9d32-c0619e4be19f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "6c1034a4-f468-5dbe-ac4b-8c19d6f646c1": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Heist/SK_Heist_Soldier.scene.nasset/SK_Heist_Soldier.scene.nasset",
         "dependencies": [
             "8a710282-72e0-c192-75a6-ddc2d5525035"
+        ]
+    },
+    "6ccd44eb-9d4b-c0a2-2383-b713c9966de4": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Snapper/Material Instances/Snapper Main.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "6cefa566-b7d4-4d98-97c4-2217c49a6fd3": {
@@ -2619,6 +3014,18 @@
             "84c4fc94-8c05-4167-a7ff-93e031796da9",
             "eddd8214-b9e9-8bdb-a3d6-17a6446490e8",
             "f07bec9a-7ac5-f672-65a2-7dfb6298ad2f"
+        ]
+    },
+    "6dd2217c-91d4-8926-540e-f5c746aaa901": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Eye White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "dfdf01d0-dde0-d2fd-2b2e-aad2f747e0ab",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "6eafeba7-15d9-43b6-a118-e471ba367851": {
@@ -2687,6 +3094,18 @@
         "path": "Assets/Characters/Dinosaurs/Apatosaurus/Material Instances/Apatosaurus Belly.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "70874ff6-288c-9422-10ee-9d99460ef07c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Eye White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "aadf716e-ee85-f82d-005c-b641448b3453",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "71021b82-7f36-4109-9ec3-da8c5642bde4": {
@@ -3016,6 +3435,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "7a517bd4-d8fc-ec95-47ff-2f38d85beb41": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Snapper/Material Instances/Snapper Mouth.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "7a87bb9d-d0cc-0883-9cbd-8d005fdae678": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3069,6 +3495,16 @@
         "dependencies": [
             "8700bd7c-cd10-9736-bd46-b3cd8cb5a065",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7c58956f-fbdb-4d68-ec8a-a68b78993740": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Eye White.meshskin.nasset",
+        "dependencies": [
+            "70874ff6-288c-9422-10ee-9d99460ef07c",
+            "fc602d62-9b9b-bc62-ad31-49cdbfefbab6",
+            "aadf716e-ee85-f82d-005c-b641448b3453"
         ]
     },
     "7cbcf053-014d-f7c5-94f6-17dc5aba705c": {
@@ -3169,12 +3605,32 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "80b66372-ae43-fa9c-a94c-ba7ab5963575": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Beak.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "ac2b7001-7062-a24a-7612-2e553ca7d90f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "80c6f587-c367-a7e3-4384-732f6b7c3523": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/White.mtli.nasset",
         "thumbnail": "a99252c6-7e25-4e2c-f3c1-6e30caf7aa2c",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "8175fb05-a646-4913-96b1-707b84d6dc9e": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Misc/Alien/Rogue_Idle.anim.nasset",
+        "dependencies": [
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
         ]
     },
     "81c4b1b3-4526-98c2-4d4e-194b11a4a9df": {
@@ -3190,10 +3646,21 @@
         "path": "Assets/Characters/Mechs/Ronnie/Ronnie.scene.nasset",
         "thumbnail": "eb0cfe6a-2b16-4871-b469-7652e8237421",
         "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
             "ffc24bac-2211-40b0-a6a6-de8f25d3bd97"
+        ]
+    },
+    "8346d8de-ea36-834b-ebe6-40985c788507": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Misc/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien Nails.meshskin.nasset",
+        "dependencies": [
+            "50f5822f-5fcf-157d-9393-eb6410a99231",
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc",
+            "617630b0-1ca8-98df-caee-21d056fcc01a"
         ]
     },
     "837e128d-3594-41c0-917b-a73376f38f1f": {
@@ -3209,6 +3676,16 @@
     "83ba8884-4092-9ddb-1af0-0217cf07aa13": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Animals/Spider/Material Instances/Thumbnails/Spider Eyes.mtli.nasset.tex.nasset"
+    },
+    "84b1f066-8970-f924-1298-f4b4334311e5": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Fin.meshskin.nasset",
+        "dependencies": [
+            "c16ca5c6-2149-6228-7ee1-7d873763c022",
+            "fba9d5de-3e54-7227-fb4d-45cb02fc69d5",
+            "c0c1ee16-8f5a-b0f8-d1dc-59f413c1d5bc"
+        ]
     },
     "84c4fc94-8c05-4167-a7ff-93e031796da9": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3230,11 +3707,33 @@
             "125cd8a8-6a61-0b44-61b0-ea6c323702e8"
         ]
     },
+    "856bd768-704b-e669-f53c-5ebc6064d04b": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Lace Rings.meshskin.nasset",
+        "dependencies": [
+            "dd22f2e7-b34a-1c81-2ce8-886f97232d1f",
+            "265d1a29-d656-a2e5-7771-8fe8e116e427",
+            "e06afe4b-9e14-5569-8b5b-f5078b283377"
+        ]
+    },
     "85c03a10-3ec0-2097-67b0-14f574e95af3": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Mechs/Ronnie/Material Instances/Ronnie Black.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "868c14a2-44df-60db-a3f2-651cf0fafe78": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Mouth.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "7a517bd4-d8fc-ec95-47ff-2f38d85beb41",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "8700bd7c-cd10-9736-bd46-b3cd8cb5a065": {
@@ -3251,10 +3750,11 @@
         "path": "Assets/Characters/Monsters/Big/Hanzo/Hanzo.scene.nasset",
         "thumbnail": "39dfc81f-b468-4259-ba05-f1a5f2c0cac5",
         "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
-            "01672b1c-f6a9-f919-f136-a59c870b280b"
+            "54026ee9-c279-9f4c-d4f3-dcbde89a4a5f"
         ]
     },
     "888b2656-142b-6510-0aa6-48d5e4f0adf6": {
@@ -3372,7 +3872,8 @@
         "path": "Assets/Characters/Heist/Redman.scene.nasset",
         "thumbnail": "27b1f684-2502-4868-a6ee-8e55ffee9f20",
         "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
             "abfaf3ed-4ec7-8b5d-6030-6cb81e089ffa"
@@ -3576,6 +4077,14 @@
         "path": "Assets/Characters/Mechs/Stan/Stan_Jump_End.anim.nasset",
         "dependencies": [
             "220790e2-60ee-b80e-0633-0981fe5894ce"
+        ]
+    },
+    "94ccc4b9-58cc-4a11-a6f6-31fdf8d755d5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Misc/Alien/Rogue_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
         ]
     },
     "94d419e3-39e8-88eb-70f7-35d7e3b05b79": {
@@ -3821,6 +4330,16 @@
             "988223e9-b56d-56c0-d781-2ce0c9d535d6"
         ]
     },
+    "9beef49e-4774-f1fc-a971-d6f1c5b97797": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Tongue.meshskin.nasset",
+        "dependencies": [
+            "a88a5032-2a77-1d07-4164-5fcc4f9fdfbb",
+            "fc602d62-9b9b-bc62-ad31-49cdbfefbab6",
+            "0d091b2c-ed29-dcdd-df44-8324e8e5861e"
+        ]
+    },
     "9bfdc526-a49c-7822-9750-8303cfe56ca9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Heist/Material Instances/Thumbnails/Grey.mtli.nasset.tex.nasset"
@@ -3923,6 +4442,16 @@
             "5383edbe-0e6c-9c1e-bdb0-03291b98f472"
         ]
     },
+    "9f2137b7-9f22-a80b-e557-45edf742530c": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Main.meshskin.nasset",
+        "dependencies": [
+            "c448c2ec-7df6-44de-acf8-4467c5414d96",
+            "fc602d62-9b9b-bc62-ad31-49cdbfefbab6",
+            "17e180ba-914e-f51d-adb7-05a7777775cb"
+        ]
+    },
     "9f318f79-90b4-d2c7-51e4-ea0d38b703e4": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -3980,6 +4509,21 @@
             "2cafe077-fbf1-c0a8-7fbc-a8b0b10ce1c3",
             "125cd8a8-6a61-0b44-61b0-ea6c323702e8",
             "bb3985e0-a4f6-462a-b6d9-5fd2d230a346"
+        ]
+    },
+    "a25cff00-66dc-4ecb-b821-2dfcfb24ad83": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Misc/Alien/Rogue_Jump_Start.anim.nasset",
+        "dependencies": [
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
+        ]
+    },
+    "a2d66a82-e2c7-e70f-1bf3-f3d9cb02ac0a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Misc/Alien/Material Instances/Glass.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "a2e3f6da-7d05-695f-2187-12088a16e0ec": {
@@ -4041,6 +4585,16 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "a76138bc-3850-73e6-a5dc-e5df68df3f30": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Mouth.meshskin.nasset",
+        "dependencies": [
+            "868c14a2-44df-60db-a3f2-651cf0fafe78",
+            "fba9d5de-3e54-7227-fb4d-45cb02fc69d5",
+            "7a517bd4-d8fc-ec95-47ff-2f38d85beb41"
+        ]
+    },
     "a778f972-f56d-0a42-3465-c851e1713681": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4073,6 +4627,18 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/George/SK_George.scene.nasset/SK George.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "a88a5032-2a77-1d07-4164-5fcc4f9fdfbb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Tongue.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0d091b2c-ed29-dcdd-df44-8324e8e5861e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "a93286de-6178-43d2-9739-a48702d816e9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Monsters/Big/Sue/Thumbnails/Sue.scene.nasset.tex.nasset"
@@ -4085,10 +4651,20 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Thumbnails/White.mtli.nasset.tex.nasset"
     },
+    "a9d80174-885a-96ff-d0d5-6e19f831aa12": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Uglee/Material Instances/Uglee Main.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "a9f3884c-3026-4742-a788-9c1c91625bd8": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Voxel/Danny/Idle.anim.nasset"
+        "path": "Assets/Characters/Voxel/Danny/Idle.anim.nasset",
+        "dependencies": [
+            "c50b45c1-4d5a-6d62-6fa9-1d7614e1d959"
+        ]
     },
     "aa52e282-e01d-95c6-d5f7-5f5e205798dc": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -4108,12 +4684,54 @@
             "72d4fb2c-6795-e451-60e1-f4aeb45e978a"
         ]
     },
+    "aadf716e-ee85-f82d-005c-b641448b3453": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Teddy/Material Instances/Yeti Eye White.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "ab015581-b3f8-4a68-b2b2-364243b21f72": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Animals/Fox/Fox_Jump_Start.anim.nasset",
         "dependencies": [
             "07e0879b-248d-6d8c-9893-63c1adc8c200"
+        ]
+    },
+    "abc6f9bb-d521-dda2-87bd-9986bd3abb80": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Misc/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "2ac34ad7-d032-06a4-98d0-e4b078b536ec",
+            "e610081e-8f74-9a05-4b54-eef6d4b28cb6",
+            "3dbe4828-f902-f182-2202-65374cdf737a",
+            "48d0d3f5-399e-f04f-eba7-4cb7df44d1ed",
+            "c0774a30-9007-0014-842d-ca4b294017df",
+            "b4eb0057-db41-0520-c2af-40a7543ea4d6",
+            "617630b0-1ca8-98df-caee-21d056fcc01a",
+            "50f5822f-5fcf-157d-9393-eb6410a99231",
+            "8346d8de-ea36-834b-ebe6-40985c788507",
+            "2c4448e2-7d5d-e5a7-6c41-3715fc971646",
+            "ba37628f-765a-fbaf-039b-89c08fbcded6",
+            "12b4b7cc-d553-7d13-cdac-441c42a062c5",
+            "021f33b9-9a73-6796-799a-78cdbca206fb",
+            "32daad25-9a06-13a9-54ca-698faaf1a9cf",
+            "ed98e637-6acf-90d9-84b8-005c508a12b3",
+            "a2d66a82-e2c7-e70f-1bf3-f3d9cb02ac0a",
+            "e4a753d5-0a00-1fc9-e07e-26de279a40ae",
+            "3d9278df-7c2a-0c07-13d6-bf3129aefdee",
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc",
+            "8175fb05-a646-4913-96b1-707b84d6dc9e",
+            "c6de8e32-32b1-43c2-bd0e-2b0306525c53",
+            "14dc563a-b9f1-4793-a25c-05ab487fdd1f",
+            "a25cff00-66dc-4ecb-b821-2dfcfb24ad83",
+            "94ccc4b9-58cc-4a11-a6f6-31fdf8d755d5",
+            "f8385ce4-8cd2-4237-b5b2-dec2fad400d6"
         ]
     },
     "abfaf3ed-4ec7-8b5d-6030-6cb81e089ffa": {
@@ -4178,6 +4796,13 @@
         "dependencies": [
             "0b1e0e93-80a5-2fe9-550c-b45de80ea20e",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ac2b7001-7062-a24a-7612-2e553ca7d90f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Uglee/Material Instances/Beak.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "ac7dbe80-bdab-4fe5-9631-481d75f4b289": {
@@ -4312,7 +4937,8 @@
         "path": "Assets/Characters/Mechs/Stan/Stan.scene.nasset",
         "thumbnail": "b29e7dd0-99d7-422c-a68f-43adc16aed01",
         "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
             "988223e9-b56d-56c0-d781-2ce0c9d535d6"
@@ -4337,12 +4963,34 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "b2d23685-4246-62db-f1de-dc57763d41ec": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Shoe Blue.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e91f5e4b-cf85-50aa-d0f5-2364a828cdb5",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "b2ebfbc6-d39a-42ca-893c-d10551e874a3": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Monsters/Big/Hanzo/Hanzo_Idle.anim.nasset",
         "dependencies": [
             "793c6a70-4969-f8d8-e862-721b1ccf5d02"
+        ]
+    },
+    "b3142bf9-24e9-122e-0d46-c4f1aacbff78": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Shoe Red.meshskin.nasset",
+        "dependencies": [
+            "37836af8-5f3b-ed8c-f60d-469d6f34d34e",
+            "265d1a29-d656-a2e5-7771-8fe8e116e427",
+            "3d3b8a89-6c1a-d276-1f0b-598e6f734ce5"
         ]
     },
     "b32a8085-7597-1186-0ddb-9910bbb3c542": {
@@ -4368,6 +5016,16 @@
     "b47fdb30-1afe-d97a-c413-cbf29fc5e84e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Mechs/Mike/Textures/T_Mike_D.tex.nasset"
+    },
+    "b4eb0057-db41-0520-c2af-40a7543ea4d6": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Misc/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien Body.meshskin.nasset",
+        "dependencies": [
+            "c0774a30-9007-0014-842d-ca4b294017df",
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc",
+            "48d0d3f5-399e-f04f-eba7-4cb7df44d1ed"
+        ]
     },
     "b4f4db88-7518-4c07-97ea-d92b33e60433": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -4545,6 +5203,18 @@
     "b9c4f19c-b071-4ee5-51fe-645e9c0f8eed": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Heist/Material Instances/Thumbnails/Blue Grey.mtli.nasset.tex.nasset"
+    },
+    "ba37628f-765a-fbaf-039b-89c08fbcded6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Misc/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2c4448e2-7d5d-e5a7-6c41-3715fc971646",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "ba549898-1560-40df-b702-756b91074939": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -4762,6 +5432,25 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "c0774a30-9007-0014-842d-ca4b294017df": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Misc/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien Body.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "48d0d3f5-399e-f04f-eba7-4cb7df44d1ed",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c0c1ee16-8f5a-b0f8-d1dc-59f413c1d5bc": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Snapper/Material Instances/Snapper Fin.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "c0f1f834-6816-10ab-9f20-167de71076cd": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Monsters/Rounded/Alien/Material Instances/Ball Alien.mtli.nasset",
@@ -4773,6 +5462,18 @@
     "c15a77a5-0b5a-1472-83a8-5e4def7b4755": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Thumbnails/Z Face.mtli.nasset.tex.nasset"
+    },
+    "c16ca5c6-2149-6228-7ee1-7d873763c022": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Fin.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c0c1ee16-8f5a-b0f8-d1dc-59f413c1d5bc",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "c1ae2cfd-0987-95bc-9b6d-a3b7b50901c7": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -4826,6 +5527,18 @@
             "dda0686c-bec9-a968-7a9e-8f2208623753"
         ]
     },
+    "c448c2ec-7df6-44de-acf8-4467c5414d96": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "17e180ba-914e-f51d-adb7-05a7777775cb",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "c4d5185b-ec4d-e651-19db-75c5e19014a0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4842,6 +5555,18 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Voxel/Danny/SK_Danny.scene.nasset/SK Danny.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "c519adb8-ea80-11e2-b3f4-5155e09f57d0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Teeth.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5a18f94e-c041-c61c-9451-4f85ce062540",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "c5314602-afee-7ecc-ac68-9ce2dc62115d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -4876,6 +5601,41 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "c5c54f75-ba7d-aa94-84f4-8ff019b54f53": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "5a18f94e-c041-c61c-9451-4f85ce062540",
+            "c519adb8-ea80-11e2-b3f4-5155e09f57d0",
+            "2f979d84-da38-3459-6133-ee20731572ee",
+            "17e180ba-914e-f51d-adb7-05a7777775cb",
+            "c448c2ec-7df6-44de-acf8-4467c5414d96",
+            "9f2137b7-9f22-a80b-e557-45edf742530c",
+            "02dd2e1c-af1e-a70b-f7a1-62256767658d",
+            "d2d15041-1591-3c04-42fc-0c86f862b8fa",
+            "21d71db5-155b-21de-f851-0ab5ac76087b",
+            "deb2c41c-ff70-4911-9d32-c0619e4be19f",
+            "6b97deaa-daeb-eb94-d565-de79d0eef337",
+            "e7959682-63ff-8308-839f-4a7fd570263e",
+            "0d091b2c-ed29-dcdd-df44-8324e8e5861e",
+            "a88a5032-2a77-1d07-4164-5fcc4f9fdfbb",
+            "9beef49e-4774-f1fc-a971-d6f1c5b97797",
+            "aadf716e-ee85-f82d-005c-b641448b3453",
+            "70874ff6-288c-9422-10ee-9d99460ef07c",
+            "7c58956f-fbdb-4d68-ec8a-a68b78993740",
+            "793c6a70-4969-f8d8-e862-721b1ccf5d02",
+            "b2ebfbc6-d39a-42ca-893c-d10551e874a3",
+            "39e06ae1-2ccd-45ba-a962-899aa7d61436",
+            "f7ec8e00-4246-479f-a3c4-6059bc4e8d88",
+            "027476d5-faf1-435f-9fd4-8a6c316c05fe",
+            "d53eb050-dbeb-43d6-84c6-60dd996099e1",
+            "6d512e35-97be-41d3-a565-505b3560a079"
+        ]
+    },
     "c61b9d38-2c17-d334-7217-9d0882f9a751": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4908,6 +5668,14 @@
             "7f7cbcd8-4777-29c5-4ac0-286e913b8e90",
             "02905ff4-6727-df2f-7e63-001005fbf912",
             "b410f5d4-bf3d-7a0d-1e49-c9b35159007c"
+        ]
+    },
+    "c6de8e32-32b1-43c2-bd0e-2b0306525c53": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Misc/Alien/Rogue_Walk.anim.nasset",
+        "dependencies": [
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
         ]
     },
     "c7dfcb41-e05b-e67c-0f34-ae408e8e43c3": {
@@ -5022,6 +5790,16 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "cd5eca99-0615-ddf1-90df-822034dbf6b6": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Eye Black.meshskin.nasset",
+        "dependencies": [
+            "40c5005e-0d61-b8c9-a1f1-3be582502871",
+            "265d1a29-d656-a2e5-7771-8fe8e116e427",
+            "12971631-2eec-4794-8a30-bd0d1c13cf58"
+        ]
+    },
     "cda990b2-83bb-5692-3b6d-8bb15fcb90db": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -5070,6 +5848,16 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Monsters/Rounded/Penguin/SK_Ball_Penguin.scene.nasset/SK Ball Penguin.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "cedf4a77-d846-6c83-bc88-5da9103218fd": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Secondary.meshskin.nasset",
+        "dependencies": [
+            "daacb7a6-e3a3-2406-f045-45a780838279",
+            "265d1a29-d656-a2e5-7771-8fe8e116e427",
+            "62574fa5-02df-da40-1a07-4f8fd2213aba"
+        ]
+    },
     "cf2d7841-7b05-4b90-84c1-f701241d98f1": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -5098,6 +5886,13 @@
         "dependencies": [
             "52b0dc0f-4757-0a7e-b5ff-13028d3ae54c",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "cfba4e72-8590-46c0-7f83-c854c1ac4f0d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Snapper/Material Instances/Snapper Belly.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "d02912e8-920e-5952-57e0-7e7a6a776ae5": {
@@ -5163,6 +5958,28 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Thumbnails/Blue 700.mtli.nasset.tex.nasset"
     },
+    "d2d15041-1591-3c04-42fc-0c86f862b8fa": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Secondary.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "02dd2e1c-af1e-a70b-f7a1-62256767658d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d3005a14-3011-b4a5-d916-50627d2062c6": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Beak.meshskin.nasset",
+        "dependencies": [
+            "80b66372-ae43-fa9c-a94c-ba7ab5963575",
+            "265d1a29-d656-a2e5-7771-8fe8e116e427",
+            "ac2b7001-7062-a24a-7612-2e553ca7d90f"
+        ]
+    },
     "d3c92672-9d37-ecc7-3f78-0cfaa2590b90": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -5173,6 +5990,16 @@
         "dependencies": [
             "612482df-ad57-3456-6fc0-8fd0e0a46cc4",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d3f00be8-b2bc-3fce-c2fa-bce5e66c5958": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Belly.meshskin.nasset",
+        "dependencies": [
+            "f638900e-7335-a4bb-9c4a-7f0d77a9bd72",
+            "fba9d5de-3e54-7227-fb4d-45cb02fc69d5",
+            "cfba4e72-8590-46c0-7f83-c854c1ac4f0d"
         ]
     },
     "d3f3631a-c1a2-60eb-d2f2-0fa03bfdb023": {
@@ -5193,6 +6020,41 @@
         "thumbnail": "ba87fa94-3822-0d76-81c5-f75c9fc1f987",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "d41bcbff-78b9-6467-1e93-b3604d5a15c9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "6ccd44eb-9d4b-c0a2-2383-b713c9966de4",
+            "1a1043f6-94dc-cfcd-721e-b5cea5601e71",
+            "fc07b9b6-5a51-e8ca-171e-d09451d477e1",
+            "cfba4e72-8590-46c0-7f83-c854c1ac4f0d",
+            "f638900e-7335-a4bb-9c4a-7f0d77a9bd72",
+            "d3f00be8-b2bc-3fce-c2fa-bce5e66c5958",
+            "7a517bd4-d8fc-ec95-47ff-2f38d85beb41",
+            "868c14a2-44df-60db-a3f2-651cf0fafe78",
+            "a76138bc-3850-73e6-a5dc-e5df68df3f30",
+            "c0c1ee16-8f5a-b0f8-d1dc-59f413c1d5bc",
+            "c16ca5c6-2149-6228-7ee1-7d873763c022",
+            "84b1f066-8970-f924-1298-f4b4334311e5",
+            "dfdf01d0-dde0-d2fd-2b2e-aad2f747e0ab",
+            "6dd2217c-91d4-8926-540e-f5c746aaa901",
+            "14b0637f-05be-7242-8630-a6d01a97a473",
+            "510ecd4e-9e27-0e13-6dd7-026019296f8d",
+            "0da20ae6-cccb-28a8-22a2-9dbdb09e4dbd",
+            "df6d26d9-07e1-090d-6217-de55ca98477b",
+            "793c6a70-4969-f8d8-e862-721b1ccf5d02",
+            "b2ebfbc6-d39a-42ca-893c-d10551e874a3",
+            "39e06ae1-2ccd-45ba-a962-899aa7d61436",
+            "f7ec8e00-4246-479f-a3c4-6059bc4e8d88",
+            "027476d5-faf1-435f-9fd4-8a6c316c05fe",
+            "d53eb050-dbeb-43d6-84c6-60dd996099e1",
+            "6d512e35-97be-41d3-a565-505b3560a079"
         ]
     },
     "d53eb050-dbeb-43d6-84c6-60dd996099e1": {
@@ -5291,6 +6153,18 @@
             "4b6af2ca-144e-c3ba-6fef-7d913f35c3e6"
         ]
     },
+    "daacb7a6-e3a3-2406-f045-45a780838279": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Secondary.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "62574fa5-02df-da40-1a07-4f8fd2213aba",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "db74d506-121b-3205-0a45-b703931cfdca": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -5335,6 +6209,18 @@
             "a0d432e3-02c5-5604-6d96-e7316c05544c",
             "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480",
             "1789de8e-96df-face-7b3c-6e9e4a8837e2"
+        ]
+    },
+    "dd22f2e7-b34a-1c81-2ce8-886f97232d1f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Lace Rings.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e06afe4b-9e14-5569-8b5b-f5078b283377",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "dda0686c-bec9-a968-7a9e-8f2208623753": {
@@ -5416,6 +6302,13 @@
             "bc6c4d4b-a05b-6e71-5d0f-7689c128925b"
         ]
     },
+    "deb2c41c-ff70-4911-9d32-c0619e4be19f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Teddy/Material Instances/Yeti Eye Black.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "debbd74c-8411-427d-b37f-c27dfd0fa41a": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -5437,12 +6330,29 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "df6d26d9-07e1-090d-6217-de55ca98477b": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Eye Black.meshskin.nasset",
+        "dependencies": [
+            "0da20ae6-cccb-28a8-22a2-9dbdb09e4dbd",
+            "fba9d5de-3e54-7227-fb4d-45cb02fc69d5",
+            "510ecd4e-9e27-0e13-6dd7-026019296f8d"
+        ]
+    },
     "df8e8066-56c4-48b4-77a7-daa33798c55b": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Monsters/Big/Hanzo/SK_Hanzo.scene.nasset/SK_Hanzo.scene.nasset",
         "dependencies": [
             "54026ee9-c279-9f4c-d4f3-dcbde89a4a5f"
+        ]
+    },
+    "dfdf01d0-dde0-d2fd-2b2e-aad2f747e0ab": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Snapper/Material Instances/Snapper Eye White.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "dfe65151-24af-4a96-8270-d175daa9a3d1": {
@@ -5457,6 +6367,13 @@
         "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
         "path": "Package.nplugin",
         "name": "Character Zoo Assets"
+    },
+    "e06afe4b-9e14-5569-8b5b-f5078b283377": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Uglee/Material Instances/Lace Rings.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "e10aa381-ab95-4842-90c1-325896139ee5": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -5496,7 +6413,8 @@
         "path": "Assets/Characters/Heist/Hazmat.scene.nasset",
         "thumbnail": "cc01505d-881b-4f92-a7e7-ece621731365",
         "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
             "f07a06e6-2918-ffb8-7886-1c8e3caa907e"
@@ -5524,6 +6442,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "e4a753d5-0a00-1fc9-e07e-26de279a40ae": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Misc/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a2d66a82-e2c7-e70f-1bf3-f3d9cb02ac0a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "e4fdd384-b502-f096-981b-125d58ba4508": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -5532,6 +6462,18 @@
             "bc5c9a35-33bd-3308-fc63-7619fadd6d34",
             "07e0879b-248d-6d8c-9893-63c1adc8c200",
             "b92a4cca-a945-5d92-7cdb-afd2b936427d"
+        ]
+    },
+    "e610081e-8f74-9a05-4b54-eef6d4b28cb6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Misc/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien Stripe.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2ac34ad7-d032-06a4-98d0-e4b078b536ec",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "e6b9afdb-2929-4608-b6e0-95383edffcd7": {
@@ -5568,6 +6510,16 @@
         "path": "Assets/Characters/Dinosaurs/Triceratops/Triceratops_Walk.anim.nasset",
         "dependencies": [
             "add9eeac-039d-8c56-5381-6e886b6b3b0e"
+        ]
+    },
+    "e7959682-63ff-8308-839f-4a7fd570263e": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Eye Black.meshskin.nasset",
+        "dependencies": [
+            "6b97deaa-daeb-eb94-d565-de79d0eef337",
+            "fc602d62-9b9b-bc62-ad31-49cdbfefbab6",
+            "deb2c41c-ff70-4911-9d32-c0619e4be19f"
         ]
     },
     "e7b304e7-64b0-3ad4-ae5b-3bcb763e55bf": {
@@ -5619,6 +6571,13 @@
             "3c728aeb-ffa3-feb9-efb4-1308c9ec4957"
         ]
     },
+    "e91f5e4b-cf85-50aa-d0f5-2364a828cdb5": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Monsters/Big/Uglee/Material Instances/Shoe Blue.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "e96492a8-7f81-969e-ad35-3444f5d4e31d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -5663,7 +6622,8 @@
         "path": "Assets/Characters/Mechs/Gwart/Gwart.scene.nasset",
         "thumbnail": "a97f6f7a-37db-4e2f-acc0-0205f05e178f",
         "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
             "29856867-3020-e013-c2ff-0a58611ef83b"
@@ -5705,6 +6665,16 @@
         "dependencies": [
             "5d458fc9-d257-7b83-bae1-34d4170cced2",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ed98e637-6acf-90d9-84b8-005c508a12b3": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Misc/Alien/SK_Rogue.scene.nasset/SK Alien.mesh.nasset/SK Alien Eyes.meshskin.nasset",
+        "dependencies": [
+            "32daad25-9a06-13a9-54ca-698faaf1a9cf",
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc",
+            "021f33b9-9a73-6796-799a-78cdbca206fb"
         ]
     },
     "edd3849f-6c09-b06d-ad53-354c61ea972f": {
@@ -5752,7 +6722,8 @@
         "path": "Assets/Characters/Voxel/Danny/Danny.scene.nasset",
         "thumbnail": "bde27d7b-9d9f-4e3e-993f-20f67513ee33",
         "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
             "b8bf7aa5-05e6-b5e1-8022-e3d399ea6786"
@@ -5815,6 +6786,10 @@
             "fec32bda-a322-95d7-c053-183da76a678e",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "f1e8f9de-a20d-4c45-a0e7-dab43a0c0eb4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Misc/Alien/Thumbnails/Rogue.scene.nasset.tex.nasset"
     },
     "f207aea0-315e-6d11-6942-57377279724f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -5934,6 +6909,18 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "f638900e-7335-a4bb-9c4a-7f0d77a9bd72": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Belly.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "cfba4e72-8590-46c0-7f83-c854c1ac4f0d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "f64ca87a-380c-c3f9-ded2-8680aae47c1c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Thumbnails/Purple 700.mtli.nasset.tex.nasset"
@@ -6010,6 +6997,14 @@
             "793c6a70-4969-f8d8-e862-721b1ccf5d02"
         ]
     },
+    "f8385ce4-8cd2-4237-b5b2-dec2fad400d6": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Misc/Alien/Rogue_Jump_End.anim.nasset",
+        "dependencies": [
+            "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
+        ]
+    },
     "f8436fe5-1285-4eb4-a20a-def13fb73dbb": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -6036,7 +7031,8 @@
         "path": "Assets/Characters/Mechs/George/George.scene.nasset",
         "thumbnail": "63c6c76a-191a-41d2-bf67-06ac6d02c08d",
         "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
             "3e66a21b-1adc-25ba-1991-d4f080d5529d"
@@ -6050,6 +7046,18 @@
             "fce65377-c3ef-58a8-1cd8-3429c237031f",
             "d2579157-f78f-07e4-7de4-bac976c28095",
             "91140d2e-c27a-bfce-fe42-6b8b96c725cc"
+        ]
+    },
+    "fa74fe9b-1394-4b72-8e04-712c333bed45": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Monsters/Big/Snapper/Snapper.scene.nasset",
+        "thumbnail": "c9e6ecf3-1c52-46a9-80db-486a11ab7e4e",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "d41bcbff-78b9-6467-1e93-b3604d5a15c9"
         ]
     },
     "fb3d77a8-ef1e-47c5-9cc1-117a726ecfbe": {
@@ -6080,6 +7088,16 @@
             "4800f907-0369-c130-7166-3377b9a4dbeb",
             "125cd8a8-6a61-0b44-61b0-ea6c323702e8",
             "b32a8085-7597-1186-0ddb-9910bbb3c542"
+        ]
+    },
+    "fc07b9b6-5a51-e8ca-171e-d09451d477e1": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Main.meshskin.nasset",
+        "dependencies": [
+            "1a1043f6-94dc-cfcd-721e-b5cea5601e71",
+            "fba9d5de-3e54-7227-fb4d-45cb02fc69d5",
+            "6ccd44eb-9d4b-c0a2-2383-b713c9966de4"
         ]
     },
     "fc46e49f-7ded-b28d-0524-ef3720470407": {

@@ -1,0 +1,224 @@
+{
+    "guid": "abc6f9bb-d521-dda2-87bd-9986bd3abb80",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "31f70eec-e30d-103f-7eca-73280b65539c",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "355a724e-71b7-6257-1348-07c6c93547ef",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Alien Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "ad136c8a-7c2e-bbb9-23cb-0d1c5df4e94f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "8175fb05-a646-4913-96b1-707b84d6dc9e",
+                                "c6de8e32-32b1-43c2-bd0e-2b0306525c53",
+                                "14dc563a-b9f1-4793-a25c-05ab487fdd1f"
+                            ],
+                            "jump_animations": [
+                                "a25cff00-66dc-4ecb-b821-2dfcfb24ad83",
+                                "94ccc4b9-58cc-4a11-a6f6-31fdf8d755d5",
+                                "f8385ce4-8cd2-4237-b5b2-dec2fad400d6"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "c84079e1-7c93-df17-7928-7fb8c16b1912",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Alien Stripe"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e610081e-8f74-9a05-4b54-eef6d4b28cb6",
+                                "material_instance": "2ac34ad7-d032-06a4-98d0-e4b078b536ec"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "3dbe4828-f902-f182-2202-65374cdf737a"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "3fd220ba-b6ba-fd43-282f-c396dd5ba06a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Alien Body"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c0774a30-9007-0014-842d-ca4b294017df",
+                                "material_instance": "48d0d3f5-399e-f04f-eba7-4cb7df44d1ed"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "b4eb0057-db41-0520-c2af-40a7543ea4d6"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d6ec5891-3f01-8d67-c037-08fefd4d75b4",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Alien Nails"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "50f5822f-5fcf-157d-9393-eb6410a99231",
+                                "material_instance": "617630b0-1ca8-98df-caee-21d056fcc01a"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "8346d8de-ea36-834b-ebe6-40985c788507"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "cab85bd9-d9ba-682c-ebfe-ab43de9e3f29",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Alien White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ba37628f-765a-fbaf-039b-89c08fbcded6",
+                                "material_instance": "2c4448e2-7d5d-e5a7-6c41-3715fc971646"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "12b4b7cc-d553-7d13-cdac-441c42a062c5"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "40b98f6c-a77c-f79a-da61-ecf507c914f8",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Alien Eyes"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "32daad25-9a06-13a9-54ca-698faaf1a9cf",
+                                "material_instance": "021f33b9-9a73-6796-799a-78cdbca206fb"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "ed98e637-6acf-90d9-84b8-005c508a12b3"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "3bbed8f8-a8ac-2fe1-e08b-3c1f1bb29d51",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Alien Glass"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e4a753d5-0a00-1fc9-e07e-26de279a40ae",
+                                "material_instance": "a2d66a82-e2c7-e70f-1bf3-f3d9cb02ac0a"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "3d9278df-7c2a-0c07-13d6-bf3129aefdee"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "abc6f9bb-d521-dda2-87bd-9986bd3abb80"
+    },
+    "dependencies": [
+        "2ac34ad7-d032-06a4-98d0-e4b078b536ec",
+        "e610081e-8f74-9a05-4b54-eef6d4b28cb6",
+        "3dbe4828-f902-f182-2202-65374cdf737a",
+        "48d0d3f5-399e-f04f-eba7-4cb7df44d1ed",
+        "c0774a30-9007-0014-842d-ca4b294017df",
+        "b4eb0057-db41-0520-c2af-40a7543ea4d6",
+        "617630b0-1ca8-98df-caee-21d056fcc01a",
+        "50f5822f-5fcf-157d-9393-eb6410a99231",
+        "8346d8de-ea36-834b-ebe6-40985c788507",
+        "2c4448e2-7d5d-e5a7-6c41-3715fc971646",
+        "ba37628f-765a-fbaf-039b-89c08fbcded6",
+        "12b4b7cc-d553-7d13-cdac-441c42a062c5",
+        "021f33b9-9a73-6796-799a-78cdbca206fb",
+        "32daad25-9a06-13a9-54ca-698faaf1a9cf",
+        "ed98e637-6acf-90d9-84b8-005c508a12b3",
+        "a2d66a82-e2c7-e70f-1bf3-f3d9cb02ac0a",
+        "e4a753d5-0a00-1fc9-e07e-26de279a40ae",
+        "3d9278df-7c2a-0c07-13d6-bf3129aefdee",
+        "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc",
+        "8175fb05-a646-4913-96b1-707b84d6dc9e",
+        "c6de8e32-32b1-43c2-bd0e-2b0306525c53",
+        "14dc563a-b9f1-4793-a25c-05ab487fdd1f",
+        "a25cff00-66dc-4ecb-b821-2dfcfb24ad83",
+        "94ccc4b9-58cc-4a11-a6f6-31fdf8d755d5",
+        "f8385ce4-8cd2-4237-b5b2-dec2fad400d6"
+    ]
+}

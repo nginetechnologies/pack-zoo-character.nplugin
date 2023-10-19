@@ -4,7 +4,10 @@
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 1024.0
     },
-    "tags": ["7f567180-238f-4a1b-bcbf-fcd740c8a9ea"],
+    "tags": [
+        "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+        "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+    ],
     "data_components": [
         {
             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -174,7 +177,7 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "632fac2a-1392-40aa-b838-ba0b67255efd"
     },
-    "thumbnailGuid": "b29e7dd0-99d7-422c-a68f-43adc16aed01",
+    "thumbnailGuid": "1c0e0482-4a4a-4af6-8364-566e84f59e53",
     "dependencies": [
         "a2e3f6da-7d05-695f-2187-12088a16e0ec"
     ]

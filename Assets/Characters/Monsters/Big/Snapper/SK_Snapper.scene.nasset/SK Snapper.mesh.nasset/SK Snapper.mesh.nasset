@@ -1,0 +1,224 @@
+{
+    "guid": "d41bcbff-78b9-6467-1e93-b3604d5a15c9",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "ee199ee0-8f00-06cd-24f2-ee471a02d38a",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "82db3a61-96a5-d995-757c-095fba49e16f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Snapper Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "48b8b506-c1aa-0ed1-6151-b8965174764f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "b2ebfbc6-d39a-42ca-893c-d10551e874a3",
+                                "39e06ae1-2ccd-45ba-a962-899aa7d61436",
+                                "f7ec8e00-4246-479f-a3c4-6059bc4e8d88"
+                            ],
+                            "jump_animations": [
+                                "027476d5-faf1-435f-9fd4-8a6c316c05fe",
+                                "d53eb050-dbeb-43d6-84c6-60dd996099e1",
+                                "6d512e35-97be-41d3-a565-505b3560a079"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "ba8e8c7e-99ff-041e-61ff-12a500419b32",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Snapper Snapper Main"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "1a1043f6-94dc-cfcd-721e-b5cea5601e71",
+                                "material_instance": "6ccd44eb-9d4b-c0a2-2383-b713c9966de4"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "fc07b9b6-5a51-e8ca-171e-d09451d477e1"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "ece06c88-03cc-f453-3dd9-d1f1bd0f579c",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Snapper Snapper Belly"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f638900e-7335-a4bb-9c4a-7f0d77a9bd72",
+                                "material_instance": "cfba4e72-8590-46c0-7f83-c854c1ac4f0d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "d3f00be8-b2bc-3fce-c2fa-bce5e66c5958"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "f94e7549-ea7f-e216-7c2e-d69a8189bb8a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Snapper Snapper Mouth"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "868c14a2-44df-60db-a3f2-651cf0fafe78",
+                                "material_instance": "7a517bd4-d8fc-ec95-47ff-2f38d85beb41"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "a76138bc-3850-73e6-a5dc-e5df68df3f30"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "8a763f17-6c75-cc5c-1239-5da0a52cdf1c",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Snapper Snapper Fin"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c16ca5c6-2149-6228-7ee1-7d873763c022",
+                                "material_instance": "c0c1ee16-8f5a-b0f8-d1dc-59f413c1d5bc"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "84b1f066-8970-f924-1298-f4b4334311e5"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "b87463f0-25b1-a824-f060-bb6534570ace",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Snapper Snapper Eye White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "6dd2217c-91d4-8926-540e-f5c746aaa901",
+                                "material_instance": "dfdf01d0-dde0-d2fd-2b2e-aad2f747e0ab"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "14b0637f-05be-7242-8630-a6d01a97a473"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "6122c73b-a93c-0e07-d7a7-53844554e15e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Snapper Snapper Eye Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "0da20ae6-cccb-28a8-22a2-9dbdb09e4dbd",
+                                "material_instance": "510ecd4e-9e27-0e13-6dd7-026019296f8d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "df6d26d9-07e1-090d-6217-de55ca98477b"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "793c6a70-4969-f8d8-e862-721b1ccf5d02"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "d41bcbff-78b9-6467-1e93-b3604d5a15c9"
+    },
+    "dependencies": [
+        "6ccd44eb-9d4b-c0a2-2383-b713c9966de4",
+        "1a1043f6-94dc-cfcd-721e-b5cea5601e71",
+        "fc07b9b6-5a51-e8ca-171e-d09451d477e1",
+        "cfba4e72-8590-46c0-7f83-c854c1ac4f0d",
+        "f638900e-7335-a4bb-9c4a-7f0d77a9bd72",
+        "d3f00be8-b2bc-3fce-c2fa-bce5e66c5958",
+        "7a517bd4-d8fc-ec95-47ff-2f38d85beb41",
+        "868c14a2-44df-60db-a3f2-651cf0fafe78",
+        "a76138bc-3850-73e6-a5dc-e5df68df3f30",
+        "c0c1ee16-8f5a-b0f8-d1dc-59f413c1d5bc",
+        "c16ca5c6-2149-6228-7ee1-7d873763c022",
+        "84b1f066-8970-f924-1298-f4b4334311e5",
+        "dfdf01d0-dde0-d2fd-2b2e-aad2f747e0ab",
+        "6dd2217c-91d4-8926-540e-f5c746aaa901",
+        "14b0637f-05be-7242-8630-a6d01a97a473",
+        "510ecd4e-9e27-0e13-6dd7-026019296f8d",
+        "0da20ae6-cccb-28a8-22a2-9dbdb09e4dbd",
+        "df6d26d9-07e1-090d-6217-de55ca98477b",
+        "793c6a70-4969-f8d8-e862-721b1ccf5d02",
+        "b2ebfbc6-d39a-42ca-893c-d10551e874a3",
+        "39e06ae1-2ccd-45ba-a962-899aa7d61436",
+        "f7ec8e00-4246-479f-a3c4-6059bc4e8d88",
+        "027476d5-faf1-435f-9fd4-8a6c316c05fe",
+        "d53eb050-dbeb-43d6-84c6-60dd996099e1",
+        "6d512e35-97be-41d3-a565-505b3560a079"
+    ]
+}
