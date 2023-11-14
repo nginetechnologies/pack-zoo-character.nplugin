@@ -31,7 +31,8 @@
                     "name": "Player Character"
                 },
                 {
-                    "typeGuid": "be33f822-02f0-4d8b-9553-8f6200b43f83"
+                    "typeGuid": "be33f822-02f0-4d8b-9553-8f6200b43f83",
+                    "actionmap": "B62903BC-05C2-4198-A113-026AC074BB83"
                 }
             ],
             "children": [
