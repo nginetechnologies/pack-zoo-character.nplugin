@@ -1,0 +1,20 @@
+{
+    "source": "A_Rogue_Idle.fbx",
+    "skeleton": "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "8175fb05-a646-4913-96b1-707b84d6dc9e"
+        }
+    ],
+    "guid": "8175fb05-a646-4913-96b1-707b84d6dc9e",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
+    ],
+    "instanceGuid": "a787b4c9-270d-a910-66f3-bc4a79e95a37"
+}

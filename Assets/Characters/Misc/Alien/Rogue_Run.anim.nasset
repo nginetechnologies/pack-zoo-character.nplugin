@@ -1,0 +1,20 @@
+{
+    "source": "A_Rogue_Run.fbx",
+    "skeleton": "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "14dc563a-b9f1-4793-a25c-05ab487fdd1f"
+        }
+    ],
+    "guid": "14dc563a-b9f1-4793-a25c-05ab487fdd1f",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
+    ],
+    "instanceGuid": "54ccd252-9416-9d03-2078-42bb386ba439"
+}

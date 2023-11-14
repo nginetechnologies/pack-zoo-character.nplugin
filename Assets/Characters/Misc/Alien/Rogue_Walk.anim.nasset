@@ -1,0 +1,20 @@
+{
+    "guid": "c6de8e32-32b1-43c2-bd0e-2b0306525c53",
+    "source": "A_Rogue_Walk.fbx",
+    "skeleton": "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "c6de8e32-32b1-43c2-bd0e-2b0306525c53"
+        }
+    ],
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
+    ],
+    "instanceGuid": "6b7f9a74-ac89-a7fe-1624-925b8c6d645d"
+}

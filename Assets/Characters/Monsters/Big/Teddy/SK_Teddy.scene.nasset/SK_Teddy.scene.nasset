@@ -1,0 +1,39 @@
+{
+    "guid": "0aad54cb-2209-aa05-4672-429880665af8",
+    "source": "../SK_Teddy.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "32b30813-cbdc-f9a6-c3d9-fbd1ae6a6f6d",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Teddy"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "97d6fd66-d818-50b8-10d4-9a764da4d60f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Teddy"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "scale": [
+                    0.7499
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c5c54f75-ba7d-aa94-84f4-8ff019b54f53"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "0aad54cb-2209-aa05-4672-429880665af8"
+    },
+    "dependencies": [
+        "c5c54f75-ba7d-aa94-84f4-8ff019b54f53"
+    ]
+}

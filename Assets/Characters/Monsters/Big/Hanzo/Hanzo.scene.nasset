@@ -4,7 +4,10 @@
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 1024.0
     },
-    "tags": ["7f567180-238f-4a1b-bcbf-fcd740c8a9ea"],
+    "tags": [
+        "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+        "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+    ],
     "data_components": [
         {
             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -114,7 +117,6 @@
                         },
                         {
                             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-                            "instanceGuid": "0ccce9d3-39f3-4c75-bc0f-4dc478530e81",
                             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                                 "rotation": [
                                     0.0,
@@ -131,7 +133,7 @@
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": ""
+                                "scene": "54026ee9-c279-9f4c-d4f3-dcbde89a4a5f"
                             },
                             "data_components": [
                                 {
@@ -178,6 +180,6 @@
     },
     "thumbnailGuid": "39dfc81f-b468-4259-ba05-f1a5f2c0cac5",
     "dependencies": [
-        "01672b1c-f6a9-f919-f136-a59c870b280b"
+        "54026ee9-c279-9f4c-d4f3-dcbde89a4a5f"
     ]
 }

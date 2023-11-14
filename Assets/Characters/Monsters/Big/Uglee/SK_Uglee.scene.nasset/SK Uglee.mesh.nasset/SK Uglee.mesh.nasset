@@ -1,0 +1,250 @@
+{
+    "guid": "073a5db1-d2aa-e36f-2a73-7f863363c977",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "63cdd57a-e6c3-a532-715c-c7cb258fbdd3",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "bdc14a58-a577-60f0-4d41-afa8cd11fed2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Uglee Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "d3194fc7-4b9f-6e7b-06df-9bb0fb1c2dd1",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "b2ebfbc6-d39a-42ca-893c-d10551e874a3",
+                                "39e06ae1-2ccd-45ba-a962-899aa7d61436",
+                                "f7ec8e00-4246-479f-a3c4-6059bc4e8d88"
+                            ],
+                            "jump_animations": [
+                                "027476d5-faf1-435f-9fd4-8a6c316c05fe",
+                                "d53eb050-dbeb-43d6-84c6-60dd996099e1",
+                                "6d512e35-97be-41d3-a565-505b3560a079"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "3caa6527-c899-7ea4-ad87-8c8e758d655d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Uglee Secondary"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "daacb7a6-e3a3-2406-f045-45a780838279",
+                                "material_instance": "62574fa5-02df-da40-1a07-4f8fd2213aba"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "cedf4a77-d846-6c83-bc88-5da9103218fd"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "bd7146a5-a937-9a0b-1f8a-5b073831ace7",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Uglee Uglee Main"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "0c1c7403-b05c-1462-6332-67e0058f2684",
+                                "material_instance": "a9d80174-885a-96ff-d0d5-6e19f831aa12"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "4405cefc-2556-6b17-d891-02fd483f9681"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "97ed3ed5-0a6d-a022-98da-b0355d840f0e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Uglee Beak"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "80b66372-ae43-fa9c-a94c-ba7ab5963575",
+                                "material_instance": "ac2b7001-7062-a24a-7612-2e553ca7d90f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "d3005a14-3011-b4a5-d916-50627d2062c6"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "f9961087-292a-f1ed-14b2-880b7557b70e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Uglee Eye Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "40c5005e-0d61-b8c9-a1f1-3be582502871",
+                                "material_instance": "12971631-2eec-4794-8a30-bd0d1c13cf58"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "cd5eca99-0615-ddf1-90df-822034dbf6b6"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "657f6571-ecb8-163b-b06b-98ea82252ec9",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Uglee Shoe Red"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "37836af8-5f3b-ed8c-f60d-469d6f34d34e",
+                                "material_instance": "3d3b8a89-6c1a-d276-1f0b-598e6f734ce5"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "b3142bf9-24e9-122e-0d46-c4f1aacbff78"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "9b7edcab-f0c2-ce6a-404b-ff4487da7efa",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Uglee Shoe Blue"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "b2d23685-4246-62db-f1de-dc57763d41ec",
+                                "material_instance": "e91f5e4b-cf85-50aa-d0f5-2364a828cdb5"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "48dbec17-6250-897c-9ac1-295f516f5011"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "c47cf55f-7fa6-aa7a-089a-011bc83759db",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Uglee Lace Rings"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "dd22f2e7-b34a-1c81-2ce8-886f97232d1f",
+                                "material_instance": "e06afe4b-9e14-5569-8b5b-f5078b283377"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "856bd768-704b-e669-f53c-5ebc6064d04b"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "793c6a70-4969-f8d8-e862-721b1ccf5d02"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "073a5db1-d2aa-e36f-2a73-7f863363c977"
+    },
+    "dependencies": [
+        "62574fa5-02df-da40-1a07-4f8fd2213aba",
+        "daacb7a6-e3a3-2406-f045-45a780838279",
+        "cedf4a77-d846-6c83-bc88-5da9103218fd",
+        "a9d80174-885a-96ff-d0d5-6e19f831aa12",
+        "0c1c7403-b05c-1462-6332-67e0058f2684",
+        "4405cefc-2556-6b17-d891-02fd483f9681",
+        "ac2b7001-7062-a24a-7612-2e553ca7d90f",
+        "80b66372-ae43-fa9c-a94c-ba7ab5963575",
+        "d3005a14-3011-b4a5-d916-50627d2062c6",
+        "12971631-2eec-4794-8a30-bd0d1c13cf58",
+        "40c5005e-0d61-b8c9-a1f1-3be582502871",
+        "cd5eca99-0615-ddf1-90df-822034dbf6b6",
+        "3d3b8a89-6c1a-d276-1f0b-598e6f734ce5",
+        "37836af8-5f3b-ed8c-f60d-469d6f34d34e",
+        "b3142bf9-24e9-122e-0d46-c4f1aacbff78",
+        "e91f5e4b-cf85-50aa-d0f5-2364a828cdb5",
+        "b2d23685-4246-62db-f1de-dc57763d41ec",
+        "48dbec17-6250-897c-9ac1-295f516f5011",
+        "e06afe4b-9e14-5569-8b5b-f5078b283377",
+        "dd22f2e7-b34a-1c81-2ce8-886f97232d1f",
+        "856bd768-704b-e669-f53c-5ebc6064d04b",
+        "793c6a70-4969-f8d8-e862-721b1ccf5d02",
+        "b2ebfbc6-d39a-42ca-893c-d10551e874a3",
+        "39e06ae1-2ccd-45ba-a962-899aa7d61436",
+        "f7ec8e00-4246-479f-a3c4-6059bc4e8d88",
+        "027476d5-faf1-435f-9fd4-8a6c316c05fe",
+        "d53eb050-dbeb-43d6-84c6-60dd996099e1",
+        "6d512e35-97be-41d3-a565-505b3560a079"
+    ]
+}
