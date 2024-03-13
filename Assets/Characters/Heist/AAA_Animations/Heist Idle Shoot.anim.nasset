@@ -1,0 +1,17 @@
+{
+    "source": "A_Heist_Idle_Shoot.fbx",
+    "skeleton": "704dd06d-c505-ee41-1783-77680c7841a4",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "704dd06d-c505-ee41-1783-77680c7841a4"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "1c44d482-439c-4d4c-98c5-ab5d5f8b4aaa"
+        }
+    ],
+    "guid": "1c44d482-439c-4d4c-98c5-ab5d5f8b4aaa",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+}
