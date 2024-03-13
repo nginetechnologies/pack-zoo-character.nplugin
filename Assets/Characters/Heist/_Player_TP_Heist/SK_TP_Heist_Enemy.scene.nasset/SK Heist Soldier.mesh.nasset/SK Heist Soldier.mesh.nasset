@@ -1,0 +1,205 @@
+{
+    "guid": "eaad7556-22d7-54f1-11ec-92223c7804ab",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "b4ab7dbf-5b58-2787-01b9-7423edc12ad6",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "59418825-0898-5026-4156-b448d19ec892",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Heist Soldier Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "66b2f494-3fe8-46bd-fbcd-38304e57caba",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "4030dd5c-ae1f-761c-df03-3cf8c0cd8775",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Heist Soldier Heist Dark Grey"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "2a9e680a-1cea-0725-48df-513511008646",
+                                "material_instance": "385c1fca-fde6-e1f5-3512-cc0dab76c891"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "f1aae16c-9962-ccc6-c210-daba4b36b2f3"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "ea3d25ad-5edb-afa2-9b9a-12af480efa89",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Heist Soldier Heist Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "40585608-5299-55a6-6004-4339d6e46ec3",
+                                "material_instance": "19d53dea-9d5e-991e-cb44-c6fddd71ec75"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "e50b3d86-7229-cc40-d0a0-d5b535585c89"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "1b9d07ad-430f-2721-4bbd-e77cc9d93476",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Heist Soldier Heist Skin"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "154a229b-7007-c1cf-31a3-6ef2e276e53e",
+                                "material_instance": "4a2df8ea-0434-8c34-a23b-fe5a414c9fb1"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "076ef0a3-abc3-2829-0614-08bd5da88db2"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "be272360-4da7-9ff4-146d-81d7c09070e8",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Heist Soldier Heist Green"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ab93cd3e-7f97-8a5f-df0d-a2e316748d8d",
+                                "material_instance": "8ceab018-48dc-097a-167b-ce11cca1d63e"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "80e48a6f-3ee3-5a1a-fcfe-e50731424333"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "582170b4-65bf-318e-e5aa-34e7e4a3d248",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Heist Soldier Heist Pants"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c310de75-6871-6625-6c5e-94bf154b2f8b",
+                                "material_instance": "4b6c6c2f-178c-3ea0-f6de-8603b66839e5"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "115dc2a0-ddce-9001-1f18-39f5d77fff9a"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "ba46e610-eb18-aa20-b74d-46ba3b0f812c",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Heist Soldier Heist Grey"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "35a04b19-bec9-95b2-5ae3-a5cfd91a7956",
+                                "material_instance": "56f0da94-d09e-8011-91bd-8338994011dd"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "72d580b9-ebf8-7549-0e55-176413a2521b"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "0b3d2f7d-cbd7-ef1d-4202-5bc8ec33572f"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "eaad7556-22d7-54f1-11ec-92223c7804ab"
+    },
+    "dependencies": [
+        "385c1fca-fde6-e1f5-3512-cc0dab76c891",
+        "2a9e680a-1cea-0725-48df-513511008646",
+        "f1aae16c-9962-ccc6-c210-daba4b36b2f3",
+        "19d53dea-9d5e-991e-cb44-c6fddd71ec75",
+        "40585608-5299-55a6-6004-4339d6e46ec3",
+        "e50b3d86-7229-cc40-d0a0-d5b535585c89",
+        "4a2df8ea-0434-8c34-a23b-fe5a414c9fb1",
+        "154a229b-7007-c1cf-31a3-6ef2e276e53e",
+        "076ef0a3-abc3-2829-0614-08bd5da88db2",
+        "8ceab018-48dc-097a-167b-ce11cca1d63e",
+        "ab93cd3e-7f97-8a5f-df0d-a2e316748d8d",
+        "80e48a6f-3ee3-5a1a-fcfe-e50731424333",
+        "4b6c6c2f-178c-3ea0-f6de-8603b66839e5",
+        "c310de75-6871-6625-6c5e-94bf154b2f8b",
+        "115dc2a0-ddce-9001-1f18-39f5d77fff9a",
+        "56f0da94-d09e-8011-91bd-8338994011dd",
+        "35a04b19-bec9-95b2-5ae3-a5cfd91a7956",
+        "72d580b9-ebf8-7549-0e55-176413a2521b",
+        "0b3d2f7d-cbd7-ef1d-4202-5bc8ec33572f"
+    ]
+}

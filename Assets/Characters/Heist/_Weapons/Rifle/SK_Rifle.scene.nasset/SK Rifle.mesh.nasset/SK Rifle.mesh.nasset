@@ -1,0 +1,153 @@
+{
+    "guid": "920ba4ea-684f-c9e9-bb5c-0eff318c8eb1",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "c322df9c-43ff-c4ed-6c43-52e9269fe17c",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "6aeb09aa-53b9-dbfd-17e8-729ec91a24a0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Rifle Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "62a446b7-b550-017d-675e-c01edbf4b8b7",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "61d5e7b4-6a1f-3cb9-9663-cae7270780d4",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Rifle Rifle Grey Dark"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "58bf52e0-8dcb-63da-1ed8-a80b8a2bbecf",
+                                "material_instance": "fba99c4d-5f83-f3a8-2768-621ae18bda1e"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "7e4546aa-b33b-5053-f21b-25823a2600b0"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "54582ac2-8d4c-6a00-77e8-a75fbfad1314",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Rifle Rifle Wood"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "84cc7eff-8433-5207-c6a5-5f536ff2fdd5",
+                                "material_instance": "ea93d0a5-1911-c075-03bc-b661a8fb2f4b"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "31c1719f-3238-dfd7-16d7-cd50e1ea6202"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "49cbc35f-924f-ad2f-dda6-a003899f5ef9",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Rifle Rifle Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "cadbd806-82b5-73f0-a027-6925b73a8bcf",
+                                "material_instance": "5a530046-5f80-97dd-bf75-d20d99a8eeca"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "9754b864-4784-e6ec-d502-2c9f6b3f98ed"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "1fa0d92d-1b56-8c84-30ad-68244ac2cace",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Rifle Rifle Grey"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "feec6449-8ef5-1152-a858-24c667b9d1a0",
+                                "material_instance": "6a039ba4-d2fe-7169-4f06-dcce2ca24fd5"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "d0728d68-50ec-4574-a6a2-4504c4575f26"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "dad7e293-b162-9581-a8f7-723ad19d54c9"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "920ba4ea-684f-c9e9-bb5c-0eff318c8eb1"
+    },
+    "dependencies": [
+        "fba99c4d-5f83-f3a8-2768-621ae18bda1e",
+        "58bf52e0-8dcb-63da-1ed8-a80b8a2bbecf",
+        "7e4546aa-b33b-5053-f21b-25823a2600b0",
+        "ea93d0a5-1911-c075-03bc-b661a8fb2f4b",
+        "84cc7eff-8433-5207-c6a5-5f536ff2fdd5",
+        "31c1719f-3238-dfd7-16d7-cd50e1ea6202",
+        "5a530046-5f80-97dd-bf75-d20d99a8eeca",
+        "cadbd806-82b5-73f0-a027-6925b73a8bcf",
+        "9754b864-4784-e6ec-d502-2c9f6b3f98ed",
+        "6a039ba4-d2fe-7169-4f06-dcce2ca24fd5",
+        "feec6449-8ef5-1152-a858-24c667b9d1a0",
+        "d0728d68-50ec-4574-a6a2-4504c4575f26",
+        "dad7e293-b162-9581-a8f7-723ad19d54c9"
+    ]
+}

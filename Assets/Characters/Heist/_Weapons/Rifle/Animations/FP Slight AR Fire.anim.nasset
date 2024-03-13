@@ -1,0 +1,20 @@
+{
+    "source": "A_TP_Slight_AR_Fire.fbx",
+    "skeleton": "dad7e293-b162-9581-a8f7-723ad19d54c9",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "dad7e293-b162-9581-a8f7-723ad19d54c9"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "cab2b54b-ca3f-4d79-b0c2-1b6d196dca2c"
+        }
+    ],
+    "guid": "cab2b54b-ca3f-4d79-b0c2-1b6d196dca2c",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "dad7e293-b162-9581-a8f7-723ad19d54c9"
+    ]
+}

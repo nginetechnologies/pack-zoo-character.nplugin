@@ -1,0 +1,20 @@
+{
+    "source": "A_FP_Fire_Empty.fbx",
+    "skeleton": "5aaeb590-2bb2-2171-71ae-c2dd228d0437",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "5aaeb590-2bb2-2171-71ae-c2dd228d0437"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "bb6450e6-3aad-4ca4-aa31-ef5b4cb5c3d4"
+        }
+    ],
+    "guid": "bb6450e6-3aad-4ca4-aa31-ef5b4cb5c3d4",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "5aaeb590-2bb2-2171-71ae-c2dd228d0437"
+    ]
+}

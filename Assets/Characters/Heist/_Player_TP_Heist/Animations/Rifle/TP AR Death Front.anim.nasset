@@ -1,0 +1,20 @@
+{
+    "source": "A_TP_AR_Death_Front.fbx",
+    "skeleton": "0b3d2f7d-cbd7-ef1d-4202-5bc8ec33572f",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "0b3d2f7d-cbd7-ef1d-4202-5bc8ec33572f"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "1b50d950-4b39-42d7-bb06-95f75bc3099d"
+        }
+    ],
+    "guid": "1b50d950-4b39-42d7-bb06-95f75bc3099d",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "0b3d2f7d-cbd7-ef1d-4202-5bc8ec33572f"
+    ],
+    "instanceGuid": "03194231-bd63-c4b6-740d-9e4ee57cafe2"
+}

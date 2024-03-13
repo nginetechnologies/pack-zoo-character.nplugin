@@ -1,0 +1,101 @@
+{
+    "guid": "6fc7bede-88d2-9ad2-d659-e6ae4c02335a",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "5989871a-92fe-97c9-df37-754f070dd918",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "903705fc-8fa0-c4fb-fced-2d3d3cd6999f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Heist FP Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "65f37b9f-9da3-52ce-4c49-a040297117ec",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "8bcbe2af-5512-50e9-75a0-2006e43c0a0d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Heist FP FP Skin"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "8ff7a458-a8c2-8718-49f9-232e514d5dcf",
+                                "material_instance": "6ef6761b-21e2-6b74-a882-a77377d98a34"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "7bed2fe8-dfaf-e1b4-8446-55656eb375fa"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "fc476fa5-4cc4-d484-b881-1e80f1d280e0",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Heist FP FP Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "1cf3e7a2-1232-1233-d147-14e030b08fbe",
+                                "material_instance": "085394d6-73ac-032d-17dd-02b55d053d16"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "e91b54ba-4f2b-3c71-26bb-cd002720ab6d"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "5aaeb590-2bb2-2171-71ae-c2dd228d0437"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "6fc7bede-88d2-9ad2-d659-e6ae4c02335a"
+    },
+    "dependencies": [
+        "6ef6761b-21e2-6b74-a882-a77377d98a34",
+        "8ff7a458-a8c2-8718-49f9-232e514d5dcf",
+        "7bed2fe8-dfaf-e1b4-8446-55656eb375fa",
+        "085394d6-73ac-032d-17dd-02b55d053d16",
+        "1cf3e7a2-1232-1233-d147-14e030b08fbe",
+        "e91b54ba-4f2b-3c71-26bb-cd002720ab6d",
+        "5aaeb590-2bb2-2171-71ae-c2dd228d0437"
+    ]
+}

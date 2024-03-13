@@ -1,0 +1,393 @@
+{
+    "guid": "43c5fc0d-7b52-4a4d-8942-91fed2221c0c",
+    "typeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+    "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
+        "radius": 4096.0
+    },
+    "tags": [
+        "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+        "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+    ],
+    "instanceGuid": "3db6c628-e045-1787-4e28-d47f7e755cea",
+    "children": [
+        {
+            "typeGuid": "833c816f-01ae-4bc4-bf0b-0264becdf14e",
+            "instanceGuid": "28188dcb-a863-7c0a-9334-98dd8664f206",
+            "10bc2a29-2131-447a-8a66-43742c106bdf": {
+                "jumpHeight": 1.4,
+                "walkingSpeed": 4.0,
+                "runningSpeed": 7.0,
+                "walkingTurnSpeed": 3.0,
+                "runningTurnSpeed": 5.5,
+                "sprintAnalogThreshold": 0.75,
+                "movementPlaneNormal": [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "audio_fire" : "0ab8f42f-10d0-6bde-373b-0282ae2f6751",
+                "audio_fireempty" : "791297f6-0c21-5135-b11d-5ec70b212f8d",
+                "audio_casing" : "33989518-b7a5-dfe8-c849-87b63efee8ab",
+                "audio_reload" : "232aa15d-a653-a0ec-d474-e41bd94e386d",
+                "audio_impact" : "71a79367-6faf-c987-4c54-8787f07b8715",
+                "audio_aimin" : "30566fa4-8b33-33d5-191f-d24c17708adf",
+                "audio_jump" : "eaa5b70f-09e7-be62-9cad-9d8e96bb95cb",
+                "audio_land" : "7dbba5d2-fb97-0d98-3546-63b469273eed",
+                "audio_walk" : "109d6ed7-faf1-af50-d1fc-e53db9e81990",
+                "audio_footStepDelay" : 0.9,
+                "material_shoot_decal": "a4ad0af5-beb6-497f-8fbf-50b2e4ee5b47",
+                "flags": 2
+            },
+            "data_components": [
+                {
+                    "typeGuid": "be33f822-02f0-4d8b-9553-8f6200b43f83",
+                    "actionmap": "07be4f44-6aa2-412b-83de-12c0e01e8f01"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "28188dcb-a863-7c0a-9334-98dd8664f206"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Player Character"
+                },
+                 {
+                    "typeGuid": "ee97e36e-3e03-45ba-9bd2-8734e32dcb8e",
+                    "maximum": 100,
+                    "minimum": 0
+                },
+                {
+                    "typeGuid": "87a8c14a-291b-4d8f-9bf7-69d2d290c2aa"
+                },
+                {
+                    "typeGuid": "194FFAFF-AB13-464A-AE69-788646258B9F",
+                    "duration": 120
+                },
+                {
+                    "typeGuid": "72576fe4-21fa-44b5-af80-635b2e9412f2"
+                },
+                {
+                    "typeGuid": "7c95b5c9-a877-444d-b63b-b2169e889293"
+                },
+                {
+                    "typeGuid": "223c3cd4-ce54-4627-87f9-b6f27edb5311"
+                },
+                {
+                    "typeGuid": "6b94a270-d264-4a7a-b019-58c83b995f2c"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "1d21d79c-5708-46c9-8e57-ee9e86476b80",
+                    "instanceGuid": "288fe52e-4d42-2859-9ee8-11f66cdb02b7",
+                    "1d21d79c-5708-46c9-8e57-ee9e86476b80": {
+                        "maxWalkableAngle": 50.0,
+                        "maxGroundAngle": 50.0,
+                        "accelStrength": 30.0,
+                        "inAirControl": 0.0399,
+                        "stepUpHeight": 0.5,
+                        "stepUpSpeed": 2.0,
+                        "stepDownSpeed": 1.0,
+                        "colliderHeightAboveGround": 0.2
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "288fe52e-4d42-2859-9ee8-11f66cdb02b7"
+                        },
+                        {
+                            "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                            "mask": [
+                                "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+                            ]
+                        },
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Character Physics"
+                        },
+                        {
+                            "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                            "type": 2,
+                            "layer": 1,
+                            "body_flags": 12,
+                            "maximumAngularVelocity": 2700.0,
+                            "overriddenMass": 80.0,
+                            "gravityScale": 1.0
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "b0ec7111-5de9-4039-bee2-d915f63f929e",
+                            "instanceGuid": "efa98219-9dcd-0646-2b7e-b2e51b21e022",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    0.0,
+                                    0.0,
+                                    0.6
+                                ]
+                            },
+                            "b0ec7111-5de9-4039-bee2-d915f63f929e": {
+                                "fieldOfView": 60.0,
+                                "nearPlane": 0.01,
+                                "farPlane": 128.0
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "efa98219-9dcd-0646-2b7e-b2e51b21e022"
+                                },
+                                {
+                                    "typeGuid": "bb014790-6702-495a-bd47-265420ca2f87",
+                                    "minPitchAngle": -60.0,
+                                    "maxPitchAngle": 60.0,
+                                    "rotationVelocity": [
+                                        1.0
+                                    ]
+                                },
+                                {
+                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                                },
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Camera"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                                    "instanceGuid": "cf21913b-891c-f60b-fd68-6a5018ce35b6",
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "rotation": [
+                                            0.0,
+                                            -0.0,
+                                            -180.0
+                                        ],
+                                        "scale": [
+                                            0.66
+                                        ]
+                                    },
+                                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                                        "skeleton": "ebbcf2a3-1268-172d-628a-79cef0a1013d"
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                            "templateInstanceGuid": "cf21913b-891c-f60b-fd68-6a5018ce35b6"
+                                        },
+                                        {
+                                            "typeGuid": "AD206980-8F37-4D45-971E-DD3A4F78791F",
+                                            "move_animations": [
+                                                "9c6adfe7-5650-46f2-beb5-0184b16c3ce4",
+                                                "bf28bd5e-c139-4d08-a405-95f619034e23",
+                                                "6bcd03b0-4a18-4fa1-bd9b-434c849ae740"
+                                            ],
+                                            "aim_move_animations": [
+                                                "44785ec6-c314-45d4-8b0e-5b2e366e44d3",
+                                                "86504f98-1415-4c29-9fdb-25b4220e0a1e",
+                                                "86504f98-1415-4c29-9fdb-25b4220e0a1e"
+                                            ],
+                                            "aim_in_animation": "a698e40c-0c8c-49f0-b537-96ba86ecb8ee",
+                                            "aim_out_animation": "a513534f-4d40-4a95-8e86-b62fff2824a6",
+                                            "jump_animations": [
+                                                "9c6adfe7-5650-46f2-beb5-0184b16c3ce4"
+                                            ],
+                                            "aim_fire_animation": "44785ec6-c314-45d4-8b0e-5b2e366e44d3",
+                                            "aim_fire_empty_animation": "3cf81f80-d4fb-4809-a354-35f2857bd445",
+                                            "fire_animation": "9e843d54-a0ca-4f88-af58-0c066f217286",
+                                            "fire_empty_animation": "89a3b36c-454d-4bde-a5cc-5325f7ac9939",
+                                            "aim_reload_animation": "8c823c7b-5764-484f-9dc6-724b15c87a44",
+                                            "aim_reload_empty_animation": "d72bb7aa-d38c-4363-9394-c4b25a303d69",
+                                            "reload_animation": "0f4d1ace-e532-4c81-8e57-e79bcad01585",
+                                            "reload_empty_animation": "95d2ae91-d442-4130-84ae-58e42f737a1f"
+                                        },
+                                        {
+                                            "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                                        },
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "Skeleton"
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                                            "instanceGuid": "ded87f41-dbb3-9f46-7bb5-7765a9e1e712",
+                                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                                "stages": [
+                                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                                                ]
+                                            },
+                                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                                "mesh": "c3d32c9e-7266-59a3-fa2f-2a2ca82d811b",
+                                                "material_instance": "6b11ab9d-4fa7-9c98-fd16-5a52568b5d09"
+                                            },
+                                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                                "skin": "44456a5d-a8be-cf26-de79-d2de946c62ed"
+                                            },
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                    "templateInstanceGuid": "ded87f41-dbb3-9f46-7bb5-7765a9e1e712"
+                                                },
+                                                {
+                                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                                                    "mask": [
+                                                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                                                    ]
+                                                },
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "SK Player FP Player FP"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "typeGuid": "5f894dea-bac9-4b62-ab51-291dccd451a0",
+                                            "instanceGuid": "908944db-88f9-d602-2efe-9791d1125bf3",
+                                            "5f894dea-bac9-4b62-ab51-291dccd451a0": {
+                                                "joint": "c3b4899f-b49f-5df6-d0f5-3c9f9e66d1a8"
+                                            },
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                    "templateInstanceGuid": "908944db-88f9-d602-2efe-9791d1125bf3"
+                                                },
+                                                {
+                                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                                                },
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Gun Joint"
+                                                }
+                                            ],
+                                            "children": [
+                                                {
+                                                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                                                    "instanceGuid": "fd5faf6e-e141-017b-66e9-5c0b8c1404ee",
+                                                    "data_components": [
+                                                        {
+                                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                            "templateInstanceGuid": "af63a061-1f5b-ea68-4555-7d203a9754f8"
+                                                        },
+                                                        {
+                                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                            "name": "SK Rifle"
+                                                        }
+                                                    ],
+                                                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                                        "scene": "d07271f2-14ed-14dd-618a-740a4ec7d90b"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+                                    "instanceGuid": "d62ce1a0-3a97-7432-4245-46f8e1159875",
+                                    "ea45accb-89d5-4816-9831-f116045b90e4": {
+                                        "audio_asset": "65b24951-fe8e-4811-b695-f59f18e13d3f",
+                                        "looping": true,
+                                        "volume": 0.8,
+                                        "outer_radius": 50.0
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                            "templateInstanceGuid": "d62ce1a0-3a97-7432-4245-46f8e1159875"
+                                        },
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "Neon Drivers"
+                                        },
+                                        {
+                                            "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "a87d82b2-1cd5-4b81-8103-85248c61d585",
+                            "instanceGuid": "15571404-cce1-3fdb-9495-7b40c6944635",
+                            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7",
+                                "comOffset": [
+                                    0.0
+                                ]
+                            },
+                            "a87d82b2-1cd5-4b81-8103-85248c61d585": {
+                                "radius": 0.25,
+                                "half_height": 0.25
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "15571404-cce1-3fdb-9495-7b40c6944635"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "default_camera": {
+        "position": [
+            -9.7733,
+            -1.8871,
+            4.0152
+        ],
+        "rotation": [
+            -21.9986,
+            -0.0,
+            -79.0237
+        ],
+        "fieldOfView": 60.0,
+        "nearPlane": 0.0098,
+        "farPlane": 128.0
+    },
+    "grid": {
+        "position": [
+            0.0,
+            0.0,
+            -0.5082
+        ],
+        "scale": [
+            -1.0,
+            -1.0,
+            1.0
+        ]
+    },
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "43c5fc0d-7b52-4a4d-8942-91fed2221c0c"
+    },
+    "thumbnailGuid": "499da5a7-97d7-4beb-a96a-7eed4b4ae8d5",
+    "dependencies": [
+        "62145c7a-42ec-6417-4340-337d4a1e48d1"
+    ],
+    "metadata": {
+        "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.000003814697269,\"nearPlane\":0.10000000149011612,\"farPlane\":128.0}",
+        "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[0.5496422052383423,-0.20308151841163636,0.5735653638839722],\"rotation\":[-19.8376407623291,-0.0,56.34820556640625]}"
+    },
+    "type_version": 1,
+    "data_components": [
+        {
+            "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+            "mask": [
+                "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+                "d6a09c51-8ccf-416e-8154-66f9404d2a44",
+                "44456a5d-a8be-cf26-de79-d2de946c62ed"
+            ]
+        },
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Player"
+        }
+    ]
+}
