@@ -1,0 +1,20 @@
+{
+    "source": "A_Anne_Run.fbx",
+    "skeleton": "1f4b1c8d-dfd8-efe6-4930-ee5f68594183",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "06b1c410-90c6-4516-97ab-ba6436baea43"
+        }
+    ],
+    "guid": "06b1c410-90c6-4516-97ab-ba6436baea43",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+    ]
+}

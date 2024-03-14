@@ -1,7 +1,6 @@
 {
-    "guid": "bbda85e2-f811-4eaa-a183-32a5bd688a9d",
+    "guid": "9f00f9ff-ec9c-4f89-992e-9d81a53d234d",
     "typeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-    "instanceGuid": "2a229470-7b66-46ef-a20a-55db3d91abd6",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 4096.0
     },
@@ -12,9 +11,8 @@
     "children": [
         {
             "typeGuid": "ee9e2763-d9a4-479e-89e4-7e6245b84ef7",
-            "instanceGuid": "77853644-5aa9-4e43-9fe5-d05db60d4eca",
             "ee9e2763-d9a4-479e-89e4-7e6245b84ef7": {
-                "droppedWeapon": "f03503a4-874a-4794-b328-d00e852b91ca"
+                "droppedWeapon": ""
             },
             "10bc2a29-2131-447a-8a66-43742c106bdf": {
                 "jumpHeight": 1.0,
@@ -23,15 +21,15 @@
                 "walkingTurnSpeed": 5.0,
                 "runningTurnSpeed": 5.5,
                 "sprintAnalogThreshold": 0.75,
-                "audio_fire": "0ab8f42f-10d0-6bde-373b-0282ae2f6751",
-                "audio_fireempty": "791297f6-0c21-5135-b11d-5ec70b212f8d",
-                "audio_casing": "33989518-b7a5-dfe8-c849-87b63efee8ab",
-                "audio_reload": "232aa15d-a653-a0ec-d474-e41bd94e386d",
-                "audio_impact": "71a79367-6faf-c987-4c54-8787f07b8715",
-                "audio_aimin": "30566fa4-8b33-33d5-191f-d24c17708adf",
-                "audio_jump": "eaa5b70f-09e7-be62-9cad-9d8e96bb95cb",
-                "audio_land": "7dbba5d2-fb97-0d98-3546-63b469273eed",
-                "audio_walk": "109d6ed7-faf1-af50-d1fc-e53db9e81990",
+                "audio_fire": "",
+                "audio_fireempty": "",
+                "audio_casing": "",
+                "audio_reload": "",
+                "audio_impact": "",
+                "audio_aimin": "",
+                "audio_jump": "",
+                "audio_land": "",
+                "audio_walk": "",
                 "audio_footStepDelay": 0.6999,
                 "flags": 2
             },
@@ -58,7 +56,6 @@
             "children": [
                 {
                     "typeGuid": "1d21d79c-5708-46c9-8e57-ee9e86476b80",
-                    "instanceGuid": "7cbb0887-b546-499a-9ce7-1ef6f07d13f4",
                     "1d21d79c-5708-46c9-8e57-ee9e86476b80": {
                         "maxWalkableAngle": 49.9999,
                         "maxGroundAngle": 49.9999,
@@ -91,7 +88,6 @@
                     "children": [
                         {
                             "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-                            "instanceGuid": "8b6abc1c-1fe8-4f0d-8ca2-f4e140af5367",
                             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                                 "position": [
                                     0.0,
@@ -105,7 +101,7 @@
                                 ]
                             },
                             "f6140603-c29e-4bf9-946d-498dba6709ff": {
-                                "skeleton": "b1805d1e-de0c-0527-4f4f-3b890ea09152"
+                                "skeleton": "0b3d2f7d-cbd7-ef1d-4202-5bc8ec33572f"
                             },
                             "data_components": [
                                 {
@@ -122,73 +118,176 @@
                                 {
                                     "typeGuid": "913ede6c-5174-4179-90f8-db1699ad9992",
                                     "move_animations": [
-                                        "cf230eb7-66dd-4943-8e8f-2c2f794e74f9",
-                                        "6e6d8be9-10d5-4770-b043-8bab985ecdee",
-                                        "dd361164-63ca-411c-902c-d83710e7a373"
+                                        "bbd78fcf-3b60-4050-ac6d-bc222331abe9",
+                                        "f97c2cdb-3081-45a9-b2f3-4d27661d527a",
+                                        "c8a0af06-0645-48d5-a469-e9644ba34ef9"
                                     ],
                                     "aim_move_animations": [
-                                        "90e32baf-5719-4354-9e5b-c063f4d8eff3",
-                                        "90e32baf-5719-4354-9e5b-c063f4d8eff3",
-                                        "90e32baf-5719-4354-9e5b-c063f4d8eff3"
+                                        "25f7cf55-4228-4def-99b7-bbd136d50d4c",
+                                        "25f7cf55-4228-4def-99b7-bbd136d50d4c",
+                                        "25f7cf55-4228-4def-99b7-bbd136d50d4c"
                                     ],
-                                    "aim_in_animation": "90e32baf-5719-4354-9e5b-c063f4d8eff3",
-                                    "aim_out_animation": "90e32baf-5719-4354-9e5b-c063f4d8eff3",
+                                    "aim_in_animation": "25f7cf55-4228-4def-99b7-bbd136d50d4c",
+                                    "aim_out_animation": "25f7cf55-4228-4def-99b7-bbd136d50d4c",
                                     "jump_animations": [
-                                        "dd361164-63ca-411c-902c-d83710e7a373"
+                                        "bbd78fcf-3b60-4050-ac6d-bc222331abe9"
                                     ],
-                                    "aim_fire_animation": "90e32baf-5719-4354-9e5b-c063f4d8eff3",
-                                    "aim_fire_empty_animation": "90e32baf-5719-4354-9e5b-c063f4d8eff3",
-                                    "fire_animation": "90e32baf-5719-4354-9e5b-c063f4d8eff3",
-                                    "fire_empty_animation": "90e32baf-5719-4354-9e5b-c063f4d8eff3",
-                                    "aim_reload_animation": "eb6081d4-ba89-4535-a731-c5f432942d9e",
-                                    "aim_reload_empty_animation": "4d91220a-071e-48b9-b8e4-8fa1401ef28c",
-                                    "reload_animation": "eb6081d4-ba89-4535-a731-c5f432942d9e",
-                                    "reload_empty_animation": "4d91220a-071e-48b9-b8e4-8fa1401ef28c",
-                                    "death_backwards_animation": "cf3d25d2-fc78-42bf-9897-2d3e37a3b746",
-                                    "death_forwards_animation": "6d0b1602-6461-4b0e-83aa-5ec3e1dd2f09",
-                                    "death_aiming_animation": "d3e0fe03-67ea-458e-abb6-5f21f67ea1c8"
+                                    "aim_fire_animation": "25f7cf55-4228-4def-99b7-bbd136d50d4c",
+                                    "aim_fire_empty_animation": "25f7cf55-4228-4def-99b7-bbd136d50d4c",
+                                    "fire_animation": "25f7cf55-4228-4def-99b7-bbd136d50d4c",
+                                    "fire_empty_animation": "25f7cf55-4228-4def-99b7-bbd136d50d4c",
+                                    "aim_reload_animation": "25f7cf55-4228-4def-99b7-bbd136d50d4c",
+                                    "aim_reload_empty_animation": "25f7cf55-4228-4def-99b7-bbd136d50d4c",
+                                    "reload_animation": "25f7cf55-4228-4def-99b7-bbd136d50d4c",
+                                    "reload_empty_animation": "25f7cf55-4228-4def-99b7-bbd136d50d4c",
+                                    "death_backwards_animation": "25f7cf55-4228-4def-99b7-bbd136d50d4c",
+                                    "death_forwards_animation": "25f7cf55-4228-4def-99b7-bbd136d50d4c",
+                                    "death_aiming_animation": "25f7cf55-4228-4def-99b7-bbd136d50d4c"
                                 }
                             ],
                             "children": [
                                 {
                                     "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-                                    "instanceGuid": "3faf8221-f514-4655-9419-cd7c30a04d34",
+                                    "instanceGuid": "4030dd5c-ae1f-761c-df03-3cf8c0cd8775",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "SK Heist Soldier Heist Dark Grey"
+                                        }
+                                    ],
                                     "9f750482-b822-4d4b-be6a-9c135c614328": {
                                         "stages": [
-                                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
                                             "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                            "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
                                         ]
                                     },
                                     "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                        "mesh": "f5203aa2-192e-2dfa-9410-f4e86842dc9b",
-                                        "material_instance": "de6e27a7-975c-59c8-75ac-f955f5307fd6"
+                                        "mesh": "2a9e680a-1cea-0725-48df-513511008646",
+                                        "material_instance": "385c1fca-fde6-e1f5-3512-cc0dab76c891"
                                     },
                                     "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
-                                        "skin": "1685779f-52a8-9e7f-3d26-1d18d849d07c"
-                                    },
+                                        "skin": "f1aae16c-9962-ccc6-c210-daba4b36b2f3"
+                                    }
+                                },
+                                {
+                                    "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                                    "instanceGuid": "ea3d25ad-5edb-afa2-9b9a-12af480efa89",
                                     "data_components": [
                                         {
-                                            "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-                                            "mask": [
-                                                "13ca71b8-d868-4f7c-a0bb-c7585db11327"
-                                            ]
-                                        },
-                                        {
-                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                            "templateInstanceGuid": "3faf8221-f514-4655-9419-cd7c30a04d34"
-                                        },
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "SK Heist Soldier Heist Black"
+                                        }
+                                    ],
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "40585608-5299-55a6-6004-4339d6e46ec3",
+                                        "material_instance": "19d53dea-9d5e-991e-cb44-c6fddd71ec75"
+                                    },
+                                    "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                        "skin": "e50b3d86-7229-cc40-d0a0-d5b535585c89"
+                                    }
+                                },
+                                {
+                                    "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                                    "instanceGuid": "1b9d07ad-430f-2721-4bbd-e77cc9d93476",
+                                    "data_components": [
                                         {
                                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                            "name": "SK Player TP Player TP"
+                                            "name": "SK Heist Soldier Heist Skin"
                                         }
-                                    ]
+                                    ],
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "154a229b-7007-c1cf-31a3-6ef2e276e53e",
+                                        "material_instance": "4a2df8ea-0434-8c34-a23b-fe5a414c9fb1"
+                                    },
+                                    "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                        "skin": "076ef0a3-abc3-2829-0614-08bd5da88db2"
+                                    }
+                                },
+                                {
+                                    "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                                    "instanceGuid": "be272360-4da7-9ff4-146d-81d7c09070e8",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "SK Heist Soldier Heist Green"
+                                        }
+                                    ],
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "ab93cd3e-7f97-8a5f-df0d-a2e316748d8d",
+                                        "material_instance": "8ceab018-48dc-097a-167b-ce11cca1d63e"
+                                    },
+                                    "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                        "skin": "80e48a6f-3ee3-5a1a-fcfe-e50731424333"
+                                    }
+                                },
+                                {
+                                    "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                                    "instanceGuid": "582170b4-65bf-318e-e5aa-34e7e4a3d248",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "SK Heist Soldier Heist Pants"
+                                        }
+                                    ],
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "c310de75-6871-6625-6c5e-94bf154b2f8b",
+                                        "material_instance": "4b6c6c2f-178c-3ea0-f6de-8603b66839e5"
+                                    },
+                                    "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                        "skin": "115dc2a0-ddce-9001-1f18-39f5d77fff9a"
+                                    }
+                                },
+                                {
+                                    "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                                    "instanceGuid": "ba46e610-eb18-aa20-b74d-46ba3b0f812c",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "SK Heist Soldier Heist Grey"
+                                        }
+                                    ],
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "35a04b19-bec9-95b2-5ae3-a5cfd91a7956",
+                                        "material_instance": "56f0da94-d09e-8011-91bd-8338994011dd"
+                                    },
+                                    "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                        "skin": "72d580b9-ebf8-7549-0e55-176413a2521b"
+                                    }
                                 },
                                 {
                                     "typeGuid": "5f894dea-bac9-4b62-ab51-291dccd451a0",
-                                    "instanceGuid": "44ce66dc-c68d-4e1c-ae81-ec068ff21e9e",
                                     "5f894dea-bac9-4b62-ab51-291dccd451a0": {
-                                        "joint": "63effba8-cae4-73fe-484c-1ffa38cc97a1"
+                                        "joint": "325a390f-e99c-1b57-e326-c0ad423523e6"
                                     },
                                     "data_components": [
                                         {
@@ -206,7 +305,6 @@
                                     "children": [
                                         {
                                             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-                                            "instanceGuid": "52ebbbe6-8713-43da-a0d1-516635be7223",
                                             "data_components": [
                                                 {
                                                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -214,11 +312,11 @@
                                                 },
                                                 {
                                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                                    "name": "SK AR 1"
+                                                    "name": "SK Rifle"
                                                 }
                                             ],
                                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                                "scene": "d07271f2-14ed-14dd-618a-740a4ec7d90b"
+                                                "scene": "920ba4ea-684f-c9e9-bb5c-0eff318c8eb1"
                                             }
                                         }
                                     ]
@@ -227,7 +325,6 @@
                         },
                         {
                             "typeGuid": "a87d82b2-1cd5-4b81-8103-85248c61d585",
-                            "instanceGuid": "e371d577-cfdd-2dfc-6ddc-9363fa2568cc",
                             "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                                 "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7",
                                 "comOffset": [
@@ -279,46 +376,19 @@
     },
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "bbda85e2-f811-4eaa-a183-32a5bd688a9d"
+        "scene": "9f00f9ff-ec9c-4f89-992e-9d81a53d234d"
     },
     "thumbnailGuid": "c08bb754-347b-41cb-bbb0-a23f9b8f1ad2",
     "dependencies": [
-        "552e3207-6a1b-3703-c8bf-9f5b2f7b04c1",
-        "b1805d1e-de0c-0527-4f4f-3b890ea09152",
-        "0ab8f42f-10d0-6bde-373b-0282ae2f6751",
-        "791297f6-0c21-5135-b11d-5ec70b212f8d",
-        "33989518-b7a5-dfe8-c849-87b63efee8ab",
-        "232aa15d-a653-a0ec-d474-e41bd94e386d",
-        "71a79367-6faf-c987-4c54-8787f07b8715",
-        "30566fa4-8b33-33d5-191f-d24c17708adf",
-        "eaa5b70f-09e7-be62-9cad-9d8e96bb95cb",
-        "7dbba5d2-fb97-0d98-3546-63b469273eed",
-        "109d6ed7-faf1-af50-d1fc-e53db9e81990",
-        "cf230eb7-66dd-4943-8e8f-2c2f794e74f9",
-        "6e6d8be9-10d5-4770-b043-8bab985ecdee",
-        "dd361164-63ca-411c-902c-d83710e7a373",
-        "90e32baf-5719-4354-9e5b-c063f4d8eff3",
-        "90e32baf-5719-4354-9e5b-c063f4d8eff3",
-        "90e32baf-5719-4354-9e5b-c063f4d8eff3",
-        "90e32baf-5719-4354-9e5b-c063f4d8eff3",
-        "90e32baf-5719-4354-9e5b-c063f4d8eff3",
-        "dd361164-63ca-411c-902c-d83710e7a373",
-        "90e32baf-5719-4354-9e5b-c063f4d8eff3",
-        "90e32baf-5719-4354-9e5b-c063f4d8eff3",
-        "90e32baf-5719-4354-9e5b-c063f4d8eff3",
-        "90e32baf-5719-4354-9e5b-c063f4d8eff3",
-        "eb6081d4-ba89-4535-a731-c5f432942d9e",
-        "4d91220a-071e-48b9-b8e4-8fa1401ef28c",
-        "eb6081d4-ba89-4535-a731-c5f432942d9e",
-        "4d91220a-071e-48b9-b8e4-8fa1401ef28c",
-        "f5203aa2-192e-2dfa-9410-f4e86842dc9b",
-        "de6e27a7-975c-59c8-75ac-f955f5307fd6",
-        "1685779f-52a8-9e7f-3d26-1d18d849d07c",
-        "d07271f2-14ed-14dd-618a-740a4ec7d90b",
-        "cf3d25d2-fc78-42bf-9897-2d3e37a3b746",
-        "6d0b1602-6461-4b0e-83aa-5ec3e1dd2f09",
-        "d3e0fe03-67ea-458e-abb6-5f21f67ea1c8",
-        "f03503a4-874a-4794-b328-d00e852b91ca"
+        "920ba4ea-684f-c9e9-bb5c-0eff318c8eb1",
+        "0b3d2f7d-cbd7-ef1d-4202-5bc8ec33572f",
+        "72d580b9-ebf8-7549-0e55-176413a2521b",
+        "56f0da94-d09e-8011-91bd-8338994011dd",
+        "35a04b19-bec9-95b2-5ae3-a5cfd91a7956",
+        "bbd78fcf-3b60-4050-ac6d-bc222331abe9",
+        "f97c2cdb-3081-45a9-b2f3-4d27661d527a",
+        "c8a0af06-0645-48d5-a469-e9644ba34ef9",
+        "25f7cf55-4228-4def-99b7-bbd136d50d4c"
     ],
     "data_components": [
         {

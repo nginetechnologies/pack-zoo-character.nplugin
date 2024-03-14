@@ -27,7 +27,11 @@
     },
     "0108c0ec-62d9-a21b-1906-e58a72c87c77": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Characters/Heist/_Weapons/Rifle/SK_Rifle.scene.nasset/SK_Rifle.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Heist/_Weapons/Rifle/SK_Rifle.scene.nasset/SK_Rifle.scene.nasset",
+        "dependencies": [
+            "920ba4ea-684f-c9e9-bb5c-0eff318c8eb1"
+        ]
     },
     "0130d550-d576-46a1-9632-dd50827e9ab0": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -377,6 +381,24 @@
         "dependencies": [
             "a9d80174-885a-96ff-d0d5-6e19f831aa12",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0c36f40f-444c-40cb-90ae-c591735f60c0": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Heist/AAA_Animations/Heist Punch.anim.nasset"
+    },
+    "0c383c8c-6401-41fb-ab2f-23e21f243c2f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Characters/Heist/_Player_FP_Heist/FP_Shooter.scene.nasset",
+        "thumbnail": "499da5a7-97d7-4beb-a96a-7eed4b4ae8d5",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "62145c7a-42ec-6417-4340-337d4a1e48d1"
         ]
     },
     "0c86023b-da7a-45ac-ad62-09740b9a468b": {
@@ -790,16 +812,6 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
-    "19382527-029a-b0c3-5d7e-f4860532f09b": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Heist/_Player_FP_Heist/SK_Player_FP.scene.nasset/SK Heist FP.mesh.nasset/SK Heist FP FP Black.meshskin.nasset",
-        "dependencies": [
-            "a87ec8a6-a53e-b7fa-bf7a-94d20efd9a42",
-            "9c056094-85f9-41db-154d-b017afca6888",
-            "085394d6-73ac-032d-17dd-02b55d053d16"
-        ]
-    },
     "193903f3-032a-aadc-c77e-99b9b91b56fa": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Nails.mtli.nasset",
@@ -963,6 +975,11 @@
     "1c0e0482-4a4a-4af6-8364-566e84f59e53": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Mechs/Mike/Thumbnails/Mike.scene.nasset.tex.nasset"
+    },
+    "1c44d482-439c-4d4c-98c5-ab5d5f8b4aaa": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Heist/AAA_Animations/Heist Idle Shoot.anim.nasset"
     },
     "1cf3e7a2-1232-1233-d147-14e030b08fbe": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1457,6 +1474,11 @@
             "85c03a10-3ec0-2097-67b0-14f574e95af3"
         ]
     },
+    "2dfc0ffe-4c52-4531-b7e6-81bfe272b7f2": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Heist/_Weapons/Target/Target Up.anim.nasset"
+    },
     "2e085bbf-b51f-3bc6-01b5-7c0383cb282b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Animals/Sheep/Material Instances/Sheep Fur.mtli.nasset",
@@ -1614,6 +1636,11 @@
         "dependencies": [
             "94d419e3-39e8-88eb-70f7-35d7e3b05b79"
         ]
+    },
+    "33ae2cc7-ddcb-406f-b58d-abac359e66f1": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Heist/AAA_Animations/Heist Hit React.anim.nasset"
     },
     "33d66126-bd02-3f2c-ba2b-7892ed00adf0": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -1782,16 +1809,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Modular_Toon/Witch/Material Instances/Thumbnails/Cyan 600.mtli.nasset.tex.nasset"
     },
-    "3a7e51d4-2add-3596-052a-d73caadc29f6": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Heist/_Player_FP_Heist/SK_Player_FP.scene.nasset/SK Heist FP.mesh.nasset/SK Heist FP FP Black.meshskin.nasset",
-        "dependencies": [
-            "46580393-8ab4-b912-863b-5c06fdc5b26b",
-            "e30115ab-e20b-909f-3e67-f5e47613e714",
-            "085394d6-73ac-032d-17dd-02b55d053d16"
-        ]
-    },
     "3a98ae42-46e1-eb69-b2eb-70cc6093bc4b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Mechs/Robot/Material Instances/Black.mtli.nasset",
@@ -1914,7 +1931,11 @@
     },
     "3dbf2145-1376-7f21-258e-09208d2a41a7": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Characters/Heist/_Player_FP_Heist/SK_Player_FP.scene.nasset/SK_Player_FP.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Heist/_Player_FP_Heist/SK_Player_FP.scene.nasset/SK_Player_FP.scene.nasset",
+        "dependencies": [
+            "6fc7bede-88d2-9ad2-d659-e6ae4c02335a"
+        ]
     },
     "3dc053dc-464b-4d4e-89e8-dfc6359cf263": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -2159,7 +2180,11 @@
     },
     "451c3d4f-b750-f4c1-7b54-d877584e80e9": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Characters/Heist/_Player_TP_Heist/SK_TP_Heist_Enemy.scene.nasset/SK_TP_Heist_Enemy.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Heist/_Player_TP_Heist/SK_TP_Heist_Enemy.scene.nasset/SK_TP_Heist_Enemy.scene.nasset",
+        "dependencies": [
+            "eaad7556-22d7-54f1-11ec-92223c7804ab"
+        ]
     },
     "453df314-5a4b-4b29-81e8-bcd188363b0c": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -2203,18 +2228,6 @@
         "path": "Assets/Characters/Mechs/Ronnie/SK_Ronnie.scene.nasset/SK_Ronnie.scene.nasset",
         "dependencies": [
             "ffc24bac-2211-40b0-a6a6-de8f25d3bd97"
-        ]
-    },
-    "46580393-8ab4-b912-863b-5c06fdc5b26b": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Heist/_Player_FP_Heist/SK_Player_FP.scene.nasset/SK Heist FP.mesh.nasset/SK Heist FP FP Black.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "085394d6-73ac-032d-17dd-02b55d053d16",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "46cda11e-d091-4f92-9175-3acb64b2d203": {
@@ -3267,10 +3280,6 @@
             "8a710282-72e0-c192-75a6-ddc2d5525035"
         ]
     },
-    "6ca26487-2aa1-7f42-7719-02aa1193603a": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Characters/Heist/_Player_FP_Heist/SK_Player_FP.scene.nasset/SK_Player_FP.scene.nasset"
-    },
     "6ccd44eb-9d4b-c0a2-2383-b713c9966de4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Monsters/Big/Snapper/Material Instances/Snapper Main.mtli.nasset",
@@ -3387,9 +3396,19 @@
     },
     "6fc7bede-88d2-9ad2-d659-e6ae4c02335a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Heist/_Player_FP_Heist/SK_Player_FP.scene.nasset/SK Heist FP.mesh.nasset/SK Heist FP.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "6ef6761b-21e2-6b74-a882-a77377d98a34",
+            "8ff7a458-a8c2-8718-49f9-232e514d5dcf",
+            "7bed2fe8-dfaf-e1b4-8446-55656eb375fa",
+            "085394d6-73ac-032d-17dd-02b55d053d16",
+            "1cf3e7a2-1232-1233-d147-14e030b08fbe",
+            "e91b54ba-4f2b-3c71-26bb-cd002720ab6d",
+            "5aaeb590-2bb2-2171-71ae-c2dd228d0437"
         ]
     },
     "6fed3403-bd8c-40d5-6825-511eea7f412f": {
@@ -3695,6 +3714,11 @@
             "3f4ea462-e616-5161-190b-8d033fcf1171"
         ]
     },
+    "786e0b0a-d52e-4a1a-aaa8-ab657cfdd357": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Heist/_Weapons/Target/Target Down.anim.nasset"
+    },
     "7900fc0a-1be1-4179-80be-dbce2cb90f23": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -3859,13 +3883,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "7c57baab-cc58-df61-9622-795d2d8c5296": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Characters/Heist/_Player_FP_Heist/SK_Player_FP.scene.nasset/SK Heist FP.mesh.nasset/SK Heist FP.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
     "7c58956f-fbdb-4d68-ec8a-a68b78993740": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -3940,6 +3957,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Modular_Toon/Alien/Material Instances/Thumbnails/Eyes.mtli.nasset.tex.nasset"
     },
+    "7f76df34-08d6-49c2-8997-48f257e0d5c0": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Heist/AAA_Animations/Heist Yes.anim.nasset"
+    },
     "7f7cbcd8-4777-29c5-4ac0-286e913b8e90": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3949,18 +3971,6 @@
         ],
         "dependencies": [
             "b410f5d4-bf3d-7a0d-1e49-c9b35159007c",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "7ff599b7-9c8a-2999-da38-f2877cbcfc97": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Heist/_Player_FP_Heist/SK_Player_FP.scene.nasset/SK Heist FP.mesh.nasset/SK Heist FP FP Skin.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "6ef6761b-21e2-6b74-a882-a77377d98a34",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -4040,6 +4050,11 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "82e2784c-2cfc-4209-a362-5be51fbc5bb5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Heist/AAA_Animations/Heist Duck.anim.nasset"
     },
     "82e9235b-1350-400e-b919-8ae16780c1d0": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -4446,9 +4461,25 @@
     },
     "920ba4ea-684f-c9e9-bb5c-0eff318c8eb1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Heist/_Weapons/Rifle/SK_Rifle.scene.nasset/SK Rifle.mesh.nasset/SK Rifle.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "fba99c4d-5f83-f3a8-2768-621ae18bda1e",
+            "58bf52e0-8dcb-63da-1ed8-a80b8a2bbecf",
+            "7e4546aa-b33b-5053-f21b-25823a2600b0",
+            "ea93d0a5-1911-c075-03bc-b661a8fb2f4b",
+            "84cc7eff-8433-5207-c6a5-5f536ff2fdd5",
+            "31c1719f-3238-dfd7-16d7-cd50e1ea6202",
+            "5a530046-5f80-97dd-bf75-d20d99a8eeca",
+            "cadbd806-82b5-73f0-a027-6925b73a8bcf",
+            "9754b864-4784-e6ec-d502-2c9f6b3f98ed",
+            "6a039ba4-d2fe-7169-4f06-dcce2ca24fd5",
+            "feec6449-8ef5-1152-a858-24c667b9d1a0",
+            "d0728d68-50ec-4574-a6a2-4504c4575f26",
+            "dad7e293-b162-9581-a8f7-723ad19d54c9"
         ]
     },
     "920c0ce0-9f6a-d77d-988e-e674c14dd274": {
@@ -4485,6 +4516,11 @@
         "dependencies": [
             "5aaeb590-2bb2-2171-71ae-c2dd228d0437"
         ]
+    },
+    "92e64400-4d44-45d5-ac41-6103b29d0b10": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Heist/AAA_Animations/Heist No.anim.nasset"
     },
     "9304ccdf-89fb-d918-4601-622d2d1f9677": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -4825,11 +4861,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Heist/Material Instances/Thumbnails/Grey.mtli.nasset.tex.nasset"
     },
-    "9c056094-85f9-41db-154d-b017afca6888": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Heist/_Player_FP_Heist/SK_Player_FP.scene.nasset/SK Heist FP.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
     "9c3aaf3b-d11e-8474-fd58-56248248c2f7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4853,6 +4884,11 @@
         "dependencies": [
             "19b19569-c321-5389-4727-049317369185"
         ]
+    },
+    "9cfba9c2-31af-4825-94bd-3719b54f140b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Heist/AAA_Animations/Heist Run Gun.anim.nasset"
     },
     "9d1cb72a-3202-f0bf-e174-24c8df52d672": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -4926,6 +4962,26 @@
             "f4719362-bedc-3636-6155-d659b56396b7",
             "0eaeff54-959c-56fc-919f-9706ffedbe64",
             "5383edbe-0e6c-9c1e-bdb0-03291b98f472"
+        ]
+    },
+    "9f00f9ff-ec9c-4f89-992e-9d81a53d234d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Characters/Heist/_Player_TP_Heist/Enemy.scene.nasset",
+        "thumbnail": "c08bb754-347b-41cb-bbb0-a23f9b8f1ad2",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "920ba4ea-684f-c9e9-bb5c-0eff318c8eb1",
+            "0b3d2f7d-cbd7-ef1d-4202-5bc8ec33572f",
+            "72d580b9-ebf8-7549-0e55-176413a2521b",
+            "56f0da94-d09e-8011-91bd-8338994011dd",
+            "35a04b19-bec9-95b2-5ae3-a5cfd91a7956",
+            "bbd78fcf-3b60-4050-ac6d-bc222331abe9",
+            "f97c2cdb-3081-45a9-b2f3-4d27661d527a",
+            "c8a0af06-0645-48d5-a469-e9644ba34ef9",
+            "25f7cf55-4228-4def-99b7-bbd136d50d4c"
         ]
     },
     "9f2137b7-9f22-a80b-e557-45edf742530c": {
@@ -5108,34 +5164,10 @@
             "168dd918-458d-874d-bf82-79ae00ea4a15"
         ]
     },
-    "a8236e4e-830e-0d4e-901c-b256941355c3": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Heist/_Player_FP_Heist/SK_Player_FP.scene.nasset/SK Heist FP.mesh.nasset/SK Heist FP FP Skin.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "6ef6761b-21e2-6b74-a882-a77377d98a34",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "a85be35e-5a2b-8bba-8c91-c1e7580edd7f": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Mechs/George/SK_George.scene.nasset/SK George.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
-    "a87ec8a6-a53e-b7fa-bf7a-94d20efd9a42": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Heist/_Player_FP_Heist/SK_Player_FP.scene.nasset/SK Heist FP.mesh.nasset/SK Heist FP FP Black.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "085394d6-73ac-032d-17dd-02b55d053d16",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
     },
     "a88a5032-2a77-1d07-4164-5fcc4f9fdfbb": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -5327,10 +5359,6 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
-    },
-    "ac56111f-1320-1810-f18a-d151cbbedf89": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Characters/Heist/_Player_FP_Heist/SK_Player_FP.scene.nasset/SK_Player_FP.scene.nasset"
     },
     "ac67256f-464e-473b-8560-c46541ec1d90": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -6265,6 +6293,11 @@
             "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
         ]
     },
+    "c7aa8df5-0fa4-4049-a662-f0be9ebdc48f": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Heist/AAA_Animations/Heist Walk Shoot.anim.nasset"
+    },
     "c7dfcb41-e05b-e67c-0f34-ae408e8e43c3": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -6633,16 +6666,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "d3e917f4-f467-d96f-a726-ec7ddc2f83b1": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Heist/_Player_FP_Heist/SK_Player_FP.scene.nasset/SK Heist FP.mesh.nasset/SK Heist FP FP Skin.meshskin.nasset",
-        "dependencies": [
-            "a8236e4e-830e-0d4e-901c-b256941355c3",
-            "e30115ab-e20b-909f-3e67-f5e47613e714",
-            "6ef6761b-21e2-6b74-a882-a77377d98a34"
-        ]
-    },
     "d3f00be8-b2bc-3fce-c2fa-bce5e66c5958": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -6958,6 +6981,11 @@
             "bc6c4d4b-a05b-6e71-5d0f-7689c128925b"
         ]
     },
+    "de940836-dd2f-43cd-8874-d0a6fd70ca23": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Heist/AAA_Animations/Heist Death.anim.nasset"
+    },
     "deb2c41c-ff70-4911-9d32-c0619e4be19f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Monsters/Big/Teddy/Material Instances/Yeti Eye Black.mtli.nasset",
@@ -7032,6 +7060,11 @@
         "path": "Package.nplugin",
         "name": "Character Zoo Assets"
     },
+    "e0664477-db79-4188-bd55-6cab745edbee": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Heist/AAA_Animations/Heist Run Shoot.anim.nasset"
+    },
     "e06afe4b-9e14-5569-8b5b-f5078b283377": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Monsters/Big/Uglee/Material Instances/Lace Rings.mtli.nasset",
@@ -7079,11 +7112,6 @@
             "eddd8214-b9e9-8bdb-a3d6-17a6446490e8"
         ]
     },
-    "e30115ab-e20b-909f-3e67-f5e47613e714": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Heist/_Player_FP_Heist/SK_Player_FP.scene.nasset/SK Heist FP.mesh.nasset/Skeletons/root.skel.nasset"
-    },
     "e35ef854-1392-4d4d-82f6-03727e987782": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -7105,13 +7133,6 @@
             "72312694-0e4d-3177-383e-3396724592ed",
             "02905ff4-6727-df2f-7e63-001005fbf912",
             "d2014c2b-3063-2f77-db91-784ffdc786fc"
-        ]
-    },
-    "e460c389-48df-490b-7e00-07add58628b7": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Characters/Heist/_Player_FP_Heist/SK_Player_FP.scene.nasset/SK Heist FP.mesh.nasset/SK Heist FP.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "e4751355-e32f-e1fe-72fc-e381e30c65b7": {
@@ -7341,9 +7362,31 @@
     },
     "eaad7556-22d7-54f1-11ec-92223c7804ab": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Heist/_Player_TP_Heist/SK_TP_Heist_Enemy.scene.nasset/SK Heist Soldier.mesh.nasset/SK Heist Soldier.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "385c1fca-fde6-e1f5-3512-cc0dab76c891",
+            "2a9e680a-1cea-0725-48df-513511008646",
+            "f1aae16c-9962-ccc6-c210-daba4b36b2f3",
+            "19d53dea-9d5e-991e-cb44-c6fddd71ec75",
+            "40585608-5299-55a6-6004-4339d6e46ec3",
+            "e50b3d86-7229-cc40-d0a0-d5b535585c89",
+            "4a2df8ea-0434-8c34-a23b-fe5a414c9fb1",
+            "154a229b-7007-c1cf-31a3-6ef2e276e53e",
+            "076ef0a3-abc3-2829-0614-08bd5da88db2",
+            "8ceab018-48dc-097a-167b-ce11cca1d63e",
+            "ab93cd3e-7f97-8a5f-df0d-a2e316748d8d",
+            "80e48a6f-3ee3-5a1a-fcfe-e50731424333",
+            "4b6c6c2f-178c-3ea0-f6de-8603b66839e5",
+            "c310de75-6871-6625-6c5e-94bf154b2f8b",
+            "115dc2a0-ddce-9001-1f18-39f5d77fff9a",
+            "56f0da94-d09e-8011-91bd-8338994011dd",
+            "35a04b19-bec9-95b2-5ae3-a5cfd91a7956",
+            "72d580b9-ebf8-7549-0e55-176413a2521b",
+            "0b3d2f7d-cbd7-ef1d-4202-5bc8ec33572f"
         ]
     },
     "eb0cfe6a-2b16-4871-b469-7652e8237421": {
@@ -7362,6 +7405,11 @@
         "dependencies": [
             "29856867-3020-e013-c2ff-0a58611ef83b"
         ]
+    },
+    "eb963102-69ec-4dc8-aa3d-66bbf36edd6b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Heist/AAA_Animations/Heist Wave.anim.nasset"
     },
     "ebea8b31-2da2-419b-8214-2ad713b80784": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -7971,16 +8019,6 @@
         "path": "Assets/Characters/Dinosaurs/Triceratops/Triceratops_Jump_Loop.anim.nasset",
         "dependencies": [
             "add9eeac-039d-8c56-5381-6e886b6b3b0e"
-        ]
-    },
-    "fd5b3e16-77f9-9a7e-ea79-ad2362bf6306": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Heist/_Player_FP_Heist/SK_Player_FP.scene.nasset/SK Heist FP.mesh.nasset/SK Heist FP FP Skin.meshskin.nasset",
-        "dependencies": [
-            "7ff599b7-9c8a-2999-da38-f2877cbcfc97",
-            "9c056094-85f9-41db-154d-b017afca6888",
-            "6ef6761b-21e2-6b74-a882-a77377d98a34"
         ]
     },
     "fd6e98c9-08bc-106e-c8e8-077bb2bc04c4": {
