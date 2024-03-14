@@ -1,0 +1,20 @@
+{
+    "source": "A_Stag_Run.fbx",
+    "skeleton": "dae8675b-ba76-2bd4-21fb-cb54c859696f",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "dae8675b-ba76-2bd4-21fb-cb54c859696f"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "dff25dfc-42a0-485f-8771-e53a32016706"
+        }
+    ],
+    "guid": "dff25dfc-42a0-485f-8771-e53a32016706",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "dae8675b-ba76-2bd4-21fb-cb54c859696f"
+    ],
+    "instanceGuid": "f2496f97-884d-f014-8332-7fd967f9caae"
+}

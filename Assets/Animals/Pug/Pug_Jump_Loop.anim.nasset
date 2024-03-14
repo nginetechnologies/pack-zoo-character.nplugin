@@ -1,0 +1,17 @@
+{
+    "source": "A_Pug_Jump_Loop.fbx",
+    "skeleton": "d77a3db8-a3d5-d932-9c96-1b54cd3f2a5e",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "4fba63ab-ba4d-4b62-4de9-29c64315abfb",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "d77a3db8-a3d5-d932-9c96-1b54cd3f2a5e"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "b0144559-f48b-4f8c-b840-2899824e70b9"
+        }
+    ],
+    "guid": "b0144559-f48b-4f8c-b840-2899824e70b9",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+}
