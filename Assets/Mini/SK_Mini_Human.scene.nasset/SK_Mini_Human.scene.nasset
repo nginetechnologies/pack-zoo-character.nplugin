@@ -1,0 +1,34 @@
+{
+    "guid": "a137d2ec-850b-9460-79ed-bafa15fc45c5",
+    "source": "../SK_Mini_Human.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "be3ab31e-22ee-3318-201f-8e63ff85fa9c",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Mini Human"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "84061581-be0a-1f29-361f-d128c8bb5e06",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Mini Human"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "eb593b7b-816f-7125-4b45-b6752c76cb62"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "a137d2ec-850b-9460-79ed-bafa15fc45c5"
+    },
+    "dependencies": [
+        "eb593b7b-816f-7125-4b45-b6752c76cb62"
+    ]
+}

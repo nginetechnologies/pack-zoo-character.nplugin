@@ -1,0 +1,75 @@
+{
+    "guid": "684ea107-5a90-0064-7b55-0d2c778db798",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "3bc797c2-6d99-91ea-04c6-e13d38229fda",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "07159906-db6b-b42e-2adb-baed6a8f15b0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Mini Orc Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "72c9e08f-2559-8473-1910-7542502b85b5",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "3a24dff5-fad7-ce37-21de-88b74135c23e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Mini Orc Orc"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "433ca186-1502-19c6-09e1-81208a0de193",
+                                "material_instance": "ec63f7c9-f35e-44f3-5cd2-da69be89d88b"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "be87f454-c2ae-1d72-b3dc-ae67946ff0eb"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "684ea107-5a90-0064-7b55-0d2c778db798"
+    },
+    "dependencies": [
+        "ec63f7c9-f35e-44f3-5cd2-da69be89d88b",
+        "433ca186-1502-19c6-09e1-81208a0de193",
+        "be87f454-c2ae-1d72-b3dc-ae67946ff0eb",
+        "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
+    ]
+}
