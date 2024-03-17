@@ -1,5 +1,5 @@
 {
-    "source": "",
+    "source": "A_Modular_People_Walk.fbx",
     "skeleton": "",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
@@ -9,9 +9,9 @@
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": ""
+            "animation": "2a6858aa-af24-4163-81f9-317d19e8a809"
         }
     ],
-    "guid": "",
+    "guid": "2a6858aa-af24-4163-81f9-317d19e8a809",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
 }
