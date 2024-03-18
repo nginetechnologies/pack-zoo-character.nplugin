@@ -1100,7 +1100,10 @@
     "1e5c7b24-2e24-4041-ab1b-c3b7f4019dfd": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Mini/Animations/Mini No.anim.nasset"
+        "path": "Assets/Mini/Animations/Mini No.anim.nasset",
+        "dependencies": [
+            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
+        ]
     },
     "1eb59c3e-8d1b-460a-b163-56fd0f1a3d31": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -2272,6 +2275,18 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Dinosaurs/Apatosaurus/SK_Apatosaurus.scene.nasset/SK Apatosaurus.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "3f7ac37d-f144-4d6f-b879-55b742e543c2": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Mini/Mini Gladiator Topdown.scene.nasset",
+        "thumbnail": "c10af265-b935-473d-b8e2-2d96a0f873bf",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "f1b5a4ef-d1a6-7d83-23d7-860524100b74"
+        ]
+    },
     "3fb0f29e-973d-427d-bc98-7f1081e62a62": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -2372,10 +2387,25 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "41dde2a3-1979-4bf6-b337-e49c2dce8cb0": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Mini/Mini Skater Boy Topdown.scene.nasset",
+        "thumbnail": "c10af265-b935-473d-b8e2-2d96a0f873bf",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "7ebcb7cc-ca7c-6244-1566-ae5daa480f02"
+        ]
+    },
     "41eecb07-491c-4a32-aeb8-e4bf73ca92fc": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Mini/Animations/Mini Air.anim.nasset"
+        "path": "Assets/Mini/Animations/Mini Air.anim.nasset",
+        "dependencies": [
+            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
+        ]
     },
     "427cc7e4-64e7-16a2-a6fe-c2793588eb02": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3614,7 +3644,11 @@
             "ec63f7c9-f35e-44f3-5cd2-da69be89d88b",
             "433ca186-1502-19c6-09e1-81208a0de193",
             "be87f454-c2ae-1d72-b3dc-ae67946ff0eb",
-            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
+            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55",
+            "d84d31b9-25e5-44f6-8b5e-ca00741886b3",
+            "be0bce66-279a-4c2c-ae0b-5c28950a4bf6",
+            "bca4f5c9-096e-45dd-9dfd-5323ac3df1c0",
+            "41eecb07-491c-4a32-aeb8-e4bf73ca92fc"
         ]
     },
     "68a4eabe-4fe8-98ad-bec2-029bd7fb223d": {
@@ -3627,6 +3661,18 @@
         "dependencies": [
             "c0631c66-38d2-3e30-0d4a-23fe1dec4502",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "68dfe5f1-82b9-46f8-bf45-c8ea9ea32dff": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Mini/Mini Orc Topdown.scene.nasset",
+        "thumbnail": "c10af265-b935-473d-b8e2-2d96a0f873bf",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "684ea107-5a90-0064-7b55-0d2c778db798"
         ]
     },
     "69be551a-e4d3-48e3-a62e-e3cb52a30c54": {
@@ -4411,7 +4457,10 @@
             "f6670fe7-3f93-6dc0-ec87-020d480bb38c",
             "2c5fb083-c03b-ba33-be47-68102da87abf",
             "92f8b046-65d7-015b-f121-92cee31be600",
-            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
+            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55",
+            "f408c393-829b-46ec-9a8f-4463d3a55931",
+            "94f03505-4acc-4032-b141-8f777e0cbaf0",
+            "41eecb07-491c-4a32-aeb8-e4bf73ca92fc"
         ]
     },
     "7eea67e0-3c5d-43fe-b4d4-6e1558162506": {
@@ -4695,7 +4744,10 @@
     "87459e26-ed50-4171-aab5-6e495b239513": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Mini/Animations/Mini Pick Up.anim.nasset"
+        "path": "Assets/Mini/Animations/Mini Pick Up.anim.nasset",
+        "dependencies": [
+            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
+        ]
     },
     "88078735-a97c-4758-9d4f-ae8852aa852b": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -4827,7 +4879,10 @@
     "8c86b1c0-ab80-41ba-9e14-01a74033cea0": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Mini/Animations/Mini Yes.anim.nasset"
+        "path": "Assets/Mini/Animations/Mini Yes.anim.nasset",
+        "dependencies": [
+            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
+        ]
     },
     "8ceab018-48dc-097a-167b-ce11cca1d63e": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -5119,7 +5174,10 @@
     "94f03505-4acc-4032-b141-8f777e0cbaf0": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Mini/Animations/Mini Skate.anim.nasset"
+        "path": "Assets/Mini/Animations/Mini Skate.anim.nasset",
+        "dependencies": [
+            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
+        ]
     },
     "95472f34-13d3-d192-5503-021e6c3c7b44": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -6442,7 +6500,10 @@
     "bca4f5c9-096e-45dd-9dfd-5323ac3df1c0": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Mini/Animations/Mini Sprint.anim.nasset"
+        "path": "Assets/Mini/Animations/Mini Run.anim.nasset",
+        "dependencies": [
+            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
+        ]
     },
     "bcac8bf7-45c1-4e66-bc08-e86386459609": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -6513,7 +6574,10 @@
     "be0bce66-279a-4c2c-ae0b-5c28950a4bf6": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Mini/Animations/Mini Walk.anim.nasset"
+        "path": "Assets/Mini/Animations/Mini Walk.anim.nasset",
+        "dependencies": [
+            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
+        ]
     },
     "be87f454-c2ae-1d72-b3dc-ae67946ff0eb": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -6537,6 +6601,18 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Heist/Jump_Loop.anim.nasset"
+    },
+    "bf32817a-e995-44c8-96df-4600f3a78dec": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Mini/Mini Skater Girl Topdown.scene.nasset",
+        "thumbnail": "c10af265-b935-473d-b8e2-2d96a0f873bf",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "c0ef37a3-1fe9-a633-bf90-51c2de6ecce5"
+        ]
     },
     "bf756302-ddd2-41f8-934b-a3478772df07": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -6629,7 +6705,10 @@
             "f6670fe7-3f93-6dc0-ec87-020d480bb38c",
             "5e383d9a-6081-63b3-bbc5-0c3749e420f0",
             "213f1021-0d45-9a8c-f7d0-06d9913d3ec1",
-            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
+            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55",
+            "f408c393-829b-46ec-9a8f-4463d3a55931",
+            "94f03505-4acc-4032-b141-8f777e0cbaf0",
+            "41eecb07-491c-4a32-aeb8-e4bf73ca92fc"
         ]
     },
     "c0f1f834-6816-10ab-9f20-167de71076cd": {
@@ -7385,6 +7464,18 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mini/SK_Mini_Gladiator.scene.nasset/SK Mini Gladiator.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "d47b6347-605b-48a6-acc8-05a5281325a3": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Mini/Mini Human Topdown.scene.nasset",
+        "thumbnail": "c10af265-b935-473d-b8e2-2d96a0f873bf",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "eb593b7b-816f-7125-4b45-b6752c76cb62"
+        ]
+    },
     "d525e4af-dc86-8e5d-082d-c990ba9ea1f3": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -7475,7 +7566,10 @@
     "d84d31b9-25e5-44f6-8b5e-ca00741886b3": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Mini/Animations/Mini Idle.anim.nasset"
+        "path": "Assets/Mini/Animations/Mini Idle.anim.nasset",
+        "dependencies": [
+            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
+        ]
     },
     "d855a32a-da81-4404-9615-2f15eaac9d7c": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -8198,7 +8292,11 @@
             "25ce46c4-20ca-438a-e413-34fbf78f4fa3",
             "301030a4-0bf6-e238-223f-09d749f8ce6f",
             "15dec5c3-561c-b74b-f77c-60894393e4df",
-            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
+            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55",
+            "d84d31b9-25e5-44f6-8b5e-ca00741886b3",
+            "be0bce66-279a-4c2c-ae0b-5c28950a4bf6",
+            "bca4f5c9-096e-45dd-9dfd-5323ac3df1c0",
+            "41eecb07-491c-4a32-aeb8-e4bf73ca92fc"
         ]
     },
     "eb963102-69ec-4dc8-aa3d-66bbf36edd6b": {
@@ -8400,7 +8498,11 @@
             "6189af9a-a258-7527-46fb-a30886d840d8",
             "d525e4af-dc86-8e5d-082d-c990ba9ea1f3",
             "129f7d90-214f-3753-4e82-91b7d37e842c",
-            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
+            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55",
+            "d84d31b9-25e5-44f6-8b5e-ca00741886b3",
+            "be0bce66-279a-4c2c-ae0b-5c28950a4bf6",
+            "bca4f5c9-096e-45dd-9dfd-5323ac3df1c0",
+            "41eecb07-491c-4a32-aeb8-e4bf73ca92fc"
         ]
     },
     "f1e8f9de-a20d-4c45-a0e7-dab43a0c0eb4": {
@@ -8474,7 +8576,10 @@
     "f408c393-829b-46ec-9a8f-4463d3a55931": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Mini/Animations/Mini Stand.anim.nasset"
+        "path": "Assets/Mini/Animations/Mini Stand.anim.nasset",
+        "dependencies": [
+            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
+        ]
     },
     "f41f7d65-a825-45c2-9ef0-faaf79bd72e4": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
