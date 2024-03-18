@@ -1,0 +1,17 @@
+{
+    "guid": "58a6e33c-dade-4028-807b-00f3035fdcce",
+    "source": "A_Wolf_Walk.fbx",
+    "skeleton": "dae8675b-ba76-2bd4-21fb-cb54c859696f",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "c6995951-4187-05dd-d5f1-adfcbcb45aaf",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "dae8675b-ba76-2bd4-21fb-cb54c859696f"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "58a6e33c-dade-4028-807b-00f3035fdcce"
+        }
+    ],
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+}

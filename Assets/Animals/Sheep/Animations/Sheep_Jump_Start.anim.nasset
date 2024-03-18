@@ -1,0 +1,20 @@
+{
+    "source": "A_Sheep_Jump_Start.fbx",
+    "skeleton": "2f050a23-72d8-d988-775d-af027c0d625c",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "6815eb75-e401-6bb5-e430-8c6dbac06508",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "2f050a23-72d8-d988-775d-af027c0d625c"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "d60fd483-9b4e-47f9-ba0e-d4aee59a523c"
+        }
+    ],
+    "guid": "d60fd483-9b4e-47f9-ba0e-d4aee59a523c",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "2f050a23-72d8-d988-775d-af027c0d625c"
+    ]
+}

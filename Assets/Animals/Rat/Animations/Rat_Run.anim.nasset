@@ -1,0 +1,16 @@
+{
+    "source": "A_Rat_Run.fbx",
+    "skeleton": "9dd63c1d-36ad-2a75-441a-0a4c8e478586",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "9dd63c1d-36ad-2a75-441a-0a4c8e478586"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "13a53a18-15e5-4b4c-b8c6-9ba5749df1c4"
+        }
+    ],
+    "guid": "13a53a18-15e5-4b4c-b8c6-9ba5749df1c4",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+}

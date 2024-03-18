@@ -1,0 +1,17 @@
+{
+    "guid": "f6a04ee3-6127-4402-8c7c-21f0455412dd",
+    "source": "A_Snake_Walk.fbx",
+    "skeleton": "37d078bf-b049-4182-278f-781f1367e70f",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "c6995951-4187-05dd-d5f1-adfcbcb45aaf",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "37d078bf-b049-4182-278f-781f1367e70f"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "f6a04ee3-6127-4402-8c7c-21f0455412dd"
+        }
+    ],
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+}

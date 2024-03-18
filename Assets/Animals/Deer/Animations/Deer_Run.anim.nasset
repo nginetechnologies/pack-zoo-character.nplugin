@@ -1,0 +1,17 @@
+{
+    "source": "A_Zebra_Run.fbx",
+    "skeleton": "dae8675b-ba76-2bd4-21fb-cb54c859696f",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "59a4d0cf-bd7f-08e1-a8a7-42801eeb7102",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "dae8675b-ba76-2bd4-21fb-cb54c859696f"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "288dffa8-ecc0-42a4-977b-06d0497655ab"
+        }
+    ],
+    "guid": "288dffa8-ecc0-42a4-977b-06d0497655ab",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+}

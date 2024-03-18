@@ -1,0 +1,120 @@
+{
+    "guid": "aff00ef6-0159-05f6-aee7-61e08496d69d",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "47af94d6-8fbe-da7b-cc29-c170b7e49186",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "9bb837ca-e481-e1d7-0d43-71802085b714",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Rat Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "c8cb8c83-23d3-3798-8a7c-36c59056442f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "a05d53bd-f31e-4cde-8f18-381d3111da0b",
+                                "b95f7cd9-b77e-4cc9-9997-33bcb5ee514d",
+                                "13a53a18-15e5-4b4c-b8c6-9ba5749df1c4"
+                            ],
+                            "jump_animations": [
+                                "ac7dbe80-bdab-4fe5-9631-481d75f4b289",
+                                "6752dae9-4321-4155-b1ff-f9e86e55229e",
+                                "a50f1203-11b9-4415-b770-507cb9c2cf9e"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "b5ff31ce-32e7-e3d0-35b5-a07905bd3aee",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Rat Rat Skin"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "fcf48c7c-d0e3-fee7-0dd2-c742bb0acd9a",
+                                "material_instance": "9b130c78-eea7-df5d-98f7-a873fec5e19f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "d6c29de9-7b2b-03e2-6412-ccf7eb85e446"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "68b88d18-2c9e-4a84-9680-06b064861272",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Rat Rat Secondary"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "df3ab44e-d9d3-6408-a436-886dfa59273b",
+                                "material_instance": "2f79bb5a-efc7-8c3a-4fb0-83fd0df9caff"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "3eaca601-41e9-d9bb-d64a-69a2ed5ae200"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "9dd63c1d-36ad-2a75-441a-0a4c8e478586"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "aff00ef6-0159-05f6-aee7-61e08496d69d"
+    },
+    "dependencies": [
+        "9b130c78-eea7-df5d-98f7-a873fec5e19f",
+        "fcf48c7c-d0e3-fee7-0dd2-c742bb0acd9a",
+        "d6c29de9-7b2b-03e2-6412-ccf7eb85e446",
+        "2f79bb5a-efc7-8c3a-4fb0-83fd0df9caff",
+        "df3ab44e-d9d3-6408-a436-886dfa59273b",
+        "3eaca601-41e9-d9bb-d64a-69a2ed5ae200",
+        "9dd63c1d-36ad-2a75-441a-0a4c8e478586",
+        "a05d53bd-f31e-4cde-8f18-381d3111da0b",
+        "b95f7cd9-b77e-4cc9-9997-33bcb5ee514d",
+        "13a53a18-15e5-4b4c-b8c6-9ba5749df1c4",
+        "ac7dbe80-bdab-4fe5-9631-481d75f4b289",
+        "6752dae9-4321-4155-b1ff-f9e86e55229e",
+        "a50f1203-11b9-4415-b770-507cb9c2cf9e"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "source": "A_Wasp_Flying.fbx",
+    "skeleton": "dae8675b-ba76-2bd4-21fb-cb54c859696f",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "4fba63ab-ba4d-4b62-4de9-29c64315abfb",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "dae8675b-ba76-2bd4-21fb-cb54c859696f"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "82d42685-63f9-429a-b3be-e10eb861b7f7"
+        }
+    ],
+    "guid": "82d42685-63f9-429a-b3be-e10eb861b7f7",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+}

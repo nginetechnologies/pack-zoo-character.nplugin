@@ -1,0 +1,250 @@
+{
+    "guid": "14028f54-74f6-ecd6-3b1f-548c118aeb92",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "e571b94d-50d8-449e-3199-b45c1909bf18",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "996f5765-5260-40fd-7675-a6661181e8d7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Alpaca Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "bc7be6b9-d4a5-d204-a240-759b91e6fd64",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "30b09fd4-512c-4e19-947f-91da9acb2689",
+                                "e6b9afdb-2929-4608-b6e0-95383edffcd7",
+                                "bd8b3fb4-a02f-431c-a9b1-e8071c26c3fb"
+                            ],
+                            "jump_animations": [
+                                "85596510-f7b9-49e9-b2d4-b83f3f539dac",
+                                "0b5ec55b-ff6d-4181-8f26-97ff7d496f1e",
+                                "6cefa566-b7d4-4d98-97c4-2217c49a6fd3"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "652605f0-e35d-79ac-3e6c-7ea9c830076e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Alpaca Coat Main Secondary"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "2cafe077-fbf1-c0a8-7fbc-a8b0b10ce1c3",
+                                "material_instance": "bb3985e0-a4f6-462a-b6d9-5fd2d230a346"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "a1cd8ab7-c82c-1968-2073-1264950e0fa3"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "8fbfbd82-567c-85a0-d445-ff7271d85ac0",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Alpaca Coat Main"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c58f08ed-a1d9-7f7e-84ba-a2c6089ef1e1",
+                                "material_instance": "56c13579-fb90-e0ab-4e3d-3f58314c97b4"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "adaf08a5-d1bc-898d-2d91-1a9d217f9517"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "a1326d2c-9453-d174-fbb6-df429dd78f35",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Alpaca Coat Main Dark"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7d2b177f-678c-1364-1633-d556aa124261",
+                                "material_instance": "5356ccd2-730d-4052-c5af-00ddd2733b8a"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "9f318f79-90b4-d2c7-51e4-ea0d38b703e4"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "35a8cb2f-bd65-5997-4a43-24e4298027c6",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Alpaca Muzzle"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e7073647-4408-a9c5-c577-9a77589b5339",
+                                "material_instance": "54f9bb00-d36e-6844-f8ee-d2b8df92e80a"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "837e128d-3594-41c0-917b-a73376f38f1f"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "a4924a44-011f-b703-d064-1d3adb1436d5",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Alpaca Hooves"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "0877934c-ed03-1f16-c763-6b4e0067ff74",
+                                "material_instance": "1f381eaf-2d96-1c0d-f20a-118d1a4c86a9"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "75b7e6c1-c363-1a99-0a65-a46ff5257a57"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "3a6b139a-c8fc-a455-e85b-2146ce9aa3f5",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Alpaca Eyes Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4800f907-0369-c130-7166-3377b9a4dbeb",
+                                "material_instance": "b32a8085-7597-1186-0ddb-9910bbb3c542"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "fb7f0a2c-1a89-4bd3-32e0-d5ca8fe33684"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "2e2d57de-732e-47a2-8203-15955d555c71",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Alpaca Eyes White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "23b8bea4-036e-cc5f-2f59-644498f27d52",
+                                "material_instance": "53e9ed70-47cc-0564-3074-f8a87a4b4d4b"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "d02912e8-920e-5952-57e0-7e7a6a776ae5"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "125cd8a8-6a61-0b44-61b0-ea6c323702e8"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "14028f54-74f6-ecd6-3b1f-548c118aeb92"
+    },
+    "dependencies": [
+        "bb3985e0-a4f6-462a-b6d9-5fd2d230a346",
+        "2cafe077-fbf1-c0a8-7fbc-a8b0b10ce1c3",
+        "a1cd8ab7-c82c-1968-2073-1264950e0fa3",
+        "56c13579-fb90-e0ab-4e3d-3f58314c97b4",
+        "c58f08ed-a1d9-7f7e-84ba-a2c6089ef1e1",
+        "adaf08a5-d1bc-898d-2d91-1a9d217f9517",
+        "5356ccd2-730d-4052-c5af-00ddd2733b8a",
+        "7d2b177f-678c-1364-1633-d556aa124261",
+        "9f318f79-90b4-d2c7-51e4-ea0d38b703e4",
+        "54f9bb00-d36e-6844-f8ee-d2b8df92e80a",
+        "e7073647-4408-a9c5-c577-9a77589b5339",
+        "837e128d-3594-41c0-917b-a73376f38f1f",
+        "1f381eaf-2d96-1c0d-f20a-118d1a4c86a9",
+        "0877934c-ed03-1f16-c763-6b4e0067ff74",
+        "75b7e6c1-c363-1a99-0a65-a46ff5257a57",
+        "b32a8085-7597-1186-0ddb-9910bbb3c542",
+        "4800f907-0369-c130-7166-3377b9a4dbeb",
+        "fb7f0a2c-1a89-4bd3-32e0-d5ca8fe33684",
+        "53e9ed70-47cc-0564-3074-f8a87a4b4d4b",
+        "23b8bea4-036e-cc5f-2f59-644498f27d52",
+        "d02912e8-920e-5952-57e0-7e7a6a776ae5",
+        "125cd8a8-6a61-0b44-61b0-ea6c323702e8",
+        "30b09fd4-512c-4e19-947f-91da9acb2689",
+        "e6b9afdb-2929-4608-b6e0-95383edffcd7",
+        "bd8b3fb4-a02f-431c-a9b1-e8071c26c3fb",
+        "85596510-f7b9-49e9-b2d4-b83f3f539dac",
+        "0b5ec55b-ff6d-4181-8f26-97ff7d496f1e",
+        "6cefa566-b7d4-4d98-97c4-2217c49a6fd3"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "source": "A_Zebra_Jump_End.fbx",
+    "skeleton": "dae8675b-ba76-2bd4-21fb-cb54c859696f",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "a7edeebb-4fb2-10a7-a89c-c941f4b4f368",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "dae8675b-ba76-2bd4-21fb-cb54c859696f"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "b2acc2e1-9de4-4d8e-aab1-575a54342471"
+        }
+    ],
+    "guid": "b2acc2e1-9de4-4d8e-aab1-575a54342471",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+}
