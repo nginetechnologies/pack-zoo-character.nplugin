@@ -134,6 +134,15 @@
             "24dcf608-bd37-bd03-566c-73f765076704"
         ]
     },
+    "04cec3ad-4112-478e-93a8-653cb783f5b7": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/RPG/Warrior/Warrior.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "067be3a9-bbd2-4d79-b26f-f21449a0d852": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Monsters/Big/Kappa/Thumbnails/Kappa.scene.nasset.tex.nasset"
@@ -225,11 +234,27 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "090f8309-c595-4def-b5a0-3301113c7ee6": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Rogue/Rogue_Jump_End.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
     "0a250487-13bf-882d-8600-f0db1104d024": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Mechs/Gwart/Material Instances/Gwart Dark.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "0a7177bb-0f96-4b66-ba7d-39421f8a7fd0": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Wizard/Wizard_Walk.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
     },
     "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480": {
@@ -309,6 +334,14 @@
             "976dcbeb-5385-4ee5-9b16-381fef3bd21e"
         ]
     },
+    "0c904131-cabc-44d0-a832-c07e3daf483d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Monk/Monk_Jump_Start.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
     "0c963dbd-8b0d-4081-8fd3-65ef1cc7cd2c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Dinosaurs/Triceratops/Thumbnails/Triceratops.scene.nasset.tex.nasset"
@@ -356,6 +389,14 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mini/Animations/Mini Holding Left Shoot.anim.nasset"
+    },
+    "0df8a7f3-bac4-42aa-838b-9693f3ba8460": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Ranger/Ranger_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
     },
     "0e17f6b5-5fe5-9a40-3643-1583ecb87cf9": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -407,10 +448,26 @@
             "4b6c6c2f-178c-3ea0-f6de-8603b66839e5"
         ]
     },
+    "11aaf0b0-2e58-494b-8e6d-c20590bb00f8": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Warrior/Warrior_Run.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
     "11b8b1fa-e468-4a76-84f5-fa613d96c865": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mini/Animations/Mini Drive Pose.anim.nasset"
+    },
+    "127f6a63-9c58-4aad-8fb7-b5889cde08d2": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Cleric/Cleric_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
     },
     "12971631-2eec-4794-8a30-bd0d1c13cf58": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -668,6 +725,15 @@
             "0b3d2f7d-cbd7-ef1d-4202-5bc8ec33572f"
         ]
     },
+    "1b538137-171a-4f38-84e8-1f6d5af5ca89": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/RPG/Cleric/Cleric.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "1bc9d122-741a-fe64-a09e-a91d9121f4d3": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -902,6 +968,14 @@
     "24dcf608-bd37-bd03-566c-73f765076704": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Voxel/Danny/Textures/T_Player_D.tex.nasset"
+    },
+    "251e9a4d-2403-464b-b0f4-c2d679eadc06": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Warrior/Warrior_Idle.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
     },
     "251fee53-555b-4c85-a1b3-df5180e983fa": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -1169,6 +1243,14 @@
             "04923f94-6d3d-a296-66e1-c36f6eb6ca70"
         ]
     },
+    "2f81d0ed-d567-4432-bd82-dffe43d0a2a0": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Monk/Monk_Run.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
     "2f87f0a2-bae6-e9c1-d813-74caf8cd2321": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -1224,6 +1306,14 @@
         "path": "Assets/Dinosaurs/Trex/Material Instances/Trex Nails.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "317aaa46-863b-483c-88d2-d39141e49437": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Ranger/Ranger_Jump_Start.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
     },
     "31b90555-0a11-458e-9922-b160e3dacaa9": {
@@ -1292,6 +1382,15 @@
         "path": "Assets/Mechs/Ronnie/Material Instances/Ronnie Main.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "34927b78-d174-484b-9cc9-dcbbd478f8e1": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/RPG/Wizard/Wizard.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ]
     },
     "34c95c75-776b-9ff9-49fb-490138277ae8": {
@@ -1430,6 +1529,22 @@
         "path": "Assets/Heist/_Player_TP_Heist/Material Instances/Heist Dark Grey.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "389fddcb-0a84-4da6-99ee-704bad9fb64a": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Warrior/Warrior_Jump_Start.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
+    "38e1bff1-b7d9-4220-a2f2-1129c3ffd20d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Rogue/Rogue_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
     },
     "3950147f-563e-446b-9875-5911818b2647": {
@@ -1633,6 +1748,14 @@
         "dependencies": [
             "19d53dea-9d5e-991e-cb44-c6fddd71ec75",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "40758774-0a54-47f4-852e-0a3e64a6d408": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Ranger/Ranger_Idle.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
     },
     "40c5005e-0d61-b8c9-a1f1-3be582502871": {
@@ -2314,6 +2437,14 @@
             "5aaeb590-2bb2-2171-71ae-c2dd228d0437"
         ]
     },
+    "612393c1-bdbc-4c39-b961-86dfd94ea80e": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Cleric/Cleric_Jump_End.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
     "612e5203-4eaf-f99b-11de-82656df0175e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2578,6 +2709,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "69be551a-e4d3-48e3-a62e-e3cb52a30c54": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Monk/Monk_Walk.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
     "6a039ba4-d2fe-7169-4f06-dcce2ca24fd5": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Heist/_Weapons/Rifle/Material Instances/Rifle Grey.mtli.nasset",
@@ -2632,6 +2771,14 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mini/Animations/Mini Holding Right Shoot.anim.nasset"
+    },
+    "6cb4e43f-21da-402e-940e-fd6544b20d92": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Cleric/Cleric_Run.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
     },
     "6ccd44eb-9d4b-c0a2-2383-b713c9966de4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -2691,6 +2838,14 @@
         "path": "Assets/Heist/_Player_FP_Heist/Material Instances/FP Skin.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "6f3160f3-120d-4a59-933c-791af62c2844": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Rogue/Rogue_Idle.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
     },
     "6f8be51d-574e-43f2-bc48-c0d91e08ada7": {
@@ -2852,6 +3007,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Monsters/Big/Cain/Thumbnails/Cain.scene.nasset.tex.nasset"
     },
+    "735f097e-d23b-44b1-8c11-2b5164d1ca53": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Ranger/Ranger_Walk.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
     "73974afa-8d92-432b-8141-7ffca85e52a5": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -2979,6 +3142,22 @@
             "9dbe171d-1630-c047-0e64-406f54c0c2c7"
         ]
     },
+    "796a0ce1-6c74-4030-b182-439e6ac30821": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Cleric/Cleric_Idle.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
+    "79832f99-bed1-4e08-8573-bed480cd5e11": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Wizard/Wizard_Jump_Start.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
     "7a221d85-79a7-bf21-b8a2-dc6707ae978b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Heist/Material Instances/Thumbnails/Red.mtli.nasset.tex.nasset"
@@ -3090,6 +3269,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Voxel/Danny/SK_Danny.scene.nasset/SK Danny.mesh.nasset/Thumbnails/SK Danny.mesh.nasset.tex.nasset"
     },
+    "7db6c362-0aa7-496d-89c9-2856af1c7046": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Ranger/Ranger_Run.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
     "7de269c7-1731-5794-d9ad-536de9360f04": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3136,6 +3323,15 @@
             "2c5fb083-c03b-ba33-be47-68102da87abf",
             "92f8b046-65d7-015b-f121-92cee31be600",
             "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
+        ]
+    },
+    "7eea67e0-3c5d-43fe-b4d4-6e1558162506": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/RPG/Rogue/Rogue.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ]
     },
     "7f76df34-08d6-49c2-8997-48f257e0d5c0": {
@@ -3238,6 +3434,14 @@
         ],
         "dependencies": [
             "ffc24bac-2211-40b0-a6a6-de8f25d3bd97"
+        ]
+    },
+    "83035081-fe93-4e72-aa52-a33bf971c16c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Rogue/Rogue_Run.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
     },
     "8346d8de-ea36-834b-ebe6-40985c788507": {
@@ -3384,6 +3588,14 @@
         "dependencies": [
             "b91be93c-455e-d613-9950-bb6f5dff4610",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "896f29ee-0e15-457d-994b-b42357154e42": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Monk/Monk_Jump_End.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
     },
     "8a710282-72e0-c192-75a6-ddc2d5525035": {
@@ -3907,6 +4119,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "9d338491-80dd-40e6-9c4d-d8cabacf8906": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Warrior/Warrior_Jump_End.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
     "9d782186-4b81-f3eb-debc-923745c58947": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4068,6 +4288,14 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mini/Animations/Mini Holding Both Shoot.anim.nasset"
     },
+    "a3fbc0e6-906f-4eea-bbd4-518863d7e85d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Rogue/Rogue_Jump_Start.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
     "a63e1b38-a29a-576e-aa27-335f420cfc26": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -4135,6 +4363,14 @@
     "a93286de-6178-43d2-9739-a48702d816e9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Monsters/Big/Sue/Thumbnails/Sue.scene.nasset.tex.nasset"
+    },
+    "a969fd2d-2c8d-4ae6-9204-b47129868f6e": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Wizard/Wizard_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
     },
     "a97f6f7a-37db-4e2f-acc0-0205f05e178f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -4527,6 +4763,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Heist/Material Instances/Thumbnails/Skin.mtli.nasset.tex.nasset"
     },
+    "b8010cb3-8d3f-412a-8650-e312161888d0": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Ranger/Ranger_Jump_End.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
     "b8519aae-9b5f-47bf-b10f-555b54bf86cb": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -4600,6 +4844,14 @@
             "7475c9ac-2a88-7fe4-116b-6ae38202c7ff"
         ]
     },
+    "baae48e8-4108-435f-878e-208e8bcd09eb": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Wizard/Wizard_Run.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
     "baedeae8-b1f4-1c61-7886-b99af77f92a8": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -4659,6 +4911,14 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Dinosaurs/Velociraptor/SK_Velociraptor.scene.nasset/SK Velociraptor.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "bc9883e8-d247-45fe-82fd-ee0442f84ac8": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Monk/Monk_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
     "bca4f5c9-096e-45dd-9dfd-5323ac3df1c0": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -4686,6 +4946,14 @@
         "dependencies": [
             "62b3e2c5-f926-f13c-4b71-27413432ebae",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "bd83a857-59b6-47d1-81f0-bb099752d216": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Monk/Monk_Idle.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
     },
     "bd9750ad-8023-4fe4-93e7-79cd0806268a": {
@@ -5050,6 +5318,14 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mini/Animations/Mini Idle to Fall.anim.nasset"
     },
+    "c9ba92a5-08d8-47fc-8ddc-3afc35c3bdad": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Wizard/Wizard_Jump_End.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
     "c9e6ecf3-1c52-46a9-80db-486a11ab7e4e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Monsters/Big/Snapper/Thumbnails/Snapper.scene.nasset.tex.nasset"
@@ -5080,6 +5356,14 @@
         "dependencies": [
             "5a530046-5f80-97dd-bf75-d20d99a8eeca",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "cb24aa48-7797-4917-b095-1eb122c8bf09": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Cleric/Cleric_Jump_Start.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
     },
     "cbc2fe7b-7c3c-b413-76fd-6ca939f9c488": {
@@ -5196,6 +5480,15 @@
             "8e676748-0b12-e7c7-d974-4ff4c059a00b"
         ]
     },
+    "cf6c2cad-d249-459b-a594-b6f6c27c3e1d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/RPG/Ranger/Ranger.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "cf97372b-c117-c04f-bbf5-ed9d26c1dc79": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -5211,6 +5504,14 @@
         "path": "Assets/Monsters/Big/Snapper/Material Instances/Snapper Belly.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "d00f1c8b-69c0-4228-be4c-5e7d12fba445": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Warrior/Warrior_Walk.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
     },
     "d05fb3f4-765b-65d3-fb3e-8b08af278f92": {
@@ -5273,6 +5574,14 @@
         "thumbnail": "2a9a89ac-5f52-6875-519d-8c367db6e877",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "d252a1d1-7299-46ba-b9c2-a2eff2547747": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Rogue/Rogue_Walk.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
     },
     "d2d15041-1591-3c04-42fc-0c86f862b8fa": {
@@ -5459,6 +5768,14 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Heist/_Weapons/Rifle/SK_Rifle.scene.nasset/SK Rifle.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "db20384a-ea80-4a90-9893-a9045c268b16": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Warrior/Warrior_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
     },
     "db74d506-121b-3205-0a45-b703931cfdca": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -5774,6 +6091,23 @@
         "dependencies": [
             "2ac34ad7-d032-06a4-98d0-e4b078b536ec",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e715e254-54ea-48ed-b603-21488fd978ad": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Wizard/Wizard_Idle.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
+    "e75bd3c4-e890-4abc-8340-f6b1a9d8e7b2": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/RPG/Monk/Monk.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ]
     },
     "e78262a2-99d6-4383-b4a8-b8839bc12f2e": {
@@ -6442,6 +6776,14 @@
             "f2bdbc04-4d43-cbae-a998-4bad73ab545d",
             "793c6a70-4969-f8d8-e862-721b1ccf5d02",
             "5739727e-9b44-469b-c4ea-37bbfa29bc1c"
+        ]
+    },
+    "fc98c489-dcf2-4359-838b-e309e75cd7cc": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/RPG/Cleric/Cleric_Walk.anim.nasset",
+        "dependencies": [
+            "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
     },
     "fcba0c15-18bd-49e7-95a3-77150a0a9ce1": {

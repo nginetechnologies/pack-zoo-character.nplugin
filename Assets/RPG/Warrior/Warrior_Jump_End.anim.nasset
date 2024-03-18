@@ -9,10 +9,10 @@
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": "003e62ff-094a-4488-882e-ebe62c5f6ab1"
+            "animation": "9d338491-80dd-40e6-9c4d-d8cabacf8906"
         }
     ],
-    "guid": "003e62ff-094a-4488-882e-ebe62c5f6ab1",
+    "guid": "9d338491-80dd-40e6-9c4d-d8cabacf8906",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
         "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
