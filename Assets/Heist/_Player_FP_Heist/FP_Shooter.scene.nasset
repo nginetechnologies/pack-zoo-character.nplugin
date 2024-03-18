@@ -35,7 +35,7 @@
                 "audio_land" : "",
                 "audio_walk" : "",
                 "audio_footStepDelay" : 0.9,
-                "material_shoot_decal": "",
+                "material_shoot_decal": "976dcbeb-5385-4ee5-9b16-381fef3bd21e",
                 "flags": 2
             },
             "data_components": [
@@ -378,7 +378,8 @@
     },
     "thumbnailGuid": "499da5a7-97d7-4beb-a96a-7eed4b4ae8d5",
     "dependencies": [
-        "62145c7a-42ec-6417-4340-337d4a1e48d1"
+        "62145c7a-42ec-6417-4340-337d4a1e48d1",
+        "976dcbeb-5385-4ee5-9b16-381fef3bd21e"
     ],
     "metadata": {
         "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.000003814697269,\"nearPlane\":0.10000000149011612,\"farPlane\":128.0}",
