@@ -1,5 +1,5 @@
 {
-    "source": "A_Mini_Sprint.fbx",
+    "source": "A_Mini_Run.fbx",
     "skeleton": "d43d22f2-a02a-1c33-39ae-7aa1716f0d55",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
@@ -13,5 +13,8 @@
         }
     ],
     "guid": "bca4f5c9-096e-45dd-9dfd-5323ac3df1c0",
-    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
+    ]
 }
