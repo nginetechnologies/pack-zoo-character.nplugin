@@ -8,15 +8,15 @@
     "push_constants": [
         {
             "type": 0,
-            "color": "#00a726"
+            "color": "#cfe2f3"
         },
         {
             "type": 1,
-            "value": 0.0
+            "value": 1.0
         },
         {
             "type": 1,
-            "value": 0.7587
+            "value": 0.25
         }
     ]
 }
