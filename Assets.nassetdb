@@ -763,7 +763,7 @@
     "14dc563a-b9f1-4793-a25c-05ab487fdd1f": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Rogue_Run.anim.nasset",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Run.anim.nasset",
         "dependencies": [
             "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
         ]
@@ -1847,6 +1847,11 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Heist/AAA_Animations/Heist Hit React.anim.nasset"
     },
+    "33bbb93c-bb33-6b0d-4c32-ff0b7cfc2370": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Standing.anim.nasset"
+    },
     "33d66126-bd02-3f2c-ba2b-7892ed00adf0": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Mechs/Ronnie/Material Instances/Ronnie Main.mtli.nasset",
@@ -1982,6 +1987,11 @@
         "dependencies": [
             "a85be35e-5a2b-8bba-8c91-c1e7580edd7f"
         ]
+    },
+    "373929f3-995d-1c9e-78ef-ef2b5b071197": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Punch.anim.nasset"
     },
     "37836af8-5f3b-ed8c-f60d-469d6f34d34e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -4398,6 +4408,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "7d780b00-fd98-81ea-2f06-41945de4bae6": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Clapping.anim.nasset"
+    },
     "7db6c362-0aa7-496d-89c9-2856af1c7046": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -4558,7 +4573,7 @@
     "8175fb05-a646-4913-96b1-707b84d6dc9e": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Rogue_Idle.anim.nasset",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Idle.anim.nasset",
         "dependencies": [
             "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
         ]
@@ -5004,6 +5019,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "900a9ffb-fdf2-dbdc-0fdd-a32bc4868605": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Sitting.anim.nasset"
+    },
     "9022b417-09ae-5717-9668-c1aed12d40fd": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -5157,7 +5177,7 @@
     "94ccc4b9-58cc-4a11-a6f6-31fdf8d755d5": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Rogue_Jump_Loop.anim.nasset",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Jump Loop.anim.nasset",
         "dependencies": [
             "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
         ]
@@ -5593,6 +5613,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "9f83c1ba-b5da-c5fb-8a85-ab5410f651ac": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Swim.anim.nasset"
+    },
     "a05d53bd-f31e-4cde-8f18-381d3111da0b": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -5641,7 +5666,7 @@
     "a25cff00-66dc-4ecb-b821-2dfcfb24ad83": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Rogue_Jump_Start.anim.nasset",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Jump Start.anim.nasset",
         "dependencies": [
             "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
         ]
@@ -6180,6 +6205,11 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Heist/Jump_Start.anim.nasset"
     },
+    "b43870e4-221b-da3f-d4bd-63de40d8ea6e": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Run Jump.anim.nasset"
+    },
     "b464f5e5-9492-4235-9d66-085d1718ebe2": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -6593,6 +6623,11 @@
             "ec63f7c9-f35e-44f3-5cd2-da69be89d88b"
         ]
     },
+    "be8e7aaf-94ca-7fc2-1937-79e12670f3d1": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Idle Hold.anim.nasset"
+    },
     "bea6bdb9-aff1-44e6-a5dc-c563fa99b46f": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -6980,7 +7015,7 @@
     "c6de8e32-32b1-43c2-bd0e-2b0306525c53": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Rogue_Walk.anim.nasset",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Walk.anim.nasset",
         "dependencies": [
             "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
         ]
@@ -7491,6 +7526,11 @@
             "6189af9a-a258-7527-46fb-a30886d840d8",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "d52c156f-0c9b-7c90-f4d5-f0217e8ed085": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Run Hold.anim.nasset"
     },
     "d53eb050-dbeb-43d6-84c6-60dd996099e1": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -8308,6 +8348,11 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Heist/AAA_Animations/Heist Wave.anim.nasset"
     },
+    "ebae124b-54b7-da6a-63f6-14ad0de33e5b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Roll.anim.nasset"
+    },
     "ebea8b31-2da2-419b-8214-2ad713b80784": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -8754,7 +8799,7 @@
     "f8385ce4-8cd2-4237-b5b2-dec2fad400d6": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Rogue_Jump_End.anim.nasset",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Jump End.anim.nasset",
         "dependencies": [
             "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
         ]
@@ -8792,6 +8837,11 @@
             "3e66a21b-1adc-25ba-1991-d4f080d5529d"
         ]
     },
+    "f932c5d9-6f68-9430-35f8-4f027e21a4b4": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Sword Slash.anim.nasset"
+    },
     "f97c2cdb-3081-45a9-b2f3-4d27661d527a": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -8816,6 +8866,11 @@
         "dependencies": [
             "d41bcbff-78b9-6467-1e93-b3604d5a15c9"
         ]
+    },
+    "fb011c38-55bf-fefb-5e09-6f6600ab81f4": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Death.anim.nasset"
     },
     "fb3d77a8-ef1e-47c5-9cc1-117a726ecfbe": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
