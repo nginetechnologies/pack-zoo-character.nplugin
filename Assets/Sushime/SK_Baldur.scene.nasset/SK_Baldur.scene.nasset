@@ -1,0 +1,34 @@
+{
+    "guid": "0bb812d1-3661-efd0-5b86-7d47de38427d",
+    "source": "../SK_Baldur.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "309b9733-5979-dbcd-508f-8934380d2de1",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Baldur"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "13606a74-bb3f-92fc-cd60-58c24c664155",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Baldur"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "dedcec34-5137-2919-2694-c972acd094b6"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "0bb812d1-3661-efd0-5b86-7d47de38427d"
+    },
+    "dependencies": [
+        "dedcec34-5137-2919-2694-c972acd094b6"
+    ]
+}

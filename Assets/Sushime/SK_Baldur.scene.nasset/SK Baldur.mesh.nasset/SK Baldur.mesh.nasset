@@ -1,0 +1,75 @@
+{
+    "guid": "dedcec34-5137-2919-2694-c972acd094b6",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "c6416028-d6ed-1c6a-3999-798b688a207e",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "b65bb955-a6c9-8e37-ea5d-9f310879d9c6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Baldur Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "b1a55ed5-e6aa-9ab5-32e7-4940a3b44595",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "0f2edcef-0861-3bd3-86bf-6beaef71861b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Baldur Baldur"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "b012263a-379a-85eb-0a80-93d7d567b936",
+                                "material_instance": "5a53fd2d-6fbf-e51d-01c5-13249fbcf416"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "d20f8086-2b40-778a-e1c2-95eca78d436b"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "d9f46431-0cc8-aac3-c7ec-30bf7144851e"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "dedcec34-5137-2919-2694-c972acd094b6"
+    },
+    "dependencies": [
+        "5a53fd2d-6fbf-e51d-01c5-13249fbcf416",
+        "b012263a-379a-85eb-0a80-93d7d567b936",
+        "d20f8086-2b40-778a-e1c2-95eca78d436b",
+        "d9f46431-0cc8-aac3-c7ec-30bf7144851e"
+    ]
+}

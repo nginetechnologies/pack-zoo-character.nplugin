@@ -1,0 +1,181 @@
+{
+    "guid": "b73386a2-0737-46b6-83a1-addd17f91d99",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
+        "radius": 1024.0
+    },
+    "tags": ["7f567180-238f-4a1b-bcbf-fcd740c8a9ea"],
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Player"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "d4e4838b-b9dc-4788-8e33-7316ffef1693",
+            "d4e4838b-b9dc-4788-8e33-7316ffef1693": {
+                "jumpHeight": 1.2,
+                "walkingSpeed": 2.0,
+                "runningSpeed": 4.0,
+                "walkingTurnSpeed": 3.0,
+                "runningTurnSpeed": 5.5
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Player Character"
+                },
+                {
+                    "typeGuid": "be33f822-02f0-4d8b-9553-8f6200b43f83"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "b0ec7111-5de9-4039-bee2-d915f63f929e",
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0,
+                            -5,
+                            0.75
+                        ],
+                        "rotation": [
+                            -20.0,
+                            0.0,
+                            0.0
+                        ]
+                    },
+                    "b0ec7111-5de9-4039-bee2-d915f63f929e": {
+                        "fieldOfView": 60.0,
+                        "nearPlane": 0.05,
+                        "farPlane": 128.0
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Camera"
+                        },
+                        {
+                            "typeGuid": "0d3920f0-883f-41fc-bf30-2079a383cb27",
+                            "rotationSpeed": 5.0,
+                            "positionSpeed": 3.0,
+                            "verticalStep": 1.5
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "1d21d79c-5708-46c9-8e57-ee9e86476b80",
+                    "a413cecf-a566-413d-bb01-bd1317cd4bb2": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    },
+                    "ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
+                        "type": 2,
+                        "layer": 1,
+                        "overriddenMass": 80,
+                        "body_flags": 8
+                    },
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.0,
+                            0.0,
+                            0.0
+                        ]
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Character Physics"
+                        },
+                        {
+                            "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                            "mask": [
+                                "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "a87d82b2-1cd5-4b81-8103-85248c61d585",
+                            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                            },
+                            "a87d82b2-1cd5-4b81-8103-85248c61d585": {
+                                "radius": 0.25,
+                                "half_height": 0.25
+                            },
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ]
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    180.0
+                                ],
+                                "position": [
+                                    0.0,
+                                    0.0,
+                                    -0.6
+                                ],
+                                "scale": [
+                                    0.66
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": ""
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Misty Scene"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "default_camera": {
+        "position": [
+            -9.7733,
+            -1.8871,
+            4.0152
+        ],
+        "rotation": [
+            -21.9986,
+            -0.0,
+            -79.0237
+        ],
+        "fieldOfView": 60.0,
+        "nearPlane": 0.0098,
+        "farPlane": 128.0
+    },
+    "grid": {
+        "position": [
+            0.0,
+            0.0,
+            -0.5082
+        ],
+        "scale": [
+            -1.0,
+            -1.0,
+            1.0
+        ]
+    },
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "b73386a2-0737-46b6-83a1-addd17f91d99"
+    },
+    "thumbnailGuid": "c5ddc353-a579-4877-994f-2522446f52de",
+    "dependencies": [
+        ""
+    ]
+}
