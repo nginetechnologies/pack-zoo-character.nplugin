@@ -182,6 +182,52 @@
                             "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
                                 "skin": "0f6b5f26-2210-c8b1-4b03-82c1ca97652f"
                             }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "256e0842-e118-f1b7-48d2-8afdd8cbbe09",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Casual 1 Skin"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "2209b7d6-3f34-5266-69d8-cd30436ce28c",
+                                "material_instance": "3c3be70e-6799-34c5-4484-b3a138f1577c"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "5c6d75d6-9749-d7ec-66f2-c82d548b1bf8"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "8ed10d1c-93c2-c0a5-44b1-2c54e0b3108f",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Casual 1 Eyes"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ee81e758-f197-54b6-a3fa-8e6f7a2e9758",
+                                "material_instance": "975f6d13-2b52-9dc1-0eb5-0010bd1f1b02"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "70f48daf-418d-2e86-1c38-d88d523e63ee"
+                            }
                         }
                     ],
                     "f6140603-c29e-4bf9-946d-498dba6709ff": {
@@ -213,12 +259,10 @@
         "aeb675bc-5607-fb78-4d30-4e69759c49af",
         "ff811234-7500-5fdd-863b-782a683e596c",
         "0f6b5f26-2210-c8b1-4b03-82c1ca97652f",
-        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd",
-        "036bd41d-6798-4250-9b5b-740ac99c2b27",
-        "eb4d6779-7941-49b4-99de-be133f23a452",
-        "55edc8bf-99ed-4793-9a10-8631d520ad8d",
-        "4ce45968-6d0f-475b-97f4-6b4d588fe791",
-        "c455a833-32c8-4b13-8ad1-600d11a35c67",
-        "c0bfaf63-214e-4bf8-b4eb-435c975f5e75"
+        "2209b7d6-3f34-5266-69d8-cd30436ce28c",
+        "5c6d75d6-9749-d7ec-66f2-c82d548b1bf8",
+        "ee81e758-f197-54b6-a3fa-8e6f7a2e9758",
+        "70f48daf-418d-2e86-1c38-d88d523e63ee",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
     ]
 }
