@@ -1,10 +1,10 @@
 {
     "source": "A_Modular_Toon_Death.fbx",
-    "skeleton": "",
+    "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": ""
+        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
     },
     "data_components": [
         {
@@ -13,5 +13,8 @@
         }
     ],
     "guid": "1eb59c3e-8d1b-460a-b163-56fd0f1a3d31",
-    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
 }

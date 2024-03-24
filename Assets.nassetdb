@@ -60,6 +60,16 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Wolf/Animations/Wolf_Jump_Start.anim.nasset"
     },
+    "01f8fcbd-ff84-738f-4d8a-be8b8f71ad63": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Modular_Toon/SK_Male_Casual_1.scene.nasset/SK Male Casual 1.mesh.nasset/SK Male Casual 1 Brown Leather.meshskin.nasset",
+        "dependencies": [
+            "09521cb7-d38a-2824-ba87-b720835cc64d",
+            "8a87989c-d277-42f9-bb9b-b7e1193b8fcd",
+            "b16fe8c1-5a9f-d0c9-0d8d-2d464ad94591"
+        ]
+    },
     "01fbe80d-7539-4212-b6ca-6242c2567f15": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -326,6 +336,18 @@
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
     },
+    "09521cb7-d38a-2824-ba87-b720835cc64d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_Toon/SK_Male_Casual_1.scene.nasset/SK Male Casual 1.mesh.nasset/SK Male Casual 1 Brown Leather.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b16fe8c1-5a9f-d0c9-0d8d-2d464ad94591",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "0a250487-13bf-882d-8600-f0db1104d024": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Mechs/Gwart/Material Instances/Gwart Dark.mtli.nasset",
@@ -562,6 +584,16 @@
         ],
         "dependencies": [
             "17d9c462-0c68-a637-4537-6f5233dda4e5"
+        ]
+    },
+    "0f6b5f26-2210-c8b1-4b03-82c1ca97652f": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Modular_Toon/SK_Male_Casual_1.scene.nasset/SK Male Casual 1.mesh.nasset/SK Male Casual 1 Red Hair.meshskin.nasset",
+        "dependencies": [
+            "ff811234-7500-5fdd-863b-782a683e596c",
+            "8a87989c-d277-42f9-bb9b-b7e1193b8fcd",
+            "aeb675bc-5607-fb78-4d30-4e69759c49af"
         ]
     },
     "0f920536-8057-a096-6e5a-f28d8ed73253": {
@@ -2161,6 +2193,13 @@
             "b60c1b7d-8f5e-9f3f-93b3-3d9e0948e847"
         ]
     },
+    "3c3be70e-6799-34c5-4484-b3a138f1577c": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_Toon/Material Instances/Black Skin.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "3c728aeb-ffa3-feb9-efb4-1308c9ec4957": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -2510,6 +2549,10 @@
             "9022b417-09ae-5717-9668-c1aed12d40fd",
             "3c728aeb-ffa3-feb9-efb4-1308c9ec4957"
         ]
+    },
+    "43d9979d-92d5-658d-391a-b87d83e2cda6": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Modular_Toon/SK_Male_Casual_1.scene.nasset/SK_Male_Casual_1.scene.nasset"
     },
     "4405cefc-2556-6b17-d891-02fd483f9681": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -2907,6 +2950,18 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mini/Animations/Mini Holding Left.anim.nasset"
+    },
+    "5184318b-3b3e-617d-3930-24ebb3a5e6fa": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_Toon/SK_Male_Casual_1.scene.nasset/SK Male Casual 1.mesh.nasset/SK Male Casual 1 Brown Pants.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c1c168e5-b3bb-7ae5-6762-9337b8467244",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "51d99259-b250-42d7-8186-d116994bf813": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -3581,6 +3636,16 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "64575ec2-6587-1fbf-0620-997085e93140": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Modular_Toon/SK_Male_Casual_1.scene.nasset/SK Male Casual 1.mesh.nasset/SK Male Casual 1 Brown Pants.meshskin.nasset",
+        "dependencies": [
+            "5184318b-3b3e-617d-3930-24ebb3a5e6fa",
+            "8a87989c-d277-42f9-bb9b-b7e1193b8fcd",
+            "c1c168e5-b3bb-7ae5-6762-9337b8467244"
+        ]
+    },
     "64979109-6b8c-dad4-a608-739fc9fde0cc": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -4164,6 +4229,16 @@
             "1f381eaf-2d96-1c0d-f20a-118d1a4c86a9"
         ]
     },
+    "76025fef-5b11-d07d-339e-5dd92790b762": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Modular_Toon/SK_Male_Casual_1.scene.nasset/SK Male Casual 1.mesh.nasset/SK Male Casual 1 Black Skin.meshskin.nasset",
+        "dependencies": [
+            "7c2d8d1e-a8f4-a18a-1a70-e68d604e679b",
+            "8a87989c-d277-42f9-bb9b-b7e1193b8fcd",
+            "3c3be70e-6799-34c5-4484-b3a138f1577c"
+        ]
+    },
     "7705a633-79d4-8567-b29c-c2fdfbbc2385": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4425,6 +4500,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "7c2d8d1e-a8f4-a18a-1a70-e68d604e679b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_Toon/SK_Male_Casual_1.scene.nasset/SK Male Casual 1.mesh.nasset/SK Male Casual 1 Black Skin.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3c3be70e-6799-34c5-4484-b3a138f1577c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "7c364725-f2b1-e576-3d31-aacb63c16d23": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4539,6 +4626,18 @@
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
             "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
+    "7eed80a7-4f3a-0c81-15c4-a926baf31e40": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_Toon/SK_Male_Casual_1.scene.nasset/SK Male Casual 1.mesh.nasset/SK Male Casual 1 White Eyes.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "975f6d13-2b52-9dc1-0eb5-0010bd1f1b02",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "7f76df34-08d6-49c2-8997-48f257e0d5c0": {
@@ -4916,11 +5015,26 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Dragon/Animations/Dragon_Attack_2.anim.nasset"
     },
+    "8a87989c-d277-42f9-bb9b-b7e1193b8fcd": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Modular_Toon/SK_Male_Casual_1.scene.nasset/SK Male Casual 1.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
     "8b3f26a9-bef3-08a7-7089-155a82259f5c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dinosaurs/Apatosaurus/Material Instances/Apatosaurus Body.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "8bbba2e7-3c9a-86d5-5b97-4a3f858f3d86": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Modular_Toon/SK_Male_Casual_1.scene.nasset/SK Male Casual 1.mesh.nasset/SK Male Casual 1 White Eyes.meshskin.nasset",
+        "dependencies": [
+            "7eed80a7-4f3a-0c81-15c4-a926baf31e40",
+            "8a87989c-d277-42f9-bb9b-b7e1193b8fcd",
+            "975f6d13-2b52-9dc1-0eb5-0010bd1f1b02"
         ]
     },
     "8be8a690-ed5b-d5f2-aa8a-9213e7097d06": {
@@ -5379,6 +5493,13 @@
             "5a530046-5f80-97dd-bf75-d20d99a8eeca"
         ]
     },
+    "975f6d13-2b52-9dc1-0eb5-0010bd1f1b02": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_Toon/Material Instances/White Eyes.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "976b52f2-f4a9-47f8-9059-1ea2ccc24f05": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -5796,6 +5917,18 @@
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
     },
+    "a456f125-338d-4b45-872b-9c55829f271a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_Toon/SK_Male_Casual_1.scene.nasset/SK Male Casual 1.mesh.nasset/SK Male Casual 1 Royal Blue.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a754af91-d346-a92e-bdd8-9ea2e0ad7014",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "a50f1203-11b9-4415-b770-507cb9c2cf9e": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -5825,6 +5958,13 @@
         "dependencies": [
             "81c4b1b3-4526-98c2-4d4e-194b11a4a9df",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a754af91-d346-a92e-bdd8-9ea2e0ad7014": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_Toon/Material Instances/Royal Blue.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "a76138bc-3850-73e6-a5dc-e5df68df3f30": {
@@ -6106,6 +6246,13 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Dinosaurs/Triceratops/SK_Triceratops.scene.nasset/SK Triceratops.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "aeb675bc-5607-fb78-4d30-4e69759c49af": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_Toon/Material Instances/Red Hair.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "af00cc51-ef96-7a61-f681-d027f0420a76": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -6193,6 +6340,13 @@
             "c4d5185b-ec4d-e651-19db-75c5e19014a0",
             "94d419e3-39e8-88eb-70f7-35d7e3b05b79",
             "20c5a01b-5b03-92d9-1285-71d6871c9a67"
+        ]
+    },
+    "b16fe8c1-5a9f-d0c9-0d8d-2d464ad94591": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_Toon/Material Instances/Brown Leather.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "b19039d2-4ff7-4e4c-904c-a44e7dede2e0": {
@@ -6896,6 +7050,13 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Dragon/Animations/Dragon_Hit.anim.nasset"
     },
+    "c1c168e5-b3bb-7ae5-6762-9337b8467244": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_Toon/Material Instances/Brown Pants.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "c1c3a161-8981-4a87-9c83-b786d2f02f63": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Sushime/Thumbnails/Cy.scene.nasset.tex.nasset"
@@ -7531,6 +7692,16 @@
             "5a53fd2d-6fbf-e51d-01c5-13249fbcf416"
         ]
     },
+    "d2392b60-ef17-8c7b-e39e-af75d7de1714": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Modular_Toon/SK_Male_Casual_1.scene.nasset/SK Male Casual 1.mesh.nasset/SK Male Casual 1 Royal Blue.meshskin.nasset",
+        "dependencies": [
+            "a456f125-338d-4b45-872b-9c55829f271a",
+            "8a87989c-d277-42f9-bb9b-b7e1193b8fcd",
+            "a754af91-d346-a92e-bdd8-9ea2e0ad7014"
+        ]
+    },
     "d252a1d1-7299-46ba-b9c2-a2eff2547747": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -7813,6 +7984,13 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Heist/_Weapons/Rifle/SK_Rifle.scene.nasset/SK Rifle.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "db15620e-31f9-170d-8b6b-83b1da693f7c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Modular_Toon/SK_Male_Casual_1.scene.nasset/SK Male Casual 1.mesh.nasset/SK Male Casual 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
     "db16eb8c-6823-4a4b-9470-8e8b7f2f9acb": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -9234,6 +9412,18 @@
         "path": "Assets/Dinosaurs/Parasaurolophus/Animations/Parasaurolophus_Jump_Loop.anim.nasset",
         "dependencies": [
             "3c728aeb-ffa3-feb9-efb4-1308c9ec4957"
+        ]
+    },
+    "ff811234-7500-5fdd-863b-782a683e596c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_Toon/SK_Male_Casual_1.scene.nasset/SK Male Casual 1.mesh.nasset/SK Male Casual 1 Red Hair.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "aeb675bc-5607-fb78-4d30-4e69759c49af",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "ffbfc1d0-f505-4d72-b45e-22ae143e2851": {
