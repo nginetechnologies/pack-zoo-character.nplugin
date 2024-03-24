@@ -1,0 +1,34 @@
+{
+    "guid": "01c0bbb2-99a7-23bd-a713-47c1f2401a8f",
+    "source": "../SK_Male_Adventurer.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "74fa369d-c356-f248-c542-0911e197f00c",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Male Adventurer"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a572b102-dbc1-9ca9-75d0-438a8a67fc2a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Adventurer"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "188a6a71-ffbf-c6aa-a06c-ec7d29f520d2"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "01c0bbb2-99a7-23bd-a713-47c1f2401a8f"
+    },
+    "dependencies": [
+        "188a6a71-ffbf-c6aa-a06c-ec7d29f520d2"
+    ]
+}

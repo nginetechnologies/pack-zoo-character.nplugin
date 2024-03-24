@@ -1,0 +1,309 @@
+{
+    "guid": "188a6a71-ffbf-c6aa-a06c-ec7d29f520d2",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "bd82a759-ade4-2f35-b4e2-c6b1c3e95963",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "ede285df-6277-ee33-4426-206e99eb18ac",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Adventurer Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "f63823bf-6c6b-f6fc-b199-14e45dfd9239",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "341a607d-4349-dae7-1a15-ea2dab1851b7",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Adventurer Black 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f2b273da-bc46-aa5c-b935-274fc64e6522",
+                                "material_instance": "2cb2bcae-4c72-7889-facb-7b4cb09a487d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "abe7e7be-b79e-a574-26ff-9726adc33c55"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "09a2bc0a-dfbf-8a44-d86f-d790758563fb",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Adventurer Grey 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "beb5d2f0-4bcf-676f-1819-503f4710d5fe",
+                                "material_instance": "e45002be-5287-10ca-9d5f-13df690b6f34"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "766a8e48-12b5-85ad-2417-15388c7d947a"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "3b0f948f-d141-643d-efbd-3f3e54d9f60a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Adventurer Brown 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "64050fc3-8a42-99e3-87ad-a409867da38d",
+                                "material_instance": "185eec15-3a74-3d14-882c-d031c74bde40"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "c42c1880-32ea-aca7-8c78-70c237b6c170"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "ae0a627c-e62a-303d-ca99-4862894a8416",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Adventurer Brown 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f3390ed9-0ddf-6c66-8396-3f75227042df",
+                                "material_instance": "362a4c77-febb-0328-2673-0c1d5028b3e1"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "863b5e65-8e6a-c888-1623-6c86802d1f11"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "fb9389ef-2d0f-fb03-3fa5-39f7aaf1e112",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Adventurer Green 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "9acd3440-1360-d115-8297-10af19255c22",
+                                "material_instance": "6df30434-a7c9-d0d5-5581-ea98b15e0a73"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "7f1dedf6-f6cc-0f64-15ba-47d7a4101fec"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "0af75c3a-ccf0-c0e0-35d7-1e1c7b713b83",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Adventurer Green Light"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "2df6f25a-5033-575b-97af-c2927a72dce7",
+                                "material_instance": "c07af5ae-fe24-9314-adb1-607f98d77092"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "21ce9012-9d94-4c7e-041c-ca082462c196"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "63413223-7640-0665-2499-55370cb39c0b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Adventurer Skin"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "660c0310-00bf-34c5-bb5b-d8ef17187a4d",
+                                "material_instance": "632c0acb-e414-2dd0-c921-7d94ebb6b5e7"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "20333277-ec35-02de-74ad-b8418dd88871"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "5c6331d6-b859-60c6-b676-82d9492fea93",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Adventurer Hair Brown"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "2697093d-7462-cb88-3129-fd324d6d440f",
+                                "material_instance": "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "263f431f-4145-c01f-e142-2db2ddf8a6ad"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "3f642756-1aec-d91b-9c18-65e6b4b0b567",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Adventurer Hair Red"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "da328561-2ac9-74c0-22de-466a0ef63602",
+                                "material_instance": "d1a5ada9-30a1-e546-7928-e5bcdd07b39f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "e5a4804f-6e3f-2a12-5d37-96bb153a8992"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "8bbc90e3-b39e-5e0e-a85e-3f502b254036",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Adventurer Gold 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "613e5b61-21aa-2021-cab0-85e3a3cef4fa",
+                                "material_instance": "019d2c43-eace-08a9-287e-11343882471c"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "af27e4ec-021d-c090-8e41-cb8efd0cf9c2"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "188a6a71-ffbf-c6aa-a06c-ec7d29f520d2"
+    },
+    "dependencies": [
+        "2cb2bcae-4c72-7889-facb-7b4cb09a487d",
+        "f2b273da-bc46-aa5c-b935-274fc64e6522",
+        "abe7e7be-b79e-a574-26ff-9726adc33c55",
+        "e45002be-5287-10ca-9d5f-13df690b6f34",
+        "beb5d2f0-4bcf-676f-1819-503f4710d5fe",
+        "766a8e48-12b5-85ad-2417-15388c7d947a",
+        "185eec15-3a74-3d14-882c-d031c74bde40",
+        "64050fc3-8a42-99e3-87ad-a409867da38d",
+        "c42c1880-32ea-aca7-8c78-70c237b6c170",
+        "362a4c77-febb-0328-2673-0c1d5028b3e1",
+        "f3390ed9-0ddf-6c66-8396-3f75227042df",
+        "863b5e65-8e6a-c888-1623-6c86802d1f11",
+        "6df30434-a7c9-d0d5-5581-ea98b15e0a73",
+        "9acd3440-1360-d115-8297-10af19255c22",
+        "7f1dedf6-f6cc-0f64-15ba-47d7a4101fec",
+        "c07af5ae-fe24-9314-adb1-607f98d77092",
+        "2df6f25a-5033-575b-97af-c2927a72dce7",
+        "21ce9012-9d94-4c7e-041c-ca082462c196",
+        "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+        "660c0310-00bf-34c5-bb5b-d8ef17187a4d",
+        "20333277-ec35-02de-74ad-b8418dd88871",
+        "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78",
+        "2697093d-7462-cb88-3129-fd324d6d440f",
+        "263f431f-4145-c01f-e142-2db2ddf8a6ad",
+        "d1a5ada9-30a1-e546-7928-e5bcdd07b39f",
+        "da328561-2ac9-74c0-22de-466a0ef63602",
+        "e5a4804f-6e3f-2a12-5d37-96bb153a8992",
+        "019d2c43-eace-08a9-287e-11343882471c",
+        "613e5b61-21aa-2021-cab0-85e3a3cef4fa",
+        "af27e4ec-021d-c090-8e41-cb8efd0cf9c2",
+        "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+    ]
+}

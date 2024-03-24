@@ -50,6 +50,13 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Animals/Snake/Material Instances/Snake Main.mtli.nasset"
     },
+    "019d2c43-eace-08a9-287e-11343882471c": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Gold 1.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "01ae8cf0-8de2-41e9-bb01-b01eb0e30aed": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -59,6 +66,10 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Wolf/Animations/Wolf_Jump_Start.anim.nasset"
+    },
+    "01c0bbb2-99a7-23bd-a713-47c1f2401a8f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK_Male_Adventurer.scene.nasset"
     },
     "01f8fcbd-ff84-738f-4d8a-be8b8f71ad63": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -93,12 +104,43 @@
             "970aa2c0-fdca-aa64-c48c-844f88e5548c"
         ]
     },
+    "02668100-9809-a2ab-8919-5ce51cffd091": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/Pistol.mesh.nasset/Pistol Grey 1.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2e14a483-4d9d-f4b9-7c4a-c7644f2435bf",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "027476d5-faf1-435f-9fd4-8a6c316c05fe": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Monsters/Big/Hanzo/Hanzo_Jump_Start.anim.nasset",
         "dependencies": [
             "793c6a70-4969-f8d8-e862-721b1ccf5d02"
+        ]
+    },
+    "02c30ffd-fd1a-6c50-7ee1-77a939f178be": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/Sword.mesh.nasset/Sword Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e655ec19-afa4-7e79-ebec-9fa64e2d5abd",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "02d6e082-fa41-3503-ea0a-74b83b2c39c8": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Green Light.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "02dd2e1c-af1e-a70b-f7a1-62256767658d": {
@@ -159,6 +201,13 @@
         "dependencies": [
             "3858271c-9362-0f4b-e21a-d2b8a07ba385",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "04166593-0d75-9b9d-46d4-c4752ae64464": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Hair Brown.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "0454c0a8-d663-3747-0c18-eea351ff5f40": {
@@ -356,6 +405,20 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "0a166686-5ee9-65f7-8d0a-6b90f03927b3": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Black 1.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "0a19ca24-940a-6257-db05-c9e0a583d377": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Gold 1.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "0a250487-13bf-882d-8600-f0db1104d024": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Mechs/Gwart/Material Instances/Gwart Dark.mtli.nasset",
@@ -390,6 +453,18 @@
         "path": "Assets/Dinosaurs/Parasaurolophus/Animations/Parasaurolophus_Jump_Start.anim.nasset",
         "dependencies": [
             "3c728aeb-ffa3-feb9-efb4-1308c9ec4957"
+        ]
+    },
+    "0ad1c337-c5cf-8487-3ae9-396b86c636db": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Black 1.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0a166686-5ee9-65f7-8d0a-6b90f03927b3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "0ae3ba40-dad4-b1a1-d551-36d615610376": {
@@ -760,6 +835,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Animals/Rat/Thumbnails/Rat.scene.nasset.tex.nasset"
     },
+    "13738384-2930-7ca5-ec3c-bbb9e5c5e688": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK_Male_Adventurer.scene.nasset"
+    },
     "139bd1fd-1232-4bf0-8d90-8a9c89e1cf57": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -833,6 +912,13 @@
         "path": "Assets/Misc/Alien/Animations/Alien Rogue Run.anim.nasset",
         "dependencies": [
             "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
+        ]
+    },
+    "14e0e477-f7d8-22d3-d5dc-9d60c05894a4": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/DarkBrown3.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "14efef50-cbb0-40ef-8f1e-333d2ff6728f": {
@@ -978,6 +1064,20 @@
         "path": "Assets/Monsters/Big/Teddy/Material Instances/Yeti Main.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "185eec15-3a74-3d14-882c-d031c74bde40": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Brown 2.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "188a6a71-ffbf-c6aa-a06c-ec7d29f520d2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "18fb2c8e-ac45-3680-75fb-7547858792b3": {
@@ -1211,10 +1311,32 @@
             "eddd8214-b9e9-8bdb-a3d6-17a6446490e8"
         ]
     },
+    "20333277-ec35-02de-74ad-b8418dd88871": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Skin.meshskin.nasset",
+        "dependencies": [
+            "660c0310-00bf-34c5-bb5b-d8ef17187a4d",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+            "632c0acb-e414-2dd0-c921-7d94ebb6b5e7"
+        ]
+    },
     "203b33af-d456-489d-9f69-37af88a5bcb3": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mini/Animations/Mini Attack Kick Left.anim.nasset"
+    },
+    "208adf2c-d906-9c96-d1df-a2659f19c791": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Brown 2.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "762f49d9-8f4b-3dc8-c903-4bf04766f130",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "208b8246-1b97-4934-a9a8-153ff0bf879f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1264,6 +1386,16 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Modular_People/Animations/Modular People Gun Shoot.anim.nasset"
     },
+    "21ce9012-9d94-4c7e-041c-ca082462c196": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Green Light.meshskin.nasset",
+        "dependencies": [
+            "2df6f25a-5033-575b-97af-c2927a72dce7",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+            "c07af5ae-fe24-9314-adb1-607f98d77092"
+        ]
+    },
     "21d71db5-155b-21de-f851-0ab5ac76087b": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -1278,6 +1410,13 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mechs/Stan/SK_Stan.scene.nasset/SK Stan.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "22995587-45eb-6f0e-003d-fb3dc87f6bd4": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Hair Brown.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "22a1a375-592a-4c6e-8832-182d112c4a8d": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -1401,6 +1540,13 @@
             "5aaeb590-2bb2-2171-71ae-c2dd228d0437"
         ]
     },
+    "25b2def2-1357-67be-0811-fc2ce74921a9": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Skin.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "25ce46c4-20ca-438a-e413-34fbf78f4fa3": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Mini/Material Instances/Mini Human.mtli.nasset",
@@ -1438,6 +1584,16 @@
             "0b3d2f7d-cbd7-ef1d-4202-5bc8ec33572f"
         ]
     },
+    "263f431f-4145-c01f-e142-2db2ddf8a6ad": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Hair Brown.meshskin.nasset",
+        "dependencies": [
+            "2697093d-7462-cb88-3129-fd324d6d440f",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+            "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78"
+        ]
+    },
     "265ed15e-1b09-c46a-be38-5cd95b8600e4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Heist/Material Instances/Thumbnails/Black.mtli.nasset.tex.nasset"
@@ -1446,6 +1602,18 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Husky/Animations/Husky_Jump_Start.anim.nasset"
+    },
+    "2697093d-7462-cb88-3129-fd324d6d440f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Hair Brown.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "26aab986-ecd8-2e5b-fa20-bbba9afad2fd": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1562,6 +1730,13 @@
             "71687d46-3362-4a65-b838-5f4af2be2e12",
             "33973dee-9e3b-4ee2-a3df-74854e6da0a6",
             "618faef9-ce00-45da-97ed-8b2d35d9cf18"
+        ]
+    },
+    "2a3fc06f-1ec6-0c59-8e64-a0950eaa4d35": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/Sword.mesh.nasset/Sword.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "2a68358d-c9ce-4569-9e62-cb20f78d5076": {
@@ -1696,6 +1871,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "2cb2bcae-4c72-7889-facb-7b4cb09a487d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Black 1.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "2d892fd4-ec5e-309c-6a82-8da148ab6e48": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dinosaurs/Parasaurolophus/Material Instances/Parasaurolophus Nails.mtli.nasset",
@@ -1713,6 +1895,18 @@
             "85c03a10-3ec0-2097-67b0-14f574e95af3"
         ]
     },
+    "2df6f25a-5033-575b-97af-c2927a72dce7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Green Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c07af5ae-fe24-9314-adb1-607f98d77092",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "2dfc0ffe-4c52-4531-b7e6-81bfe272b7f2": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1721,6 +1915,13 @@
     "2e085bbf-b51f-3bc6-01b5-7c0383cb282b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Animals/Sheep/Material Instances/Sheep Fur.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "2e14a483-4d9d-f4b9-7c4a-c7644f2435bf": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Grey 1.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1913,6 +2114,18 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mini/Animations/Mini Holding Both.anim.nasset"
     },
+    "336d85b7-3af8-e866-fc4c-18962a676da8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Gold 1.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f4735177-2279-5d86-f700-3788b89aacf9",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "3384231e-1e46-f82f-66d2-8719d85f00e9": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -2010,6 +2223,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
     "35ba66fc-6842-4c2f-81d4-68f8ef629ca5": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -2035,6 +2253,13 @@
             "0009406c-2227-053c-b106-24a2f91ba400",
             "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480",
             "3efeacdc-5db2-2a94-8e46-789f80a12f8d"
+        ]
+    },
+    "362a4c77-febb-0328-2673-0c1d5028b3e1": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Brown 1.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "363f77e1-8da9-4e83-8d10-cc54fa8fb649": {
@@ -2226,6 +2451,18 @@
         "path": "Assets/Animals/Pig/Animations/Pig_Walk.anim.nasset",
         "dependencies": [
             "b60c1b7d-8f5e-9f3f-93b3-3d9e0948e847"
+        ]
+    },
+    "3c33a7e0-bdfc-aaa6-9dcd-9b0a43e98c6e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Green Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c25aa9ef-7e32-c509-3c35-daa1078d29ce",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "3c3be70e-6799-34c5-4484-b3a138f1577c": {
@@ -2487,6 +2724,13 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "41c19209-4bfe-32d3-df47-4f345caa623a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Brown 1.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "41dde2a3-1979-4bf6-b337-e49c2dce8cb0": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2601,6 +2845,13 @@
             "0c1c7403-b05c-1462-6332-67e0058f2684",
             "265d1a29-d656-a2e5-7771-8fe8e116e427",
             "a9d80174-885a-96ff-d0d5-6e19f831aa12"
+        ]
+    },
+    "44fe5fe2-0ff8-8a75-2710-eb8395d1b039": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Skin.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "451c3d4f-b750-f4c1-7b54-d877584e80e9": {
@@ -2726,6 +2977,13 @@
         "path": "Assets/Animals/Fox/Animations/Fox_Idle.anim.nasset",
         "dependencies": [
             "07e0879b-248d-6d8c-9893-63c1adc8c200"
+        ]
+    },
+    "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Hair Brown.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "4a2df8ea-0434-8c34-a23b-fe5a414c9fb1": {
@@ -2862,6 +3120,18 @@
     "4e37ddf4-55e9-4e0a-b5e4-2749bb7296f6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Monsters/Big/Teddy/Thumbnails/Teddy.scene.nasset.tex.nasset"
+    },
+    "4e511dc7-f20d-8562-a9cb-edb03b6128a7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Brown 2.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f55d6272-5de3-b7eb-189d-4e713d9bb495",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "4e5eb31e-8555-41af-9cf0-649505df31c3": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -3079,6 +3349,18 @@
         "path": "Assets/Monsters/Rounded/AAA_Animations/Material Instances/Base.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "53bbf99d-dbac-863a-bb72-f992818ef04c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Hair Brown.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "22995587-45eb-6f0e-003d-fb3dc87f6bd4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "53e9ed70-47cc-0564-3074-f8a87a4b4d4b": {
@@ -3417,6 +3699,18 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Dinosaurs/Parasaurolophus/Thumbnails/Parasaurolophus.scene.nasset.tex.nasset"
     },
+    "5d76a934-7f1d-5df2-0d04-27d99185a472": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer DarkBrown3.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "14e0e477-f7d8-22d3-d5dc-9d60c05894a4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "5d811aae-aa46-e655-1b5f-73bc4e23cfae": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Heist/Material Instances/Red.mtli.nasset",
@@ -3431,6 +3725,18 @@
         "path": "Assets/Dinosaurs/Triceratops/Animations/Triceratops_Jump_End.anim.nasset",
         "dependencies": [
             "add9eeac-039d-8c56-5381-6e886b6b3b0e"
+        ]
+    },
+    "5e0ac2d9-95a3-e4f7-afc9-d3f82469fd98": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/Sword.mesh.nasset/Sword Metal3.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "ff16a4a8-09f4-9322-507f-356031825b88",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "5e383d9a-6081-63b3-bbc5-0c3749e420f0": {
@@ -3519,6 +3825,18 @@
             "f4719362-bedc-3636-6155-d659b56396b7",
             "9ec2eec7-2172-47fa-0a3a-d37c80913c5b",
             "0eaeff54-959c-56fc-919f-9706ffedbe64"
+        ]
+    },
+    "613e5b61-21aa-2021-cab0-85e3a3cef4fa": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Gold 1.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "019d2c43-eace-08a9-287e-11343882471c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "61585b28-faf2-46e0-aa21-87d7b974fb01": {
@@ -3613,6 +3931,13 @@
             "220790e2-60ee-b80e-0633-0981fe5894ce"
         ]
     },
+    "632c0acb-e414-2dd0-c921-7d94ebb6b5e7": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Skin.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "632fac2a-1392-40aa-b838-ba0b67255efd": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3653,6 +3978,18 @@
         ],
         "dependencies": [
             "d40f1667-3ce6-57d4-9042-aa3eec117866",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "64050fc3-8a42-99e3-87ad-a409867da38d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Brown 2.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "185eec15-3a74-3d14-882c-d031c74bde40",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -3708,6 +4045,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "660c0310-00bf-34c5-bb5b-d8ef17187a4d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Skin.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "6612b532-f014-6b8c-1fe3-9dd28429a720": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3731,6 +4080,20 @@
         ],
         "dependencies": [
             "7a87bb9d-d0cc-0883-9cbd-8d005fdae678"
+        ]
+    },
+    "6674c2a4-001a-bf4d-7745-01cda51cd6b7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "66badd29-acda-719b-bfe7-fccaf7ac6606": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Black 1.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "66ed6e43-16d5-438d-a584-6772ed618424": {
@@ -3807,6 +4170,10 @@
             "bca4f5c9-096e-45dd-9dfd-5323ac3df1c0",
             "41eecb07-491c-4a32-aeb8-e4bf73ca92fc"
         ]
+    },
+    "6855c173-75f6-5e33-5b1b-fe69fc86bb46": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK_Male_Adventurer.scene.nasset"
     },
     "68a4eabe-4fe8-98ad-bec2-029bd7fb223d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3962,6 +4329,13 @@
         "dependencies": [
             "dfdf01d0-dde0-d2fd-2b2e-aad2f747e0ab",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6df30434-a7c9-d0d5-5581-ea98b15e0a73": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Green 1.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "6e575b4c-b084-ba27-f1d4-810eb8cc7ec3": {
@@ -4204,6 +4578,18 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Monsters/Big/Cain/Thumbnails/Cain.scene.nasset.tex.nasset"
     },
+    "7356b05b-bf5c-fdcc-6e48-b0f3a7048be8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Green 1.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "dac7dfc5-f6f1-3f69-d6e8-6e76496554f4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "735f097e-d23b-44b1-8c11-2b5164d1ca53": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -4218,6 +4604,13 @@
         "path": "Assets/Dinosaurs/Velociraptor/Animations/Velociraptor_Run.anim.nasset",
         "dependencies": [
             "bc6c4d4b-a05b-6e71-5d0f-7689c128925b"
+        ]
+    },
+    "73f55eae-730d-1efb-53fc-720fef97eba8": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Brown 1.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "74007bdd-f33b-48f5-a268-9fca81d0d5ad": {
@@ -4245,6 +4638,13 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Animals/Spider/Material Instances/Thumbnails/Spider Main.mtli.nasset.tex.nasset"
     },
+    "74dcf28f-8e57-e6f2-6353-1c9fb90dbd89": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Grey 1.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "74e3b6d8-d042-45c0-a11a-c42c67d86ede": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Animals/Pig/Thumbnails/Pig.scene.nasset.tex.nasset"
@@ -4269,6 +4669,18 @@
             "8e676748-0b12-e7c7-d974-4ff4c059a00b"
         ]
     },
+    "75a00b3c-7c13-d536-b52a-eb5a7b517ad8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Gold 1.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0a19ca24-940a-6257-db05-c9e0a583d377",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "75b7e6c1-c363-1a99-0a65-a46ff5257a57": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -4287,6 +4699,23 @@
             "7c2d8d1e-a8f4-a18a-1a70-e68d604e679b",
             "8a87989c-d277-42f9-bb9b-b7e1193b8fcd",
             "3c3be70e-6799-34c5-4484-b3a138f1577c"
+        ]
+    },
+    "762f49d9-8f4b-3dc8-c903-4bf04766f130": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Brown 2.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "766a8e48-12b5-85ad-2417-15388c7d947a": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Grey 1.meshskin.nasset",
+        "dependencies": [
+            "beb5d2f0-4bcf-676f-1819-503f4710d5fe",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+            "e45002be-5287-10ca-9d5f-13df690b6f34"
         ]
     },
     "7705a633-79d4-8567-b29c-c2fdfbbc2385": {
@@ -4695,6 +5124,16 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "7f1dedf6-f6cc-0f64-15ba-47d7a4101fec": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Green 1.meshskin.nasset",
+        "dependencies": [
+            "9acd3440-1360-d115-8297-10af19255c22",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+            "6df30434-a7c9-d0d5-5581-ea98b15e0a73"
+        ]
+    },
     "7f76df34-08d6-49c2-8997-48f257e0d5c0": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -4845,6 +5284,13 @@
             "54f9bb00-d36e-6844-f8ee-d2b8df92e80a"
         ]
     },
+    "8386d1df-9ef1-4176-e35e-af365ea30045": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Black 2.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "83ba8884-4092-9ddb-1af0-0217cf07aa13": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Animals/Spider/Material Instances/Thumbnails/Spider Eyes.mtli.nasset.tex.nasset"
@@ -4928,6 +5374,16 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Modular_People/Animations/Modular People Interact.anim.nasset"
     },
+    "863b5e65-8e6a-c888-1623-6c86802d1f11": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Brown 1.meshskin.nasset",
+        "dependencies": [
+            "f3390ed9-0ddf-6c66-8396-3f75227042df",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+            "362a4c77-febb-0328-2673-0c1d5028b3e1"
+        ]
+    },
     "868c14a2-44df-60db-a3f2-651cf0fafe78": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4937,6 +5393,18 @@
         ],
         "dependencies": [
             "7a517bd4-d8fc-ec95-47ff-2f38d85beb41",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "86a58f2f-3322-63b2-749c-000353a12c94": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Brown 1.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "73f55eae-730d-1efb-53fc-720fef97eba8",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -5677,12 +6145,36 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mini/Animations/Mini Fall.anim.nasset"
     },
+    "9acd3440-1360-d115-8297-10af19255c22": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Green 1.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "6df30434-a7c9-d0d5-5581-ea98b15e0a73",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "9ae58b54-ac12-4a44-3a05-06ccceb38ade": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Mini/SK_Mini_Skater_Girl.scene.nasset/SK_Mini_Skater_Girl.scene.nasset",
         "dependencies": [
             "c0ef37a3-1fe9-a633-bf90-51c2de6ecce5"
+        ]
+    },
+    "9af37a37-c67d-d99f-c358-00abf9758022": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Brown 1.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "41c19209-4bfe-32d3-df47-4f345caa623a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "9afb1e9a-0fbe-4246-b3ed-1a8a517c5d81": {
@@ -6146,6 +6638,18 @@
             "07e0879b-248d-6d8c-9893-63c1adc8c200"
         ]
     },
+    "ab5a8043-6f97-b725-12bd-474412f167ca": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Black 1.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "66badd29-acda-719b-bfe7-fccaf7ac6606",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "ab93cd3e-7f97-8a5f-df0d-a2e316748d8d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -6191,6 +6695,28 @@
             "a25cff00-66dc-4ecb-b821-2dfcfb24ad83",
             "94ccc4b9-58cc-4a11-a6f6-31fdf8d755d5",
             "f8385ce4-8cd2-4237-b5b2-dec2fad400d6"
+        ]
+    },
+    "abcad4b7-55b5-1bfc-10a5-9cc9179ec65d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Grey 1.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2e14a483-4d9d-f4b9-7c4a-c7644f2435bf",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "abe7e7be-b79e-a574-26ff-9726adc33c55": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Black 1.meshskin.nasset",
+        "dependencies": [
+            "f2b273da-bc46-aa5c-b935-274fc64e6522",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+            "2cb2bcae-4c72-7889-facb-7b4cb09a487d"
         ]
     },
     "abfaf3ed-4ec7-8b5d-6030-6cb81e089ffa": {
@@ -6310,11 +6836,40 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Dinosaurs/Triceratops/SK_Triceratops.scene.nasset/SK Triceratops.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "ade809fd-75e8-be0f-2dff-f589a638d856": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Green 1.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "ae1f629f-0d04-849b-757c-cdc7133a2919": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/Pistol.mesh.nasset/Pistol DarkBrown3.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "14e0e477-f7d8-22d3-d5dc-9d60c05894a4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "aeb675bc-5607-fb78-4d30-4e69759c49af": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Modular_Toon/Material Instances/Red Hair.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "af27e4ec-021d-c090-8e41-cb8efd0cf9c2": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Gold 1.meshskin.nasset",
+        "dependencies": [
+            "613e5b61-21aa-2021-cab0-85e3a3cef4fa",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+            "019d2c43-eace-08a9-287e-11343882471c"
         ]
     },
     "af283e6e-4830-ec93-0b9d-c8edbeaf258d": {
@@ -6724,6 +7279,18 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Heist/Material Instances/Thumbnails/Blue Grey.mtli.nasset.tex.nasset"
     },
+    "ba2961c9-069c-ba36-7676-f35c47ccfd11": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Hair Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bcc2c878-3e2f-5359-6521-f83f45b7ef51",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "ba37628f-765a-fbaf-039b-89c08fbcded6": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -6885,6 +7452,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "bcc2c878-3e2f-5359-6521-f83f45b7ef51": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Hair Red.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "bd1a945a-95e2-a5af-f0f8-53cd82f00e76": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -6958,6 +7532,18 @@
         "path": "Assets/Mechs/Stan/Stan_Run.anim.nasset",
         "dependencies": [
             "220790e2-60ee-b80e-0633-0981fe5894ce"
+        ]
+    },
+    "beb5d2f0-4bcf-676f-1819-503f4710d5fe": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Grey 1.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e45002be-5287-10ca-9d5f-13df690b6f34",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "bf260724-7066-4cc8-9a37-6708053f3e17": {
@@ -7045,6 +7631,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "c07af5ae-fe24-9314-adb1-607f98d77092": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Green Light.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "c0bfaf63-214e-4bf8-b4eb-435c975f5e75": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -7128,6 +7721,13 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Sushime/Thumbnails/Cy.scene.nasset.tex.nasset"
     },
+    "c25aa9ef-7e32-c509-3c35-daa1078d29ce": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Green Light.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "c297b0cf-fed9-7ea0-b933-810eab73b340": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -7188,6 +7788,16 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Modular_People/Animations/Modular People Sword Slash.anim.nasset"
+    },
+    "c42c1880-32ea-aca7-8c78-70c237b6c170": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Brown 2.meshskin.nasset",
+        "dependencies": [
+            "64050fc3-8a42-99e3-87ad-a409867da38d",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+            "185eec15-3a74-3d14-882c-d031c74bde40"
+        ]
     },
     "c448c2ec-7df6-44de-acf8-4467c5414d96": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -7379,6 +7989,13 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Heist/AAA_Animations/Heist Walk Shoot.anim.nasset"
+    },
+    "c7cb1fad-fd1f-3849-c421-a701833b47f1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
     "c7dfcb41-e05b-e67c-0f34-ae408e8e43c3": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -7579,6 +8196,18 @@
             "8e676748-0b12-e7c7-d974-4ff4c059a00b"
         ]
     },
+    "cdbb3f9f-9802-2c47-eab2-04cd7f3a64c3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Skin.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "44fe5fe2-0ff8-8a75-2710-eb8395d1b039",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "cde05d69-5fc9-af10-72c4-7370efa03c01": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dinosaurs/Trex/Material Instances/Trex Belly.mtli.nasset",
@@ -7742,6 +8371,13 @@
             "5aaeb590-2bb2-2171-71ae-c2dd228d0437"
         ]
     },
+    "d1a5ada9-30a1-e546-7928-e5bcdd07b39f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Hair Red.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "d1f564b4-bf77-f388-4cd8-a38f2f83386e": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Animals/Pug/Material Instances/Pug Face.mtli.nasset",
@@ -7817,6 +8453,18 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Snake/Animations/Snake_Jump_Start.anim.nasset"
     },
+    "d3ec09cf-7e17-99d7-3471-a18d04aec1d5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Skin.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "25b2def2-1357-67be-0811-fc2ce74921a9",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "d3f00be8-b2bc-3fce-c2fa-bce5e66c5958": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -7886,6 +8534,18 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mini/SK_Mini_Gladiator.scene.nasset/SK Mini Gladiator.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "d4768b09-ad7e-b396-6ae6-8ab18f8c0ce3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Grey 1.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "74dcf28f-8e57-e6f2-6353-1c9fb90dbd89",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "d47b6347-605b-48a6-acc8-05a5281325a3": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -8011,6 +8671,13 @@
             "07e0879b-248d-6d8c-9893-63c1adc8c200"
         ]
     },
+    "d8e78a3b-975c-0f35-aba0-e6d29a8fb9de": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/Pistol.mesh.nasset/Pistol.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "d91f8d25-0581-2da6-99f3-c72d7235ee37": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -8036,6 +8703,18 @@
             "4b6af2ca-144e-c3ba-6fef-7d913f35c3e6"
         ]
     },
+    "da328561-2ac9-74c0-22de-466a0ef63602": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Hair Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d1a5ada9-30a1-e546-7928-e5bcdd07b39f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "daacb7a6-e3a3-2406-f045-45a780838279": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -8046,6 +8725,13 @@
         "dependencies": [
             "62574fa5-02df-da40-1a07-4f8fd2213aba",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "dac7dfc5-f6f1-3f69-d6e8-6e76496554f4": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Green 1.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "dad7e293-b162-9581-a8f7-723ad19d54c9": {
@@ -8175,6 +8861,30 @@
         ],
         "dependencies": [
             "e06afe4b-9e14-5569-8b5b-f5078b283377",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "dd855a18-fd2f-826a-51a9-440701816985": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Hair Brown.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "04166593-0d75-9b9d-46d4-c4752ae64464",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "dd9b501a-7230-dfd8-e58a-4ba057ecd293": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Green Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "02d6e082-fa41-3503-ea0a-74b83b2c39c8",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -8432,6 +9142,18 @@
             "eddd8214-b9e9-8bdb-a3d6-17a6446490e8"
         ]
     },
+    "e2c5e3aa-b5ae-64f1-cd61-50435d14acc9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Green 1.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "ade809fd-75e8-be0f-2dff-f589a638d856",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "e35ef854-1392-4d4d-82f6-03727e987782": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -8453,6 +9175,13 @@
             "72312694-0e4d-3177-383e-3396724592ed",
             "02905ff4-6727-df2f-7e63-001005fbf912",
             "d2014c2b-3063-2f77-db91-784ffdc786fc"
+        ]
+    },
+    "e45002be-5287-10ca-9d5f-13df690b6f34": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Grey 1.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "e4751355-e32f-e1fe-72fc-e381e30c65b7": {
@@ -8512,6 +9241,16 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Wolf/Animations/Wolf_Idle.anim.nasset"
     },
+    "e5a4804f-6e3f-2a12-5d37-96bb153a8992": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Hair Red.meshskin.nasset",
+        "dependencies": [
+            "da328561-2ac9-74c0-22de-466a0ef63602",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+            "d1a5ada9-30a1-e546-7928-e5bcdd07b39f"
+        ]
+    },
     "e610081e-8f74-9a05-4b54-eef6d4b28cb6": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -8522,6 +9261,13 @@
         "dependencies": [
             "2ac34ad7-d032-06a4-98d0-e4b078b536ec",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e655ec19-afa4-7e79-ebec-9fa64e2d5abd": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Metal Dark.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "e6b9afdb-2929-4608-b6e0-95383edffcd7": {
@@ -9025,6 +9771,18 @@
             "1ded6e80-1ade-2e14-daea-200e4b05a186"
         ]
     },
+    "f2b273da-bc46-aa5c-b935-274fc64e6522": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Black 1.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2cb2bcae-4c72-7889-facb-7b4cb09a487d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "f2bdbc04-4d43-cbae-a998-4bad73ab545d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -9053,10 +9811,34 @@
             "8e676748-0b12-e7c7-d974-4ff4c059a00b"
         ]
     },
+    "f3390ed9-0ddf-6c66-8396-3f75227042df": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/SK Male Adventurer.mesh.nasset/SK Male Adventurer Brown 1.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "362a4c77-febb-0328-2673-0c1d5028b3e1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "f34c4f2a-66fb-4eee-34a8-e5c16c3ccc7c": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Animals/Snake/SK_Snake.scene.nasset/SK Snake.mesh.nasset/SK Snake Snake Mouth.meshskin.nasset"
+    },
+    "f3d77870-4cbe-2d06-4277-9a4b96e2663a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/Pistol.mesh.nasset/Pistol Black 2.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "8386d1df-9ef1-4176-e35e-af365ea30045",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "f4003127-f26e-42e5-8838-f1e3b408a8ba": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -9106,12 +9888,26 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "f4735177-2279-5d86-f700-3788b89aacf9": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Gold 1.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "f524c14a-8656-4400-912c-e98f126ce313": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mechs/George/George_Run.anim.nasset",
         "dependencies": [
             "a85be35e-5a2b-8bba-8c91-c1e7580edd7f"
+        ]
+    },
+    "f55d6272-5de3-b7eb-189d-4e713d9bb495": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Brown 2.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "f56759ae-c362-42f7-f03f-46ed050a878c": {
@@ -9186,6 +9982,18 @@
         "path": "Assets/Dinosaurs/Trex/SK_Trex.scene.nasset/SK_Trex.scene.nasset",
         "dependencies": [
             "cda990b2-83bb-5692-3b6d-8bb15fcb90db"
+        ]
+    },
+    "f737dc8b-5526-5fcd-e501-2a1eedf6f8fa": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Adventurer.scene.nasset/Sword.mesh.nasset/Sword Brown 2.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f55d6272-5de3-b7eb-189d-4e713d9bb495",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "f74ece03-c3ab-d805-d5f0-10ff1ca9dc62": {
@@ -9498,6 +10306,13 @@
         "dependencies": [
             "6a039ba4-d2fe-7169-4f06-dcce2ca24fd5",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ff16a4a8-09f4-9322-507f-356031825b88": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Metal3.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "ff736798-aeba-49d6-a9d0-1468d00dc3e9": {
