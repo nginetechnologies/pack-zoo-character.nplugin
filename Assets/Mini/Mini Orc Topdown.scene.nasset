@@ -25,7 +25,7 @@
                 "position": [
                     0.0,
                     0.0,
-                    45.0
+                    2.0
                 ],
                 "rotation": [
                     -35.0,
@@ -104,7 +104,11 @@
                 "walkingSpeed": 2.0,
                 "runningSpeed": 4.0,
                 "walkingTurnSpeed": 20.0,
-                "runningTurnSpeed": 20.0
+                "runningTurnSpeed": 20.0,
+                "audio_jump": "fba971fd-e6bc-233d-dbc7-a3321996ae11",
+                "audio_land": "c82d4992-373a-b22a-977f-842fc0516d6b",
+                "audio_walk": "610571af-6574-3f2b-5e44-75567df99802",
+                "audio_footStepDelay": 0.6998
             },
             "data_components":
             [
@@ -271,6 +275,9 @@
     "thumbnailGuid": "c10af265-b935-473d-b8e2-2d96a0f873bf",
     "dependencies":
     [
-        "684ea107-5a90-0064-7b55-0d2c778db798"
+        "684ea107-5a90-0064-7b55-0d2c778db798",
+        "fba971fd-e6bc-233d-dbc7-a3321996ae11",
+        "c82d4992-373a-b22a-977f-842fc0516d6b",
+        "610571af-6574-3f2b-5e44-75567df99802"
     ]
 }
