@@ -1,5 +1,5 @@
 {
-    "source": "A_Sushime_Chop_End.fbx",
+    "source": "A_Sushime_Sword.fbx",
     "skeleton": "d9f46431-0cc8-aac3-c7ec-30bf7144851e",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
@@ -9,10 +9,10 @@
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": "a4855e49-c6a7-4347-bfaf-72ab491bc1b6"
+            "animation": "c30f7d5e-3210-45d2-bbdb-ffa3e2995543"
         }
     ],
-    "guid": "a4855e49-c6a7-4347-bfaf-72ab491bc1b6",
+    "guid": "c30f7d5e-3210-45d2-bbdb-ffa3e2995543",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
         "d9f46431-0cc8-aac3-c7ec-30bf7144851e"

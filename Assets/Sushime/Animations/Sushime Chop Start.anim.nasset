@@ -1,20 +1,20 @@
 {
-    "source": ".fbx",
-    "skeleton": "",
+    "source": "A_Sushime_Chop_Start.fbx",
+    "skeleton": "d9f46431-0cc8-aac3-c7ec-30bf7144851e",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": ""
+        "skeleton": "d9f46431-0cc8-aac3-c7ec-30bf7144851e"
     },
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": ""
+            "animation": "3d1ace8a-e215-4e3b-8d18-4ab1f008d199"
         }
     ],
-    "guid": "",
+    "guid": "3d1ace8a-e215-4e3b-8d18-4ab1f008d199",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        ""
+        "d9f46431-0cc8-aac3-c7ec-30bf7144851e"
     ]
 }
