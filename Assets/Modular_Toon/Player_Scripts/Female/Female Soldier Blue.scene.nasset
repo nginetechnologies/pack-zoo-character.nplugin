@@ -1,0 +1,197 @@
+{
+    "guid": "710a4750-7ba2-491a-975c-3767b680a3c1",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
+        "radius": 1024.0
+    },
+    "tags": [
+        "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+        "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+    ],
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Player"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "183DEA3D-534F-47EA-B025-03FDAC1D17E9",
+            "10bc2a29-2131-447a-8a66-43742c106bdf": {
+                "jumpHeight": 0.5,
+                "walkingSpeed": 1.0,
+                "runningSpeed": 2.0,
+                "walkingTurnSpeed": 1.0,
+                "runningTurnSpeed": 2.5
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Player Character"
+                },
+                {
+                    "typeGuid": "be33f822-02f0-4d8b-9553-8f6200b43f83",
+                    "actionmap": "B62903BC-05C2-4198-A113-026AC074BB83"
+                },
+                {
+                    "typeGuid": "ee97e36e-3e03-45ba-9bd2-8734e32dcb8e",
+                    "maximum": 3,
+                    "minimum": 0
+                },
+                {
+                    "typeGuid": "87a8c14a-291b-4d8f-9bf7-69d2d290c2aa"
+                },
+                {
+                    "typeGuid": "194FFAFF-AB13-464A-AE69-788646258B9F",
+                    "duration": 120
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "b0ec7111-5de9-4039-bee2-d915f63f929e",
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0,
+                            -3,
+                            1
+                        ],
+                        "rotation": [
+                            0.0,
+                            0.0,
+                            0.0
+                        ]
+                    },
+                    "b0ec7111-5de9-4039-bee2-d915f63f929e": {
+                        "fieldOfView": 60.0,
+                        "nearPlane": 0.05,
+                        "farPlane": 128.0
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Camera"
+                        },
+                        {
+                            "typeGuid": "0d3920f0-883f-41fc-bf30-2079a383cb27",
+                            "rotationSpeed": 5.0,
+                            "positionSpeed": 3.0,
+                            "verticalStep": 1.5
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "1d21d79c-5708-46c9-8e57-ee9e86476b80",
+                    "a413cecf-a566-413d-bb01-bd1317cd4bb2": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    },
+                    "ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
+                        "type": 2,
+                        "layer": 1,
+                        "overriddenMass": 80,
+                        "body_flags": 8
+                    },
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.0,
+                            0.0,
+                            0.0
+                        ]
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Character Physics"
+                        },
+                        {
+                            "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                            "mask": [
+                                "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "a87d82b2-1cd5-4b81-8103-85248c61d585",
+                            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                            },
+                            "a87d82b2-1cd5-4b81-8103-85248c61d585": {
+                                "radius": 0.25,
+                                "half_height": 0.25
+                            },
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ]
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "rotation": [
+                                    0.0,
+                                    -0.0,
+                                    180.0
+                                ],
+                                "position": [
+                                    0.0,
+                                    0.0,
+                                    -0.6
+                                ],
+                                "scale": [
+                                    0.66
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": ""
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Female Soldier Blue Scene"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "default_camera": {
+        "position": [
+            -9.7733,
+            -1.8871,
+            4.0152
+        ],
+        "rotation": [
+            -21.9986,
+            -0.0,
+            -79.0237
+        ],
+        "fieldOfView": 60.0,
+        "nearPlane": 0.0098,
+        "farPlane": 128.0
+    },
+    "grid": {
+        "position": [
+            0.0,
+            0.0,
+            -0.5082
+        ],
+        "scale": [
+            -1.0,
+            -1.0,
+            1.0
+        ]
+    },
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "710a4750-7ba2-491a-975c-3767b680a3c1"
+    },
+    "thumbnailGuid": "",
+    "dependencies": [
+        ""
+    ]
+}
