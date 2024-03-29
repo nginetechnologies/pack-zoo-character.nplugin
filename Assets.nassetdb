@@ -230,11 +230,6 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
-    "064e7ae5-5170-bdc9-2129-97fcf3602dfc": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Punch.anim.nasset"
-    },
     "067be3a9-bbd2-4d79-b26f-f21449a0d852": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Monsters/Big/Thumbnails/Kappa.scene.nasset.tex.nasset"
@@ -306,11 +301,6 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Modular_People/Animations/Modular People Death.anim.nasset"
-    },
-    "07d33df0-2c74-6d8b-cf2c-3acec40e6a15": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Skeleton/Animations/Skeleton Spawn.anim.nasset"
     },
     "07e0879b-248d-6d8c-9893-63c1adc8c200": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
@@ -440,6 +430,15 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Stag/Animations/Stag_Jump_End.anim.nasset"
     },
+    "0b3204d1-a6e5-4104-a298-8dd009347b82": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Knight Golden.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "0b3d2f7d-cbd7-ef1d-4202-5bc8ec33572f": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -472,6 +471,11 @@
         "dependencies": [
             "073a5db1-d2aa-e36f-2a73-7f863363c977"
         ]
+    },
+    "0b7febd0-8fed-ad64-9972-b18072c59681": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Run Jump.anim.nasset"
     },
     "0bb812d1-3661-efd0-5b86-7d47de38427d": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -592,6 +596,24 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "0e2578aa-04f4-4d53-9d93-b99fd052b0b9": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Cowboy Hair.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
+    "0e8ceb95-5244-43e4-8f53-204b14ad044c": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Female/Female Worker.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "0eaeff54-959c-56fc-919f-9706ffedbe64": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -665,6 +687,11 @@
             "0b3d2f7d-cbd7-ef1d-4202-5bc8ec33572f",
             "4b6c6c2f-178c-3ea0-f6de-8603b66839e5"
         ]
+    },
+    "116656cb-91a6-69a0-c4d9-725922e5f0fa": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Punch.anim.nasset"
     },
     "1166b968-dfdf-414c-933a-7da6973ca597": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -764,6 +791,15 @@
     "1365f4d3-ba8b-4f98-96fe-e2fe5628e131": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Animals/Rat/Thumbnails/Rat.scene.nasset.tex.nasset"
+    },
+    "1388ef8d-963b-4786-b805-539bc55ba1b7": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Female/Female Ninja Sand.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
     },
     "139bd1fd-1232-4bf0-8d90-8a9c89e1cf57": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -1056,6 +1092,15 @@
             "7ba29c6c-d48a-5fd0-7200-31442793658c"
         ]
     },
+    "19b00eee-9619-4523-aad5-fec2bd4a7231": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Female/Female Knight Golden.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "19c82403-272d-735d-decd-fe2d68fd1363": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Monsters/Rounded/Textures/T_Yeti_D.tex.nasset"
@@ -1105,6 +1150,20 @@
         "path": "Assets/Animals/Pig/SK_Pig.scene.nasset/SK_Pig.scene.nasset",
         "dependencies": [
             "79cfe86b-0353-108d-86e7-0d13868eb14a"
+        ]
+    },
+    "1ae549fe-bccb-d169-c9b8-eda5b1e4f5fb": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Idle Hold.anim.nasset"
+    },
+    "1afb5b84-1072-4d69-9e6a-aacfb6cb9757": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Soldier Blue.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ]
     },
     "1b50d950-4b39-42d7-bb06-95f75bc3099d": {
@@ -1240,11 +1299,6 @@
             "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
         ]
     },
-    "1e82f7d0-e379-224b-a1be-f3050d5e6891": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Skeleton/Animations/Skeleton Running.anim.nasset"
-    },
     "1eb59c3e-8d1b-460a-b163-56fd0f1a3d31": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1367,6 +1421,11 @@
             "3c3be70e-6799-34c5-4484-b3a138f1577c",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "22a0ec11-b703-f263-4a9c-02e84ef0c0ec": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Skeleton/Animations/Skeleton Death.anim.nasset"
     },
     "22a1a375-592a-4c6e-8832-182d112c4a8d": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -1695,18 +1754,6 @@
             "618faef9-ce00-45da-97ed-8b2d35d9cf18"
         ]
     },
-    "2a133eae-eca2-28eb-7ee1-ba20ebab2c34": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Sushime/Baldur.scene.nasset",
-        "thumbnail": "db845647-d95a-455a-b276-1f4396657cab",
-        "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
-        ],
-        "dependencies": [
-            "dedcec34-5137-2919-2694-c972acd094b6"
-        ]
-    },
     "2a68358d-c9ce-4569-9e62-cb20f78d5076": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1925,6 +1972,15 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "2f7ac9b7-122f-441a-97fe-5284f07067a3": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Knight.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "2f81d0ed-d567-4432-bd82-dffe43d0a2a0": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -2117,6 +2173,15 @@
             "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ]
     },
+    "3498da4e-c37e-4696-8ae6-2d276539c1d7": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Casual 2.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "34c95c75-776b-9ff9-49fb-490138277ae8": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2162,6 +2227,11 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Shiba_Inu/Animations/Shiba_Idle.anim.nasset"
+    },
+    "357402a7-7370-b55a-c4d6-4c94fdb22a04": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Standing.anim.nasset"
     },
     "35a04b19-bec9-95b2-5ae3-a5cfd91a7956": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2295,6 +2365,15 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "38821634-1e3e-4e85-9805-c83cbd4f88e7": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Suit.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "389fddcb-0a84-4da6-99ee-704bad9fb64a": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -2366,6 +2445,15 @@
         "path": "Assets/Mechs/Gwart/Material Instances/Gwart Eye.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "3b63ac7f-3385-4f3a-8fd1-1572a3344bfb": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Female/Female Cowboy.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ]
     },
     "3bbb55b9-5034-4d04-85c6-f0ada21dada8": {
@@ -2642,11 +2730,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "40cea1c9-a376-6037-a6ef-3cecadddad57": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Standing.anim.nasset"
-    },
     "40dfec3f-c408-4917-93a0-a142dc621ba7": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -2725,11 +2808,6 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
-    },
-    "42fdd03a-be0e-f596-6795-f0d2bbbeeedc": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Skeleton/Animations/Skeleton Attack.anim.nasset"
     },
     "433ca186-1502-19c6-09e1-81208a0de193": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2811,6 +2889,15 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Monsters/Rounded/Textures/T_Pig_D.tex.nasset"
     },
+    "44dd8d97-f647-4bc2-9d24-5bf6abf45310": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Chef Hat.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "451c3d4f-b750-f4c1-7b54-d877584e80e9": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2860,6 +2947,15 @@
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Animals/Snake/SK_Snake.scene.nasset/SK Snake.mesh.nasset/SK Snake Snake Pupil.meshskin.nasset"
     },
+    "463b750e-e7d6-449d-a697-aa4b2d77789a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Female/Female Doctor Young.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "46460d8b-9dd2-7050-3320-382065ef95f7": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2879,6 +2975,11 @@
     "46d8f944-aac4-746f-4885-dc6fd38d2f0c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Monsters/Rounded/Textures/T_Skull_D.tex.nasset"
+    },
+    "4756bb69-e233-f256-efd8-18b3cd7e8917": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Skeleton/Animations/Skeleton Idle.anim.nasset"
     },
     "476f8b7d-78c7-b065-59bb-07476ddbe9d3": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -2955,6 +3056,15 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "4a2d38d8-19dd-4af7-9a5f-91f247dd7941": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Zombie.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "4a2df8ea-0434-8c34-a23b-fe5a414c9fb1": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Heist/_Player_TP_Heist/Material Instances/Heist Skin.mtli.nasset",
@@ -3020,11 +3130,6 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Wolf/Animations/Wolf_Jump_Loop.anim.nasset"
-    },
-    "4bc7e561-e369-f58b-63e9-b1242b9baa79": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Run Jump.anim.nasset"
     },
     "4cb1b44c-062a-4374-95c1-28bb6d66f295": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -3273,6 +3378,15 @@
             "3c728aeb-ffa3-feb9-efb4-1308c9ec4957"
         ]
     },
+    "52ac7975-f582-4149-ab74-ba61b51b20d7": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Female/Female Doctor Old.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "52aeec1e-5275-4a55-b2d3-238e50fa822e": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -3372,6 +3486,11 @@
             "94d419e3-39e8-88eb-70f7-35d7e3b05b79",
             "3b4d1e88-e757-80ee-a52b-d5a1952f2a97"
         ]
+    },
+    "54402daa-3837-2247-df4c-e35ab2554a14": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Skeleton/Animations/Skeleton Attack.anim.nasset"
     },
     "5442d3de-50d2-4ae5-96f2-598e4a75ce40": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -3488,11 +3607,6 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Dinosaurs/Apatosaurus/Animations/Apatosaurus_Jump_End.anim.nasset"
-    },
-    "57425b48-c56d-7f64-f924-6f149ef4d1ec": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Swim.anim.nasset"
     },
     "5771f453-2b74-153a-e5fa-f1f4801a6ed0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3612,6 +3726,15 @@
             "d9f46431-0cc8-aac3-c7ec-30bf7144851e"
         ]
     },
+    "5b4dce4c-048d-465d-ab0d-cf68e297923d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Pirate.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "5b4e0fba-b3d0-74be-618d-176f93e0fd34": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3638,6 +3761,15 @@
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
         ]
     },
+    "5bf24c13-bfe3-4cc6-a5b3-0bf74792cfa6": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Female/Female Soldier.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "5bf98f22-233b-3ce5-f54c-73b884387525": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3660,10 +3792,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Dinosaurs/Parasaurolophus/Thumbnails/Parasaurolophus.scene.nasset.tex.nasset"
     },
-    "5d5ba600-bd58-3867-c5c2-59db9da84415": {
+    "5cca74ca-8338-a193-14c4-733a66a1e9e1": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Skeleton/Animations/Skeleton Idle.anim.nasset"
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Run Hold.anim.nasset"
     },
     "5d811aae-aa46-e655-1b5f-73bc4e23cfae": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -3712,6 +3844,11 @@
         "dependencies": [
             "168dd918-458d-874d-bf82-79ae00ea4a15"
         ]
+    },
+    "5f3728a8-a983-d8d8-2567-43c02db6c76d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Skeleton/Animations/Skeleton Spawn.anim.nasset"
     },
     "6000c707-fb46-4882-9bd4-b761a1a14601": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -4394,6 +4531,15 @@
             "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480"
         ]
     },
+    "710a4750-7ba2-491a-975c-3767b680a3c1": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Female/Female Soldier Blue.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "71687d46-3362-4a65-b838-5f4af2be2e12": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -4408,6 +4554,15 @@
         "thumbnail": "8ee9ea8b-fb51-187c-5ad2-2388e2145191",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "717d7bda-762a-496b-821a-3ff521b9770a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Elf.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ]
     },
     "71e6a415-3ba3-440c-806c-7271572e791a": {
@@ -4515,6 +4670,15 @@
             "220790e2-60ee-b80e-0633-0981fe5894ce"
         ]
     },
+    "74659282-d68f-463e-a21f-6ff088434111": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Female/Female Old Classy.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "7475c9ac-2a88-7fe4-116b-6ae38202c7ff": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -4588,16 +4752,6 @@
             "0877934c-ed03-1f16-c763-6b4e0067ff74",
             "125cd8a8-6a61-0b44-61b0-ea6c323702e8",
             "1f381eaf-2d96-1c0d-f20a-118d1a4c86a9"
-        ]
-    },
-    "76025fef-5b11-d07d-339e-5dd92790b762": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Modular_Toon/SK_Male_Casual_1.scene.nasset/SK Male Casual 1.mesh.nasset/SK Male Casual 1 Black Skin.meshskin.nasset",
-        "dependencies": [
-            "7c2d8d1e-a8f4-a18a-1a70-e68d604e679b",
-            "8a87989c-d277-42f9-bb9b-b7e1193b8fcd",
-            "3c3be70e-6799-34c5-4484-b3a138f1577c"
         ]
     },
     "766a8e48-12b5-85ad-2417-15388c7d947a": {
@@ -4760,11 +4914,6 @@
             "3ff24aa2-e11b-4366-9c22-043fdd3b76f6"
         ]
     },
-    "79d0d48c-8cea-c6b4-b75b-707dc82e6b90": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Roll.anim.nasset"
-    },
     "7a221d85-79a7-bf21-b8a2-dc6707ae978b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Heist/Material Instances/Thumbnails/Red.mtli.nasset.tex.nasset"
@@ -4881,18 +5030,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "7c2d8d1e-a8f4-a18a-1a70-e68d604e679b": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Modular_Toon/SK_Male_Casual_1.scene.nasset/SK Male Casual 1.mesh.nasset/SK Male Casual 1 Black Skin.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "3c3be70e-6799-34c5-4484-b3a138f1577c",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "7c364725-f2b1-e576-3d31-aacb63c16d23": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4929,6 +5066,15 @@
         "dependencies": [
             "5356ccd2-730d-4052-c5af-00ddd2733b8a",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7d866cb3-beb6-44df-9258-03915dd9e88a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Old Classy.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ]
     },
     "7db6c362-0aa7-496d-89c9-2856af1c7046": {
@@ -5007,18 +5153,6 @@
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
             "d6a09c51-8ccf-416e-8154-66f9404d2a44"
-        ]
-    },
-    "7eed80a7-4f3a-0c81-15c4-a926baf31e40": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Modular_Toon/SK_Male_Casual_1.scene.nasset/SK Male Casual 1.mesh.nasset/SK Male Casual 1 White Eyes.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "975f6d13-2b52-9dc1-0eb5-0010bd1f1b02",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "7f1dedf6-f6cc-0f64-15ba-47d7a4101fec": {
@@ -5314,6 +5448,18 @@
             "5aaeb590-2bb2-2171-71ae-c2dd228d0437"
         ]
     },
+    "8734e02e-2b3d-997b-c7cc-163b6e2bdbd0": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Sushime/Baldur.scene.nasset",
+        "thumbnail": "db845647-d95a-455a-b276-1f4396657cab",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "dedcec34-5137-2919-2694-c972acd094b6"
+        ]
+    },
     "87459e26-ed50-4171-aab5-6e495b239513": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -5321,11 +5467,6 @@
         "dependencies": [
             "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
         ]
-    },
-    "87dee8e4-3b52-337d-19ab-d4b7e78e79a1": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Death.anim.nasset"
     },
     "88078735-a97c-4758-9d4f-ae8852aa852b": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -5356,6 +5497,15 @@
             "adad63b7-dfae-0dc1-ff1c-3a419f357a35",
             "eddd8214-b9e9-8bdb-a3d6-17a6446490e8",
             "00a25ff7-f322-be3c-eba7-40138e52c875"
+        ]
+    },
+    "88c44b98-5543-47e5-aa65-55238d913970": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Soldier.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ]
     },
     "88d11778-2f42-acf7-fb5a-1e56e283c79a": {
@@ -5393,6 +5543,15 @@
         "path": "Assets/RPG/Monk/Monk_Jump_End.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
+    "89d58f54-6993-4f41-b4fd-29e2ea04b68d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Ninja Hair.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ]
     },
     "8a171e76-8763-46c9-a168-afdf46ecb0d3": {
@@ -5445,16 +5604,6 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
-    "8bbba2e7-3c9a-86d5-5b97-4a3f858f3d86": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Modular_Toon/SK_Male_Casual_1.scene.nasset/SK Male Casual 1.mesh.nasset/SK Male Casual 1 White Eyes.meshskin.nasset",
-        "dependencies": [
-            "7eed80a7-4f3a-0c81-15c4-a926baf31e40",
-            "8a87989c-d277-42f9-bb9b-b7e1193b8fcd",
-            "975f6d13-2b52-9dc1-0eb5-0010bd1f1b02"
-        ]
-    },
     "8be8a690-ed5b-d5f2-aa8a-9213e7097d06": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -5483,6 +5632,15 @@
         "path": "Assets/Mini/Animations/Mini Yes.anim.nasset",
         "dependencies": [
             "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
+        ]
+    },
+    "8c94e449-55d8-471d-a42e-38da4140fb33": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Female/Female Cow.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ]
     },
     "8ceab018-48dc-097a-167b-ce11cca1d63e": {
@@ -5675,6 +5833,15 @@
             "cc90760b-e510-3b2e-8797-23324b8b1479"
         ]
     },
+    "922b747b-c51b-40e4-a4c8-abcb9484416e": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Female/Female Casual 1.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "9277e62b-c37f-49f1-ae6e-aa9fb326680c": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -5689,6 +5856,15 @@
         "path": "Assets/Heist/_Player_FP_Heist/Animations/_Common/FP Idle.anim.nasset",
         "dependencies": [
             "5aaeb590-2bb2-2171-71ae-c2dd228d0437"
+        ]
+    },
+    "92d6fb14-31b6-41be-af8c-20b4482a5a53": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Casual 3.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ]
     },
     "92e0bbb1-aead-43b6-9557-0b3dd0948fc7": {
@@ -5788,10 +5964,14 @@
             "220790e2-60ee-b80e-0633-0981fe5894ce"
         ]
     },
-    "94b9915e-a3f8-3926-f9fd-2b9bb1a9c988": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Idle Hold.anim.nasset"
+    "94bf42f6-a4eb-4041-9409-9e21435593d8": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Ninja Sand.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
     },
     "94ccc4b9-58cc-4a11-a6f6-31fdf8d755d5": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -5943,6 +6123,15 @@
         "dependencies": [
             "edd3849f-6c09-b06d-ad53-354c61ea972f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9793c9ae-1024-4751-92d3-243be8c3eddb": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Chef.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ]
     },
     "982eeb9c-d47a-4a68-81e0-00a4f0559252": {
@@ -6196,7 +6385,7 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
         "path": "Assets/Heist/_Player_TP_Heist/Enemy.scene.nasset",
-        "thumbnail": "c08bb754-347b-41cb-bbb0-a23f9b8f1ad2",
+        "thumbnail": "f72848c9-15db-43eb-acae-96dc88e94c9a",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
         ],
@@ -6248,6 +6437,15 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Rat/Animations/Rat_Idle.anim.nasset"
+    },
+    "a08ff50d-2e45-439e-9414-024aa3148dd5": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Worker.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
     },
     "a0d432e3-02c5-5604-6d96-e7316c05544c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -6324,6 +6522,11 @@
             "bb23b909-4c09-4089-9f2c-307a93de2ba1"
         ]
     },
+    "a337433b-55fc-ee3f-6f6c-a5fa194cb25b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Skeleton/Animations/Skeleton Running.anim.nasset"
+    },
     "a33d3873-080e-4e3e-b393-e2d8ce98821c": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -6372,7 +6575,7 @@
     "a4cf07e5-58a7-4de1-9ae2-a244606ecfde": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Modular_Toon/Player_Scripts/Male Casual 1.scene.nasset",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Casual 1.scene.nasset",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
             "d6a09c51-8ccf-416e-8154-66f9404d2a44"
@@ -6468,6 +6671,15 @@
         "dependencies": [
             "0d091b2c-ed29-dcdd-df44-8324e8e5861e",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a932212c-551a-4f88-8528-03fafe79cc36": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Female/Female Suit.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ]
     },
     "a93286de-6178-43d2-9739-a48702d816e9": {
@@ -6699,6 +6911,15 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Dinosaurs/Triceratops/SK_Triceratops.scene.nasset/SK Triceratops.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "ae4ca8ce-571b-4e55-a174-f4b526a2bd2a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Female/Female Zombie.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "aeb675bc-5607-fb78-4d30-4e69759c49af": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Modular_Toon/Material Instances/Red Hair.mtli.nasset",
@@ -6824,10 +7045,28 @@
             "8c4b352d-bdd7-0487-81ba-6923d5363231"
         ]
     },
+    "b1deae10-09a3-4780-a6ab-100c5981c40e": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Wizard.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "b1e7d5ec-be09-49d2-b8d6-dfd4131f483f": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Modular_People/Animations/Modular People Idle Neutral.anim.nasset"
+    },
+    "b207aba8-0fec-4257-88fe-39e4e8700a99": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Doctor Old.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
     },
     "b2331a8b-652b-47c0-97c9-a55350cfcde7": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -7015,6 +7254,11 @@
             "7475c9ac-2a88-7fe4-116b-6ae38202c7ff",
             "792455f1-f581-e465-2003-b089ae162c4b"
         ]
+    },
+    "b7304e55-c2f1-65cb-7c08-be864d2a07ae": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Death.anim.nasset"
     },
     "b73386a2-0737-46b6-83a1-addd17f91d99": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -7684,6 +7928,15 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Animals/Spider/Material Instances/Thumbnails/Spider Secondary.mtli.nasset.tex.nasset"
     },
+    "c54142aa-76b6-46eb-9e95-166cf5fe17bf": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Viking.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "c545e312-3eac-376c-3766-fcbfcddc6ca3": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Animals/Fox/Material Instances/Fox Main.mtli.nasset",
@@ -7814,6 +8067,11 @@
             "2c92cf66-75b1-38ef-0eef-c9d80d400822"
         ]
     },
+    "c8786202-f818-a65d-a9c3-1db19213c307": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Clapping.anim.nasset"
+    },
     "c8a034a6-4ac1-4919-af92-6b22625725af": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -7863,6 +8121,15 @@
     "c9e6ecf3-1c52-46a9-80db-486a11ab7e4e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Monsters/Big/Thumbnails/Snapper.scene.nasset.tex.nasset"
+    },
+    "ca5893ce-bc9e-4867-99b3-53f1e68ac80e": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Pug.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
     },
     "cab2b54b-ca3f-4d79-b0c2-1b6d196dca2c": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -8141,6 +8408,15 @@
             "317aa5f0-f2af-bd2f-93c9-23d6382f76a5"
         ]
     },
+    "d0aa4986-78f5-43fe-ab74-780f6ef0d598": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Casual Bald.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "d0ca65b9-493c-16f3-ca50-d37957114135": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -8163,6 +8439,15 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Monsters/Rounded/Textures/T_Bat_D.tex.nasset"
     },
+    "d18f6c2f-9674-43e5-868e-1fa549b54788": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Female/Female Casual 2.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "d19239f1-72de-44c9-aa93-04a59ea9b66e": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -8176,6 +8461,15 @@
         "path": "Assets/Modular_People/Material Instances/Hair Red.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "d1c636d9-50c4-4981-9639-b4e8219c8b53": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Female/Female Ninja.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ]
     },
     "d1f564b4-bf77-f388-4cd8-a38f2f83386e": {
@@ -8248,6 +8542,15 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Snake/Animations/Snake_Jump_Start.anim.nasset"
     },
+    "d35e2807-b0de-471e-ad3c-14edd4fb46cf": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Female/Female Casual 3.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "d3f00be8-b2bc-3fce-c2fa-bce5e66c5958": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -8317,11 +8620,6 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mini/SK_Mini_Gladiator.scene.nasset/SK Mini Gladiator.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
-    "d4549717-0859-e7c1-2120-06d3f9b25286": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Clapping.anim.nasset"
     },
     "d47b6347-605b-48a6-acc8-05a5281325a3": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -8461,6 +8759,11 @@
             "133143e8-6299-e265-2252-87455d53d2e6"
         ]
     },
+    "d9c00a87-688e-c746-74bd-6f8abca50421": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Roll.anim.nasset"
+    },
     "d9f46431-0cc8-aac3-c7ec-30bf7144851e": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -8517,8 +8820,8 @@
             "a456f125-338d-4b45-872b-9c55829f271a",
             "d2392b60-ef17-8c7b-e39e-af75d7de1714",
             "3c3be70e-6799-34c5-4484-b3a138f1577c",
-            "7c2d8d1e-a8f4-a18a-1a70-e68d604e679b",
-            "76025fef-5b11-d07d-339e-5dd92790b762",
+            "2209b7d6-3f34-5266-69d8-cd30436ce28c",
+            "5c6d75d6-9749-d7ec-66f2-c82d548b1bf8",
             "c1c168e5-b3bb-7ae5-6762-9337b8467244",
             "5184318b-3b3e-617d-3930-24ebb3a5e6fa",
             "64575ec2-6587-1fbf-0620-997085e93140",
@@ -8526,15 +8829,11 @@
             "09521cb7-d38a-2824-ba87-b720835cc64d",
             "01f8fcbd-ff84-738f-4d8a-be8b8f71ad63",
             "975f6d13-2b52-9dc1-0eb5-0010bd1f1b02",
-            "7eed80a7-4f3a-0c81-15c4-a926baf31e40",
-            "8bbba2e7-3c9a-86d5-5b97-4a3f858f3d86",
+            "ee81e758-f197-54b6-a3fa-8e6f7a2e9758",
+            "70f48daf-418d-2e86-1c38-d88d523e63ee",
             "aeb675bc-5607-fb78-4d30-4e69759c49af",
             "ff811234-7500-5fdd-863b-782a683e596c",
             "0f6b5f26-2210-c8b1-4b03-82c1ca97652f",
-            "2209b7d6-3f34-5266-69d8-cd30436ce28c",
-            "5c6d75d6-9749-d7ec-66f2-c82d548b1bf8",
-            "ee81e758-f197-54b6-a3fa-8e6f7a2e9758",
-            "70f48daf-418d-2e86-1c38-d88d523e63ee",
             "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
         ]
     },
@@ -8549,6 +8848,15 @@
         "path": "Assets/RPG/Warrior/Warrior_Jump_Loop.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
+    "db58e4fa-eb0f-439b-99a8-45c137517b70": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Doctor Young.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ]
     },
     "db639653-cfbf-49bb-91da-a2ce6d75a27f": {
@@ -8780,6 +9088,15 @@
             "dae8675b-ba76-2bd4-21fb-cb54c859696f"
         ]
     },
+    "e04cbad6-341e-4409-8929-7d60ac019c62": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Female/Female Kimono.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "e051330b-d244-6c88-d3e8-b71196661833": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -8820,6 +9137,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Heist/Material Instances/Thumbnails/Skin Tan.mtli.nasset.tex.nasset"
     },
+    "e13af359-144e-9403-80a4-d345bf23c953": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Swim.anim.nasset"
+    },
     "e1582266-fdfb-470e-a7fa-cebad28836d3": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -8859,6 +9181,15 @@
         "path": "Assets/Mechs/Robot/Animations/Robot_Idle.anim.nasset",
         "dependencies": [
             "eddd8214-b9e9-8bdb-a3d6-17a6446490e8"
+        ]
+    },
+    "e2e00306-14fe-411c-b8b8-b4e192891c6f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Female/Female Witch.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ]
     },
     "e35ef854-1392-4d4d-82f6-03727e987782": {
@@ -8966,10 +9297,14 @@
             "d1a5ada9-30a1-e546-7928-e5bcdd07b39f"
         ]
     },
-    "e5bd36c3-becd-2b5d-07a5-aa736d863023": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Sitting.anim.nasset"
+    "e5b820d2-a722-44eb-b0ff-73a9aced8d41": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Kimono.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
     },
     "e610081e-8f74-9a05-4b54-eef6d4b28cb6": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -9109,6 +9444,15 @@
             "085394d6-73ac-032d-17dd-02b55d053d16"
         ]
     },
+    "e921c62d-1ab5-4b45-830f-a16f1a30837f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Female/Female Pirate.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "e92f3f40-5439-4f0a-b939-4fa4185119b3": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -9149,11 +9493,6 @@
             "0f920536-8057-a096-6e5a-f28d8ed73253",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "ea47237e-a6e6-a2c9-717e-4fcd2cf875d7": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Skeleton/Animations/Skeleton Death.anim.nasset"
     },
     "ea89ab58-3388-4a0a-2416-a9fba69503ee": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -9268,6 +9607,15 @@
         "path": "Assets/Monsters/Rounded/Player_Scripts/Ball Bat Player.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
     },
+    "ec4c0dcb-9207-4df7-b6bf-0f3c5cb85f21": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Female/Female Viking.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "ec63f7c9-f35e-44f3-5cd2-da69be89d88b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Mini/Material Instances/Mini Orc.mtli.nasset",
@@ -9369,11 +9717,6 @@
             "eddd8214-b9e9-8bdb-a3d6-17a6446490e8"
         ]
     },
-    "ef39ad12-5a42-6b67-853f-02a83e550d9f": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Sword Slash.anim.nasset"
-    },
     "efcfc132-480c-496d-905d-122b106c74c8": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -9444,6 +9787,15 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Voxel/Danny/Run.anim.nasset"
     },
+    "f1a68f4d-f67f-4049-ae2f-577711e39654": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Goblin.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "f1aae16c-9962-ccc6-c210-daba4b36b2f3": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -9487,6 +9839,15 @@
     "f1e8f9de-a20d-4c45-a0e7-dab43a0c0eb4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Misc/Alien/Thumbnails/Rogue.scene.nasset.tex.nasset"
+    },
+    "f1f0793a-ae28-4afe-b7a4-1148092cdc49": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Female/Female Chef.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
     },
     "f20de52f-52e7-1048-d0fe-34f9d4e9382b": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -9596,6 +9957,11 @@
             "0b3d2f7d-cbd7-ef1d-4202-5bc8ec33572f"
         ]
     },
+    "f4217e6e-f58f-94f0-f648-3c477fd3cfd9": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Sword Slash.anim.nasset"
+    },
     "f45f4743-1c78-93b9-91b0-db43c52546cf": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -9695,6 +10061,10 @@
             "cda990b2-83bb-5692-3b6d-8bb15fcb90db"
         ]
     },
+    "f72848c9-15db-43eb-acae-96dc88e94c9a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Heist/_Player_TP_Heist/Thumbnails/Enemy.scene.nasset.tex.nasset"
+    },
     "f74ece03-c3ab-d805-d5f0-10ff1ca9dc62": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -9725,6 +10095,15 @@
         "dependencies": [
             "4b6af2ca-144e-c3ba-6fef-7d913f35c3e6",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f771079d-da88-410f-9e15-ff8baeaaae18": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Cowboy.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ]
     },
     "f7c1fdba-3127-4a9b-a88a-4abf8bc5a8ae": {
@@ -9855,6 +10234,15 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "fbdfb4ed-aa4c-4d37-84cc-1eb4529bb8ba": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Viking Helmet.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "fc07b9b6-5a51-e8ca-171e-d09451d477e1": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -9870,6 +10258,15 @@
         "path": "Assets/Dinosaurs/Stegosaurus/Material Instances/Stegosaurus Fins Belly.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "fc6c0d4f-9654-4148-92ab-518c77c6cb77": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Female/Female Goblin.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ]
     },
     "fc7a308e-a16d-8183-bd2b-b392e3d8b600": {
@@ -9982,6 +10379,11 @@
             "7ebcb7cc-ca7c-6244-1566-ae5daa480f02"
         ]
     },
+    "fe759d6b-e220-9e71-426d-1d004a95030d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Sitting.anim.nasset"
+    },
     "fec32bda-a322-95d7-c053-183da76a678e": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Heist/Material Instances/Hazmat.mtli.nasset",
@@ -10002,10 +10404,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "ff52067b-9f3c-8e69-88a5-676faf47cdb2": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Run Hold.anim.nasset"
+    "ff005f67-ab91-4e84-b21e-df1b720895ff": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_Toon/Player_Scripts/Male/Male Ninja.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
     },
     "ff736798-aeba-49d6-a9d0-1468d00dc3e9": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",

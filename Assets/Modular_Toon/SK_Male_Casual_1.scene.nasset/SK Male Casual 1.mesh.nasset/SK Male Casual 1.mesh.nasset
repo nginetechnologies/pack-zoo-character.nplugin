@@ -47,7 +47,7 @@
                     "children": [
                         {
                             "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-                            "instanceGuid": "31a2bf4e-d3c3-e8cc-eb88-7d6a0627073c",
+                            "instanceGuid": "a1fa350d-a67e-5b94-d9c9-15e93f2f1d91",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -70,122 +70,7 @@
                         },
                         {
                             "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-                            "instanceGuid": "31bcfc5e-a7d5-1ebc-b016-e9e649a5db96",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "SK Male Casual 1 Black Skin"
-                                }
-                            ],
-                            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                                "stages": [
-                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                                ]
-                            },
-                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "7c2d8d1e-a8f4-a18a-1a70-e68d604e679b",
-                                "material_instance": "3c3be70e-6799-34c5-4484-b3a138f1577c"
-                            },
-                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
-                                "skin": "76025fef-5b11-d07d-339e-5dd92790b762"
-                            }
-                        },
-                        {
-                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-                            "instanceGuid": "902c988c-ebf6-da3b-2aef-1fd6afa49434",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "SK Male Casual 1 Brown Pants"
-                                }
-                            ],
-                            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                                "stages": [
-                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                                ]
-                            },
-                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "5184318b-3b3e-617d-3930-24ebb3a5e6fa",
-                                "material_instance": "c1c168e5-b3bb-7ae5-6762-9337b8467244"
-                            },
-                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
-                                "skin": "64575ec2-6587-1fbf-0620-997085e93140"
-                            }
-                        },
-                        {
-                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-                            "instanceGuid": "6caf382e-18cf-b177-52ec-9346b33238ec",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "SK Male Casual 1 Brown Leather"
-                                }
-                            ],
-                            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                                "stages": [
-                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                                ]
-                            },
-                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "09521cb7-d38a-2824-ba87-b720835cc64d",
-                                "material_instance": "b16fe8c1-5a9f-d0c9-0d8d-2d464ad94591"
-                            },
-                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
-                                "skin": "01f8fcbd-ff84-738f-4d8a-be8b8f71ad63"
-                            }
-                        },
-                        {
-                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-                            "instanceGuid": "e7b00d6d-15a1-38e6-f3f6-fd81083507c4",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "SK Male Casual 1 White Eyes"
-                                }
-                            ],
-                            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                                "stages": [
-                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                                ]
-                            },
-                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "7eed80a7-4f3a-0c81-15c4-a926baf31e40",
-                                "material_instance": "975f6d13-2b52-9dc1-0eb5-0010bd1f1b02"
-                            },
-                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
-                                "skin": "8bbba2e7-3c9a-86d5-5b97-4a3f858f3d86"
-                            }
-                        },
-                        {
-                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-                            "instanceGuid": "2d84f456-77a2-8cad-e13b-d30ec632ba58",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "SK Male Casual 1 Red Hair"
-                                }
-                            ],
-                            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                                "stages": [
-                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                                ]
-                            },
-                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "ff811234-7500-5fdd-863b-782a683e596c",
-                                "material_instance": "aeb675bc-5607-fb78-4d30-4e69759c49af"
-                            },
-                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
-                                "skin": "0f6b5f26-2210-c8b1-4b03-82c1ca97652f"
-                            }
-                        },
-                        {
-                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-                            "instanceGuid": "256e0842-e118-f1b7-48d2-8afdd8cbbe09",
+                            "instanceGuid": "b5a73979-5a6e-914c-f956-6bb2e8b77ea7",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -208,7 +93,53 @@
                         },
                         {
                             "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-                            "instanceGuid": "8ed10d1c-93c2-c0a5-44b1-2c54e0b3108f",
+                            "instanceGuid": "fdaf3b15-cd4a-a4e0-0cc5-11de903282d3",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Casual 1 Brown Pants"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "5184318b-3b3e-617d-3930-24ebb3a5e6fa",
+                                "material_instance": "c1c168e5-b3bb-7ae5-6762-9337b8467244"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "64575ec2-6587-1fbf-0620-997085e93140"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "77cb4320-f4b8-9374-c7d2-a122dc8939c6",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Casual 1 Brown Leather"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "09521cb7-d38a-2824-ba87-b720835cc64d",
+                                "material_instance": "b16fe8c1-5a9f-d0c9-0d8d-2d464ad94591"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "01f8fcbd-ff84-738f-4d8a-be8b8f71ad63"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "c042aad5-4480-1467-f660-25671d72e62d",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -228,6 +159,29 @@
                             "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
                                 "skin": "70f48daf-418d-2e86-1c38-d88d523e63ee"
                             }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "17daf36e-8333-ba27-1c41-80d6b0b796db",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Casual 1 Red Hair"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ff811234-7500-5fdd-863b-782a683e596c",
+                                "material_instance": "aeb675bc-5607-fb78-4d30-4e69759c49af"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "0f6b5f26-2210-c8b1-4b03-82c1ca97652f"
+                            }
                         }
                     ],
                     "f6140603-c29e-4bf9-946d-498dba6709ff": {
@@ -245,8 +199,8 @@
         "a456f125-338d-4b45-872b-9c55829f271a",
         "d2392b60-ef17-8c7b-e39e-af75d7de1714",
         "3c3be70e-6799-34c5-4484-b3a138f1577c",
-        "7c2d8d1e-a8f4-a18a-1a70-e68d604e679b",
-        "76025fef-5b11-d07d-339e-5dd92790b762",
+        "2209b7d6-3f34-5266-69d8-cd30436ce28c",
+        "5c6d75d6-9749-d7ec-66f2-c82d548b1bf8",
         "c1c168e5-b3bb-7ae5-6762-9337b8467244",
         "5184318b-3b3e-617d-3930-24ebb3a5e6fa",
         "64575ec2-6587-1fbf-0620-997085e93140",
@@ -254,15 +208,11 @@
         "09521cb7-d38a-2824-ba87-b720835cc64d",
         "01f8fcbd-ff84-738f-4d8a-be8b8f71ad63",
         "975f6d13-2b52-9dc1-0eb5-0010bd1f1b02",
-        "7eed80a7-4f3a-0c81-15c4-a926baf31e40",
-        "8bbba2e7-3c9a-86d5-5b97-4a3f858f3d86",
+        "ee81e758-f197-54b6-a3fa-8e6f7a2e9758",
+        "70f48daf-418d-2e86-1c38-d88d523e63ee",
         "aeb675bc-5607-fb78-4d30-4e69759c49af",
         "ff811234-7500-5fdd-863b-782a683e596c",
         "0f6b5f26-2210-c8b1-4b03-82c1ca97652f",
-        "2209b7d6-3f34-5266-69d8-cd30436ce28c",
-        "5c6d75d6-9749-d7ec-66f2-c82d548b1bf8",
-        "ee81e758-f197-54b6-a3fa-8e6f7a2e9758",
-        "70f48daf-418d-2e86-1c38-d88d523e63ee",
         "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
     ]
 }
