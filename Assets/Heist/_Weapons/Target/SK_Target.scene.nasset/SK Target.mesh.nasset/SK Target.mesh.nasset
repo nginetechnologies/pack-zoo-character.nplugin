@@ -1,0 +1,189 @@
+{
+    "guid": "4ba751a8-2dc3-2562-f698-0589513f6d7d",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "11b1e352-d1b6-ca43-108b-a9ea5b75a334",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "a768e9cc-b7c7-ccd7-7445-0edac2a4225b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Target Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                },
+                {
+                    "typeGuid": "223c3cd4-ce54-4627-87f9-b6f27edb5311"
+                },
+                {
+                    "typeGuid": "77433f9b-3f2d-49be-847d-5c574a4ca51e",
+                    "maximumDamage": 1,
+                    "shouldCountAsKill": true
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "c87eefa3-a75f-abf0-a494-b75ffdd87a36",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "16324a86-fa45-40e3-a839-32ede39df20a",
+                            "up_animations": [
+                                "2dfc0ffe-4c52-4531-b7e6-81bfe272b7f2"
+                            ],
+                            "down_animations": [
+                                "786e0b0a-d52e-4a1a-aaa8-ab657cfdd357"
+                            ],
+                            "resetTime": 15
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "57460691-bce0-9a49-39eb-c05c4b5fbec1",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Target Gray 500"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "44100cac-e156-6619-9d6a-575f777fc64e",
+                                "material_instance": "5aa31ee1-1e56-2967-49b5-491044d0ce67"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "373edd26-c053-580f-e1da-3a1434a4a0e2"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "119c6f17-6db2-913b-4e9a-df916e3a4af5",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Target Pink 800"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7a2595ec-b2b1-46c5-0cdf-6360c90eb467",
+                                "material_instance": "0a1c1e59-4da6-6106-e3f8-76be2164e4d8"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "3eb0de92-5d12-7e06-d641-8650a7cbb21a"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "22ddb16c-6d01-83b3-e09b-b774920e0692"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Mesh Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Mesh Red"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": []
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7a2595ec-b2b1-46c5-0cdf-6360c90eb467",
+                                "material_instance": "0a1c1e59-4da6-6106-e3f8-76be2164e4d8"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "7a2595ec-b2b1-46c5-0cdf-6360c90eb467"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Mesh Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Mesh Grey"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": []
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "44100cac-e156-6619-9d6a-575f777fc64e",
+                                "material_instance": "5aa31ee1-1e56-2967-49b5-491044d0ce67"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "44100cac-e156-6619-9d6a-575f777fc64e"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "4ba751a8-2dc3-2562-f698-0589513f6d7d"
+    },
+    "dependencies": [
+        "0a1c1e59-4da6-6106-e3f8-76be2164e4d8",
+        "7a2595ec-b2b1-46c5-0cdf-6360c90eb467",
+        "5aa31ee1-1e56-2967-49b5-491044d0ce67",
+        "44100cac-e156-6619-9d6a-575f777fc64e",
+        "5aa31ee1-1e56-2967-49b5-491044d0ce67",
+        "44100cac-e156-6619-9d6a-575f777fc64e",
+        "373edd26-c053-580f-e1da-3a1434a4a0e2",
+        "0a1c1e59-4da6-6106-e3f8-76be2164e4d8",
+        "7a2595ec-b2b1-46c5-0cdf-6360c90eb467",
+        "3eb0de92-5d12-7e06-d641-8650a7cbb21a",
+        "22ddb16c-6d01-83b3-e09b-b774920e0692"
+    ]
+}

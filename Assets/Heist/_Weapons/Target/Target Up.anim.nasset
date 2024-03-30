@@ -1,10 +1,10 @@
 {
     "source": "A_Target_Up.fbx",
-    "skeleton": "",
+    "skeleton": "22ddb16c-6d01-83b3-e09b-b774920e0692",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": ""
+        "skeleton": "22ddb16c-6d01-83b3-e09b-b774920e0692"
     },
     "data_components": [
         {
@@ -15,6 +15,6 @@
     "guid": "2dfc0ffe-4c52-4531-b7e6-81bfe272b7f2",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        ""
+        "22ddb16c-6d01-83b3-e09b-b774920e0692"
     ]
 }
