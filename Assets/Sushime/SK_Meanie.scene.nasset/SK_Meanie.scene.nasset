@@ -1,0 +1,34 @@
+{
+    "guid": "e81a1d78-c467-7f01-d383-c8103f68a0ae",
+    "source": "../SK_Meanie.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "3cc5d55c-914a-c6a2-1b08-8cb5e59e943c",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Meanie"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c4c5224b-e2ba-bce1-0906-962eda9add43",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Meanie"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "aa37ff9e-5818-4fc2-73ed-1443675ce226"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "e81a1d78-c467-7f01-d383-c8103f68a0ae"
+    },
+    "dependencies": [
+        "aa37ff9e-5818-4fc2-73ed-1443675ce226"
+    ]
+}
