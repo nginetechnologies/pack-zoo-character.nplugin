@@ -11,6 +11,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "00156d67-18ed-43c1-9f9a-f6952d8ef0ce": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Monsters/Rounded/Thumbnails/Ball_Panda.scene.nasset.tex.nasset"
+    },
     "00a25ff7-f322-be3c-eba7-40138e52c875": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Mechs/Robot/Material Instances/Silver.mtli.nasset",
@@ -49,6 +53,10 @@
     "016e1d12-7752-c07b-4f70-4c000a5ac013": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Animals/Snake/Material Instances/Snake Main.mtli.nasset"
+    },
+    "0195dd7a-53a6-43e7-9028-3b91404d6d1b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Witch.scene.nasset.tex.nasset"
     },
     "019d2c43-eace-08a9-287e-11343882471c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -116,11 +124,6 @@
             "793c6a70-4969-f8d8-e862-721b1ccf5d02"
         ]
     },
-    "02ac33c5-a0a9-f4ea-46ff-ca1ee5feff89": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Death.anim.nasset"
-    },
     "02e34007-17a5-41dc-b6a3-6b7d660c9b87": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -185,6 +188,10 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "046ab623-374e-41ad-b54b-7f3a8584cddc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Casual_1.scene.nasset.tex.nasset"
+    },
     "0476ea97-e3ab-ea67-e3f5-ed1d3c567864": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -223,10 +230,44 @@
             "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ]
     },
+    "04d27ec4-84da-473d-8a01-cb391ac40b3b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Pug.scene.nasset.tex.nasset"
+    },
+    "052de4c1-f984-49b4-a132-1edb648d3f28": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Monsters/Big/Player_Scripts/Sue.scene.nasset",
+        "thumbnail": "39dfc81f-b468-4259-ba05-f1a5f2c0cac5",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "54026ee9-c279-9f4c-d4f3-dcbde89a4a5f"
+        ]
+    },
+    "053b54cc-d89d-43ca-80af-51c1d4ca8219": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Suit.scene.nasset.tex.nasset"
+    },
     "05bdd178-6696-4594-9a5c-97fc1e4e1860": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Husky/Animations/Husky_Jump_End.anim.nasset"
+    },
+    "05c5ed02-4713-2054-59b4-6e25555b601d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Standing.anim.nasset"
+    },
+    "0600ed64-6ba3-490a-bf09-76ddb2a7270f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Kimono.scene.nasset.tex.nasset"
+    },
+    "0603651a-f4a2-470a-bd9f-9825ea6e14fe": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Soldier.scene.nasset.tex.nasset"
     },
     "0649d2bc-3a9c-24f8-9517-7f4c6a55e3f3": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -351,7 +392,7 @@
     "090f8309-c595-4def-b5a0-3301113c7ee6": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Rogue/Rogue_Jump_End.anim.nasset",
+        "path": "Assets/RPG/Rogue/Animations/Rogue_Jump_End.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -401,7 +442,7 @@
     "0a7177bb-0f96-4b66-ba7d-39421f8a7fd0": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Wizard/Wizard_Walk.anim.nasset",
+        "path": "Assets/RPG/Wizard/Animations/Wizard_Walk.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -507,7 +548,7 @@
     "0c36f40f-444c-40cb-90ae-c591735f60c0": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Heist/AAA_Animations/Heist Punch.anim.nasset"
+        "path": "Assets/Heist/Animations/Heist Punch.anim.nasset"
     },
     "0c383c8c-6401-41fb-ab2f-23e21f243c2f": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -538,7 +579,7 @@
     "0c904131-cabc-44d0-a832-c07e3daf483d": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Monk/Monk_Jump_Start.anim.nasset",
+        "path": "Assets/RPG/Monk/Animations/Monk_Jump_Start.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -587,7 +628,7 @@
     "0df8a7f3-bac4-42aa-838b-9693f3ba8460": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Ranger/Ranger_Jump_Loop.anim.nasset",
+        "path": "Assets/RPG/Ranger/Animations/Ranger_Jump_Loop.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -673,6 +714,19 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Modular_People/Animations/Modular People Idle Sword.anim.nasset"
     },
+    "0f9d3fa4-c327-481f-bd9c-b3a79d4fadca": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Monsters/Big/Player_Scripts/Lucifer.scene.nasset",
+        "thumbnail": "39dfc81f-b468-4259-ba05-f1a5f2c0cac5",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "54026ee9-c279-9f4c-d4f3-dcbde89a4a5f"
+        ]
+    },
     "106a4624-28a7-440b-9a45-13dcc0feb144": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -688,11 +742,6 @@
         "dependencies": [
             "4ba751a8-2dc3-2562-f698-0589513f6d7d"
         ]
-    },
-    "1085e7bf-90fc-8bc6-d085-b612c8f5f8dd": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Skeleton/Animations/Skeleton Idle.anim.nasset"
     },
     "111184c5-7c46-aa3e-0bef-e850dcd8c212": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
@@ -728,7 +777,7 @@
     "11aaf0b0-2e58-494b-8e6d-c20590bb00f8": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Warrior/Warrior_Run.anim.nasset",
+        "path": "Assets/RPG/Warrior/Animations/Warrior_Run.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -738,6 +787,11 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mini/Animations/Mini Drive Pose.anim.nasset"
     },
+    "122ae866-4281-668f-bcb0-dabfaf325ab0": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Death.anim.nasset"
+    },
     "125cd8a8-6a61-0b44-61b0-ea6c323702e8": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -746,7 +800,7 @@
     "127f6a63-9c58-4aad-8fb7-b5889cde08d2": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Cleric/Cleric_Jump_Loop.anim.nasset",
+        "path": "Assets/RPG/Cleric/Animations/Cleric_Jump_Loop.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -820,7 +874,7 @@
     "139bd1fd-1232-4bf0-8d90-8a9c89e1cf57": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Rounded/Player_Scripts/Ball Alien Tall Player.scene.nasset",
+        "path": "Assets/Monsters/Rounded/Player_Scripts/Ball Alien Tall.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
     },
     "13a53a18-15e5-4b4c-b8c6-9ba5749df1c4": {
@@ -938,6 +992,10 @@
             "0a250487-13bf-882d-8600-f0db1104d024"
         ]
     },
+    "155d21bf-4a78-442c-ba3b-9038198d2568": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Casual_3.scene.nasset.tex.nasset"
+    },
     "156b70de-6b63-7f2c-7195-da837e760c22": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -1005,11 +1063,6 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
-    "16bb4ae9-5179-984f-719b-abb462a2f9c8": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Swim.anim.nasset"
-    },
     "16ec9632-547c-4e81-9cdf-c3fc03a4e4ac": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1057,6 +1110,14 @@
             "d60fd483-9b4e-47f9-ba0e-d4aee59a523c",
             "1166b968-dfdf-414c-933a-7da6973ca597",
             "2f8f13f8-bb7a-4c60-89bf-79aa8bfeb0f2"
+        ]
+    },
+    "1813820e-19ca-483e-9c10-4608b3f02509": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Animations/Ball_Bite_Front.anim.nasset",
+        "dependencies": [
+            "0eaeff54-959c-56fc-919f-9706ffedbe64"
         ]
     },
     "185eec15-3a74-3d14-882c-d031c74bde40": {
@@ -1171,18 +1232,6 @@
             "77580f0b-6568-f33e-4a4b-08ee58078601"
         ]
     },
-    "19f98ede-a06a-d7ec-219a-1ed7e6f4016a": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Sushime/Player_Scripts/Baldur.scene.nasset",
-        "thumbnail": "db845647-d95a-455a-b276-1f4396657cab",
-        "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
-        ],
-        "dependencies": [
-            "dedcec34-5137-2919-2694-c972acd094b6"
-        ]
-    },
     "1a1043f6-94dc-cfcd-721e-b5cea5601e71": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1202,6 +1251,10 @@
         "dependencies": [
             "79cfe86b-0353-108d-86e7-0d13868eb14a"
         ]
+    },
+    "1ad22159-7fd1-4d24-a7af-5dc7ad0f1712": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Old_Classy.scene.nasset.tex.nasset"
     },
     "1afb5b84-1072-4d69-9e6a-aacfb6cb9757": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -1264,7 +1317,7 @@
     "1c44d482-439c-4d4c-98c5-ab5d5f8b4aaa": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Heist/AAA_Animations/Heist Idle Shoot.anim.nasset"
+        "path": "Assets/Heist/Animations/Heist Idle Shoot.anim.nasset"
     },
     "1c7b213d-acac-4f0c-901c-389d2ed36657": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -1397,6 +1450,10 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mini/Animations/Mini Attack Kick Left.anim.nasset"
     },
+    "207f0df1-ec11-44f9-bc59-e55abb690517": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Soldier_Blue.scene.nasset.tex.nasset"
+    },
     "208b8246-1b97-4934-a9a8-153ff0bf879f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Sushime/Thumbnails/Meanie.scene.nasset.tex.nasset"
@@ -1495,6 +1552,10 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Heist/_Weapons/Target/SK_Target.scene.nasset/SK Target.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "2303a38a-b655-4a23-b3eb-cfb0f737cc6f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Kimono.scene.nasset.tex.nasset"
+    },
     "2358ae78-ac48-489a-8d0e-de60d8dee9ca": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Animals/Snake/Material Instances/Snake Pupil.mtli.nasset"
@@ -1584,7 +1645,7 @@
     "251e9a4d-2403-464b-b0f4-c2d679eadc06": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Warrior/Warrior_Idle.anim.nasset",
+        "path": "Assets/RPG/Warrior/Animations/Warrior_Idle.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -1649,6 +1710,14 @@
         "dependencies": [
             "0b3d2f7d-cbd7-ef1d-4202-5bc8ec33572f"
         ]
+    },
+    "260a1119-98a8-439e-9f39-a6dad78f0035": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Chef_Hat.scene.nasset.tex.nasset"
+    },
+    "2638e8bd-dfbb-4022-9d8d-615716425beb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Viking.scene.nasset.tex.nasset"
     },
     "263f431f-4145-c01f-e142-2db2ddf8a6ad": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -1753,6 +1822,12 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "27bbed72-ecc8-4012-a639-375fdd555f9a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Monsters/Rounded/Player_Scripts/Ball Slime.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+    },
     "284f91ae-4829-cd42-6378-b4a6af9ccf7e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1829,6 +1904,14 @@
             "33973dee-9e3b-4ee2-a3df-74854e6da0a6",
             "618faef9-ce00-45da-97ed-8b2d35d9cf18"
         ]
+    },
+    "2a05f2c3-8d97-4779-b11a-7f4e3154c61b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Monsters/Rounded/Thumbnails/Ball_Bat.scene.nasset.tex.nasset"
+    },
+    "2a23fe89-0dfd-43db-9007-eff795bac94a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Monsters/Rounded/Thumbnails/Ball_Cactus.scene.nasset.tex.nasset"
     },
     "2a68358d-c9ce-4569-9e62-cb20f78d5076": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -2008,10 +2091,13 @@
             "85c03a10-3ec0-2097-67b0-14f574e95af3"
         ]
     },
-    "2dbb208e-5036-1c28-ad65-acfeb6d7353e": {
+    "2dbe35a3-569a-40e5-ac6f-b01c24535c9d": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Idle Hold.anim.nasset"
+        "path": "Assets/Monsters/Rounded/Animations/Ball_Jump_End.anim.nasset",
+        "dependencies": [
+            "0eaeff54-959c-56fc-919f-9706ffedbe64"
+        ]
     },
     "2df6f25a-5033-575b-97af-c2927a72dce7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2039,6 +2125,10 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "2e73973b-5c72-4160-a3a6-664ce550a711": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Monsters/Rounded/Thumbnails/Ball_Alien_Tall.scene.nasset.tex.nasset"
     },
     "2eacb3d5-66b1-4b5a-af16-7b5a098eb776": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -2082,10 +2172,14 @@
     "2f81d0ed-d567-4432-bd82-dffe43d0a2a0": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Monk/Monk_Run.anim.nasset",
+        "path": "Assets/RPG/Monk/Animations/Monk_Run.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
+    },
+    "2f857c7f-0b93-4c6b-93bf-6d5f1c1703a9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Suit.scene.nasset.tex.nasset"
     },
     "2f87f0a2-bae6-e9c1-d813-74caf8cd2321": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -2147,6 +2241,10 @@
             "125cd8a8-6a61-0b44-61b0-ea6c323702e8"
         ]
     },
+    "30b429f4-76a6-43eb-a861-a292b3f5a218": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Monsters/Rounded/Thumbnails/Ball_Pig.scene.nasset.tex.nasset"
+    },
     "30ed529f-d8d9-7c69-4afd-7e37d677d011": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2179,7 +2277,7 @@
     "317aaa46-863b-483c-88d2-d39141e49437": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Ranger/Ranger_Jump_Start.anim.nasset",
+        "path": "Assets/RPG/Ranger/Animations/Ranger_Jump_Start.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -2202,7 +2300,7 @@
     "3201c0de-d554-49ea-8568-a14bd92c9f65": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Rounded/Player_Scripts/Ball Crab Player.scene.nasset",
+        "path": "Assets/Monsters/Rounded/Player_Scripts/Ball Crab.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
     },
     "320a7219-9303-1d69-023b-9d8c90e87742": {
@@ -2226,6 +2324,16 @@
             "021f33b9-9a73-6796-799a-78cdbca206fb",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "32f27583-4685-40b2-9a2a-4639874ad850": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Monsters/Rounded/Player_Scripts/Ball Tree.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+    },
+    "330d139b-72f4-4c0a-81b1-95685da6b5f8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Monsters/Rounded/Thumbnails/Ball_Demon.scene.nasset.tex.nasset"
     },
     "334ef66d-a559-45cf-bdac-c8a4d02cf1e9": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -2253,7 +2361,7 @@
     "33ae2cc7-ddcb-406f-b58d-abac359e66f1": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Heist/AAA_Animations/Heist Hit React.anim.nasset"
+        "path": "Assets/Heist/Animations/Heist Hit React.anim.nasset"
     },
     "33d66126-bd02-3f2c-ba2b-7892ed00adf0": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -2321,10 +2429,18 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "354c7bbc-0886-46a1-b354-544f7239d162": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Monsters/Rounded/Thumbnails/Ball_Alien.scene.nasset.tex.nasset"
+    },
     "3569f12e-902f-4649-82ff-cccea42fcbc1": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Shiba_Inu/Animations/Shiba_Idle.anim.nasset"
+    },
+    "35707a7e-d38d-4da9-b27b-6f9d42331588": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Cow_Hair.scene.nasset.tex.nasset"
     },
     "35a04b19-bec9-95b2-5ae3-a5cfd91a7956": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2480,7 +2596,7 @@
     "389fddcb-0a84-4da6-99ee-704bad9fb64a": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Warrior/Warrior_Jump_Start.anim.nasset",
+        "path": "Assets/RPG/Warrior/Animations/Warrior_Jump_Start.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -2488,7 +2604,7 @@
     "38e1bff1-b7d9-4220-a2f2-1129c3ffd20d": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Rogue/Rogue_Jump_Loop.anim.nasset",
+        "path": "Assets/RPG/Rogue/Animations/Rogue_Jump_Loop.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -2496,7 +2612,7 @@
     "3950147f-563e-446b-9875-5911818b2647": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Rounded/Player_Scripts/Ball Cactus Player.scene.nasset",
+        "path": "Assets/Monsters/Rounded/Player_Scripts/Ball Cactus.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
     },
     "39dfc81f-b468-4259-ba05-f1a5f2c0cac5": {
@@ -2516,11 +2632,29 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Animals/Bat/SK_Bat.scene.nasset/SK_Bat.scene.nasset"
     },
+    "3a59703f-170d-48fd-b611-3028b96dfdd9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Viking.scene.nasset.tex.nasset"
+    },
     "3a98ae42-46e1-eb69-b2eb-70cc6093bc4b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Mechs/Robot/Material Instances/Black.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "3ab84ff0-c5d2-47ab-94fd-1fd6a0559040": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Monsters/Rounded/Player_Scripts/Ball Ghost.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+    },
+    "3ad280bf-8bec-4b5b-a146-38bcd5030aff": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Animations/Ball_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "0eaeff54-959c-56fc-919f-9706ffedbe64"
         ]
     },
     "3b3308a5-9214-4a1d-a860-2c6c95c7f11d": {
@@ -2657,10 +2791,9 @@
             "a2d66a82-e2c7-e70f-1bf3-f3d9cb02ac0a"
         ]
     },
-    "3da8861c-9634-7839-fe58-15f586154f80": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Run Hold.anim.nasset"
+    "3dbbab86-8d81-42e0-9e73-b9516a671b6f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Monsters/Rounded/Thumbnails/Ball_Skull.scene.nasset.tex.nasset"
     },
     "3dbe4828-f902-f182-2202-65374cdf737a": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -2691,6 +2824,10 @@
         "dependencies": [
             "c5c54f75-ba7d-aa94-84f4-8ff019b54f53"
         ]
+    },
+    "3e153255-0af1-4dfc-a093-63134473b0ad": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/RPG/Monk/Thumbnails/Monk.scene.nasset.tex.nasset"
     },
     "3e391207-2b71-a02a-d251-dee784dad145": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -2770,7 +2907,7 @@
     "3f7ac37d-f144-4d6f-b879-55b742e543c2": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Mini/Mini Gladiator Topdown.scene.nasset",
+        "path": "Assets/Mini/Player_Scripts/Mini Gladiator Topdown.scene.nasset",
         "thumbnail": "c10af265-b935-473d-b8e2-2d96a0f873bf",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
@@ -2816,6 +2953,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "4006dd6f-cb05-47fd-ceaf-e9bf5d3c2d1b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Skeleton/Animations/Skeleton Running.anim.nasset"
+    },
     "40585608-5299-55a6-6004-4339d6e46ec3": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2838,10 +2980,14 @@
     "40758774-0a54-47f4-852e-0a3e64a6d408": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Ranger/Ranger_Idle.anim.nasset",
+        "path": "Assets/RPG/Ranger/Animations/Ranger_Idle.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
+    },
+    "409e155d-9cc5-4c0f-b735-98355d0e5538": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Casual_2.scene.nasset.tex.nasset"
     },
     "40a29ab6-516c-4c4d-8497-4e3ad42cce31": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -2886,6 +3032,10 @@
             "fec32bda-a322-95d7-c053-183da76a678e"
         ]
     },
+    "410c4081-3f68-45a1-a0e6-56bea1e7e8de": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Monsters/Rounded/Thumbnails/Ball_Cthulhu.scene.nasset.tex.nasset"
+    },
     "4117c17f-282b-e832-e05b-8fdbc50c4ee4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2909,7 +3059,7 @@
     "41dde2a3-1979-4bf6-b337-e49c2dce8cb0": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Mini/Mini Skater Boy Topdown.scene.nasset",
+        "path": "Assets/Mini/Player_Scripts/Mini Skater Boy Topdown.scene.nasset",
         "thumbnail": "c10af265-b935-473d-b8e2-2d96a0f873bf",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
@@ -2937,6 +3087,10 @@
             "2e085bbf-b51f-3bc6-01b5-7c0383cb282b",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "428dad80-e454-4949-86ca-f2d03c2fb306": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Monsters/Rounded/Thumbnails/Ball_Chicken.scene.nasset.tex.nasset"
     },
     "4298c884-2217-4576-bf0b-2774e8a6a515": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -3011,11 +3165,6 @@
         "dependencies": [
             "db15620e-31f9-170d-8b6b-83b1da693f7c"
         ]
-    },
-    "43e53d22-ac34-c201-0732-be8241337ffc": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Run Jump.anim.nasset"
     },
     "44040111-b603-4967-ae4a-187d8fcf9069": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -3109,6 +3258,22 @@
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Animals/Snake/SK_Snake.scene.nasset/SK Snake.mesh.nasset/SK Snake Snake Pupil.meshskin.nasset"
     },
+    "45e3eea2-1f40-3db9-de2a-107d43e62c91": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Sushime/Player_Scripts/Baldur.scene.nasset",
+        "thumbnail": "db845647-d95a-455a-b276-1f4396657cab",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "dedcec34-5137-2919-2694-c972acd094b6"
+        ]
+    },
+    "461fcc7c-1b2c-4d73-b5c3-495a03c0876c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Chef.scene.nasset.tex.nasset"
+    },
     "463b750e-e7d6-449d-a697-aa4b2d77789a": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3137,6 +3302,14 @@
     "46d8f944-aac4-746f-4885-dc6fd38d2f0c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Monsters/Rounded/Textures/T_Skull_D.tex.nasset"
+    },
+    "47650a28-8375-4878-be58-bc93c12549f2": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Animations/Ball_No.anim.nasset",
+        "dependencies": [
+            "0eaeff54-959c-56fc-919f-9706ffedbe64"
+        ]
     },
     "476f8b7d-78c7-b065-59bb-07476ddbe9d3": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -3169,6 +3342,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "480b6356-fa13-4abf-bf55-80d7841c0196": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Monsters/Rounded/Thumbnails/Ball_Tree.scene.nasset.tex.nasset"
+    },
     "48c07248-d205-4917-ae12-a2763d783cab": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Monsters/Big/Thumbnails/Prickly_Pear.scene.nasset.tex.nasset"
@@ -3179,6 +3356,10 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "48d2baef-58ce-49dd-8bf6-e961f8e0c327": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Ninja.scene.nasset.tex.nasset"
     },
     "48dbec17-6250-897c-9ac1-295f516f5011": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -3309,11 +3490,6 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Wolf/Animations/Wolf_Jump_Loop.anim.nasset"
     },
-    "4c2282d8-f63a-20bf-7978-faa468050327": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Skeleton/Animations/Skeleton Attack.anim.nasset"
-    },
     "4cb1b44c-062a-4374-95c1-28bb6d66f295": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3345,11 +3521,6 @@
             "30a2fad9-4d16-0bc0-6062-2e027cff9ede",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "4d5efd8a-3a5a-b383-6e37-f571d4aee4d9": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Clapping.anim.nasset"
     },
     "4d9c2b1e-64ef-4d76-8afe-cef14f7bed5a": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -3425,13 +3596,13 @@
     "5001c231-81f0-4c3b-829d-4bf77766a3e5": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Rounded/Player_Scripts/Ball Chicken Player.scene.nasset",
+        "path": "Assets/Monsters/Rounded/Player_Scripts/Ball Chicken.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
     },
     "500b0631-53a1-4111-abda-704cbb183b62": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Heist/Walk.anim.nasset"
+        "path": "Assets/Heist/Animations/Walk.anim.nasset"
     },
     "50179118-2784-13bb-f5ba-b59388a7c630": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3515,15 +3686,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "512471f3-9413-9eb4-eae1-71438d9448b3": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Skeleton/Animations/Skeleton Spawn.anim.nasset"
-    },
     "512f10e7-65aa-4453-b641-a3cbd2311f4e": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mini/Animations/Mini Holding Left.anim.nasset"
+    },
+    "5154cf7c-3a16-488a-917c-62a1575deea5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Viking_Helmet.scene.nasset.tex.nasset"
     },
     "5184318b-3b3e-617d-3930-24ebb3a5e6fa": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3797,12 +3967,33 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Dinosaurs/Apatosaurus/Animations/Apatosaurus_Jump_End.anim.nasset"
     },
+    "57292530-8f73-43d0-8685-7ead625f5f54": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Monsters/Big/Player_Scripts/Penny.scene.nasset",
+        "thumbnail": "39dfc81f-b468-4259-ba05-f1a5f2c0cac5",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "54026ee9-c279-9f4c-d4f3-dcbde89a4a5f"
+        ]
+    },
     "5771f453-2b74-153a-e5fa-f1f4801a6ed0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Animals/Bat/SK_Bat.scene.nasset/SK Bat.mesh.nasset/SK Bat Main.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "57bd2ae1-830d-47a8-ab90-44138a1b0800": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Animations/Ball_Hit_React.anim.nasset",
+        "dependencies": [
+            "0eaeff54-959c-56fc-919f-9706ffedbe64"
         ]
     },
     "57ef4bdc-824a-892a-bed4-9e9b70935578": {
@@ -3819,11 +4010,6 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
-    },
-    "584589c7-9d7f-74a0-b002-b848e96d035a": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Sword Slash.anim.nasset"
     },
     "58a6e33c-dade-4028-807b-00f3035fdcce": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -3851,6 +4037,19 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Sushime/Thumbnails/Express.scene.nasset.tex.nasset"
     },
+    "5a1320c5-3e5d-429a-9fe9-2edd2727c14a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Monsters/Big/Player_Scripts/Omek.scene.nasset",
+        "thumbnail": "39dfc81f-b468-4259-ba05-f1a5f2c0cac5",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "54026ee9-c279-9f4c-d4f3-dcbde89a4a5f"
+        ]
+    },
     "5a3aab91-e5fc-4901-953a-ec910a29753f": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -3875,6 +4074,12 @@
         "dependencies": [
             "2b52c73d-0d1e-7e45-9fa1-beb10d939916"
         ]
+    },
+    "5a7c8cbd-189f-42cb-87ef-9d98f3eb1c16": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Monsters/Rounded/Player_Scripts/Ball Cyclops.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
     },
     "5aa31ee1-1e56-2967-49b5-491044d0ce67": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -3978,6 +4183,10 @@
             "50179118-2784-13bb-f5ba-b59388a7c630"
         ]
     },
+    "5c3beafb-cb5f-4cbc-b5be-8d6ccb397704": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Monsters/Rounded/Thumbnails/Ball_Cyclops.scene.nasset.tex.nasset"
+    },
     "5c6d75d6-9749-d7ec-66f2-c82d548b1bf8": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -3991,6 +4200,18 @@
     "5cc41c23-f7be-49d6-a5fa-ec18fe9c16fa": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Dinosaurs/Parasaurolophus/Thumbnails/Parasaurolophus.scene.nasset.tex.nasset"
+    },
+    "5d4c09d1-146b-4268-b3f2-d38a9211d8ef": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Animations/Ball_Yes.anim.nasset",
+        "dependencies": [
+            "0eaeff54-959c-56fc-919f-9706ffedbe64"
+        ]
+    },
+    "5d5d74fa-c64e-476b-ad12-7f46982339e0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Elf.scene.nasset.tex.nasset"
     },
     "5d811aae-aa46-e655-1b5f-73bc4e23cfae": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -4040,6 +4261,10 @@
             "168dd918-458d-874d-bf82-79ae00ea4a15"
         ]
     },
+    "5f66bb1c-2b44-4563-8a4f-bff1a151ac64": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Monsters/Rounded/Thumbnails/Ball_Ghost.scene.nasset.tex.nasset"
+    },
     "6000c707-fb46-4882-9bd4-b761a1a14601": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -4048,7 +4273,7 @@
     "60200fef-5d55-47d4-9ca9-2afe17acabf1": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Heist/Soldier.scene.nasset",
+        "path": "Assets/Heist/Player_Scripts/Soldier.scene.nasset",
         "thumbnail": "67bafe6f-6889-43e8-8a2e-74951e14cc97",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
@@ -4077,7 +4302,7 @@
     "612393c1-bdbc-4c39-b961-86dfd94ea80e": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Cleric/Cleric_Jump_End.anim.nasset",
+        "path": "Assets/RPG/Cleric/Animations/Cleric_Jump_End.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -4139,6 +4364,10 @@
         "dependencies": [
             "94d419e3-39e8-88eb-70f7-35d7e3b05b79"
         ]
+    },
+    "61f80e8b-d88a-4962-80ea-d2a905064402": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Knight_Golden.scene.nasset.tex.nasset"
     },
     "620be590-c551-a7a1-d456-65258ecbc37c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -4315,6 +4544,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "64a46f59-5c35-46ff-a991-ec95262dfd9f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Worker.scene.nasset.tex.nasset"
+    },
     "6587be16-0e65-a761-6e00-1e5e0af45cc1": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -4411,6 +4644,10 @@
             "2cf1ac63-cc66-0be6-fd0b-e0c67251bd1b"
         ]
     },
+    "67f9e2ed-1282-437b-ba56-98694f5c800a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Cowboy.scene.nasset.tex.nasset"
+    },
     "67ffc542-10b9-4a72-a2ae-f13901860142": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -4452,7 +4689,7 @@
     "68dfe5f1-82b9-46f8-bf45-c8ea9ea32dff": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Mini/Mini Orc Topdown.scene.nasset",
+        "path": "Assets/Mini/Player_Scripts/Mini Orc Topdown.scene.nasset",
         "thumbnail": "c10af265-b935-473d-b8e2-2d96a0f873bf",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
@@ -4467,7 +4704,7 @@
     "69be551a-e4d3-48e3-a62e-e3cb52a30c54": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Monk/Monk_Walk.anim.nasset",
+        "path": "Assets/RPG/Monk/Animations/Monk_Walk.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -4492,7 +4729,7 @@
     "6b47686f-498d-4532-a01a-f14af1493053": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Heist/Idle.anim.nasset"
+        "path": "Assets/Heist/Animations/Idle.anim.nasset"
     },
     "6b5f1dcf-d332-5d8e-a8d1-3c9e59c72ce5": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -4546,15 +4783,10 @@
     "6cb4e43f-21da-402e-940e-fd6544b20d92": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Cleric/Cleric_Run.anim.nasset",
+        "path": "Assets/RPG/Cleric/Animations/Cleric_Run.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
-    },
-    "6cda4f8f-d259-4182-7fdd-e17ddf9dd77d": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Skeleton/Animations/Skeleton Death.anim.nasset"
     },
     "6cefa566-b7d4-4d98-97c4-2217c49a6fd3": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -4642,7 +4874,7 @@
     "6f3160f3-120d-4a59-933c-791af62c2844": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Rogue/Rogue_Idle.anim.nasset",
+        "path": "Assets/RPG/Rogue/Animations/Rogue_Idle.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -4745,6 +4977,12 @@
             "ebe647eb-a575-4d39-82af-f5bd50d096fc",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "70b12a12-bf08-4672-bbd8-604ae7e4c61e": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Monsters/Rounded/Player_Scripts/Ball Penguin.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
     },
     "70f48daf-418d-2e86-1c38-d88d523e63ee": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -4894,7 +5132,7 @@
     "735f097e-d23b-44b1-8c11-2b5164d1ca53": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Ranger/Ranger_Walk.anim.nasset",
+        "path": "Assets/RPG/Ranger/Animations/Ranger_Walk.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -4981,11 +5219,6 @@
             "8e676748-0b12-e7c7-d974-4ff4c059a00b"
         ]
     },
-    "757c447f-aca5-cf0b-c729-67072ecf7590": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Skeleton/Animations/Skeleton Running.anim.nasset"
-    },
     "75889f8d-1fa8-44fe-a056-dfa7367fb244": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -5003,6 +5236,10 @@
             "125cd8a8-6a61-0b44-61b0-ea6c323702e8",
             "1f381eaf-2d96-1c0d-f20a-118d1a4c86a9"
         ]
+    },
+    "7625bb6e-9848-4321-a6cd-82980e6d2fd4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Monsters/Rounded/Thumbnails/Ball_Mushroom.scene.nasset.tex.nasset"
     },
     "766a8e48-12b5-85ad-2417-15388c7d947a": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -5060,6 +5297,10 @@
             "3858271c-9362-0f4b-e21a-d2b8a07ba385"
         ]
     },
+    "7796ed52-511b-438d-ad74-6229ef871bcf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Wizard.scene.nasset.tex.nasset"
+    },
     "784e7dd6-4aa2-443f-880f-ba1427737aa1": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -5076,10 +5317,14 @@
             "22ddb16c-6d01-83b3-e09b-b774920e0692"
         ]
     },
+    "78b9fa79-fdf0-41dc-89af-f1dc0e1201b5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Old_Classy.scene.nasset.tex.nasset"
+    },
     "7900fc0a-1be1-4179-80be-dbce2cb90f23": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Heist/Run.anim.nasset"
+        "path": "Assets/Heist/Animations/Run.anim.nasset"
     },
     "791a88aa-a5d8-2c18-65f0-77968cab6c3e": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -5126,7 +5371,7 @@
     "796a0ce1-6c74-4030-b182-439e6ac30821": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Cleric/Cleric_Idle.anim.nasset",
+        "path": "Assets/RPG/Cleric/Animations/Cleric_Idle.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -5134,7 +5379,7 @@
     "79832f99-bed1-4e08-8573-bed480cd5e11": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Wizard/Wizard_Jump_Start.anim.nasset",
+        "path": "Assets/RPG/Wizard/Animations/Wizard_Jump_Start.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -5356,10 +5601,14 @@
             "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ]
     },
+    "7d8b6b61-c8d0-4723-9ce9-fd5ef30ebbd7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Soldier.scene.nasset.tex.nasset"
+    },
     "7db6c362-0aa7-496d-89c9-2856af1c7046": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Ranger/Ranger_Run.anim.nasset",
+        "path": "Assets/RPG/Ranger/Animations/Ranger_Run.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -5455,7 +5704,7 @@
     "7f76df34-08d6-49c2-8997-48f257e0d5c0": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Heist/AAA_Animations/Heist Yes.anim.nasset"
+        "path": "Assets/Heist/Animations/Heist Yes.anim.nasset"
     },
     "7f7cbcd8-4777-29c5-4ac0-286e913b8e90": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -5488,6 +5737,14 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Donkey/Animations/Donkey_Jump_Start.anim.nasset"
+    },
+    "801eaf89-ab04-4051-8d8a-856d3d71d2de": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Animations/Ball_Jump_Start.anim.nasset",
+        "dependencies": [
+            "0eaeff54-959c-56fc-919f-9706ffedbe64"
+        ]
     },
     "805b6222-d556-04ae-5ee3-6bc2c3dfd6d0": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -5563,6 +5820,10 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mini/Animations/Mini Holding Right.anim.nasset"
     },
+    "82d21691-31ca-49a9-a541-176edf912426": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Doctor_Young.scene.nasset.tex.nasset"
+    },
     "82d42685-63f9-429a-b3be-e10eb861b7f7": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -5571,7 +5832,7 @@
     "82e2784c-2cfc-4209-a362-5be51fbc5bb5": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Heist/AAA_Animations/Heist Duck.anim.nasset"
+        "path": "Assets/Heist/Animations/Heist Duck.anim.nasset"
     },
     "82e9235b-1350-400e-b919-8ae16780c1d0": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -5589,7 +5850,7 @@
     "83035081-fe93-4e72-aa52-a33bf971c16c": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Rogue/Rogue_Run.anim.nasset",
+        "path": "Assets/RPG/Rogue/Animations/Rogue_Run.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -5613,6 +5874,12 @@
             "125cd8a8-6a61-0b44-61b0-ea6c323702e8",
             "54f9bb00-d36e-6844-f8ee-d2b8df92e80a"
         ]
+    },
+    "83891d88-e1c1-430f-a575-a293817842e2": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Monsters/Rounded/Player_Scripts/Ball Cthulhu.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
     },
     "83ba8884-4092-9ddb-1af0-0217cf07aa13": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -5782,6 +6049,19 @@
             "00a25ff7-f322-be3c-eba7-40138e52c875"
         ]
     },
+    "8891794d-c554-4859-9a86-e79bb391f789": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Monsters/Big/Player_Scripts/Meyer.scene.nasset",
+        "thumbnail": "39dfc81f-b468-4259-ba05-f1a5f2c0cac5",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "54026ee9-c279-9f4c-d4f3-dcbde89a4a5f"
+        ]
+    },
     "88c44b98-5543-47e5-aa65-55238d913970": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -5823,9 +6103,22 @@
     "896f29ee-0e15-457d-994b-b42357154e42": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Monk/Monk_Jump_End.anim.nasset",
+        "path": "Assets/RPG/Monk/Animations/Monk_Jump_End.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
+        ]
+    },
+    "899cb133-ad9b-4171-b47f-d17ddde9148f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Monsters/Big/Player_Scripts/Prince.scene.nasset",
+        "thumbnail": "39dfc81f-b468-4259-ba05-f1a5f2c0cac5",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "54026ee9-c279-9f4c-d4f3-dcbde89a4a5f"
         ]
     },
     "89d58f54-6993-4f41-b4fd-29e2ea04b68d": {
@@ -5950,6 +6243,10 @@
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
         ]
     },
+    "8daa88ee-651a-48c2-a883-bc29e8554b19": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Monsters/Rounded/Thumbnails/Ball_Penguin.scene.nasset.tex.nasset"
+    },
     "8dac5435-03b2-44ae-85d7-8b738a82bc5d": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -5958,6 +6255,10 @@
             "dae8675b-ba76-2bd4-21fb-cb54c859696f"
         ]
     },
+    "8db98330-0e62-4cce-9d46-1c0c456d520e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Pirate.scene.nasset.tex.nasset"
+    },
     "8dbb0159-272e-4821-b1dd-13e68397cdd3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Sushime/Thumbnails/Shades.scene.nasset.tex.nasset"
@@ -5965,7 +6266,7 @@
     "8dd942d3-4abc-4563-9b7e-c47be5250e3d": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Heist/Redman.scene.nasset",
+        "path": "Assets/Heist/Player_Scripts/Redman.scene.nasset",
         "thumbnail": "27b1f684-2502-4868-a6ee-8e55ffee9f20",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
@@ -6163,6 +6464,10 @@
             "5aaeb590-2bb2-2171-71ae-c2dd228d0437"
         ]
     },
+    "92b82c3e-4fa7-4917-ad52-aa7a8d5d53b8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Ninja_Hair.scene.nasset.tex.nasset"
+    },
     "92d6fb14-31b6-41be-af8c-20b4482a5a53": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -6188,7 +6493,7 @@
     "92e64400-4d44-45d5-ac41-6103b29d0b10": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Heist/AAA_Animations/Heist No.anim.nasset"
+        "path": "Assets/Heist/Animations/Heist No.anim.nasset"
     },
     "92eee20b-2a75-480c-941d-98684f76d42b": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -6427,6 +6732,11 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "973ab7ee-3b20-d5e1-78f0-de9376a3a7c2": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Skeleton/Animations/Skeleton Spawn.anim.nasset"
+    },
     "9754b864-4784-e6ec-d502-2c9f6b3f98ed": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -6451,6 +6761,10 @@
         "dependencies": [
             "94d419e3-39e8-88eb-70f7-35d7e3b05b79"
         ]
+    },
+    "97718703-e2f4-4f23-8285-548df7c55ee7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Casual_2.scene.nasset.tex.nasset"
     },
     "97937c4e-63cf-3143-cc81-91bcf5182b02": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -6513,6 +6827,12 @@
     "99029d92-f497-4c98-be8b-85a5a9bba823": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Mechs/Robot/Thumbnails/Robo.scene.nasset.tex.nasset"
+    },
+    "99180acf-d193-43a1-a643-01be39e10243": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Monsters/Rounded/Player_Scripts/Ball Skull.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
     },
     "99519321-341d-4932-9513-a335e1614959": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -6585,6 +6905,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "9ad13855-73f2-4ede-a475-5bcc65de91c1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Casual_3.scene.nasset.tex.nasset"
+    },
     "9ae58b54-ac12-4a44-3a05-06ccceb38ade": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -6596,7 +6920,7 @@
     "9afb1e9a-0fbe-4246-b3ed-1a8a517c5d81": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Heist/Jump_End.anim.nasset"
+        "path": "Assets/Heist/Animations/Jump_End.anim.nasset"
     },
     "9b0074bf-2245-41cd-b1fe-891366d92258": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -6639,7 +6963,7 @@
     "9cfba9c2-31af-4825-94bd-3719b54f140b": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Heist/AAA_Animations/Heist Run Gun.anim.nasset"
+        "path": "Assets/Heist/Animations/Heist Run Gun.anim.nasset"
     },
     "9d1cb72a-3202-f0bf-e174-24c8df52d672": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -6656,7 +6980,7 @@
     "9d338491-80dd-40e6-9c4d-d8cabacf8906": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Warrior/Warrior_Jump_End.anim.nasset",
+        "path": "Assets/RPG/Warrior/Animations/Warrior_Jump_End.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -6803,6 +7127,11 @@
             "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ]
     },
+    "a0c4dd5a-c859-0f30-ff26-314c42adf75a": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Skeleton/Animations/Skeleton Attack.anim.nasset"
+    },
     "a0d432e3-02c5-5604-6d96-e7316c05544c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -6843,6 +7172,19 @@
             "bb3985e0-a4f6-462a-b6d9-5fd2d230a346"
         ]
     },
+    "a234cfd8-7feb-4e10-87f7-2d04f2df5d51": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Monsters/Big/Player_Scripts/Jinn.scene.nasset",
+        "thumbnail": "39dfc81f-b468-4259-ba05-f1a5f2c0cac5",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "54026ee9-c279-9f4c-d4f3-dcbde89a4a5f"
+        ]
+    },
     "a25cff00-66dc-4ecb-b821-2dfcfb24ad83": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -6878,6 +7220,16 @@
             "bb23b909-4c09-4089-9f2c-307a93de2ba1"
         ]
     },
+    "a31a144c-a8d8-48bc-943d-daad88323d79": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Monsters/Rounded/Player_Scripts/Ball Pig.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+    },
+    "a32585da-b00c-4a7a-bc15-9a58bdf3c5b4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Worker.scene.nasset.tex.nasset"
+    },
     "a33d3873-080e-4e3e-b393-e2d8ce98821c": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -6903,7 +7255,7 @@
     "a3fbc0e6-906f-4eea-bbd4-518863d7e85d": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Rogue/Rogue_Jump_Start.anim.nasset",
+        "path": "Assets/RPG/Rogue/Animations/Rogue_Jump_Start.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -7012,6 +7364,10 @@
             "168dd918-458d-874d-bf82-79ae00ea4a15"
         ]
     },
+    "a82d204b-92e4-4a95-9e78-9950c0113da3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Doctor_Old.scene.nasset.tex.nasset"
+    },
     "a85be35e-5a2b-8bba-8c91-c1e7580edd7f": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -7057,7 +7413,7 @@
     "a969fd2d-2c8d-4ae6-9204-b47129868f6e": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Wizard/Wizard_Jump_Loop.anim.nasset",
+        "path": "Assets/RPG/Wizard/Animations/Wizard_Jump_Loop.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -7244,6 +7600,10 @@
             "0b3d2f7d-cbd7-ef1d-4202-5bc8ec33572f"
         ]
     },
+    "ac77ca62-dc6a-4bfe-9002-2a9b1a171cc8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Goblin.scene.nasset.tex.nasset"
+    },
     "ac7dbe80-bdab-4fe5-9631-481d75f4b289": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -7358,6 +7718,10 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Cow/Animations/Cow_Idle.anim.nasset"
     },
+    "afaeaeb4-1547-4307-b38d-a2e4348cdf60": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Knight_Golden.scene.nasset.tex.nasset"
+    },
     "aff00ef6-0159-05f6-aee7-61e08496d69d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -7397,6 +7761,20 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Pug/Animations/Pug_Jump_Loop.anim.nasset"
+    },
+    "b019928d-3994-4f4c-9baf-8cdde1f1ff31": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Animations/Ball_Death.anim.nasset",
+        "dependencies": [
+            "0eaeff54-959c-56fc-919f-9706ffedbe64"
+        ]
+    },
+    "b0201047-0a96-42c1-ae2d-c8eac8879744": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Monsters/Rounded/Player_Scripts/Ball Yeti.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
     },
     "b0277646-6441-437e-a768-9a47e5a64520": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -7466,6 +7844,12 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Modular_People/Animations/Modular People Idle Neutral.anim.nasset"
+    },
+    "b1eeac02-ff98-4d5c-81e4-c7a43dfec9d0": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Monsters/Rounded/Player_Scripts/Ball Mushroom.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
     },
     "b207aba8-0fec-4257-88fe-39e4e8700a99": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -7579,7 +7963,7 @@
     "b41f21ba-81cf-4f8d-a081-d01a18fd3096": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Heist/Jump_Start.anim.nasset"
+        "path": "Assets/Heist/Animations/Jump_Start.anim.nasset"
     },
     "b464f5e5-9492-4235-9d66-085d1718ebe2": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -7612,9 +7996,18 @@
             "a2e3f6da-7d05-695f-2187-12088a16e0ec"
         ]
     },
+    "b564ad49-7d7f-0a0e-ba7f-d641bc382daa": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Skeleton/Animations/Skeleton Death.anim.nasset"
+    },
     "b5713928-28ee-4571-9b14-811bdfc0d2f8": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Monsters/Big/Thumbnails/Uglee.scene.nasset.tex.nasset"
+    },
+    "b58dc986-ffae-4560-a092-0c5b67e8c888": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Monsters/Rounded/Thumbnails/Ball_Deer.scene.nasset.tex.nasset"
     },
     "b5910bc3-9317-45b9-98fd-a36575956658": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -7683,6 +8076,10 @@
             "792455f1-f581-e465-2003-b089ae162c4b"
         ]
     },
+    "b71ee7ec-111e-4b17-bf9e-5c4aad519b39": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Ninja_Sand.scene.nasset.tex.nasset"
+    },
     "b73386a2-0737-46b6-83a1-addd17f91d99": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -7709,7 +8106,7 @@
     "b8010cb3-8d3f-412a-8650-e312161888d0": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Ranger/Ranger_Jump_End.anim.nasset",
+        "path": "Assets/RPG/Ranger/Animations/Ranger_Jump_End.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -7742,6 +8139,10 @@
             "add9eeac-039d-8c56-5381-6e886b6b3b0e"
         ]
     },
+    "b8b118b1-3b56-4f29-9c8a-7e43a20825e1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Ninja_Sand.scene.nasset.tex.nasset"
+    },
     "b8bf7aa5-05e6-b5e1-8022-e3d399ea6786": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -7753,6 +8154,19 @@
         "path": "Assets/Animals/Bat/SK_Bat.scene.nasset/SK Bat.mesh.nasset/SK Bat Nose.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b9069913-d066-45f1-aa52-78e70e19ce30": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Monsters/Big/Player_Scripts/Kappa.scene.nasset",
+        "thumbnail": "39dfc81f-b468-4259-ba05-f1a5f2c0cac5",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "54026ee9-c279-9f4c-d4f3-dcbde89a4a5f"
         ]
     },
     "b91be93c-455e-d613-9950-bb6f5dff4610": {
@@ -7835,7 +8249,7 @@
     "baae48e8-4108-435f-878e-208e8bcd09eb": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Wizard/Wizard_Run.anim.nasset",
+        "path": "Assets/RPG/Wizard/Animations/Wizard_Run.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -7870,6 +8284,10 @@
         "dependencies": [
             "de064ec9-6de9-997d-9daf-1161ee2e3c4d"
         ]
+    },
+    "bb00e897-9e93-4bc4-96f5-a26bfaa73282": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Zombie.scene.nasset.tex.nasset"
     },
     "bb23b909-4c09-4089-9f2c-307a93de2ba1": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -7928,6 +8346,17 @@
             "f07a06e6-2918-ffb8-7886-1c8e3caa907e"
         ]
     },
+    "bc26b541-48c4-2d7a-cdf6-70902b8f41d0": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Idle Hold.anim.nasset"
+    },
+    "bc4a62b4-1082-4762-9931-c5947fea9e3c": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Monsters/Rounded/Player_Scripts/Ball Deer.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+    },
     "bc5c9a35-33bd-3308-fc63-7619fadd6d34": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -7956,7 +8385,7 @@
     "bc9883e8-d247-45fe-82fd-ee0442f84ac8": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Monk/Monk_Jump_Loop.anim.nasset",
+        "path": "Assets/RPG/Monk/Animations/Monk_Jump_Loop.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -8006,7 +8435,7 @@
     "bd83a857-59b6-47d1-81f0-bb099752d216": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Monk/Monk_Idle.anim.nasset",
+        "path": "Assets/RPG/Monk/Animations/Monk_Idle.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -8027,6 +8456,11 @@
             "5aaeb590-2bb2-2171-71ae-c2dd228d0437"
         ]
     },
+    "bd99760f-a6e2-799e-2c16-ed5253f4c77d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Sitting.anim.nasset"
+    },
     "bddc37f8-c6e0-8d25-84b0-0e559650f7d8": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Heist/Material Instances/Thumbnails/Pants.mtli.nasset.tex.nasset"
@@ -8035,10 +8469,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Voxel/Danny/Thumbnails/Danny.scene.nasset.tex.nasset"
     },
-    "bdfd00bc-e728-0504-7847-b506483f6711": {
+    "be0aac7e-1ff5-3fb0-2f4d-7532607bc325": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Punch.anim.nasset"
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Clapping.anim.nasset"
     },
     "be0bce66-279a-4c2c-ae0b-5c28950a4bf6": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -8047,6 +8481,10 @@
         "dependencies": [
             "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
         ]
+    },
+    "be542ede-28aa-451e-bb11-6874bb35c2b3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Pirate.scene.nasset.tex.nasset"
     },
     "be87f454-c2ae-1d72-b3dc-ae67946ff0eb": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -8081,12 +8519,12 @@
     "bf260724-7066-4cc8-9a37-6708053f3e17": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Heist/Jump_Loop.anim.nasset"
+        "path": "Assets/Heist/Animations/Jump_Loop.anim.nasset"
     },
     "bf32817a-e995-44c8-96df-4600f3a78dec": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Mini/Mini Skater Girl Topdown.scene.nasset",
+        "path": "Assets/Mini/Player_Scripts/Mini Skater Girl Topdown.scene.nasset",
         "thumbnail": "c10af265-b935-473d-b8e2-2d96a0f873bf",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
@@ -8094,6 +8532,11 @@
         "dependencies": [
             "c0ef37a3-1fe9-a633-bf90-51c2de6ecce5"
         ]
+    },
+    "bf4afeac-db58-f1c0-c776-0b9ddf249ae8": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Roll.anim.nasset"
     },
     "bf756302-ddd2-41f8-934b-a3478772df07": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -8130,6 +8573,11 @@
         "dependencies": [
             "3d65b732-ebfc-12da-ec51-362e7a40c166"
         ]
+    },
+    "bfd96485-44e4-2682-4404-549eb139f633": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Run Jump.anim.nasset"
     },
     "c01c9183-3d06-6b3d-869d-6f71acfeda45": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -8366,6 +8814,12 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Bull/Animations/Bull_Walk.anim.nasset"
     },
+    "c4ace939-b39f-447e-9bd8-111823556834": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Monsters/Rounded/Player_Scripts/Ball Panda.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+    },
     "c4c001d9-96c3-3923-dee2-38e8de27cc4b": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -8375,6 +8829,10 @@
             "e056753c-0415-6671-e733-e75d04dcb7cf",
             "6b5f1dcf-d332-5d8e-a8d1-3c9e59c72ce5"
         ]
+    },
+    "c4d0fea0-baf6-4fa2-9337-f9dec081cf29": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/RPG/Warrior/Thumbnails/Warrior.scene.nasset.tex.nasset"
     },
     "c4d5185b-ec4d-e651-19db-75c5e19014a0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -8535,6 +8993,19 @@
             "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
         ]
     },
+    "c744561e-294f-4b43-b69d-116fbfc58db5": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Monsters/Big/Player_Scripts/Cain.scene.nasset",
+        "thumbnail": "39dfc81f-b468-4259-ba05-f1a5f2c0cac5",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "54026ee9-c279-9f4c-d4f3-dcbde89a4a5f"
+        ]
+    },
     "c747e0e6-a920-4403-b65c-0128f7956daf": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -8543,7 +9014,7 @@
     "c7aa8df5-0fa4-4049-a662-f0be9ebdc48f": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Heist/AAA_Animations/Heist Walk Shoot.anim.nasset"
+        "path": "Assets/Heist/Animations/Heist Walk Shoot.anim.nasset"
     },
     "c7dfcb41-e05b-e67c-0f34-ae408e8e43c3": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -8585,6 +9056,10 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mini/Animations/Mini Idle to Fall.anim.nasset"
     },
+    "c9206950-02ec-4a18-b72e-89dac8f09d68": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Zombie.scene.nasset.tex.nasset"
+    },
     "c965188d-d1a2-645a-9663-c08045ae7f92": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Animals/Spider/Material Instances/Spider Main.mtli.nasset",
@@ -8593,10 +9068,14 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "c9abf0b2-156f-458a-9324-e785d375824e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Goblin.scene.nasset.tex.nasset"
+    },
     "c9ba92a5-08d8-47fc-8ddc-3afc35c3bdad": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Wizard/Wizard_Jump_End.anim.nasset",
+        "path": "Assets/RPG/Wizard/Animations/Wizard_Jump_End.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -8666,7 +9145,7 @@
     "cb24aa48-7797-4917-b095-1eb122c8bf09": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Cleric/Cleric_Jump_Start.anim.nasset",
+        "path": "Assets/RPG/Cleric/Animations/Cleric_Jump_Start.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -8694,6 +9173,11 @@
             "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480",
             "33d66126-bd02-3f2c-ba2b-7892ed00adf0"
         ]
+    },
+    "cbec36c3-28f2-f1dd-6708-6229c560cfc7": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Punch.anim.nasset"
     },
     "cbff5551-48c3-bbcc-32e4-e4b10345b849": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -8728,6 +9212,11 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "ccc9acf5-2959-9835-3cf9-db96d22f6698": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Skeleton/Animations/Skeleton Idle.anim.nasset"
     },
     "cd5eca99-0615-ddf1-90df-822034dbf6b6": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -8779,6 +9268,10 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "ce2b3b38-d296-40d4-9083-ff239b77bed9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Monsters/Rounded/Thumbnails/Ball_Crab.scene.nasset.tex.nasset"
     },
     "ce92ba99-28bf-add6-f683-a6f3545ad9e3": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -8860,7 +9353,7 @@
     "d00f1c8b-69c0-4228-be4c-5e7d12fba445": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Warrior/Warrior_Walk.anim.nasset",
+        "path": "Assets/RPG/Warrior/Animations/Warrior_Walk.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -8882,6 +9375,10 @@
         "dependencies": [
             "2b52c73d-0d1e-7e45-9fa1-beb10d939916"
         ]
+    },
+    "d0702a1e-9071-4138-8ef0-03db2c77579d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Monsters/Rounded/Thumbnails/Ball_Yeti.scene.nasset.tex.nasset"
     },
     "d0728d68-50ec-4574-a6a2-4504c4575f26": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -8921,6 +9418,11 @@
             "53d32f7f-0696-cb59-dcf3-e64055737f0e",
             "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa"
         ]
+    },
+    "d0eca90c-a5e7-5f44-de70-b8cdc17889b5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Swim.anim.nasset"
     },
     "d107f9f5-e688-25c1-4f95-10a2f2c3f9a4": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -8992,6 +9494,19 @@
             "5a53fd2d-6fbf-e51d-01c5-13249fbcf416"
         ]
     },
+    "d22e701d-373b-4eee-a8ff-ee6c5056ca71": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Monsters/Big/Player_Scripts/Prickly Pear.scene.nasset",
+        "thumbnail": "39dfc81f-b468-4259-ba05-f1a5f2c0cac5",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "54026ee9-c279-9f4c-d4f3-dcbde89a4a5f"
+        ]
+    },
     "d2392b60-ef17-8c7b-e39e-af75d7de1714": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -9005,7 +9520,7 @@
     "d252a1d1-7299-46ba-b9c2-a2eff2547747": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Rogue/Rogue_Walk.anim.nasset",
+        "path": "Assets/RPG/Rogue/Animations/Rogue_Walk.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -9111,6 +9626,10 @@
             "6d512e35-97be-41d3-a565-505b3560a079"
         ]
     },
+    "d424c70e-6662-41b3-bd60-e04e4fdfb730": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/RPG/Ranger/Thumbnails/Ranger.scene.nasset.tex.nasset"
+    },
     "d43d22f2-a02a-1c33-39ae-7aa1716f0d55": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -9119,7 +9638,7 @@
     "d47b6347-605b-48a6-acc8-05a5281325a3": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Mini/Mini Human Topdown.scene.nasset",
+        "path": "Assets/Mini/Player_Scripts/Mini Human Topdown.scene.nasset",
         "thumbnail": "c10af265-b935-473d-b8e2-2d96a0f873bf",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
@@ -9258,6 +9777,10 @@
             "07e0879b-248d-6d8c-9893-63c1adc8c200"
         ]
     },
+    "d90b2516-587a-43ef-bcfe-fd1ac7e9d480": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Cowboy.scene.nasset.tex.nasset"
+    },
     "d91f8d25-0581-2da6-99f3-c72d7235ee37": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -9267,6 +9790,10 @@
             "88d11778-2f42-acf7-fb5a-1e56e283c79a",
             "133143e8-6299-e265-2252-87455d53d2e6"
         ]
+    },
+    "d944ddc0-5e27-4711-92a3-660e532ea762": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/RPG/Rogue/Thumbnails/Rogue.scene.nasset.tex.nasset"
     },
     "d9f46431-0cc8-aac3-c7ec-30bf7144851e": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
@@ -9281,6 +9808,14 @@
             "f764a7d2-049f-e4f7-d2a3-546f2eb87496",
             "793c6a70-4969-f8d8-e862-721b1ccf5d02",
             "f6c1a388-4cd0-8b1a-20f9-233f8c371e21"
+        ]
+    },
+    "da085f1e-ce7c-4e7f-8929-0f19538c8bfd": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Animations/Ball_Dance.anim.nasset",
+        "dependencies": [
+            "0eaeff54-959c-56fc-919f-9706ffedbe64"
         ]
     },
     "da328561-2ac9-74c0-22de-466a0ef63602": {
@@ -9349,7 +9884,7 @@
     "db20384a-ea80-4a90-9893-a9045c268b16": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Warrior/Warrior_Jump_Loop.anim.nasset",
+        "path": "Assets/RPG/Warrior/Animations/Warrior_Jump_Loop.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -9427,6 +9962,10 @@
             "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480",
             "1789de8e-96df-face-7b3c-6e9e4a8837e2"
         ]
+    },
+    "dd1e012e-5ec1-4712-8bc8-855dab925c2f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Doctor_Young.scene.nasset.tex.nasset"
     },
     "dd22f2e7-b34a-1c81-2ce8-886f97232d1f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -9517,7 +10056,7 @@
     "de940836-dd2f-43cd-8874-d0a6fd70ca23": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Heist/AAA_Animations/Heist Death.anim.nasset"
+        "path": "Assets/Heist/Animations/Heist Death.anim.nasset"
     },
     "dec55d04-ddbf-4ee2-ab3e-f3e5f7219286": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -9540,11 +10079,6 @@
             "d20f8086-2b40-778a-e1c2-95eca78d436b",
             "d9f46431-0cc8-aac3-c7ec-30bf7144851e"
         ]
-    },
-    "dede840c-00fc-9f56-1a3e-cdf90002ec21": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Sitting.anim.nasset"
     },
     "df2e7d6a-c4a3-46a8-8287-722ece22e94e": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -9572,6 +10106,10 @@
             "fba9d5de-3e54-7227-fb4d-45cb02fc69d5",
             "510ecd4e-9e27-0e13-6dd7-026019296f8d"
         ]
+    },
+    "df8349fc-7b78-454a-85c7-ff8e6e4b81cd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Ninja.scene.nasset.tex.nasset"
     },
     "df8e8066-56c4-48b4-77a7-daa33798c55b": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -9624,7 +10162,7 @@
     "e0664477-db79-4188-bd55-6cab745edbee": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Heist/AAA_Animations/Heist Run Shoot.anim.nasset"
+        "path": "Assets/Heist/Animations/Heist Run Shoot.anim.nasset"
     },
     "e070d054-1eab-4f0b-b524-449eac3a1515": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -9650,6 +10188,11 @@
     "e10ac88b-2e83-1c8c-3c04-31747b2b3d36": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Heist/Material Instances/Thumbnails/Skin Tan.mtli.nasset.tex.nasset"
+    },
+    "e1302bb9-a6dd-db5f-9b5e-7c1b503dbb56": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Run Hold.anim.nasset"
     },
     "e1582266-fdfb-470e-a7fa-cebad28836d3": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -9683,6 +10226,11 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Bull/Animations/Bull_Jump_Start.anim.nasset"
+    },
+    "e29c87e7-374a-6557-00aa-ceeb23ca3df1": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Sword Slash.anim.nasset"
     },
     "e2b038c2-fa2d-b80e-8bd8-71521884d547": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -9718,7 +10266,7 @@
     "e35ef854-1392-4d4d-82f6-03727e987782": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Heist/Hazmat.scene.nasset",
+        "path": "Assets/Heist/Player_Scripts/Hazmat.scene.nasset",
         "thumbnail": "cc01505d-881b-4f92-a7e7-ece621731365",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
@@ -9864,7 +10412,7 @@
     "e715e254-54ea-48ed-b603-21488fd978ad": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Wizard/Wizard_Idle.anim.nasset",
+        "path": "Assets/RPG/Wizard/Animations/Wizard_Idle.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -9932,6 +10480,10 @@
             "bc6c4d4b-a05b-6e71-5d0f-7689c128925b"
         ]
     },
+    "e7f04bc8-fa85-4024-b9e0-79f348196aa7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Casual_1.scene.nasset.tex.nasset"
+    },
     "e81a1d78-c467-7f01-d383-c8103f68a0ae": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -9951,6 +10503,10 @@
             "8e4c6d61-b043-0f8e-bf0c-5640a7ee71d2",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "e8541f99-d539-425b-9f90-554faee7d64b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Soldier_Blue.scene.nasset.tex.nasset"
     },
     "e85881cb-1f1c-41e8-9073-a8fe2f0b840d": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -10137,10 +10693,14 @@
             "41eecb07-491c-4a32-aeb8-e4bf73ca92fc"
         ]
     },
+    "eb8bfed2-4d3e-4bd9-8c60-fdcfbc222098": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Knight.scene.nasset.tex.nasset"
+    },
     "eb963102-69ec-4dc8-aa3d-66bbf36edd6b": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Heist/AAA_Animations/Heist Wave.anim.nasset"
+        "path": "Assets/Heist/Animations/Heist Wave.anim.nasset"
     },
     "ebe647eb-a575-4d39-82af-f5bd50d096fc": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -10152,7 +10712,7 @@
     "ebea8b31-2da2-419b-8214-2ad713b80784": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Rounded/Player_Scripts/Ball Bat Player.scene.nasset",
+        "path": "Assets/Monsters/Rounded/Player_Scripts/Ball Bat.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
     },
     "ec4c0dcb-9207-4df7-b6bf-0f3c5cb85f21": {
@@ -10191,6 +10751,10 @@
         "dependencies": [
             "1308dd4f-bebd-1efc-661c-e622cd746e3c"
         ]
+    },
+    "ed1445fd-6214-40bb-8914-6ac8edc2e346": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Doctor_Old.scene.nasset.tex.nasset"
     },
     "ed8769ad-4dff-4480-1a56-eb6890c22376": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -10273,6 +10837,10 @@
             "eddd8214-b9e9-8bdb-a3d6-17a6446490e8"
         ]
     },
+    "ef8c78cf-1ea0-4d6c-867f-699eb5603ecf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Monsters/Rounded/Thumbnails/Ball_Bee.scene.nasset.tex.nasset"
+    },
     "efcfc132-480c-496d-905d-122b106c74c8": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -10290,6 +10858,14 @@
         "dependencies": [
             "b8bf7aa5-05e6-b5e1-8022-e3d399ea6786"
         ]
+    },
+    "f05bac4f-577b-48ae-a845-691d6293c0c0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Chef.scene.nasset.tex.nasset"
+    },
+    "f05be3b8-5966-4f6a-95d5-80f7149f2313": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Cowboy_Hair.scene.nasset.tex.nasset"
     },
     "f06843c9-9834-4723-b877-0202e786b791": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -10418,11 +10994,6 @@
             "3d65b732-ebfc-12da-ec51-362e7a40c166"
         ]
     },
-    "f2265b4a-a891-02c7-f284-ac8af1b1481e": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Standing.anim.nasset"
-    },
     "f2407175-7007-99e1-a60a-2c25931e982c": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -10549,6 +11120,16 @@
             "5383edbe-0e6c-9c1e-bdb0-03291b98f472",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "f49a4d94-9a88-4261-939d-ebe03549b289": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Monsters/Rounded/Player_Scripts/Ball Demon.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+    },
+    "f4a66563-c40c-4ca6-9499-8bbda3c6bd4f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/RPG/Cleric/Thumbnails/Cleric.scene.nasset.tex.nasset"
     },
     "f524c14a-8656-4400-912c-e98f126ce313": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -10717,11 +11298,6 @@
             "79cfe86b-0353-108d-86e7-0d13868eb14a"
         ]
     },
-    "f89df1c4-9a25-af98-2351-2b66c84d620a": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Roll.anim.nasset"
-    },
     "f8b355f8-5654-485c-b227-603f9371a839": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -10767,6 +11343,10 @@
         "dependencies": [
             "d41bcbff-78b9-6467-1e93-b3604d5a15c9"
         ]
+    },
+    "fa85985f-64f5-4d3e-8fbc-bc51274d28ea": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/RPG/Wizard/Thumbnails/Wizard.scene.nasset.tex.nasset"
     },
     "fb3d77a8-ef1e-47c5-9cc1-117a726ecfbe": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -10895,7 +11475,7 @@
     "fc98c489-dcf2-4359-838b-e309e75cd7cc": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/RPG/Cleric/Cleric_Walk.anim.nasset",
+        "path": "Assets/RPG/Cleric/Animations/Cleric_Walk.anim.nasset",
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
@@ -10978,6 +11558,14 @@
         "dependencies": [
             "6a039ba4-d2fe-7169-4f06-dcce2ca24fd5",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "fefb9766-4e87-4928-8506-f1b01050ac7b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Animations/Ball_Bite_InPlace.anim.nasset",
+        "dependencies": [
+            "0eaeff54-959c-56fc-919f-9706ffedbe64"
         ]
     },
     "ff005f67-ab91-4e84-b21e-df1b720895ff": {

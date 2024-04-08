@@ -1,0 +1,20 @@
+{
+    "source": "A_Ball_Hit_React.fbx",
+    "skeleton": "0eaeff54-959c-56fc-919f-9706ffedbe64",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "0eaeff54-959c-56fc-919f-9706ffedbe64"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "57bd2ae1-830d-47a8-ab90-44138a1b0800"
+        }
+    ],
+    "guid": "57bd2ae1-830d-47a8-ab90-44138a1b0800",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "0eaeff54-959c-56fc-919f-9706ffedbe64"
+    ],
+    "instanceGuid": "3781025a-a77d-a241-d411-b3a1c74c818d"
+}
