@@ -1,0 +1,231 @@
+{
+    "guid": "9b9d6cf0-e652-b9a1-bda2-925e8f8dba7b",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "0249c324-ee4c-cb16-416a-67794417ffb6",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "17b1fde3-b0e4-137a-d753-8753e2469bb3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Female Suit Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "5a5afa43-96af-4d3c-e097-e7bce4394812",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "dc7a4e42-ae70-7081-1cc4-e376a376b187",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Suit Armor 4"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "8fd21b39-c666-9b41-ec72-111864f3d392",
+                                "material_instance": "38705279-46f4-3ef0-c783-9bb1a6bfacef"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "222a6c22-05b7-3b42-b29c-434c6d3712bd"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "7eb6fac0-500e-f12e-a6cc-a6b6698eef2b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Suit White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "321876f9-d5a3-da53-313f-e4b7536b3ce0",
+                                "material_instance": "c30ea0a8-f648-4492-e746-bfb0fd879c09"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "cf81dc61-d598-d40e-6f4d-fd1a3309cc87"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "04e4b7b3-e428-554d-d1c4-2730652032ee",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Suit Belt 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "b7b0c202-03ea-473c-6dd5-0a1c42f87905",
+                                "material_instance": "1b5e6a47-26c9-6bee-79de-d6492154ec1d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "17f33d01-e7b1-f743-00ff-a165cb4d8c16"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "4fc9136a-a141-bbbc-7912-8ebd1567a69b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Suit Main 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "fccee91a-e044-6375-eb4e-31b4c3fe1149",
+                                "material_instance": "44801e67-2ba8-423b-d857-eab35579e57f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "368eaba3-6680-9957-526e-5d32030c60c4"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "cfba820a-947d-6dde-bc6a-29d7d0d796d3",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Suit Detail 5"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "16735411-be0c-f936-dc90-2532478e3034",
+                                "material_instance": "aa1005b0-745e-719c-bb1c-c515e64e9c59"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "d47bb955-e1f7-a46b-ab72-878d8df2a6f7"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "2fbd378f-3951-7703-3c2b-4cb607a04d8d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Suit Face 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4fafa6f9-28cc-4763-cd30-906893422bef",
+                                "material_instance": "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "4f39475a-6a0a-0fc1-eee5-4fe5b4cb5f0a"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "1b80a555-e449-f2b3-3196-0e8887f5863b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Suit Brown Leather"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "8ba922ac-2185-f842-b721-daf2bc0ed403",
+                                "material_instance": "b16fe8c1-5a9f-d0c9-0d8d-2d464ad94591"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "cb17d229-fccf-df3a-7cf3-5686149f530b"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "9b9d6cf0-e652-b9a1-bda2-925e8f8dba7b"
+    },
+    "dependencies": [
+        "38705279-46f4-3ef0-c783-9bb1a6bfacef",
+        "8fd21b39-c666-9b41-ec72-111864f3d392",
+        "222a6c22-05b7-3b42-b29c-434c6d3712bd",
+        "c30ea0a8-f648-4492-e746-bfb0fd879c09",
+        "321876f9-d5a3-da53-313f-e4b7536b3ce0",
+        "cf81dc61-d598-d40e-6f4d-fd1a3309cc87",
+        "1b5e6a47-26c9-6bee-79de-d6492154ec1d",
+        "b7b0c202-03ea-473c-6dd5-0a1c42f87905",
+        "17f33d01-e7b1-f743-00ff-a165cb4d8c16",
+        "44801e67-2ba8-423b-d857-eab35579e57f",
+        "fccee91a-e044-6375-eb4e-31b4c3fe1149",
+        "368eaba3-6680-9957-526e-5d32030c60c4",
+        "aa1005b0-745e-719c-bb1c-c515e64e9c59",
+        "16735411-be0c-f936-dc90-2532478e3034",
+        "d47bb955-e1f7-a46b-ab72-878d8df2a6f7",
+        "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
+        "4fafa6f9-28cc-4763-cd30-906893422bef",
+        "4f39475a-6a0a-0fc1-eee5-4fe5b4cb5f0a",
+        "b16fe8c1-5a9f-d0c9-0d8d-2d464ad94591",
+        "8ba922ac-2185-f842-b721-daf2bc0ed403",
+        "cb17d229-fccf-df3a-7cf3-5686149f530b",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}

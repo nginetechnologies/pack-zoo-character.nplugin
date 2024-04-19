@@ -1,0 +1,205 @@
+{
+    "guid": "cf773c83-d72d-1f19-0812-62ef187fc783",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "af02f606-3d6f-f3eb-5ea2-c4d769789564",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "a3f1586d-eaac-cdca-b6ab-56c554adef0b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Female Doctor Old Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "c6bfc404-73b0-20a6-1387-32da9140391a",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "fac3bfb5-c871-adb0-e4e2-a06f64aab3f0",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Doctor Old Face 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "3427237a-6833-c2fb-c29a-0e3cccd573ca",
+                                "material_instance": "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "34cc511a-9735-f88b-f2d9-fb991276afef"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "4196882f-6c19-e240-35dc-6a28fede8231",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Doctor Old Main 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7d7e2c47-6f2f-492f-3432-e615cb685d83",
+                                "material_instance": "44801e67-2ba8-423b-d857-eab35579e57f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "3dcf1162-97d1-967e-e254-928940366cae"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "ce5865dc-1180-8654-8346-17d2b1c5ff8a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Doctor Old White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "78cf733f-c21e-bc59-59c7-5f7922b80626",
+                                "material_instance": "c30ea0a8-f648-4492-e746-bfb0fd879c09"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "2e56ca52-c291-e86f-b0da-6aaab6a3e61a"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "8e6c774f-3693-39a0-0abb-cac4e6b74701",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Doctor Old Brown 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "9a76f820-92a1-3099-62aa-184cbf185381",
+                                "material_instance": "67fc8f99-af22-217a-b807-8d0fe436d431"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "f667ff46-2ef2-39a2-b0ef-c0a05ff2de18"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "e32af20f-e169-436e-5161-208fd2fb08ea",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Doctor Old Green"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "23ea4cd2-aff1-6750-c00a-31e181725b1e",
+                                "material_instance": "efc1c673-126d-f957-a7b2-8502aa78b433"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "4d91f5a4-bbf1-e3a4-1273-a1513d80d0ca"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "b17cc838-cd67-8cf6-0237-1357b4bce971",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Doctor Old Hair 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e2865493-2b61-d050-3305-d0c1382cf5cf",
+                                "material_instance": "a58f446e-77cb-d966-802d-2c2557f7b4db"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "858451af-d7fc-4ff7-7629-26984f4f5ffe"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "cf773c83-d72d-1f19-0812-62ef187fc783"
+    },
+    "dependencies": [
+        "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
+        "3427237a-6833-c2fb-c29a-0e3cccd573ca",
+        "34cc511a-9735-f88b-f2d9-fb991276afef",
+        "44801e67-2ba8-423b-d857-eab35579e57f",
+        "7d7e2c47-6f2f-492f-3432-e615cb685d83",
+        "3dcf1162-97d1-967e-e254-928940366cae",
+        "c30ea0a8-f648-4492-e746-bfb0fd879c09",
+        "78cf733f-c21e-bc59-59c7-5f7922b80626",
+        "2e56ca52-c291-e86f-b0da-6aaab6a3e61a",
+        "67fc8f99-af22-217a-b807-8d0fe436d431",
+        "9a76f820-92a1-3099-62aa-184cbf185381",
+        "f667ff46-2ef2-39a2-b0ef-c0a05ff2de18",
+        "efc1c673-126d-f957-a7b2-8502aa78b433",
+        "23ea4cd2-aff1-6750-c00a-31e181725b1e",
+        "4d91f5a4-bbf1-e3a4-1273-a1513d80d0ca",
+        "a58f446e-77cb-d966-802d-2c2557f7b4db",
+        "e2865493-2b61-d050-3305-d0c1382cf5cf",
+        "858451af-d7fc-4ff7-7629-26984f4f5ffe",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}

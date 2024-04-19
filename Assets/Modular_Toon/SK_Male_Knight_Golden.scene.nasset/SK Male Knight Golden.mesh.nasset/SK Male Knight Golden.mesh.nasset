@@ -1,0 +1,179 @@
+{
+    "guid": "2e9fc9db-169c-e6b4-d773-dc532d115d3a",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "018c497d-b24c-ebce-068b-0e4cb037b1c9",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "bc31fc99-0aef-771f-81f6-348b974111d9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Knight Golden Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "51f63efc-1639-4a23-ba54-3a622c3c92bd",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "f89a9b50-99c7-1666-a9a5-483bf6684b35",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Knight Golden Armor 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7d664330-e856-cb7b-d2f2-1ddc992b2eef",
+                                "material_instance": "5aaf9cab-b7fa-bd1c-58d1-d6a25f3e889d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "2549361c-eec5-7dbc-e907-be12b19a13c0"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "4cd2aabf-ef94-3aad-d130-6028f852e1d4",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Knight Golden Armor 4"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "066a06cf-85e6-876f-163c-cee8212ee521",
+                                "material_instance": "38705279-46f4-3ef0-c783-9bb1a6bfacef"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "4be15081-e130-7b12-5835-8f8d4570d838"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "5472ca86-3e69-51b8-e667-45668a513e76",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Knight Golden Main 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7d703d00-2801-1ae9-985e-70578a952400",
+                                "material_instance": "44801e67-2ba8-423b-d857-eab35579e57f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "147c9b30-f1e8-8d3d-31cb-7621468138f0"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d8e790f3-9ae2-6a00-85f3-31d7b1c45ffe",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Knight Golden Detail 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "fcf6cd0a-2263-8ca6-1213-18a7bcca0fb4",
+                                "material_instance": "c33d4aee-8454-24d8-af97-8e89a1f13fc6"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "2d3d5b5e-ffcc-3713-787e-aa19f8dd3153"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "75d8f4fb-bf05-9fb9-fbfd-fc969ffdbd60",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Knight Golden Red 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ca129694-85cf-9b9d-115c-961ce159c234",
+                                "material_instance": "16c7ac35-12ac-a87a-dc30-6a680a707d59"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "db95f3f7-a761-8ac1-c36e-4966514b63fc"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "2e9fc9db-169c-e6b4-d773-dc532d115d3a"
+    },
+    "dependencies": [
+        "5aaf9cab-b7fa-bd1c-58d1-d6a25f3e889d",
+        "7d664330-e856-cb7b-d2f2-1ddc992b2eef",
+        "2549361c-eec5-7dbc-e907-be12b19a13c0",
+        "38705279-46f4-3ef0-c783-9bb1a6bfacef",
+        "066a06cf-85e6-876f-163c-cee8212ee521",
+        "4be15081-e130-7b12-5835-8f8d4570d838",
+        "44801e67-2ba8-423b-d857-eab35579e57f",
+        "7d703d00-2801-1ae9-985e-70578a952400",
+        "147c9b30-f1e8-8d3d-31cb-7621468138f0",
+        "c33d4aee-8454-24d8-af97-8e89a1f13fc6",
+        "fcf6cd0a-2263-8ca6-1213-18a7bcca0fb4",
+        "2d3d5b5e-ffcc-3713-787e-aa19f8dd3153",
+        "16c7ac35-12ac-a87a-dc30-6a680a707d59",
+        "ca129694-85cf-9b9d-115c-961ce159c234",
+        "db95f3f7-a761-8ac1-c36e-4966514b63fc",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "guid": "977de998-9ba6-5efc-e180-3e7fb49b0cc2",
+    "source": "../SK_Male_Cowboy_Hair.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "f3bab56f-1080-fcaa-ef27-fb63f2fbbd64",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Male Cowboy Hair"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ff5c60f3-0a36-1c3f-aa6b-2767955c6ac5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Cowboy Hair"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "73a25b3b-3e8f-9a4b-e3c8-3d3498f0ff19"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "977de998-9ba6-5efc-e180-3e7fb49b0cc2"
+    },
+    "dependencies": [
+        "73a25b3b-3e8f-9a4b-e3c8-3d3498f0ff19"
+    ]
+}

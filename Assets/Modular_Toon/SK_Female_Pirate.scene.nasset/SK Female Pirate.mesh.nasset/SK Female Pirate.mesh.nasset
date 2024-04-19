@@ -1,0 +1,283 @@
+{
+    "guid": "f0e09f3f-640c-74b0-7814-2da9f4f9f87c",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "9c18692e-2396-ac89-897e-c1bd5caafb96",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "a85c4b93-934f-f7b4-fd3a-31ec991e039e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Female Pirate Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "52ae1e8b-c058-0204-ffb9-8c4e2604e4ce",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "033c03e5-d989-ef34-03f2-e7544fa57135",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Pirate Clothes 5"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "5ead1b4a-b800-2b8f-d8ad-24a2d326bb05",
+                                "material_instance": "45403d04-75ae-8496-1ec1-cda4d9d0a135"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "d21cca62-ba7b-4ef7-f999-10e7ff8e54f3"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "20fc94c7-90c1-8975-8e27-0db76755dec1",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Pirate Beige 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "2effd561-5b0b-6972-9e23-5ca0fb6365d3",
+                                "material_instance": "3492c9cd-b15c-296a-92e5-b3c727aaafac"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "a9602986-b026-1fe4-a829-b429517878f1"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "c1ddd51a-da22-b4e8-9a69-e79e47bb6ebf",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Pirate Main 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "99110969-bc37-4e3b-82a4-a40517dd6a89",
+                                "material_instance": "44801e67-2ba8-423b-d857-eab35579e57f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "6b12e7be-7e07-7529-1339-e1a29858db0f"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "6f8414f7-1340-2346-6a90-28d342ca1c70",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Pirate Gold 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ea4321e8-101e-bf22-60dc-1d072bacc3fe",
+                                "material_instance": "940a4bcd-caea-50d4-4430-aca481363c25"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "c5cd1c0e-b79c-3858-9ef8-bf0dfc4903ec"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "2955729b-7151-ab19-d28d-1b3a3471a207",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Pirate Belt 3"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "77d603a1-362f-4ccf-def6-cf8b6a924eca",
+                                "material_instance": "7d51311a-d864-808e-9add-dad1858a3a6a"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "6b667911-fbab-5305-c51c-eac328105391"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "8e30283a-f8f1-d1bb-7879-8a3816f4399a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Pirate Face 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "cdbc7324-aeca-724c-1f61-e18d31bdab56",
+                                "material_instance": "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "d43ad864-971f-3f98-364f-9a1e8d7c197e"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "ee293697-f147-7bf3-83ca-efffb8b96f77",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Pirate Armor 4"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4174b82d-320f-d1e5-0337-7e164a2b5ebb",
+                                "material_instance": "38705279-46f4-3ef0-c783-9bb1a6bfacef"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "c9bcf4ea-8b64-b0d9-4c0e-321d165ef865"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "b1108924-4d4f-cbcd-3d62-2553f9b52e1f",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Pirate Red 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "15b3727c-70e8-690c-8e17-9320cfebc9b9",
+                                "material_instance": "2dbbc424-2e0c-5fb7-eb97-b3d80f09b648"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "93a75c02-2e54-fd6d-533f-df68b17c14a6"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "6381d876-8955-c189-1a99-a9ee1cc79045",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Pirate Hair 3"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d0d30bda-b139-9ccf-4003-4f3b9ace4bf0",
+                                "material_instance": "11872f52-83be-1877-4620-643ab37e8a7d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "df2c2a4a-ed68-eac3-ec84-9c7c528e0550"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "f0e09f3f-640c-74b0-7814-2da9f4f9f87c"
+    },
+    "dependencies": [
+        "45403d04-75ae-8496-1ec1-cda4d9d0a135",
+        "5ead1b4a-b800-2b8f-d8ad-24a2d326bb05",
+        "d21cca62-ba7b-4ef7-f999-10e7ff8e54f3",
+        "3492c9cd-b15c-296a-92e5-b3c727aaafac",
+        "2effd561-5b0b-6972-9e23-5ca0fb6365d3",
+        "a9602986-b026-1fe4-a829-b429517878f1",
+        "44801e67-2ba8-423b-d857-eab35579e57f",
+        "99110969-bc37-4e3b-82a4-a40517dd6a89",
+        "6b12e7be-7e07-7529-1339-e1a29858db0f",
+        "940a4bcd-caea-50d4-4430-aca481363c25",
+        "ea4321e8-101e-bf22-60dc-1d072bacc3fe",
+        "c5cd1c0e-b79c-3858-9ef8-bf0dfc4903ec",
+        "7d51311a-d864-808e-9add-dad1858a3a6a",
+        "77d603a1-362f-4ccf-def6-cf8b6a924eca",
+        "6b667911-fbab-5305-c51c-eac328105391",
+        "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
+        "cdbc7324-aeca-724c-1f61-e18d31bdab56",
+        "d43ad864-971f-3f98-364f-9a1e8d7c197e",
+        "38705279-46f4-3ef0-c783-9bb1a6bfacef",
+        "4174b82d-320f-d1e5-0337-7e164a2b5ebb",
+        "c9bcf4ea-8b64-b0d9-4c0e-321d165ef865",
+        "2dbbc424-2e0c-5fb7-eb97-b3d80f09b648",
+        "15b3727c-70e8-690c-8e17-9320cfebc9b9",
+        "93a75c02-2e54-fd6d-533f-df68b17c14a6",
+        "11872f52-83be-1877-4620-643ab37e8a7d",
+        "d0d30bda-b139-9ccf-4003-4f3b9ace4bf0",
+        "df2c2a4a-ed68-eac3-ec84-9c7c528e0550",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}

@@ -1,0 +1,257 @@
+{
+    "guid": "26cd3070-b0bd-3d2e-6460-b3872cea6eee",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "d814e813-3acb-bdd7-485b-97b2e5258531",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "86ab0628-8229-eec8-7849-b23e800adfb6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Pirate Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "c9361c4e-14c7-8b90-05d6-03b986e238b8",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "bcf13926-831c-31f8-33c2-0c5a8cbf3160",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Pirate Clothes 5"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "52bff25b-c2e0-94cb-acdb-a24f3f601b86",
+                                "material_instance": "45403d04-75ae-8496-1ec1-cda4d9d0a135"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "d9eabb2b-8ba8-31df-9338-a3f35747ee59"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "555ea91c-ad89-b681-1860-b91d0fd32bfb",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Pirate Beige 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "1214fbf8-5fb2-86c6-6143-7893659fcdec",
+                                "material_instance": "3492c9cd-b15c-296a-92e5-b3c727aaafac"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "55e33216-3192-3b45-0600-61c90f1a7cb4"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "bd445e39-c8f3-b78a-6be5-722736895657",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Pirate Main 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ae4526e5-f8ea-46e3-bc21-d3970b602b6a",
+                                "material_instance": "44801e67-2ba8-423b-d857-eab35579e57f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "058e8b24-1884-3837-89eb-7fa4cd9a8ca3"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "168b8c3b-ef9c-9a18-d0f5-99d935e7d556",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Pirate Gold 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "8e305436-a0c7-4a0a-9087-17cf3758ca13",
+                                "material_instance": "940a4bcd-caea-50d4-4430-aca481363c25"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "7f5e230c-c2e4-8717-5150-33666e67c9e1"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "f258d9b2-5ea2-aa2f-4a9a-fadbb2b9a3f7",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Pirate Belt 3"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d4fbcfb6-e7cf-e165-078b-2ebc08a29209",
+                                "material_instance": "7d51311a-d864-808e-9add-dad1858a3a6a"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "ce47797e-93c0-14e0-7a3b-d50d40a43365"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "cdb63f0f-ca4b-9778-7496-bb63fe52aaf7",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Pirate Face 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "45ea19c9-906d-9e14-2176-6a84a21e7182",
+                                "material_instance": "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "df9ef99d-edbc-350a-f166-e29299b79100"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "eaa70828-6706-aac5-037c-7393a70dec13",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Pirate Armor 4"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "967b2146-15f1-3513-bf3b-f35105c61203",
+                                "material_instance": "38705279-46f4-3ef0-c783-9bb1a6bfacef"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "20e56701-3e46-0d1c-298e-b9752456665a"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "e368e70a-51c7-2e3d-a9a9-36e6dd18c419",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Pirate Red 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "55918dfe-9b78-911a-a55b-8d06d9470196",
+                                "material_instance": "2dbbc424-2e0c-5fb7-eb97-b3d80f09b648"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "f82454d3-e5e8-d341-006e-f826f037d748"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "26cd3070-b0bd-3d2e-6460-b3872cea6eee"
+    },
+    "dependencies": [
+        "45403d04-75ae-8496-1ec1-cda4d9d0a135",
+        "52bff25b-c2e0-94cb-acdb-a24f3f601b86",
+        "d9eabb2b-8ba8-31df-9338-a3f35747ee59",
+        "3492c9cd-b15c-296a-92e5-b3c727aaafac",
+        "1214fbf8-5fb2-86c6-6143-7893659fcdec",
+        "55e33216-3192-3b45-0600-61c90f1a7cb4",
+        "44801e67-2ba8-423b-d857-eab35579e57f",
+        "ae4526e5-f8ea-46e3-bc21-d3970b602b6a",
+        "058e8b24-1884-3837-89eb-7fa4cd9a8ca3",
+        "940a4bcd-caea-50d4-4430-aca481363c25",
+        "8e305436-a0c7-4a0a-9087-17cf3758ca13",
+        "7f5e230c-c2e4-8717-5150-33666e67c9e1",
+        "7d51311a-d864-808e-9add-dad1858a3a6a",
+        "d4fbcfb6-e7cf-e165-078b-2ebc08a29209",
+        "ce47797e-93c0-14e0-7a3b-d50d40a43365",
+        "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
+        "45ea19c9-906d-9e14-2176-6a84a21e7182",
+        "df9ef99d-edbc-350a-f166-e29299b79100",
+        "38705279-46f4-3ef0-c783-9bb1a6bfacef",
+        "967b2146-15f1-3513-bf3b-f35105c61203",
+        "20e56701-3e46-0d1c-298e-b9752456665a",
+        "2dbbc424-2e0c-5fb7-eb97-b3d80f09b648",
+        "55918dfe-9b78-911a-a55b-8d06d9470196",
+        "f82454d3-e5e8-d341-006e-f826f037d748",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}

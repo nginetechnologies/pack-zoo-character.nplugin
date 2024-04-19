@@ -1,0 +1,230 @@
+{
+    "guid": "3f125b99-dd8d-02a5-f9af-ad384ef3c4e3",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "a7fa044d-9395-2a67-8f36-999d0835996c",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "cacd8e87-68d9-0e14-3cca-b7a1cd9210c0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Chef Hat Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "cf651b98-13a3-609b-7ebd-7993b940de24",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d0df624e-43f8-ef33-7b32-48214d85ede7",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Chef Hat Clothes 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "670a5d60-fd6c-e42e-d430-ebd4f49f372c",
+                                "material_instance": "9148218c-115e-6158-be6c-74bd9ddf9fde"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "054cf7dd-e258-7e86-5313-63928b275ecf"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "c02d9d35-89c9-8441-0b97-1b55b900b7e1",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Chef Hat Clothes 7"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d929008d-1440-25ee-70b0-53ae9a06b515",
+                                "material_instance": "7794243e-c254-6d79-ee68-3ab232d56429"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "3bd7c063-b72a-3d6d-4967-41bcdb3205ad"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "4c70cca6-f209-2bdb-c482-496e39e618e3",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Chef Hat Band"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "11700c87-598f-6333-389b-c095fc5c657c",
+                                "material_instance": "ac4f76e5-6745-7782-d91d-859ea7fef7c3"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "842b1c91-8eb1-30be-13d3-d2966c8fdaa4"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "8f37a8fe-cd34-4531-3c73-852092429f6f",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Chef Hat Main 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "809d7626-c991-6db6-3895-1dfae5f4105f",
+                                "material_instance": "44801e67-2ba8-423b-d857-eab35579e57f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "a512080b-8cb3-249f-cba3-2b0ef1509c33"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "085fc03b-657b-1eec-104e-1dbce7221207",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Chef Hat Face 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d9881139-5bb9-f0dc-57a3-0688c804a14d",
+                                "material_instance": "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "1ddcb10b-cd7d-fa00-6e88-404b0fbe24c8"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "2554efc2-bfed-a4ae-0782-c68f40324ac7",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Chef Hat Face 1-2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "466c358d-6439-c716-97a7-17f797479617",
+                                "material_instance": "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "49d6bad2-7bcf-8452-872e-77ea31e580f0"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "34102451-d872-c5c9-9f2c-5967c4fb896d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Chef Hat Hat 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ae4d0921-32d3-676b-34a5-99e951130a22",
+                                "material_instance": "83a8da85-fba0-c252-a5e9-fa12e8c8ae7e"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "d26dae75-77ca-ba8f-85d4-480b99c76166"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "3f125b99-dd8d-02a5-f9af-ad384ef3c4e3"
+    },
+    "dependencies": [
+        "9148218c-115e-6158-be6c-74bd9ddf9fde",
+        "670a5d60-fd6c-e42e-d430-ebd4f49f372c",
+        "054cf7dd-e258-7e86-5313-63928b275ecf",
+        "7794243e-c254-6d79-ee68-3ab232d56429",
+        "d929008d-1440-25ee-70b0-53ae9a06b515",
+        "3bd7c063-b72a-3d6d-4967-41bcdb3205ad",
+        "ac4f76e5-6745-7782-d91d-859ea7fef7c3",
+        "11700c87-598f-6333-389b-c095fc5c657c",
+        "842b1c91-8eb1-30be-13d3-d2966c8fdaa4",
+        "44801e67-2ba8-423b-d857-eab35579e57f",
+        "809d7626-c991-6db6-3895-1dfae5f4105f",
+        "a512080b-8cb3-249f-cba3-2b0ef1509c33",
+        "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
+        "d9881139-5bb9-f0dc-57a3-0688c804a14d",
+        "1ddcb10b-cd7d-fa00-6e88-404b0fbe24c8",
+        "466c358d-6439-c716-97a7-17f797479617",
+        "49d6bad2-7bcf-8452-872e-77ea31e580f0",
+        "83a8da85-fba0-c252-a5e9-fa12e8c8ae7e",
+        "ae4d0921-32d3-676b-34a5-99e951130a22",
+        "d26dae75-77ca-ba8f-85d4-480b99c76166",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}

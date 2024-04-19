@@ -1,0 +1,257 @@
+{
+    "guid": "718036af-9c33-5b1f-5863-f88a1d8a653b",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "89104451-0f16-7dd7-d302-3b9fccece936",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "b3165ef0-6673-cc73-0fb9-e639e478c68f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Zombie Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "17823b50-3d5c-6dac-69aa-9561adfb0f7f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "74a67631-7f55-6930-8b0d-8c189d46fda7",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Zombie Clothes 3"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4f9f1672-fd37-1c94-d1c9-3e0d853e6799",
+                                "material_instance": "3171b202-dbbd-dfa4-eb9b-4013ebb3d381"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "55d99f71-e461-6714-7bab-c2490ac9828c"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "41dd6b2e-1ac8-c90a-df7b-a5b8be9524cd",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Zombie Green Skin 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7496b45b-c288-8172-1707-fc0e0186700e",
+                                "material_instance": "444c2baa-6b53-c2e6-f501-d5424242672b"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "43c0c22a-862d-3581-8e34-9951e08af5d7"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "8038a84f-3e5a-cb9b-dc74-246f70470adc",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Zombie Pants 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "39771ae0-f72f-89eb-59a1-cd7999976840",
+                                "material_instance": "bdb4f982-68c7-2f52-bdfb-4dbcb949987d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "dde72dc1-fba4-7f7e-0456-58abfd753f18"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "2e3fb92b-1423-3c9a-2d75-90aec68daa64",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Zombie Clothes 8"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "21bd59e6-dd08-53b9-f777-f36c60c87499",
+                                "material_instance": "165f36a9-3fc4-f260-2678-920b69e945fb"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "db0189a5-92d0-a3ea-569b-c33b930ff529"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "fa4cc913-aa40-183b-3b36-25ad5f4c0da7",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Zombie Guts"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a1edc7c6-4f52-3729-23de-951af302e27b",
+                                "material_instance": "909d260b-415e-044c-b85b-577b1cff9292"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "4d13862e-ed97-c4e6-4555-704efd4b84af"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "6a8a9d49-9bba-db32-bc8c-0f6fc9084fba",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Zombie Bones"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "43b81652-0e27-d7ac-1429-7b15337d1a22",
+                                "material_instance": "a2891634-f565-40f1-2b65-a3107f6b5dc5"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "bf9c9f1d-5b6a-aa7c-a0e0-2787abd92bb1"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "2f48afc5-022d-cc91-9483-5df53b35d8a5",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Zombie Brain"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e53a2d7b-a9cc-4564-fc35-fc9394902f22",
+                                "material_instance": "20e1150c-6e57-3a0a-449e-6fddc7b80029"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "730ecee3-a72b-54eb-ea21-c446813ba179"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "9e5037f3-96d7-c831-fa4a-6d961109b1e5",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Zombie Face 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7398b68d-f5d5-dfe5-28da-c9568c9eedc7",
+                                "material_instance": "b03a8c05-41e5-9982-653d-03e373549e10"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "4f07d74d-87f1-d690-0c4a-d358f1bd8705"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "718036af-9c33-5b1f-5863-f88a1d8a653b"
+    },
+    "dependencies": [
+        "3171b202-dbbd-dfa4-eb9b-4013ebb3d381",
+        "4f9f1672-fd37-1c94-d1c9-3e0d853e6799",
+        "55d99f71-e461-6714-7bab-c2490ac9828c",
+        "444c2baa-6b53-c2e6-f501-d5424242672b",
+        "7496b45b-c288-8172-1707-fc0e0186700e",
+        "43c0c22a-862d-3581-8e34-9951e08af5d7",
+        "bdb4f982-68c7-2f52-bdfb-4dbcb949987d",
+        "39771ae0-f72f-89eb-59a1-cd7999976840",
+        "dde72dc1-fba4-7f7e-0456-58abfd753f18",
+        "165f36a9-3fc4-f260-2678-920b69e945fb",
+        "21bd59e6-dd08-53b9-f777-f36c60c87499",
+        "db0189a5-92d0-a3ea-569b-c33b930ff529",
+        "909d260b-415e-044c-b85b-577b1cff9292",
+        "a1edc7c6-4f52-3729-23de-951af302e27b",
+        "4d13862e-ed97-c4e6-4555-704efd4b84af",
+        "a2891634-f565-40f1-2b65-a3107f6b5dc5",
+        "43b81652-0e27-d7ac-1429-7b15337d1a22",
+        "bf9c9f1d-5b6a-aa7c-a0e0-2787abd92bb1",
+        "20e1150c-6e57-3a0a-449e-6fddc7b80029",
+        "e53a2d7b-a9cc-4564-fc35-fc9394902f22",
+        "730ecee3-a72b-54eb-ea21-c446813ba179",
+        "b03a8c05-41e5-9982-653d-03e373549e10",
+        "7398b68d-f5d5-dfe5-28da-c9568c9eedc7",
+        "4f07d74d-87f1-d690-0c4a-d358f1bd8705",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}

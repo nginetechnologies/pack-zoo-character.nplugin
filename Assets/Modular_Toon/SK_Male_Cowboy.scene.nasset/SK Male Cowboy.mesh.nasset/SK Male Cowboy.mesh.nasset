@@ -1,0 +1,282 @@
+{
+    "guid": "2635838f-c2c5-63a3-f78b-86138dbcdb99",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "7f1d1185-c827-e815-6575-edd6b395b36f",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "bcda6070-4a3c-1f11-4105-e4fd2bbc1adc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Cowboy Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "e1eb82b9-e57a-5d60-566a-0d156f3c0827",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "e7b6325c-7b04-802f-0354-1b972955b34e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Cowboy Main 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c102c22c-24ba-8b1c-340d-97b6b11842c9",
+                                "material_instance": "44801e67-2ba8-423b-d857-eab35579e57f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "6a020960-5b6a-642e-7db6-5d585552b2d6"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "ec029e1a-2c72-291a-c246-18c35ff2d5bb",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Cowboy Pants 4"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ab6d1ed5-78da-72e6-c7b8-6b4ab79f15bd",
+                                "material_instance": "bd54ce69-d6a1-82ed-302c-c73767ec01a3"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "8a997d98-3f48-eee6-20df-88459948ae34"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "a8f4fc6f-65f2-4c93-49d8-f43f52aad298",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Cowboy Red 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f89660cc-1e16-02df-3a2e-2d9776d8b075",
+                                "material_instance": "2dbbc424-2e0c-5fb7-eb97-b3d80f09b648"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "7b68271a-f0ef-5c08-dfde-f134cb460945"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "b092fb79-8129-b714-f61e-34df09b1adb2",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Cowboy Jacket"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "68e0dc46-e255-b0a8-fb90-8ba57eaa525e",
+                                "material_instance": "707342fe-fb45-eaaf-0131-2e018f9b9750"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "b0b9f076-3855-c2ff-65b4-8956ca68016f"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "9773c92b-7662-4264-3cbe-3c20fc5fbe45",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Cowboy Hat 6"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "225911ab-b7f2-744f-7dce-2912bc7cd1ed",
+                                "material_instance": "175b99bb-634e-9006-87c5-ef293adf872d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "6261e495-652f-f901-d997-13e6baa8d8ea"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "a091b629-a921-47c7-d66a-a54708b56009",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Cowboy Top"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "b757d551-8613-699e-8611-c6e41095fb55",
+                                "material_instance": "d794673a-a697-a90b-1db7-abda1c9bee7f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "ca89cb46-4d28-8d45-7e21-249970df896a"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "191dffe9-a50f-459d-d98f-36b5df9fc628",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Cowboy Face 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "21d03a51-803e-868f-4f04-ae0d8b0e2fb0",
+                                "material_instance": "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "45178785-9f9d-cc83-425e-78df14d2abea"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "049087b1-19ed-8ed7-8e76-4a83dbaaa2be",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Cowboy Hat 7"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "08507dde-ec1c-f799-fbe2-58ae532f98d1",
+                                "material_instance": "edc7a943-d3a7-4ce4-d7c2-9da6fa99fba7"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "a152cabb-e879-eac7-661a-9f285d718fe5"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "20948d69-970c-a647-e207-29f2c52294ed",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Cowboy Hat 6-2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "263d64fd-bb00-f6c2-050e-b8e0c73675e3",
+                                "material_instance": "175b99bb-634e-9006-87c5-ef293adf872d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "a63fd91d-7c3f-b40b-5dd3-d945d4b38114"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "2635838f-c2c5-63a3-f78b-86138dbcdb99"
+    },
+    "dependencies": [
+        "44801e67-2ba8-423b-d857-eab35579e57f",
+        "c102c22c-24ba-8b1c-340d-97b6b11842c9",
+        "6a020960-5b6a-642e-7db6-5d585552b2d6",
+        "bd54ce69-d6a1-82ed-302c-c73767ec01a3",
+        "ab6d1ed5-78da-72e6-c7b8-6b4ab79f15bd",
+        "8a997d98-3f48-eee6-20df-88459948ae34",
+        "2dbbc424-2e0c-5fb7-eb97-b3d80f09b648",
+        "f89660cc-1e16-02df-3a2e-2d9776d8b075",
+        "7b68271a-f0ef-5c08-dfde-f134cb460945",
+        "707342fe-fb45-eaaf-0131-2e018f9b9750",
+        "68e0dc46-e255-b0a8-fb90-8ba57eaa525e",
+        "b0b9f076-3855-c2ff-65b4-8956ca68016f",
+        "175b99bb-634e-9006-87c5-ef293adf872d",
+        "225911ab-b7f2-744f-7dce-2912bc7cd1ed",
+        "6261e495-652f-f901-d997-13e6baa8d8ea",
+        "d794673a-a697-a90b-1db7-abda1c9bee7f",
+        "b757d551-8613-699e-8611-c6e41095fb55",
+        "ca89cb46-4d28-8d45-7e21-249970df896a",
+        "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
+        "21d03a51-803e-868f-4f04-ae0d8b0e2fb0",
+        "45178785-9f9d-cc83-425e-78df14d2abea",
+        "edc7a943-d3a7-4ce4-d7c2-9da6fa99fba7",
+        "08507dde-ec1c-f799-fbe2-58ae532f98d1",
+        "a152cabb-e879-eac7-661a-9f285d718fe5",
+        "263d64fd-bb00-f6c2-050e-b8e0c73675e3",
+        "a63fd91d-7c3f-b40b-5dd3-d945d4b38114",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}

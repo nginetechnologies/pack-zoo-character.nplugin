@@ -1,0 +1,34 @@
+{
+    "guid": "206db48b-4b95-b162-dc79-edecd93122f2",
+    "source": "../SK_Male_Ninja_Sand.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "6de063a0-41fc-d9ea-ba85-7a7c78197174",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Male Ninja Sand"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fd3a098e-c17e-d6c9-75ad-403bbeed10fc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Ninja Sand"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6f5d650f-5aea-ef1c-ca5a-46ef90fb7773"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "206db48b-4b95-b162-dc79-edecd93122f2"
+    },
+    "dependencies": [
+        "6f5d650f-5aea-ef1c-ca5a-46ef90fb7773"
+    ]
+}

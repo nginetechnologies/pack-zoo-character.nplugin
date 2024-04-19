@@ -1,0 +1,179 @@
+{
+    "guid": "24afcbb5-a574-069e-49de-ea766f508ed8",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "ee0474a3-9195-809f-95cd-859821e6a564",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "ff44192b-9e7c-837d-163e-dd5e14a190ba",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Female Kimono Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "f7802eeb-016b-4349-4d46-035356d41fd9",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "ce668de6-adf4-3dd1-24b3-c3d3bc62b53a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Kimono Clothes 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "8d42b13d-bfc8-1ab5-c31b-f87c82a1e3fd",
+                                "material_instance": "9148218c-115e-6158-be6c-74bd9ddf9fde"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "6c912523-d00d-da38-5bf2-16a9023c65c4"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "ca8583b9-8c31-3d73-38b2-b90bdf754ea0",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Kimono Main 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4126c002-c35e-4106-10fc-4427d1d889f9",
+                                "material_instance": "44801e67-2ba8-423b-d857-eab35579e57f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "6af8218d-71fc-6519-1f76-df13a8e70781"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "24cff60d-1957-bd67-a390-be9cbe9cf3c8",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Kimono Band"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c3eb10d8-d3a6-e315-378a-41b77d720f64",
+                                "material_instance": "ac4f76e5-6745-7782-d91d-859ea7fef7c3"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "c1115d2d-dfd6-dcdc-b02f-dc36f2e96769"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "e0122998-3ba0-256a-f04b-eee92b8e2b6e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Kimono Face 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "520d9931-1263-a1e2-f762-57a62ac9cd6a",
+                                "material_instance": "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "a1d04b0c-2b17-aac3-f618-bd9ff30de150"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "8f568738-647f-ea5b-d5d2-71b8e3c79091",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Kimono Hair 10"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "b96dc168-dea5-5a47-2446-f4c51b1a3ad8",
+                                "material_instance": "52dffe38-eabb-0d60-8380-5405391b68ad"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "3889baec-6074-c6db-8a8a-b52474c8090f"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "24afcbb5-a574-069e-49de-ea766f508ed8"
+    },
+    "dependencies": [
+        "9148218c-115e-6158-be6c-74bd9ddf9fde",
+        "8d42b13d-bfc8-1ab5-c31b-f87c82a1e3fd",
+        "6c912523-d00d-da38-5bf2-16a9023c65c4",
+        "44801e67-2ba8-423b-d857-eab35579e57f",
+        "4126c002-c35e-4106-10fc-4427d1d889f9",
+        "6af8218d-71fc-6519-1f76-df13a8e70781",
+        "ac4f76e5-6745-7782-d91d-859ea7fef7c3",
+        "c3eb10d8-d3a6-e315-378a-41b77d720f64",
+        "c1115d2d-dfd6-dcdc-b02f-dc36f2e96769",
+        "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
+        "520d9931-1263-a1e2-f762-57a62ac9cd6a",
+        "a1d04b0c-2b17-aac3-f618-bd9ff30de150",
+        "52dffe38-eabb-0d60-8380-5405391b68ad",
+        "b96dc168-dea5-5a47-2446-f4c51b1a3ad8",
+        "3889baec-6074-c6db-8a8a-b52474c8090f",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}

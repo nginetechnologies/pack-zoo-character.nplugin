@@ -1,0 +1,179 @@
+{
+    "guid": "dc025dce-8aff-4038-5f30-83664bb99b13",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "a5cf038b-de9b-aecf-aa94-78440c42e3a2",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "1f37fc3e-47a9-9dc3-8e25-51fdcb449eda",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Soldier Blue Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "2585f527-99ad-1d17-5df5-52d1f08d7e12",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "73ea8a78-8d6d-cdb1-a68a-611216f83826",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Soldier Blue Main 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "5ca56d52-cccb-1838-0b1f-59ce13d9b603",
+                                "material_instance": "44801e67-2ba8-423b-d857-eab35579e57f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "0e42a002-afb9-c2d3-c38a-650fc949bcef"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "4dcd6759-dd0e-a37c-0245-99489d5c15f0",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Soldier Blue Grey 3"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "b5e216f9-a91d-e244-b087-f6a38540011a",
+                                "material_instance": "a6f270a8-2e3c-7f86-e104-a6759080cd74"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "3542359a-3ed1-20a3-3568-d55bd0439d25"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "5c22036b-acf3-8326-99ff-4425bfcb9f98",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Soldier Blue Armor 4"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "18ac4063-7070-84b0-c85d-600722adecc1",
+                                "material_instance": "38705279-46f4-3ef0-c783-9bb1a6bfacef"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "71ea2761-c587-43c4-dcb7-c878c283b544"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "fd5ad7a0-a623-24b0-8c05-832aee4e08c7",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Soldier Blue Helmet 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "16b96f3a-dd0c-f6c5-af5f-b7e1cf861a26",
+                                "material_instance": "edfc293f-756d-1f2a-1a74-d68fb05d43ee"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "10ec15bd-c963-0f97-a1da-1308c1f01767"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d9bcfd07-8b6e-01a0-1498-bc57f2e5d62c",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Soldier Blue Face 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ea723e10-91c8-5512-7ccd-076eedaabcf5",
+                                "material_instance": "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "0cad36e0-e456-1b60-22c8-e356b41c9fc8"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "dc025dce-8aff-4038-5f30-83664bb99b13"
+    },
+    "dependencies": [
+        "44801e67-2ba8-423b-d857-eab35579e57f",
+        "5ca56d52-cccb-1838-0b1f-59ce13d9b603",
+        "0e42a002-afb9-c2d3-c38a-650fc949bcef",
+        "a6f270a8-2e3c-7f86-e104-a6759080cd74",
+        "b5e216f9-a91d-e244-b087-f6a38540011a",
+        "3542359a-3ed1-20a3-3568-d55bd0439d25",
+        "38705279-46f4-3ef0-c783-9bb1a6bfacef",
+        "18ac4063-7070-84b0-c85d-600722adecc1",
+        "71ea2761-c587-43c4-dcb7-c878c283b544",
+        "edfc293f-756d-1f2a-1a74-d68fb05d43ee",
+        "16b96f3a-dd0c-f6c5-af5f-b7e1cf861a26",
+        "10ec15bd-c963-0f97-a1da-1308c1f01767",
+        "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
+        "ea723e10-91c8-5512-7ccd-076eedaabcf5",
+        "0cad36e0-e456-1b60-22c8-e356b41c9fc8",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}

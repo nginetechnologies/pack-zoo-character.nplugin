@@ -1,0 +1,179 @@
+{
+    "guid": "ba767368-3fb7-b5d9-4360-d723fc9eab36",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "321f1212-f794-88aa-fc3c-3194842625dd",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "d0fc4c3e-3a46-e978-eb72-ee38e58a4445",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Female Goblin Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "28deb821-c28b-d231-3e49-513860e2154b",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "eeb07192-e353-59bc-7b18-68b7db5ea675",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Goblin Shirt 3"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "3a6241cc-8fc7-2428-379a-c3a29bae15d5",
+                                "material_instance": "f5e4e4d4-fc7f-e63a-83a4-c88a52d0c147"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "f6b5027f-51c2-b817-f776-44a237f7d6aa"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "0bb8b671-27a6-b3c6-cea5-0986a9cca5d5",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Goblin Green Skin 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "bda8dd8a-1257-244f-3fc5-279fa1ee263b",
+                                "material_instance": "8289163d-646c-87c8-a984-874c192d4667"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "aae724af-2651-841b-52c2-bd44795c3113"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "ee084a65-b1c7-a58c-a8c0-405d1d298d2e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Goblin Pants 5"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a11cbbff-2c51-fc5d-99bd-e17288a76044",
+                                "material_instance": "c36c4547-992e-dde1-b8ff-dfea20c7c78e"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "cd2f1e34-0556-291d-0ae2-f6a6331d2c71"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "45135b5f-96c6-6a94-9cb6-ad10e9ff5966",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Goblin Face 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "fafbccbb-6713-15b4-04c5-dd904dc7a948",
+                                "material_instance": "b03a8c05-41e5-9982-653d-03e373549e10"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "02f952c7-5905-1719-5889-2ea72cef3e9d"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "f5203575-edcc-ff83-2917-9365631b13d2",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Goblin Hair 9"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "0053e7c8-9d84-8fb5-3759-0f22800dc7fb",
+                                "material_instance": "f76751a5-d6e4-241f-b934-5f7172ff20a0"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "b78524a2-c5a9-000b-f202-83e53f65888e"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "ba767368-3fb7-b5d9-4360-d723fc9eab36"
+    },
+    "dependencies": [
+        "f5e4e4d4-fc7f-e63a-83a4-c88a52d0c147",
+        "3a6241cc-8fc7-2428-379a-c3a29bae15d5",
+        "f6b5027f-51c2-b817-f776-44a237f7d6aa",
+        "8289163d-646c-87c8-a984-874c192d4667",
+        "bda8dd8a-1257-244f-3fc5-279fa1ee263b",
+        "aae724af-2651-841b-52c2-bd44795c3113",
+        "c36c4547-992e-dde1-b8ff-dfea20c7c78e",
+        "a11cbbff-2c51-fc5d-99bd-e17288a76044",
+        "cd2f1e34-0556-291d-0ae2-f6a6331d2c71",
+        "b03a8c05-41e5-9982-653d-03e373549e10",
+        "fafbccbb-6713-15b4-04c5-dd904dc7a948",
+        "02f952c7-5905-1719-5889-2ea72cef3e9d",
+        "f76751a5-d6e4-241f-b934-5f7172ff20a0",
+        "0053e7c8-9d84-8fb5-3759-0f22800dc7fb",
+        "b78524a2-c5a9-000b-f202-83e53f65888e",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}

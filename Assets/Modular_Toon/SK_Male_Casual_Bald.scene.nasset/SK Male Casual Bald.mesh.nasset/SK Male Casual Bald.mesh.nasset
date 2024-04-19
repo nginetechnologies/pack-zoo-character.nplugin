@@ -1,0 +1,179 @@
+{
+    "guid": "6bdc3303-9176-2605-22e8-aa31fdd18ea0",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "583ca48b-deb7-a93a-534c-e6c76c444f3a",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "72485a04-1ef5-4e83-594d-e7837db9bc36",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Casual Bald Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "0e34d9cb-ce9f-04f7-141b-8175f9cd632f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "a636c426-1bb5-7948-4e59-b2b2b337d7c3",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Casual Bald Magenta"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "2fc69539-f340-d314-9a0b-6cb844323402",
+                                "material_instance": "ea8ac4f7-f06e-96b8-67e9-c6f89ddc7983"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "9b64937d-164e-ef76-d854-c7ebf60c6042"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "079d519d-66bd-413c-0cbb-300ca172bfbc",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Casual Bald Main 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d1ba0e57-c11f-8a0a-b749-5d13e22b17a7",
+                                "material_instance": "44801e67-2ba8-423b-d857-eab35579e57f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "b42e3afd-5cab-e45c-ae3c-1c8eb560f67b"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "1388d6d7-003a-439e-fbfe-7646bc1a7b50",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Casual Bald Brown Pants"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "34fc6aef-4ad6-46c3-f083-9347de1c2102",
+                                "material_instance": "c1c168e5-b3bb-7ae5-6762-9337b8467244"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "32afa0a9-2bc2-f555-2bb5-0eda8c4d74a4"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "98439bf6-be03-c8f1-8bba-a3923c328561",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Casual Bald Belt 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "8e2d0157-aa24-5e1f-1134-7447bf359417",
+                                "material_instance": "0c16198b-5391-5fb3-c9dd-519fa7ceae81"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "66105b59-8e58-7743-2b2f-38e0fb329d1f"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "a863b131-aca3-1883-4490-94647caff1e3",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Casual Bald Face 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "762136c2-3ba5-92ea-0ccc-17c2ae5f5f40",
+                                "material_instance": "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "c2ffec77-b02b-b88b-d1db-98cc0fb4dada"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "6bdc3303-9176-2605-22e8-aa31fdd18ea0"
+    },
+    "dependencies": [
+        "ea8ac4f7-f06e-96b8-67e9-c6f89ddc7983",
+        "2fc69539-f340-d314-9a0b-6cb844323402",
+        "9b64937d-164e-ef76-d854-c7ebf60c6042",
+        "44801e67-2ba8-423b-d857-eab35579e57f",
+        "d1ba0e57-c11f-8a0a-b749-5d13e22b17a7",
+        "b42e3afd-5cab-e45c-ae3c-1c8eb560f67b",
+        "c1c168e5-b3bb-7ae5-6762-9337b8467244",
+        "34fc6aef-4ad6-46c3-f083-9347de1c2102",
+        "32afa0a9-2bc2-f555-2bb5-0eda8c4d74a4",
+        "0c16198b-5391-5fb3-c9dd-519fa7ceae81",
+        "8e2d0157-aa24-5e1f-1134-7447bf359417",
+        "66105b59-8e58-7743-2b2f-38e0fb329d1f",
+        "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
+        "762136c2-3ba5-92ea-0ccc-17c2ae5f5f40",
+        "c2ffec77-b02b-b88b-d1db-98cc0fb4dada",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}

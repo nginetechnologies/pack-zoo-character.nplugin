@@ -1,0 +1,257 @@
+{
+    "guid": "85719760-1897-5c52-bb06-782b86d5cd77",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "825113f1-81a4-1899-780e-f26da50a6252",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "27ee5604-dc80-46e2-4c61-f23855604579",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Old Classy Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "cc0f538e-4c4a-ce12-7660-63a0996ffde7",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "917b2119-a2ab-2874-4e60-4ca7f82f3b39",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Old Classy White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "87c0da27-b30c-e14d-3ed9-8408b14d59c8",
+                                "material_instance": "c30ea0a8-f648-4492-e746-bfb0fd879c09"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "12a283e3-2d88-cf87-76c3-843830c88950"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "f2e5d99e-7c27-a554-5eb9-8cf31e99492a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Old Classy Detail 3"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "b8cdb4de-fdf8-c1a3-c482-ba93f54a3ebe",
+                                "material_instance": "5c683f8f-43f5-1567-5ce8-1bbfd07b55e0"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "9dedc8eb-416c-29da-02b7-6c80eea555cb"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d93bb4ce-c27d-c2f6-b80a-5dd29ed0e7b0",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Old Classy Pants 6"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "0942c9e3-bd7d-1e5c-e7f0-65e7f2779051",
+                                "material_instance": "37d8a0c0-af8d-9040-eb06-494b12ca6ca0"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "4052eb71-9343-c249-ee39-8e73f05fd547"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "9906acc1-906e-8d6b-dfbe-a475eb420b5b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Old Classy Main 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e1323f6a-3cb7-9d39-0902-5f4a2ab848ca",
+                                "material_instance": "44801e67-2ba8-423b-d857-eab35579e57f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "78e3eb56-2039-3c8e-cafc-66930d70ce89"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "50bb4431-755d-643d-a9b3-3ef404db510a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Old Classy Belt 3"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "8939670e-5996-cc28-9af9-c3aa501d3458",
+                                "material_instance": "7d51311a-d864-808e-9add-dad1858a3a6a"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "862927d0-8b44-a40c-19c1-0b7277dd73c5"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "54bb6930-7015-0bb9-4682-5cc1dbb032e6",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Old Classy Face 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "96d11243-068f-8500-f342-7bdcfe4bd12e",
+                                "material_instance": "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "b95e69ca-de53-04be-dd6e-2c922453792c"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "e7a73a20-926d-39b2-5df5-93ecb7e539e9",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Old Classy Hair 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c9a9bc09-e009-fcf1-8cd5-6723631fa2a2",
+                                "material_instance": "a58f446e-77cb-d966-802d-2c2557f7b4db"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "c8bae1ba-1233-e8b5-e039-67c6a4095830"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "8c41c300-a8d3-2f60-6708-1b93bea95b5b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Old Classy Hat 3"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a578d699-69dc-39e4-2680-5fab94ce603a",
+                                "material_instance": "c64b211c-a1af-80ff-b96f-a2084b88b96f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "19d6f078-83e0-d1c9-2b09-c611e30476b3"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "85719760-1897-5c52-bb06-782b86d5cd77"
+    },
+    "dependencies": [
+        "c30ea0a8-f648-4492-e746-bfb0fd879c09",
+        "87c0da27-b30c-e14d-3ed9-8408b14d59c8",
+        "12a283e3-2d88-cf87-76c3-843830c88950",
+        "5c683f8f-43f5-1567-5ce8-1bbfd07b55e0",
+        "b8cdb4de-fdf8-c1a3-c482-ba93f54a3ebe",
+        "9dedc8eb-416c-29da-02b7-6c80eea555cb",
+        "37d8a0c0-af8d-9040-eb06-494b12ca6ca0",
+        "0942c9e3-bd7d-1e5c-e7f0-65e7f2779051",
+        "4052eb71-9343-c249-ee39-8e73f05fd547",
+        "44801e67-2ba8-423b-d857-eab35579e57f",
+        "e1323f6a-3cb7-9d39-0902-5f4a2ab848ca",
+        "78e3eb56-2039-3c8e-cafc-66930d70ce89",
+        "7d51311a-d864-808e-9add-dad1858a3a6a",
+        "8939670e-5996-cc28-9af9-c3aa501d3458",
+        "862927d0-8b44-a40c-19c1-0b7277dd73c5",
+        "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
+        "96d11243-068f-8500-f342-7bdcfe4bd12e",
+        "b95e69ca-de53-04be-dd6e-2c922453792c",
+        "a58f446e-77cb-d966-802d-2c2557f7b4db",
+        "c9a9bc09-e009-fcf1-8cd5-6723631fa2a2",
+        "c8bae1ba-1233-e8b5-e039-67c6a4095830",
+        "c64b211c-a1af-80ff-b96f-a2084b88b96f",
+        "a578d699-69dc-39e4-2680-5fab94ce603a",
+        "19d6f078-83e0-d1c9-2b09-c611e30476b3",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}

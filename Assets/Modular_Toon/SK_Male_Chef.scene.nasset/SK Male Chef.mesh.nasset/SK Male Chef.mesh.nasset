@@ -1,0 +1,205 @@
+{
+    "guid": "6aed3467-3081-cefc-40d4-37fcf82dcc6c",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "11aede5b-3371-ac01-4a10-7ab7865884b2",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "019a8ad6-624c-30e5-7f1d-e5201b344c97",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Chef Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "839abd4f-e5b0-ef71-d79f-70d70e61290b",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "3514b6cf-708b-9934-2b29-3d3cd8a11c8a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Chef Clothes 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "9af403fd-a450-13b6-9aee-0e6073db6699",
+                                "material_instance": "9148218c-115e-6158-be6c-74bd9ddf9fde"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "b95eb0a9-b78f-1121-160c-4b2ba7fd0904"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "9c8ce5b1-c6e0-a9cf-72f4-5ac97e07ddf5",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Chef Clothes 7"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "191771dc-77ca-f1ad-3e79-e4ab4fd82b6f",
+                                "material_instance": "7794243e-c254-6d79-ee68-3ab232d56429"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "0db1a877-5137-9ac0-bfef-e3268de7fa63"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "a8274c7c-6dcc-8700-734c-2f1f411e92dd",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Chef Band"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "968f08b4-bb78-022c-d77d-9a56babace77",
+                                "material_instance": "ac4f76e5-6745-7782-d91d-859ea7fef7c3"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "48da7dd9-ad73-426b-44ed-a21f9e2f5b7f"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "359c9374-63e3-cae1-560a-4008c3f05a9a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Chef Main 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "02b004b2-970f-652e-8de3-d21b2cff663a",
+                                "material_instance": "44801e67-2ba8-423b-d857-eab35579e57f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "56c7cf47-06d4-fd1c-e0d2-64fb88c529f3"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "1e9b4918-7592-5eec-b2a2-b8b3cf413385",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Chef Face 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f57f7342-81aa-bd4c-2b5a-47c5615a8300",
+                                "material_instance": "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "c146f416-82d7-c9f7-210e-b8c4d308bea3"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "af797bbc-987b-1171-56b3-c1de8b7545ab",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Chef Hair 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "050782b9-a666-ffef-e2d4-46a347625c15",
+                                "material_instance": "a58f446e-77cb-d966-802d-2c2557f7b4db"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "6616fa1e-92dd-ef58-a161-1a2e5f84ff85"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "6aed3467-3081-cefc-40d4-37fcf82dcc6c"
+    },
+    "dependencies": [
+        "9148218c-115e-6158-be6c-74bd9ddf9fde",
+        "9af403fd-a450-13b6-9aee-0e6073db6699",
+        "b95eb0a9-b78f-1121-160c-4b2ba7fd0904",
+        "7794243e-c254-6d79-ee68-3ab232d56429",
+        "191771dc-77ca-f1ad-3e79-e4ab4fd82b6f",
+        "0db1a877-5137-9ac0-bfef-e3268de7fa63",
+        "ac4f76e5-6745-7782-d91d-859ea7fef7c3",
+        "968f08b4-bb78-022c-d77d-9a56babace77",
+        "48da7dd9-ad73-426b-44ed-a21f9e2f5b7f",
+        "44801e67-2ba8-423b-d857-eab35579e57f",
+        "02b004b2-970f-652e-8de3-d21b2cff663a",
+        "56c7cf47-06d4-fd1c-e0d2-64fb88c529f3",
+        "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
+        "f57f7342-81aa-bd4c-2b5a-47c5615a8300",
+        "c146f416-82d7-c9f7-210e-b8c4d308bea3",
+        "a58f446e-77cb-d966-802d-2c2557f7b4db",
+        "050782b9-a666-ffef-e2d4-46a347625c15",
+        "6616fa1e-92dd-ef58-a161-1a2e5f84ff85",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}

@@ -1,0 +1,231 @@
+{
+    "guid": "534d05ca-ce00-fc27-c5f9-5e4e391efaf8",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "30151bf9-f637-0f6b-beed-ce4c607ddbda",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "d5f92986-6ef1-ba2f-7a21-48c6ea6d63f6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Wizard Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "ed6aef85-bd1c-616a-dc4a-42bc9fe9951a",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "1f40d6a4-ee85-52b0-7f60-4e9c219d4eb2",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Wizard Clothes 6"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "af47e9fe-bde4-5fc8-05ed-1c0509577456",
+                                "material_instance": "013de5c2-e676-6344-4fdc-da6c6a866956"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "47181f17-3f43-c7ec-e786-286a996f8fc9"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "e7ee2982-6790-75b1-7ed0-93b850195e5a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Wizard Main 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "12675b09-7109-fa77-973f-5a0904c8aa25",
+                                "material_instance": "44801e67-2ba8-423b-d857-eab35579e57f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "e524192e-b0e8-a670-b767-fde581b75eda"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "a835e033-ccf9-589a-9a5c-81e74129db90",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Wizard Belt 4"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "5dcda877-e2cc-3f6e-7011-dbd0e5cc3f25",
+                                "material_instance": "54079186-30d0-7666-2276-18608bc2fb6d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "caa5b2b7-1fe4-e3a1-b17e-6f2a6ebcbde1"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "ba0405c5-62ba-47b1-47b0-e9f135c38e65",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Wizard Gold 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "1d768f7b-b6da-edd7-c1be-4d86b81e566b",
+                                "material_instance": "940a4bcd-caea-50d4-4430-aca481363c25"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "bcf46b23-ad3e-9263-dece-a1572d37dc82"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "f2291c03-8c62-8f2a-fc79-522832692e1e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Wizard Hat 4"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "bb943f37-9ca8-3027-829f-c695c71865c6",
+                                "material_instance": "58659ac2-13a9-ec17-1005-ba2703efa4e3"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "860128f8-a8ce-ef46-2342-9b12a16a1f57"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "903e2034-e00c-e784-b4b9-2655aaa962fa",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Wizard Hair 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "9b499a52-64a0-ef1b-0bf3-4cefd93326bf",
+                                "material_instance": "a58f446e-77cb-d966-802d-2c2557f7b4db"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "789558ae-470d-18a9-6657-c5fd28401f7a"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "e99b9120-c6bb-8893-3874-c3d342806e1e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Wizard Face 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "34c7dbd1-39a9-f343-7aeb-b58c569207f7",
+                                "material_instance": "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "8e5a2f20-6dea-e308-aa57-ba5cf814e188"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "534d05ca-ce00-fc27-c5f9-5e4e391efaf8"
+    },
+    "dependencies": [
+        "013de5c2-e676-6344-4fdc-da6c6a866956",
+        "af47e9fe-bde4-5fc8-05ed-1c0509577456",
+        "47181f17-3f43-c7ec-e786-286a996f8fc9",
+        "44801e67-2ba8-423b-d857-eab35579e57f",
+        "12675b09-7109-fa77-973f-5a0904c8aa25",
+        "e524192e-b0e8-a670-b767-fde581b75eda",
+        "54079186-30d0-7666-2276-18608bc2fb6d",
+        "5dcda877-e2cc-3f6e-7011-dbd0e5cc3f25",
+        "caa5b2b7-1fe4-e3a1-b17e-6f2a6ebcbde1",
+        "940a4bcd-caea-50d4-4430-aca481363c25",
+        "1d768f7b-b6da-edd7-c1be-4d86b81e566b",
+        "bcf46b23-ad3e-9263-dece-a1572d37dc82",
+        "58659ac2-13a9-ec17-1005-ba2703efa4e3",
+        "bb943f37-9ca8-3027-829f-c695c71865c6",
+        "860128f8-a8ce-ef46-2342-9b12a16a1f57",
+        "a58f446e-77cb-d966-802d-2c2557f7b4db",
+        "9b499a52-64a0-ef1b-0bf3-4cefd93326bf",
+        "789558ae-470d-18a9-6657-c5fd28401f7a",
+        "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
+        "34c7dbd1-39a9-f343-7aeb-b58c569207f7",
+        "8e5a2f20-6dea-e308-aa57-ba5cf814e188",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}

@@ -1,0 +1,231 @@
+{
+    "guid": "14f8ba06-8bc7-a93c-5d7d-8688266e9e31",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "67d421bf-9711-5e33-4829-b9f16260b148",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "f67b1db7-392f-c2a7-386a-587b00f08093",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Suit Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "a23ed349-44fc-e674-1d4f-91f59f530694",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "40ff88d6-6167-366e-6f4b-e87574b3aa2c",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Suit Armor 4"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4411e907-8add-fb43-a9ce-dbf7ec9dd206",
+                                "material_instance": "38705279-46f4-3ef0-c783-9bb1a6bfacef"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "27e55afd-c1cb-823b-524f-1aa5c7df0d76"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "90720e6f-8e1a-c951-12dd-8438e055b346",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Suit White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "9913322a-411e-0518-7e62-87903353cacc",
+                                "material_instance": "c30ea0a8-f648-4492-e746-bfb0fd879c09"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "28dd0f19-f762-fff7-852b-a446ff50ebfe"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d73ab727-2dd8-69a5-846b-94e45a3a6a90",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Suit Belt 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "907f19f4-1f01-44f7-4e0b-4ec3e952f5f0",
+                                "material_instance": "1b5e6a47-26c9-6bee-79de-d6492154ec1d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "11468797-129b-8a7f-eded-ac0aab48711e"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "e5862d1f-6a8d-ce22-f3cd-3730e815ca1c",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Suit Main 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "795ff373-e120-4abc-1eef-daa771541458",
+                                "material_instance": "44801e67-2ba8-423b-d857-eab35579e57f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "0600b0d6-f019-c714-fb00-296fb10db2ed"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "1b265887-3f85-809c-4f3e-649d8643a144",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Suit Detail 5"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "90a753cf-aedf-c9a0-5ffb-6a3524d6bd5e",
+                                "material_instance": "aa1005b0-745e-719c-bb1c-c515e64e9c59"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "f0fc25c6-8e0a-731e-035b-c500bb41b734"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "63a50650-c5f2-3999-4003-043cc61a1252",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Suit Face 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e28ad0f0-c812-4703-0679-36595e94895d",
+                                "material_instance": "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "b1df9934-71d3-8aed-7813-d02773065e12"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "4b573e6e-0a60-82d1-5bac-9540a5e0ed2d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Suit Hair 3"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "325a3295-2f0a-d3b3-fe2d-a186e044ec6d",
+                                "material_instance": "11872f52-83be-1877-4620-643ab37e8a7d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "6d857760-521e-e28f-6ff5-6c2ff5d6421c"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "14f8ba06-8bc7-a93c-5d7d-8688266e9e31"
+    },
+    "dependencies": [
+        "38705279-46f4-3ef0-c783-9bb1a6bfacef",
+        "4411e907-8add-fb43-a9ce-dbf7ec9dd206",
+        "27e55afd-c1cb-823b-524f-1aa5c7df0d76",
+        "c30ea0a8-f648-4492-e746-bfb0fd879c09",
+        "9913322a-411e-0518-7e62-87903353cacc",
+        "28dd0f19-f762-fff7-852b-a446ff50ebfe",
+        "1b5e6a47-26c9-6bee-79de-d6492154ec1d",
+        "907f19f4-1f01-44f7-4e0b-4ec3e952f5f0",
+        "11468797-129b-8a7f-eded-ac0aab48711e",
+        "44801e67-2ba8-423b-d857-eab35579e57f",
+        "795ff373-e120-4abc-1eef-daa771541458",
+        "0600b0d6-f019-c714-fb00-296fb10db2ed",
+        "aa1005b0-745e-719c-bb1c-c515e64e9c59",
+        "90a753cf-aedf-c9a0-5ffb-6a3524d6bd5e",
+        "f0fc25c6-8e0a-731e-035b-c500bb41b734",
+        "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
+        "e28ad0f0-c812-4703-0679-36595e94895d",
+        "b1df9934-71d3-8aed-7813-d02773065e12",
+        "11872f52-83be-1877-4620-643ab37e8a7d",
+        "325a3295-2f0a-d3b3-fe2d-a186e044ec6d",
+        "6d857760-521e-e28f-6ff5-6c2ff5d6421c",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}

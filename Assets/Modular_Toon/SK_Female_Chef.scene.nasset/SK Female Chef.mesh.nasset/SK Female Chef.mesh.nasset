@@ -1,0 +1,205 @@
+{
+    "guid": "43c29b9b-4738-2fae-279a-abe87b662baf",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "dc398987-3e70-b8c3-03f0-d811b198777e",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "88be1605-38bb-2019-3ae3-119a4a43cfd6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Female Chef Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "6be45307-5aa8-af57-5945-e467a3fadf28",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "9ceda464-c63f-03e3-183b-912d004da40d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Chef Clothes 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "80afa8de-821c-4759-6780-739070cd8aab",
+                                "material_instance": "9148218c-115e-6158-be6c-74bd9ddf9fde"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "89cdc201-954f-04d3-853a-fcd73b027859"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "73bac9c8-d7e3-554a-817d-274ba68ff8d6",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Chef Clothes 7"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "58a99b5b-cb9e-7184-a95b-970cf91a7d7d",
+                                "material_instance": "7794243e-c254-6d79-ee68-3ab232d56429"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "a8316c2b-d221-c1c5-44d6-ceb966c778a8"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "cdb48e43-ae05-b775-f0cc-8b0d5560d3f2",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Chef Band"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "6094aea5-06ec-9419-7998-d213ed94a6b5",
+                                "material_instance": "ac4f76e5-6745-7782-d91d-859ea7fef7c3"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "a221249b-ed45-e8f1-b68f-35e9ad1af922"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "cd269270-c0e4-b640-2147-4c24180597d6",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Chef Main 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "3a71a55d-aee7-69ae-0ba3-e3e9c067ba0f",
+                                "material_instance": "44801e67-2ba8-423b-d857-eab35579e57f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "32e21602-b4b7-22dd-25e4-5019f974cd1e"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "8af17796-5228-6f69-8d28-eb1768125cf7",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Chef Face 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a71520e7-d5ab-257a-3702-16d0c56141da",
+                                "material_instance": "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "a2d5865f-c998-de1c-ba6c-062ed49bdded"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "18824064-4802-a643-1e7d-b624fb78fa76",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Chef Hair 7"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "8bde0b1a-16e8-e496-02aa-743705bc74be",
+                                "material_instance": "31589b1b-bafa-567f-edae-ccfb9dc572d4"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "e8707d3a-f63a-9ac1-5ff8-abeaa01b0642"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "43c29b9b-4738-2fae-279a-abe87b662baf"
+    },
+    "dependencies": [
+        "9148218c-115e-6158-be6c-74bd9ddf9fde",
+        "80afa8de-821c-4759-6780-739070cd8aab",
+        "89cdc201-954f-04d3-853a-fcd73b027859",
+        "7794243e-c254-6d79-ee68-3ab232d56429",
+        "58a99b5b-cb9e-7184-a95b-970cf91a7d7d",
+        "a8316c2b-d221-c1c5-44d6-ceb966c778a8",
+        "ac4f76e5-6745-7782-d91d-859ea7fef7c3",
+        "6094aea5-06ec-9419-7998-d213ed94a6b5",
+        "a221249b-ed45-e8f1-b68f-35e9ad1af922",
+        "44801e67-2ba8-423b-d857-eab35579e57f",
+        "3a71a55d-aee7-69ae-0ba3-e3e9c067ba0f",
+        "32e21602-b4b7-22dd-25e4-5019f974cd1e",
+        "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
+        "a71520e7-d5ab-257a-3702-16d0c56141da",
+        "a2d5865f-c998-de1c-ba6c-062ed49bdded",
+        "31589b1b-bafa-567f-edae-ccfb9dc572d4",
+        "8bde0b1a-16e8-e496-02aa-743705bc74be",
+        "e8707d3a-f63a-9ac1-5ff8-abeaa01b0642",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}

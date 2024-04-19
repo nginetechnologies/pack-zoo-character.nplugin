@@ -1,0 +1,34 @@
+{
+    "guid": "683f6227-7497-429e-6070-de36832c39fe",
+    "source": "../SK_Female_Karate.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "2278b6b6-da31-14c3-02f8-7a584c186b91",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Female Karate"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0b1d12de-847a-e2f0-8ca9-efb9f51432d0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Female Kimono"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "24afcbb5-a574-069e-49de-ea766f508ed8"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "683f6227-7497-429e-6070-de36832c39fe"
+    },
+    "dependencies": [
+        "24afcbb5-a574-069e-49de-ea766f508ed8"
+    ]
+}

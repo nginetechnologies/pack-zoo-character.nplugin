@@ -1,0 +1,34 @@
+{
+    "guid": "5a1e647c-a414-4b28-a2aa-55be585e82d3",
+    "source": "../SK_Male_Suit.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "1801db24-b696-3a33-a295-6884e2ca80f5",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Male Suit"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "51152585-7f3f-183d-00dc-3d285c3b6355",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Suit"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "14f8ba06-8bc7-a93c-5d7d-8688266e9e31"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "5a1e647c-a414-4b28-a2aa-55be585e82d3"
+    },
+    "dependencies": [
+        "14f8ba06-8bc7-a93c-5d7d-8688266e9e31"
+    ]
+}

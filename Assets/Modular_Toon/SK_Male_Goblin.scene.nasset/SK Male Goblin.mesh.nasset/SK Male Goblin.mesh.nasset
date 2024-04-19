@@ -1,0 +1,153 @@
+{
+    "guid": "575a2299-99ba-ed8d-975e-c00a6b3f3800",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "c9328abc-4905-8749-292c-b1c8edb53abc",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "04fdf694-fc9d-004d-5486-341003dd35ba",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Goblin Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "1ba4dde1-2531-c4a8-79ae-c9af9029ef24",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "60373e9d-ca1d-f3fa-d2ce-b2d2e47a0b82",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Goblin Green Skin 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "89b68a75-3b7c-92d1-9162-6d972ba319d1",
+                                "material_instance": "8289163d-646c-87c8-a984-874c192d4667"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "2d6326cd-cf8f-8033-ea35-42218620e578"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "58b450ce-b683-2bcf-2ff3-1eb173495937",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Goblin Pants 5"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "2ae33523-e3ed-9ede-8b31-4adb293e2a6f",
+                                "material_instance": "c36c4547-992e-dde1-b8ff-dfea20c7c78e"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "142bb04f-a3ba-4672-8bf9-cc112ef9511a"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "0b879d11-b904-5788-d45e-6f7d6120df2a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Goblin Face 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "8c8d1381-6e15-a30a-2819-e647c94d4a0d",
+                                "material_instance": "b03a8c05-41e5-9982-653d-03e373549e10"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "bed4b167-5769-0feb-4513-57825004f44e"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d2e43bc3-7eef-c619-a68d-41cf85cb8337",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Goblin Teeth"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d4b302cc-cff1-247b-3500-353f7daeb93f",
+                                "material_instance": "15334416-da87-a595-2fa9-c2bce774d907"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "edd7dea2-1643-bc02-73e2-68b60049bdc3"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "575a2299-99ba-ed8d-975e-c00a6b3f3800"
+    },
+    "dependencies": [
+        "8289163d-646c-87c8-a984-874c192d4667",
+        "89b68a75-3b7c-92d1-9162-6d972ba319d1",
+        "2d6326cd-cf8f-8033-ea35-42218620e578",
+        "c36c4547-992e-dde1-b8ff-dfea20c7c78e",
+        "2ae33523-e3ed-9ede-8b31-4adb293e2a6f",
+        "142bb04f-a3ba-4672-8bf9-cc112ef9511a",
+        "b03a8c05-41e5-9982-653d-03e373549e10",
+        "8c8d1381-6e15-a30a-2819-e647c94d4a0d",
+        "bed4b167-5769-0feb-4513-57825004f44e",
+        "15334416-da87-a595-2fa9-c2bce774d907",
+        "d4b302cc-cff1-247b-3500-353f7daeb93f",
+        "edd7dea2-1643-bc02-73e2-68b60049bdc3",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}

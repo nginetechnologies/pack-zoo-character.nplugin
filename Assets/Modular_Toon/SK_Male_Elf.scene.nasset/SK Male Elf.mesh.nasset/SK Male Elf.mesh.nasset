@@ -1,0 +1,205 @@
+{
+    "guid": "981dd2db-064f-d55c-1693-b6bd8755015e",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "72fc9abd-a829-09f3-ef7a-4687f6895675",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "22f3998a-25fe-4417-33e4-72c72b295716",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Elf Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "0513c438-e976-371b-a00c-6e5e3075e727",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "1792ec4c-3e50-f6df-4f21-f38a56d19755",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Elf Clothes 4"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ae1616f2-b4e7-a3b6-4b01-070e90d31dff",
+                                "material_instance": "9dedeb13-b812-2f78-6e81-5cd5a125fc04"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "ee357dbb-fb9c-4f85-e951-6436f5cfdede"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "a7ecfdf0-9b58-8107-fdbb-63ce8d2af01d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Elf Main 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "310511af-5758-9b7e-5205-c76cca92789e",
+                                "material_instance": "44801e67-2ba8-423b-d857-eab35579e57f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "7c90a354-3337-f1e9-ac68-d853e4333cf3"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "1505405b-5a2c-9c88-cc04-9cb3251fd18a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Elf Belt 4"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "787c2e21-8858-95f6-6011-e266910ac5b7",
+                                "material_instance": "54079186-30d0-7666-2276-18608bc2fb6d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "98ad80db-3503-a335-f550-c93c2e6bfbd1"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "101b72ce-4531-cbcb-8327-13c6ecc0c5d9",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Elf Gold 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "b38ce87d-3a5f-d011-7641-3b6a72224c53",
+                                "material_instance": "940a4bcd-caea-50d4-4430-aca481363c25"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "cb51a60d-94d9-76e6-1c13-84d296f01c8e"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "f8e73a92-618b-4d41-f94d-309ace92b5a5",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Elf Hat 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "10d01647-f199-eccb-6492-0eed9b74d2d4",
+                                "material_instance": "2e9ff2e7-afcf-e2b9-c8c4-2abceb951b38"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "675eb43e-3b98-83c8-90bf-a3f0958f1c0f"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "5871d1bd-da93-f7af-c880-4a89e0d0fa8e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Elf Face 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7d786908-0e29-c408-8294-ec95917db6d5",
+                                "material_instance": "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "6b0ff15e-1012-0e7b-e9d6-97f647c8eb4c"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "981dd2db-064f-d55c-1693-b6bd8755015e"
+    },
+    "dependencies": [
+        "9dedeb13-b812-2f78-6e81-5cd5a125fc04",
+        "ae1616f2-b4e7-a3b6-4b01-070e90d31dff",
+        "ee357dbb-fb9c-4f85-e951-6436f5cfdede",
+        "44801e67-2ba8-423b-d857-eab35579e57f",
+        "310511af-5758-9b7e-5205-c76cca92789e",
+        "7c90a354-3337-f1e9-ac68-d853e4333cf3",
+        "54079186-30d0-7666-2276-18608bc2fb6d",
+        "787c2e21-8858-95f6-6011-e266910ac5b7",
+        "98ad80db-3503-a335-f550-c93c2e6bfbd1",
+        "940a4bcd-caea-50d4-4430-aca481363c25",
+        "b38ce87d-3a5f-d011-7641-3b6a72224c53",
+        "cb51a60d-94d9-76e6-1c13-84d296f01c8e",
+        "2e9ff2e7-afcf-e2b9-c8c4-2abceb951b38",
+        "10d01647-f199-eccb-6492-0eed9b74d2d4",
+        "675eb43e-3b98-83c8-90bf-a3f0958f1c0f",
+        "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
+        "7d786908-0e29-c408-8294-ec95917db6d5",
+        "6b0ff15e-1012-0e7b-e9d6-97f647c8eb4c",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}

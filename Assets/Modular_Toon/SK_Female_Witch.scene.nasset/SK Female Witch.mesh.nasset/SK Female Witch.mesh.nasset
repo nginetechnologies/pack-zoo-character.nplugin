@@ -1,0 +1,231 @@
+{
+    "guid": "54f9e58a-188b-b62a-5836-6d1a68a320f6",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "77adea40-1ce6-24d3-1a97-ccdbbd99d680",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "cf76c83b-a814-4e7b-840f-6c4505aee9c2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Female Witch Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "75fcd96b-63d7-97c9-e0aa-f85c68262e59",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "98874655-e32f-c292-b81e-42a5c7bfeb64",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Witch Clothes 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "dc19cdcd-e142-b548-a00f-3424d6f5695e",
+                                "material_instance": "17d04f23-ee38-6062-8e39-0856cba6cef3"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "1cd13c19-7a70-b5ff-0af3-b8cb9bea517c"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "bf6f6393-9c04-b963-4158-92e14b8b9b7f",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Witch Main 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "0a3308b4-6a11-b33b-1502-b403a24e9b7a",
+                                "material_instance": "44801e67-2ba8-423b-d857-eab35579e57f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "cbf52100-22be-bc5c-705f-df3264ba5bc4"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "9985ff35-fa66-1d89-ceac-10feea7c0a6b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Witch Belt 4"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "0756c5bc-3572-af07-05c4-f1ef953045f4",
+                                "material_instance": "54079186-30d0-7666-2276-18608bc2fb6d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "898872b0-c72d-b8fb-44ff-8f07ffae491f"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "95dbd6fd-dcbc-d7ea-5729-fbe64e804427",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Witch Gold 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a7b9c34f-d00a-a8ed-54e0-c7694c06031d",
+                                "material_instance": "0e57a13b-ee7c-2879-91cc-2deb225b776a"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "52e83d63-3a33-1367-7caf-4e601dfbdf83"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "b3dac747-f6a9-be68-f1e3-1378f5f6b3d5",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Witch Hat 4"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c703a042-0401-5b27-048d-2fea4e091bfe",
+                                "material_instance": "58659ac2-13a9-ec17-1005-ba2703efa4e3"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "6a9f6e6b-599a-a258-041b-7e9a5a8c5b37"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "fdd243b0-bbba-7937-7c1b-52b3d760e074",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Witch Face 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "26de7c61-ba15-e2ec-cc5d-781cbff17797",
+                                "material_instance": "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "cd5cd295-6027-a280-416e-8582b98c993a"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "4b12aaac-7553-2755-a152-f8c10e53280a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Witch Hair 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "853479b9-9dc7-bcd5-dbb6-65033d7ce974",
+                                "material_instance": "a58f446e-77cb-d966-802d-2c2557f7b4db"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "b37f1fb1-9df6-7c60-c081-d26fd171ac76"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "54f9e58a-188b-b62a-5836-6d1a68a320f6"
+    },
+    "dependencies": [
+        "17d04f23-ee38-6062-8e39-0856cba6cef3",
+        "dc19cdcd-e142-b548-a00f-3424d6f5695e",
+        "1cd13c19-7a70-b5ff-0af3-b8cb9bea517c",
+        "44801e67-2ba8-423b-d857-eab35579e57f",
+        "0a3308b4-6a11-b33b-1502-b403a24e9b7a",
+        "cbf52100-22be-bc5c-705f-df3264ba5bc4",
+        "54079186-30d0-7666-2276-18608bc2fb6d",
+        "0756c5bc-3572-af07-05c4-f1ef953045f4",
+        "898872b0-c72d-b8fb-44ff-8f07ffae491f",
+        "0e57a13b-ee7c-2879-91cc-2deb225b776a",
+        "a7b9c34f-d00a-a8ed-54e0-c7694c06031d",
+        "52e83d63-3a33-1367-7caf-4e601dfbdf83",
+        "58659ac2-13a9-ec17-1005-ba2703efa4e3",
+        "c703a042-0401-5b27-048d-2fea4e091bfe",
+        "6a9f6e6b-599a-a258-041b-7e9a5a8c5b37",
+        "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
+        "26de7c61-ba15-e2ec-cc5d-781cbff17797",
+        "cd5cd295-6027-a280-416e-8582b98c993a",
+        "a58f446e-77cb-d966-802d-2c2557f7b4db",
+        "853479b9-9dc7-bcd5-dbb6-65033d7ce974",
+        "b37f1fb1-9df6-7c60-c081-d26fd171ac76",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}

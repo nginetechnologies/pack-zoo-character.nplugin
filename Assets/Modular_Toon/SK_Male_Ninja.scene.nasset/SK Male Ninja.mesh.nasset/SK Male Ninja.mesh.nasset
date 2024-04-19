@@ -1,0 +1,153 @@
+{
+    "guid": "8361631d-beda-4808-a0ec-c14b5e5d810f",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "25adcd99-2178-af57-b93a-b46e09bf5088",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "e627a162-21b7-1d0d-6cbe-bb800b911e8a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Ninja Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "3e8ec1bd-c7a6-c622-93d8-d07f2f6b6dac",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "fe07b0e6-dc90-c708-093c-55a161898c28",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Ninja Main 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "94861bdd-f294-7338-0b0c-f9430c73bcb1",
+                                "material_instance": "44801e67-2ba8-423b-d857-eab35579e57f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "584a1362-ab35-e528-7ca5-9c4bbd611d19"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "2b052eb5-dea8-5e35-3e31-f9dc191b5924",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Ninja Detail 4"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "3d53d314-d184-00b1-523b-35cc598d0427",
+                                "material_instance": "6fbe1300-0611-2b6d-a4bd-c562b857cf15"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "e0b1fff3-3812-3808-c2fc-d1b3799332ed"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "513cc52d-e963-b0cf-fdcd-ba1eb495c05c",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Ninja Grey 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "870cc442-664b-69db-e282-fb896d5f05a8",
+                                "material_instance": "5c61259d-05ec-c7df-266f-829c4b3ed67f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "9a29f105-a7d8-3ecf-aea9-660d08b2ac84"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "89b7b383-8a2f-94ae-1549-be7d4b3bd9d2",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Ninja Face 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "928c8c6d-be07-6460-a57b-3cc0d8085b9e",
+                                "material_instance": "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "ff10be1d-ed7e-a04a-1892-72955688ac8f"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "8361631d-beda-4808-a0ec-c14b5e5d810f"
+    },
+    "dependencies": [
+        "44801e67-2ba8-423b-d857-eab35579e57f",
+        "94861bdd-f294-7338-0b0c-f9430c73bcb1",
+        "584a1362-ab35-e528-7ca5-9c4bbd611d19",
+        "6fbe1300-0611-2b6d-a4bd-c562b857cf15",
+        "3d53d314-d184-00b1-523b-35cc598d0427",
+        "e0b1fff3-3812-3808-c2fc-d1b3799332ed",
+        "5c61259d-05ec-c7df-266f-829c4b3ed67f",
+        "870cc442-664b-69db-e282-fb896d5f05a8",
+        "9a29f105-a7d8-3ecf-aea9-660d08b2ac84",
+        "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
+        "928c8c6d-be07-6460-a57b-3cc0d8085b9e",
+        "ff10be1d-ed7e-a04a-1892-72955688ac8f",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}

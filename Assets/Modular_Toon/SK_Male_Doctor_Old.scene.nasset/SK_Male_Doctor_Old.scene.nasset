@@ -1,0 +1,34 @@
+{
+    "guid": "2f7156af-e32f-01e2-8153-966661a89715",
+    "source": "../SK_Male_Doctor_Old.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "c4a8eabe-0b5c-444a-dc60-020bb049cd37",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Male Doctor Old"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9fe62e75-0181-c981-5229-deaaac52c01d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Doctor Old"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2acdcb69-bba3-328b-a0d3-b007d3b13d2c"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "2f7156af-e32f-01e2-8153-966661a89715"
+    },
+    "dependencies": [
+        "2acdcb69-bba3-328b-a0d3-b007d3b13d2c"
+    ]
+}

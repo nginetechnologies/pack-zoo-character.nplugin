@@ -1,0 +1,205 @@
+{
+    "guid": "136e17e3-7c46-3eb3-e9e8-c5c14b41c96c",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "7832ede6-891e-2845-0f86-aa64dab7c5a0",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "6aeb66b9-f6c8-4620-b573-a428fee01cd0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Female Soldier Blue Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "d7b26ee6-4e95-391d-0bb6-e68e26b779ac",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "29c67829-637a-0389-3dc9-ccb2663dd339",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Soldier Blue Main 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "3e3d8502-534a-aa80-a500-b9c8576b8e0a",
+                                "material_instance": "44801e67-2ba8-423b-d857-eab35579e57f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "20c318c1-334c-234f-757f-b7420763f151"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "f05ac95c-6ce0-b72c-8da7-6b76046ee72b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Soldier Blue Grey 3"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "92aafae4-990d-3e7f-2837-292e09c22f89",
+                                "material_instance": "a6f270a8-2e3c-7f86-e104-a6759080cd74"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "6e08054b-ebb0-c236-a256-130623224189"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "646a6081-fc00-a40c-2c66-c377490dc8e2",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Soldier Blue Armor 4"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4fed99b4-7412-85b3-2f44-db2cc00631c6",
+                                "material_instance": "38705279-46f4-3ef0-c783-9bb1a6bfacef"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "cc8adfce-b77e-8be5-a063-c14564f9ce09"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "9d927c0c-b7c8-12a4-6f9d-f2fc83d2e89d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Soldier Blue Helmet 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "147c8d7c-2617-d195-8ff3-08ae0f73cca5",
+                                "material_instance": "edfc293f-756d-1f2a-1a74-d68fb05d43ee"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "4e365ccd-0b08-fdc8-6411-7374686aab9a"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "da696bba-f424-1f13-b28b-a6649f44b79e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Soldier Blue Face 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "fb9c6039-a810-7f65-1880-8d8c77de277b",
+                                "material_instance": "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "e282af2b-58cc-d19d-6b19-3d823e64da6e"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "8c026262-a49f-b963-f268-9677a5e82fb4",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Soldier Blue Hair 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "5458305a-d962-5b90-c6a2-01dc1ce9d09c",
+                                "material_instance": "3a7f70d9-1a60-ac1d-2b1f-25cfadaddb45"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "06a4785a-836a-3907-f6bd-4943b5b4cf2b"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "136e17e3-7c46-3eb3-e9e8-c5c14b41c96c"
+    },
+    "dependencies": [
+        "44801e67-2ba8-423b-d857-eab35579e57f",
+        "3e3d8502-534a-aa80-a500-b9c8576b8e0a",
+        "20c318c1-334c-234f-757f-b7420763f151",
+        "a6f270a8-2e3c-7f86-e104-a6759080cd74",
+        "92aafae4-990d-3e7f-2837-292e09c22f89",
+        "6e08054b-ebb0-c236-a256-130623224189",
+        "38705279-46f4-3ef0-c783-9bb1a6bfacef",
+        "4fed99b4-7412-85b3-2f44-db2cc00631c6",
+        "cc8adfce-b77e-8be5-a063-c14564f9ce09",
+        "edfc293f-756d-1f2a-1a74-d68fb05d43ee",
+        "147c8d7c-2617-d195-8ff3-08ae0f73cca5",
+        "4e365ccd-0b08-fdc8-6411-7374686aab9a",
+        "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
+        "fb9c6039-a810-7f65-1880-8d8c77de277b",
+        "e282af2b-58cc-d19d-6b19-3d823e64da6e",
+        "3a7f70d9-1a60-ac1d-2b1f-25cfadaddb45",
+        "5458305a-d962-5b90-c6a2-01dc1ce9d09c",
+        "06a4785a-836a-3907-f6bd-4943b5b4cf2b",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}

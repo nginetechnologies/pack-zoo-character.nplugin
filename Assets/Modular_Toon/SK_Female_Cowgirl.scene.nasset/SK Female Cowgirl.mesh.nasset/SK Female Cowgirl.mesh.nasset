@@ -1,0 +1,283 @@
+{
+    "guid": "795d4f2b-9597-d12d-045e-98390089dbe8",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "82540594-f956-e93f-1c80-c493fb141098",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "2d5ab2fb-8f6d-4d43-a6cc-2e6deddb38ba",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Female Cowgirl Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "9b826218-3856-2718-9008-889cdf4d8e46",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "569fd974-f9d1-efc4-93dd-ddd9e89be9db",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Cowgirl Main 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d003689c-a00a-4e7b-c0b9-bc0699b36a83",
+                                "material_instance": "44801e67-2ba8-423b-d857-eab35579e57f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "7bf45e83-1343-570e-5f81-6a259e47909d"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "78c1cf8f-35d8-0fe6-dc6f-daca165f9945",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Cowgirl Pants 4"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "b20b5b5f-3ebe-cdca-1c66-d48e3dca3b63",
+                                "material_instance": "bd54ce69-d6a1-82ed-302c-c73767ec01a3"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "dd574b54-86b0-65f8-24de-3abed872a312"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "09956b94-9758-f29d-3a24-3768f678280b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Cowgirl Red 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "bc54982c-6b22-33b2-5da7-a64777c7cdd9",
+                                "material_instance": "2dbbc424-2e0c-5fb7-eb97-b3d80f09b648"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "92b5940d-16b0-0b2e-fe92-093ebad465ee"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "cd4ea257-aa0a-6b5b-e312-1df53ec6b130",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Cowgirl Jacket"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "50cab341-0482-bf48-30e3-3fa688afb0f2",
+                                "material_instance": "707342fe-fb45-eaaf-0131-2e018f9b9750"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "d94f3c7b-fd9f-5319-7408-1d1bdd648b9e"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "0e3ad2a4-a7f2-30d4-d9d7-39ca8b5b35d8",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Cowgirl Hat 6"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c4cc4a9f-6514-ff5a-49db-f5207bedb266",
+                                "material_instance": "175b99bb-634e-9006-87c5-ef293adf872d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "f2ecda27-2a51-3a4a-5e39-9ce238dc3998"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "be0a6636-62ac-9cab-8b0f-0325e6c4c2de",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Cowgirl Top"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "b512368c-b7b7-8a35-b1ab-5454b0dbc99a",
+                                "material_instance": "d794673a-a697-a90b-1db7-abda1c9bee7f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "c0194304-2f1c-3769-4eb0-bc88ded02df1"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "527e12fb-4b66-1b76-9bdd-b72f64bf41c1",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Cowgirl Face 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "1778cfdf-c763-82ba-20b8-06d2d7e1d645",
+                                "material_instance": "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "90c4fce3-94c3-f4ca-6c00-071e4d416b57"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "1ccd57f8-9fa2-b34f-aa3b-c1180b767f53",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Cowgirl Hat 7"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "016d8538-dc84-0ad6-de9e-342f8381b470",
+                                "material_instance": "edc7a943-d3a7-4ce4-d7c2-9da6fa99fba7"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "566dad40-9822-6976-fc27-a32518140757"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "a04fb3fa-7ee4-5e23-1344-cfcf1a28863b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Cowgirl Hair 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "49fdba16-af9d-ce27-1af3-328e4188168d",
+                                "material_instance": "3a7f70d9-1a60-ac1d-2b1f-25cfadaddb45"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "13dceeeb-dd99-192b-9fa7-2938502498e5"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "795d4f2b-9597-d12d-045e-98390089dbe8"
+    },
+    "dependencies": [
+        "44801e67-2ba8-423b-d857-eab35579e57f",
+        "d003689c-a00a-4e7b-c0b9-bc0699b36a83",
+        "7bf45e83-1343-570e-5f81-6a259e47909d",
+        "bd54ce69-d6a1-82ed-302c-c73767ec01a3",
+        "b20b5b5f-3ebe-cdca-1c66-d48e3dca3b63",
+        "dd574b54-86b0-65f8-24de-3abed872a312",
+        "2dbbc424-2e0c-5fb7-eb97-b3d80f09b648",
+        "bc54982c-6b22-33b2-5da7-a64777c7cdd9",
+        "92b5940d-16b0-0b2e-fe92-093ebad465ee",
+        "707342fe-fb45-eaaf-0131-2e018f9b9750",
+        "50cab341-0482-bf48-30e3-3fa688afb0f2",
+        "d94f3c7b-fd9f-5319-7408-1d1bdd648b9e",
+        "175b99bb-634e-9006-87c5-ef293adf872d",
+        "c4cc4a9f-6514-ff5a-49db-f5207bedb266",
+        "f2ecda27-2a51-3a4a-5e39-9ce238dc3998",
+        "d794673a-a697-a90b-1db7-abda1c9bee7f",
+        "b512368c-b7b7-8a35-b1ab-5454b0dbc99a",
+        "c0194304-2f1c-3769-4eb0-bc88ded02df1",
+        "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
+        "1778cfdf-c763-82ba-20b8-06d2d7e1d645",
+        "90c4fce3-94c3-f4ca-6c00-071e4d416b57",
+        "edc7a943-d3a7-4ce4-d7c2-9da6fa99fba7",
+        "016d8538-dc84-0ad6-de9e-342f8381b470",
+        "566dad40-9822-6976-fc27-a32518140757",
+        "3a7f70d9-1a60-ac1d-2b1f-25cfadaddb45",
+        "49fdba16-af9d-ce27-1af3-328e4188168d",
+        "13dceeeb-dd99-192b-9fa7-2938502498e5",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}

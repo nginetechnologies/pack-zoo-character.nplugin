@@ -1,0 +1,205 @@
+{
+    "guid": "965284c7-9409-0ba0-741a-e0bc77855108",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "1b7eb2c2-4d59-a6bd-7183-b8033f2643d8",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "e5fc94b1-cd2d-68ba-ad96-0cfbdbfa7c89",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Female Casual 3 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "da38e89e-f0aa-d6dc-0725-0667aa239fef",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "031b3769-8271-02b0-50aa-723e6715468e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Casual 3 Shirt 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "80b4c8c4-e7a9-9f1c-223d-cedae2acbd0a",
+                                "material_instance": "906a1614-11e5-25cb-8b04-14cac97ab4f3"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "ad675dcf-4853-4c25-6c97-dd5a8b6c6a52"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "5aa7f54d-bcf9-db83-f092-47aa75c67943",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Casual 3 Main 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "03e08a32-46d4-fac2-0c00-b5d0d30b801e",
+                                "material_instance": "44801e67-2ba8-423b-d857-eab35579e57f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "0d98e477-e2bf-2f23-372e-8714bcb30907"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "7593a5e8-757e-89c6-b707-68d3338f482b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Casual 3 Pants 3"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "bd43774f-614a-0f7d-931f-80f1203480bd",
+                                "material_instance": "d7ede1b8-085f-a09b-2f7e-436c1c98c0ae"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "e77f1a5b-b864-6d12-2fab-53fd0cb55138"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "48e44f74-5e64-7a89-7fc6-33530f5c72e5",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Casual 3 Belt 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "70dcb3a9-0c19-1997-70d5-b2a4d81c924f",
+                                "material_instance": "0c16198b-5391-5fb3-c9dd-519fa7ceae81"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "0b2721ab-e37b-8ab4-4547-bbf47fafc8cb"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "47ebeee7-8038-0386-237d-df580ee9761c",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Casual 3 Face 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "00f68f55-344f-9781-f751-aeb7cf180dc7",
+                                "material_instance": "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "88813ff4-82be-bbda-bee8-8d4aae612706"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "68ae0275-5f47-0460-1745-33ad01090bc5",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Casual 3 Hair 6"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "0956885c-0380-8dc3-6c28-4a159be2872e",
+                                "material_instance": "c797d096-0e7c-f095-316a-116b3873f6d3"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "511fab82-cb63-8cb3-0264-650bdf6144f1"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "965284c7-9409-0ba0-741a-e0bc77855108"
+    },
+    "dependencies": [
+        "906a1614-11e5-25cb-8b04-14cac97ab4f3",
+        "80b4c8c4-e7a9-9f1c-223d-cedae2acbd0a",
+        "ad675dcf-4853-4c25-6c97-dd5a8b6c6a52",
+        "44801e67-2ba8-423b-d857-eab35579e57f",
+        "03e08a32-46d4-fac2-0c00-b5d0d30b801e",
+        "0d98e477-e2bf-2f23-372e-8714bcb30907",
+        "d7ede1b8-085f-a09b-2f7e-436c1c98c0ae",
+        "bd43774f-614a-0f7d-931f-80f1203480bd",
+        "e77f1a5b-b864-6d12-2fab-53fd0cb55138",
+        "0c16198b-5391-5fb3-c9dd-519fa7ceae81",
+        "70dcb3a9-0c19-1997-70d5-b2a4d81c924f",
+        "0b2721ab-e37b-8ab4-4547-bbf47fafc8cb",
+        "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
+        "00f68f55-344f-9781-f751-aeb7cf180dc7",
+        "88813ff4-82be-bbda-bee8-8d4aae612706",
+        "c797d096-0e7c-f095-316a-116b3873f6d3",
+        "0956885c-0380-8dc3-6c28-4a159be2872e",
+        "511fab82-cb63-8cb3-0264-650bdf6144f1",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}

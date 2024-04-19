@@ -1,0 +1,205 @@
+{
+    "guid": "f558d264-4dc8-a92c-a40a-74f7895e4f97",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "0663bec5-c4c4-b39c-50cc-b1e7d5e11ce1",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "317ab790-45bd-0c5b-208b-03804220e4a6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Female Knight Golden Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "c8e17a40-c873-2f79-c7eb-f97fa25f14ac",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "0f56db56-2807-4ad5-847d-5e074ffdb3f0",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Knight Golden Armor 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "cb6423e4-c8ee-1cd7-e2ff-17275237336b",
+                                "material_instance": "5aaf9cab-b7fa-bd1c-58d1-d6a25f3e889d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "57085095-7ef7-6d04-5ef7-4e1f2a9e1266"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "278236ed-1e72-0b27-0f99-2704096b04cf",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Knight Golden Armor 4"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "062be645-4262-c444-f10c-7a28ea70f202",
+                                "material_instance": "38705279-46f4-3ef0-c783-9bb1a6bfacef"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "f1cfe285-93f2-10e4-515c-2532085a2c7c"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "c64b1332-1d70-df66-8304-5c1722ff58e1",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Knight Golden Main 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "50912800-3685-2adb-7c46-0a1e7d4aa1cf",
+                                "material_instance": "44801e67-2ba8-423b-d857-eab35579e57f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "00bbc41e-85c8-99d7-5084-5aedc7b1709c"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d45045e8-bd8b-54b9-7f4f-2c9677c1f389",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Knight Golden Detail 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f766d4bb-b31c-767c-43e7-b50c64421cbe",
+                                "material_instance": "c33d4aee-8454-24d8-af97-8e89a1f13fc6"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "70ebc6a7-783f-e547-ad0b-e8c18b6003c9"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "a2330c8d-954c-c25e-7ac1-1c5c492c2ffa",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Knight Golden Red 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "891a1595-33e8-c966-d5a4-44317888914b",
+                                "material_instance": "16c7ac35-12ac-a87a-dc30-6a680a707d59"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "feda6648-396e-842a-64ec-4d92c63ba191"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "e0b56ae9-c253-c3e6-0fe0-f94231b03707",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Knight Golden Hair 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "1b560c95-19f6-5fb9-f20a-49bc52b0d0fe",
+                                "material_instance": "3a7f70d9-1a60-ac1d-2b1f-25cfadaddb45"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "ab2bd2ad-b84d-ff92-70a7-cf17fdba654a"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "f558d264-4dc8-a92c-a40a-74f7895e4f97"
+    },
+    "dependencies": [
+        "5aaf9cab-b7fa-bd1c-58d1-d6a25f3e889d",
+        "cb6423e4-c8ee-1cd7-e2ff-17275237336b",
+        "57085095-7ef7-6d04-5ef7-4e1f2a9e1266",
+        "38705279-46f4-3ef0-c783-9bb1a6bfacef",
+        "062be645-4262-c444-f10c-7a28ea70f202",
+        "f1cfe285-93f2-10e4-515c-2532085a2c7c",
+        "44801e67-2ba8-423b-d857-eab35579e57f",
+        "50912800-3685-2adb-7c46-0a1e7d4aa1cf",
+        "00bbc41e-85c8-99d7-5084-5aedc7b1709c",
+        "c33d4aee-8454-24d8-af97-8e89a1f13fc6",
+        "f766d4bb-b31c-767c-43e7-b50c64421cbe",
+        "70ebc6a7-783f-e547-ad0b-e8c18b6003c9",
+        "16c7ac35-12ac-a87a-dc30-6a680a707d59",
+        "891a1595-33e8-c966-d5a4-44317888914b",
+        "feda6648-396e-842a-64ec-4d92c63ba191",
+        "3a7f70d9-1a60-ac1d-2b1f-25cfadaddb45",
+        "1b560c95-19f6-5fb9-f20a-49bc52b0d0fe",
+        "ab2bd2ad-b84d-ff92-70a7-cf17fdba654a",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}

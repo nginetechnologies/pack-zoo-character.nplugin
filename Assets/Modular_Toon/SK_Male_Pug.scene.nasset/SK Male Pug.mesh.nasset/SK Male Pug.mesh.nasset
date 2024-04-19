@@ -1,0 +1,257 @@
+{
+    "guid": "d9aba50f-a4ea-3c07-373c-0391a7ac1b95",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "5afd20c9-0957-2e07-1517-51efae42288b",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "49301b4e-f5f4-482c-787d-0cd6aa56032c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Pug Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "ff7b8de1-6be2-fc3b-feee-a46529c293d5",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "eb334705-f761-f155-932d-a136027c8c58",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Pug Armor 4"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a31452d3-2955-bb70-3616-fe4d672d4d47",
+                                "material_instance": "38705279-46f4-3ef0-c783-9bb1a6bfacef"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "9fc07a32-94ec-ce9b-cca3-208dee6b5e40"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "49afa804-97d3-bb82-acac-6536291b597a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Pug White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a7781486-0494-a487-3cca-7a8070f329bd",
+                                "material_instance": "c30ea0a8-f648-4492-e746-bfb0fd879c09"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "9c01f87f-5785-095b-5b7b-71d6828ea8b4"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d98f0fa6-0035-7c6f-20a7-c0c59315fff9",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Pug Belt 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c6a7b307-856e-954c-5373-ca34994f0f54",
+                                "material_instance": "1b5e6a47-26c9-6bee-79de-d6492154ec1d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "5bdefae4-a536-3943-ab47-19a9d9f8cf47"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "06fa064e-9f5f-ba57-ed6b-75749651d2a4",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Pug Main 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a7153efe-add6-247a-e22a-90252819bb58",
+                                "material_instance": "44801e67-2ba8-423b-d857-eab35579e57f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "a868bd6e-2464-9f4d-95f1-90dd10503b94"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "3cfa6e68-8798-5b36-cf89-2beb8c549291",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Pug Detail 5"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ac9d4242-2747-2731-f84a-6ca4b00cda72",
+                                "material_instance": "aa1005b0-745e-719c-bb1c-c515e64e9c59"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "ccaaf7d0-91ba-c859-0d51-97b3ce10a24a"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "5edc6653-027f-47d1-96c5-a23ad273b0e0",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Pug Face 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "40944b30-3331-718f-e1b2-15827b7863c4",
+                                "material_instance": "b03a8c05-41e5-9982-653d-03e373549e10"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "b6453ce3-876d-cf1b-a2f3-d0a950d7633b"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "e4e19cd1-7c54-edad-efe2-1b3c0e76c89c",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Pug Beige 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "3223b594-978d-a8b2-ec16-e440554f63f9",
+                                "material_instance": "3492c9cd-b15c-296a-92e5-b3c727aaafac"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "1c469453-f0be-b626-9cdc-8b11cadcce71"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "c1570689-3605-41e5-9fbf-52d4afde3498",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Pug Brown 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "976cff29-f908-c4f9-e161-b5f1f4a3fd83",
+                                "material_instance": "54429ae1-2d8c-52d7-7e12-bb88eedf9c5f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "2b3b295e-b602-c98b-bb6f-89beb454c28a"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "d9aba50f-a4ea-3c07-373c-0391a7ac1b95"
+    },
+    "dependencies": [
+        "38705279-46f4-3ef0-c783-9bb1a6bfacef",
+        "a31452d3-2955-bb70-3616-fe4d672d4d47",
+        "9fc07a32-94ec-ce9b-cca3-208dee6b5e40",
+        "c30ea0a8-f648-4492-e746-bfb0fd879c09",
+        "a7781486-0494-a487-3cca-7a8070f329bd",
+        "9c01f87f-5785-095b-5b7b-71d6828ea8b4",
+        "1b5e6a47-26c9-6bee-79de-d6492154ec1d",
+        "c6a7b307-856e-954c-5373-ca34994f0f54",
+        "5bdefae4-a536-3943-ab47-19a9d9f8cf47",
+        "44801e67-2ba8-423b-d857-eab35579e57f",
+        "a7153efe-add6-247a-e22a-90252819bb58",
+        "a868bd6e-2464-9f4d-95f1-90dd10503b94",
+        "aa1005b0-745e-719c-bb1c-c515e64e9c59",
+        "ac9d4242-2747-2731-f84a-6ca4b00cda72",
+        "ccaaf7d0-91ba-c859-0d51-97b3ce10a24a",
+        "b03a8c05-41e5-9982-653d-03e373549e10",
+        "40944b30-3331-718f-e1b2-15827b7863c4",
+        "b6453ce3-876d-cf1b-a2f3-d0a950d7633b",
+        "3492c9cd-b15c-296a-92e5-b3c727aaafac",
+        "3223b594-978d-a8b2-ec16-e440554f63f9",
+        "1c469453-f0be-b626-9cdc-8b11cadcce71",
+        "54429ae1-2d8c-52d7-7e12-bb88eedf9c5f",
+        "976cff29-f908-c4f9-e161-b5f1f4a3fd83",
+        "2b3b295e-b602-c98b-bb6f-89beb454c28a",
+        "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+    ]
+}
