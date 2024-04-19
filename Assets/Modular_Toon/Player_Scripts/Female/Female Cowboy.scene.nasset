@@ -145,7 +145,7 @@
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": ""
+                                "scene": "795d4f2b-9597-d12d-045e-98390089dbe8"
                             },
                             "data_components": [
                                 {
@@ -192,6 +192,6 @@
     },
     "thumbnailGuid": "67f9e2ed-1282-437b-ba56-98694f5c800a",
     "dependencies": [
-        ""
+        "795d4f2b-9597-d12d-045e-98390089dbe8"
     ]
 }
