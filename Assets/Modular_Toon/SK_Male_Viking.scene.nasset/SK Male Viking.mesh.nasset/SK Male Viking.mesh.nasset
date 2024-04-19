@@ -29,6 +29,19 @@
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "036bd41d-6798-4250-9b5b-740ac99c2b27",
+                                "eb4d6779-7941-49b4-99de-be133f23a452",
+                                "55edc8bf-99ed-4793-9a10-8631d520ad8d"
+                            ],
+                            "jump_animations": [
+                                "4ce45968-6d0f-475b-97f4-6b4d588fe791",
+                                "c455a833-32c8-4b13-8ad1-600d11a35c67",
+                                "c0bfaf63-214e-4bf8-b4eb-435c975f5e75"
+                            ]
                         }
                     ],
                     "children": [
