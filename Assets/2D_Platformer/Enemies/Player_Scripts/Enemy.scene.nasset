@@ -1,12 +1,11 @@
 {
-    "guid": "fc9ac0e8-9a8f-4d40-bb65-0926ed6bef1c",
+    "guid": "df41ab24-c717-4d42-89c8-44042dee7c2e",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 1024
     },
     "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
-            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
     ],
     "data_components": [
         {
@@ -185,7 +184,7 @@
                                     -0.6
                                 ],
                                 "scale": [
-                                    1.0
+                                    0.6
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -194,7 +193,7 @@
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Abstract Tan Scene"
+                                    "name": "Enemy Scene"
                                 }
                             ]
                         }
@@ -232,9 +231,9 @@
     },
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "fc9ac0e8-9a8f-4d40-bb65-0926ed6bef1c"
+        "scene": "df41ab24-c717-4d42-89c8-44042dee7c2e"
     },
-    "thumbnailGuid": "bf7f9209-167b-4b8b-9c16-6defa96234ab",
+    "thumbnailGuid": "385b4090-cc94-4d98-81b9-faa6d4136785",
     "dependencies": [
         ""
     ]

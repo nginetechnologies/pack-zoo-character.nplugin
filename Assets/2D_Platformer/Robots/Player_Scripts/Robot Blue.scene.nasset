@@ -1,5 +1,5 @@
 {
-    "guid": "0068b239-4e9c-409f-bdfd-bbc0db99c577",
+    "guid": "75a20f61-20b1-468f-8652-d5a553a1acbc",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 1024
@@ -193,7 +193,7 @@
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Sokoban Boy Scene"
+                                    "name": "Robot Blue Scene"
                                 }
                             ]
                         }
@@ -231,9 +231,9 @@
     },
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "0068b239-4e9c-409f-bdfd-bbc0db99c577"
+        "scene": "75a20f61-20b1-468f-8652-d5a553a1acbc"
     },
-    "thumbnailGuid": "c1426163-90a9-4a40-aa60-0064af16cbdd",
+    "thumbnailGuid": "c65a07c6-21c4-456c-9bc8-7cb618f17266",
     "dependencies": [
         ""
     ]

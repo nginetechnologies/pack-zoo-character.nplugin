@@ -1,5 +1,5 @@
 {
-    "guid": "3a4337f9-6ac3-4d70-a897-be502e55ff8a",
+    "guid": "cc5b3f71-33e9-4319-8545-0b908f97e63d",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 1024
@@ -189,12 +189,12 @@
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": "9e4f7a9c-1ea8-81b0-86f1-661c37e3e5d8"
+                                "scene": ""
                             },
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Abstract Red Scene"
+                                    "name": "Alien Pink Scene"
                                 }
                             ]
                         }
@@ -232,10 +232,10 @@
     },
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "3a4337f9-6ac3-4d70-a897-be502e55ff8a"
+        "scene": "cc5b3f71-33e9-4319-8545-0b908f97e63d"
     },
-    "thumbnailGuid": "1499a091-040e-42b3-9935-fb480e71eb11",
+    "thumbnailGuid": "01c064d4-33c5-4e64-b776-997b7371cb18",
     "dependencies": [
-        "9e4f7a9c-1ea8-81b0-86f1-661c37e3e5d8"
+        ""
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "guid": "",
+    "guid": "0068b239-4e9c-409f-bdfd-bbc0db99c577",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 1024
@@ -188,12 +188,12 @@
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": "47c9ec7a-7cd2-9bcc-4830-362ed958cf09"
+                                "scene": ""
                             },
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Tony Scene"
+                                    "name": "Sokoban Boy Scene"
                                 }
                             ]
                         }
@@ -231,9 +231,9 @@
     },
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": ""
+        "scene": "0068b239-4e9c-409f-bdfd-bbc0db99c577"
     },
-    "thumbnailGuid": "",
+    "thumbnailGuid": "c1426163-90a9-4a40-aa60-0064af16cbdd",
     "dependencies": [
         ""
     ]
