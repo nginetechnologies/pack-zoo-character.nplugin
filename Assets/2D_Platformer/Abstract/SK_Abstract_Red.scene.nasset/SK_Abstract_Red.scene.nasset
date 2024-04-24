@@ -1,0 +1,39 @@
+{
+    "guid": "2cff7308-5761-8627-c6df-d05237cb32cb",
+    "source": "../SK_Abstract_Red.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "19c3dc25-aad6-1b57-95a7-7aaf2c798c39",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Abstract Red"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bad22bcc-1995-136a-0695-244431f8ee67",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Abstract Red"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "scale": [
+                    0.0099
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9e4f7a9c-1ea8-81b0-86f1-661c37e3e5d8"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "2cff7308-5761-8627-c6df-d05237cb32cb"
+    },
+    "dependencies": [
+        "9e4f7a9c-1ea8-81b0-86f1-661c37e3e5d8"
+    ]
+}

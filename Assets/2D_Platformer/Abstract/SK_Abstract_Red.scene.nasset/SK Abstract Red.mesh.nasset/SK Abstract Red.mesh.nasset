@@ -1,0 +1,143 @@
+{
+    "guid": "9e4f7a9c-1ea8-81b0-86f1-661c37e3e5d8",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "e3fe7d95-807d-abe6-88a3-74ad8aea0b55",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "2a64a7f9-c854-fea8-3826-2e1334c78251",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Abstract Red Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "bb60dfa9-dd97-0c76-c33e-7b195f760d4a",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "8554ccf3-5865-41cc-a4cd-6eb299a1050d",
+                                "c068daa0-790f-4d98-b97f-f0fb72b5a95b",
+                                "c068daa0-790f-4d98-b97f-f0fb72b5a95b"
+                            ],
+                            "jump_animations": [
+                                "44bcf055-fe0f-438f-a086-4c8e68d87cb5",
+                                "44bcf055-fe0f-438f-a086-4c8e68d87cb5",
+                                "44bcf055-fe0f-438f-a086-4c8e68d87cb5"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "22e23b28-ed05-c891-2ca0-9c6abe1ca60d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Abstract Red White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "bd0cb53d-e35c-928f-60de-841f756bcb11",
+                                "material_instance": "2e5a1a97-6330-722b-6366-8d9cbca2d10d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "3b53eb0e-b032-ae98-6b2e-cd84ffa75692"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "20583328-d8bd-ff71-191d-4c5cb4ccec0b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Abstract Red Red"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "df2bd4d9-2ff3-e320-6b2f-efa9a7d4037d",
+                                "material_instance": "30ca4700-0211-40b3-5c6e-70324c535a9a"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "1077cab5-931b-2daa-427a-a6afe087ed59"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "50ac7b96-911a-29bc-95b1-c29f29cd7771",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Abstract Red Brown"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "0250122d-d3b9-73a3-318d-d79e41a9bac9",
+                                "material_instance": "f83b9742-78a2-c5c8-acc9-8515a4743d5d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "ddcfa3d6-e702-f7e9-075a-d42c5776bba1"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "cafa2059-c3a5-bab3-bf36-9392358d349b"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "9e4f7a9c-1ea8-81b0-86f1-661c37e3e5d8"
+    },
+    "dependencies": [
+        "2e5a1a97-6330-722b-6366-8d9cbca2d10d",
+        "bd0cb53d-e35c-928f-60de-841f756bcb11",
+        "3b53eb0e-b032-ae98-6b2e-cd84ffa75692",
+        "30ca4700-0211-40b3-5c6e-70324c535a9a",
+        "df2bd4d9-2ff3-e320-6b2f-efa9a7d4037d",
+        "1077cab5-931b-2daa-427a-a6afe087ed59",
+        "f83b9742-78a2-c5c8-acc9-8515a4743d5d",
+        "0250122d-d3b9-73a3-318d-d79e41a9bac9",
+        "ddcfa3d6-e702-f7e9-075a-d42c5776bba1",
+        "cafa2059-c3a5-bab3-bf36-9392358d349b",
+        "8554ccf3-5865-41cc-a4cd-6eb299a1050d",
+        "c068daa0-790f-4d98-b97f-f0fb72b5a95b",
+        "44bcf055-fe0f-438f-a086-4c8e68d87cb5"
+    ]
+}

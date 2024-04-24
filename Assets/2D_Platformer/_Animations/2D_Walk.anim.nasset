@@ -1,0 +1,20 @@
+{
+    "source": "A_Abstract_Walk.fbx",
+    "skeleton": "cafa2059-c3a5-bab3-bf36-9392358d349b",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "cafa2059-c3a5-bab3-bf36-9392358d349b"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "c068daa0-790f-4d98-b97f-f0fb72b5a95b"
+        }
+    ],
+    "guid": "c068daa0-790f-4d98-b97f-f0fb72b5a95b",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "cafa2059-c3a5-bab3-bf36-9392358d349b"
+    ]
+}
