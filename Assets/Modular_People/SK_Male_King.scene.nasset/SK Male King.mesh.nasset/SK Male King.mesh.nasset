@@ -1,0 +1,299 @@
+{
+    "guid": "5ec5d2d4-c899-0a09-7744-6b407849de6c",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "bddfd037-b7c8-7f3a-90ce-db67e6698338",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "9a08305e-45c7-e867-03ee-9b1330dec377",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male King Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "943ffebb-e361-f29b-a964-36009ce4b183",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "982eeb9c-d47a-4a68-81e0-00a4f0559252",
+                                "2a6858aa-af24-4163-81f9-317d19e8a809",
+                                "63bed46c-ef26-49b5-8f39-f134e103326c"
+                            ],
+                            "jump_animations": [
+                                "982eeb9c-d47a-4a68-81e0-00a4f0559252",
+                                "982eeb9c-d47a-4a68-81e0-00a4f0559252",
+                                "982eeb9c-d47a-4a68-81e0-00a4f0559252"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "c908f5d1-59b8-ef6d-fe98-870d74660203",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male King Metal 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e15f8fc8-b6da-5e05-c034-9e89437dff98",
+                                "material_instance": "bcfd4fca-766b-bd48-6d4c-692e999147f6"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "5827b9f5-a554-9763-7244-bccd8cd4d133"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "0d0af254-a40d-65cd-a7c2-554668a36edf",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male King Brown Dark 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "8c6dbf4e-f362-489a-a149-d8b142bdc768",
+                                "material_instance": "38c0ca9d-4c64-70d2-bdd3-36b2adf97c19"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "e4e5aa03-8844-55c1-17ec-0e7b0ad126b4"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "5a31672f-7051-51a2-f2b5-4b952e309148",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male King Metal 3"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7f75758c-f6bb-947d-3f2a-5293348486ab",
+                                "material_instance": "36c70b58-7989-4d54-ae9c-0fb442d73e6e"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "c2f73377-06fd-63eb-3609-45b391e87337"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "f898639a-dc76-5c7c-e607-ff29ac26b1d9",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male King Blue 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "acef7bda-26f8-b385-d9df-efe2f192c571",
+                                "material_instance": "512839d1-555d-0788-4b7f-4e9c29136a97"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "a1e191e2-9dbd-dc5a-1f97-238804b1d798"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "3c71cad2-245f-f4c3-396d-aca7b0c47635",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male King Beige"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "0388b942-a759-0b19-310e-4f7ad34f66cd",
+                                "material_instance": "7821439d-9f19-92eb-65b9-fbedc36bae1f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "b083515b-d6bc-91cc-6487-7cba67298a39"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "3719086c-9dda-9896-6e0f-448862a04e54",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male King Skin"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a91c3ee6-9e8e-2f79-9418-c3f153956c1d",
+                                "material_instance": "632c0acb-e414-2dd0-c921-7d94ebb6b5e7"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "9ca3fe2d-9def-983d-befc-1cbd18d5eade"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "ad759128-83f3-8ab7-f825-49c1d4120b54",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male King White 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "9f6ca6e4-b6eb-dce6-a6ca-0c5a947d3357",
+                                "material_instance": "ef20d33c-59a9-04f8-2c2c-e7b72a1713fe"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "0763dfda-8c37-078e-21de-2c3d59cef280"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "404ed417-2758-8099-2df3-42bd01acf383",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male King Brown 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c2648a73-84d7-33aa-9fa5-34e6a8f2fb82",
+                                "material_instance": "185eec15-3a74-3d14-882c-d031c74bde40"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "8356f092-7958-709c-a218-69a78a97ec01"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "06b86ef1-fd67-d627-1678-d0eef2a83418",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male King Gold 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "875076b4-47de-8d4f-d595-b55da69fa76c",
+                                "material_instance": "019d2c43-eace-08a9-287e-11343882471c"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "6c1ed96c-5764-167d-e97e-c47111019bca"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "5ec5d2d4-c899-0a09-7744-6b407849de6c"
+    },
+    "dependencies": [
+        "bcfd4fca-766b-bd48-6d4c-692e999147f6",
+        "e15f8fc8-b6da-5e05-c034-9e89437dff98",
+        "5827b9f5-a554-9763-7244-bccd8cd4d133",
+        "38c0ca9d-4c64-70d2-bdd3-36b2adf97c19",
+        "8c6dbf4e-f362-489a-a149-d8b142bdc768",
+        "e4e5aa03-8844-55c1-17ec-0e7b0ad126b4",
+        "36c70b58-7989-4d54-ae9c-0fb442d73e6e",
+        "7f75758c-f6bb-947d-3f2a-5293348486ab",
+        "c2f73377-06fd-63eb-3609-45b391e87337",
+        "512839d1-555d-0788-4b7f-4e9c29136a97",
+        "acef7bda-26f8-b385-d9df-efe2f192c571",
+        "a1e191e2-9dbd-dc5a-1f97-238804b1d798",
+        "7821439d-9f19-92eb-65b9-fbedc36bae1f",
+        "0388b942-a759-0b19-310e-4f7ad34f66cd",
+        "b083515b-d6bc-91cc-6487-7cba67298a39",
+        "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+        "a91c3ee6-9e8e-2f79-9418-c3f153956c1d",
+        "9ca3fe2d-9def-983d-befc-1cbd18d5eade",
+        "ef20d33c-59a9-04f8-2c2c-e7b72a1713fe",
+        "9f6ca6e4-b6eb-dce6-a6ca-0c5a947d3357",
+        "0763dfda-8c37-078e-21de-2c3d59cef280",
+        "185eec15-3a74-3d14-882c-d031c74bde40",
+        "c2648a73-84d7-33aa-9fa5-34e6a8f2fb82",
+        "8356f092-7958-709c-a218-69a78a97ec01",
+        "019d2c43-eace-08a9-287e-11343882471c",
+        "875076b4-47de-8d4f-d595-b55da69fa76c",
+        "6c1ed96c-5764-167d-e97e-c47111019bca",
+        "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+        "982eeb9c-d47a-4a68-81e0-00a4f0559252",
+        "2a6858aa-af24-4163-81f9-317d19e8a809",
+        "63bed46c-ef26-49b5-8f39-f134e103326c"
+    ]
+}

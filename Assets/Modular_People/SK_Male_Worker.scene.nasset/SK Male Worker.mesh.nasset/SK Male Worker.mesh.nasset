@@ -1,0 +1,325 @@
+{
+    "guid": "563ed2a1-80cf-c9ae-1413-5d4623c5e034",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "4c6ba022-90b0-c246-155b-ca2ce0f82008",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "ae4e21e2-0639-bbdf-eff9-9602b13e6dcb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Worker Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "e481843f-ee11-c5c4-42cc-8561820d2389",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "982eeb9c-d47a-4a68-81e0-00a4f0559252",
+                                "2a6858aa-af24-4163-81f9-317d19e8a809",
+                                "63bed46c-ef26-49b5-8f39-f134e103326c"
+                            ],
+                            "jump_animations": [
+                                "982eeb9c-d47a-4a68-81e0-00a4f0559252",
+                                "982eeb9c-d47a-4a68-81e0-00a4f0559252",
+                                "982eeb9c-d47a-4a68-81e0-00a4f0559252"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "c7397512-daee-35b8-3371-ea99d21ad3a1",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Worker Skin"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "283b42f1-27c6-1e9f-d04a-c031f6bcb206",
+                                "material_instance": "632c0acb-e414-2dd0-c921-7d94ebb6b5e7"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "00e8732b-bebe-bbcc-1d1a-72c69f56732f"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d36326ba-0a46-7f40-1a1b-791d0b1771ae",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Worker Hair Brown"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "85fa65f1-3848-caef-3bd7-0e2f8d0a2b03",
+                                "material_instance": "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "7a7050ae-9fcb-1113-93f1-781f8310154c"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "658776d0-d8c0-153f-cdd2-ff43d3ca5c94",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Worker Yellow"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "944048e4-306e-5597-55e0-73f9d40227bc",
+                                "material_instance": "2217c2f6-5e67-1530-311e-5c09134c7b09"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "7a27412e-374c-4e07-423a-c57b7b111cb1"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "9bd72ea7-064e-f8b6-d250-877c42506153",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Worker Brown 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "9b04b272-1f0e-c34b-1221-dd9f752201b7",
+                                "material_instance": "185eec15-3a74-3d14-882c-d031c74bde40"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "7182c664-e0f2-ed91-3d10-08e896c0b72c"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "92e44f4d-7130-364b-0b39-f791549de837",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Worker Moustache"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "10752b7e-3a2d-badd-5154-f22ba63f3b87",
+                                "material_instance": "325ea406-94f0-64b9-fb17-c2b83f0d7ff7"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "84fe19b5-9d95-fa7f-79e8-1d47fb478b28"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "cac470a2-95ab-58ef-8353-ac23d2717a3c",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Worker Orange 3"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "8d792610-c958-83d3-abad-38530a336564",
+                                "material_instance": "7afae09f-5e45-60c3-b286-8b1a789c0992"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "498a67ba-be72-599f-ea87-877b22869c40"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "6e1e2b47-8713-d593-2642-235e48860485",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Worker Brown Light 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4d57b477-dc78-4cce-99bf-3d07fbe3a056",
+                                "material_instance": "373d32ae-df40-153b-164d-b5e187f9bce8"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "cea2579a-bdeb-a54d-678c-e635615e9144"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "3bc389f7-5372-0280-646a-8ffdc6c7bca0",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Worker Brown 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "8fea0674-f526-1f07-bb24-f394dfb218b4",
+                                "material_instance": "362a4c77-febb-0328-2673-0c1d5028b3e1"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "eeb4c2df-3772-01b3-af3e-cc7dd8d347fc"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "ef6e3383-5f0d-5d99-3a56-b5e9d5ffdb2d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Worker Black 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7b0b634d-cb44-c507-84b2-f98cd60b829a",
+                                "material_instance": "2cb2bcae-4c72-7889-facb-7b4cb09a487d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "108b2512-60a5-60e8-f8fe-fc025b9fbaed"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "75922ea9-ca84-e731-0500-2acc3f818a5b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Worker Grey 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "791b856c-e0af-e13b-7b5f-01161bc4a73b",
+                                "material_instance": "e45002be-5287-10ca-9d5f-13df690b6f34"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "68b74273-3558-df3d-5c62-81fe468b2049"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "563ed2a1-80cf-c9ae-1413-5d4623c5e034"
+    },
+    "dependencies": [
+        "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+        "283b42f1-27c6-1e9f-d04a-c031f6bcb206",
+        "00e8732b-bebe-bbcc-1d1a-72c69f56732f",
+        "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78",
+        "85fa65f1-3848-caef-3bd7-0e2f8d0a2b03",
+        "7a7050ae-9fcb-1113-93f1-781f8310154c",
+        "2217c2f6-5e67-1530-311e-5c09134c7b09",
+        "944048e4-306e-5597-55e0-73f9d40227bc",
+        "7a27412e-374c-4e07-423a-c57b7b111cb1",
+        "185eec15-3a74-3d14-882c-d031c74bde40",
+        "9b04b272-1f0e-c34b-1221-dd9f752201b7",
+        "7182c664-e0f2-ed91-3d10-08e896c0b72c",
+        "325ea406-94f0-64b9-fb17-c2b83f0d7ff7",
+        "10752b7e-3a2d-badd-5154-f22ba63f3b87",
+        "84fe19b5-9d95-fa7f-79e8-1d47fb478b28",
+        "7afae09f-5e45-60c3-b286-8b1a789c0992",
+        "8d792610-c958-83d3-abad-38530a336564",
+        "498a67ba-be72-599f-ea87-877b22869c40",
+        "373d32ae-df40-153b-164d-b5e187f9bce8",
+        "4d57b477-dc78-4cce-99bf-3d07fbe3a056",
+        "cea2579a-bdeb-a54d-678c-e635615e9144",
+        "362a4c77-febb-0328-2673-0c1d5028b3e1",
+        "8fea0674-f526-1f07-bb24-f394dfb218b4",
+        "eeb4c2df-3772-01b3-af3e-cc7dd8d347fc",
+        "2cb2bcae-4c72-7889-facb-7b4cb09a487d",
+        "7b0b634d-cb44-c507-84b2-f98cd60b829a",
+        "108b2512-60a5-60e8-f8fe-fc025b9fbaed",
+        "e45002be-5287-10ca-9d5f-13df690b6f34",
+        "791b856c-e0af-e13b-7b5f-01161bc4a73b",
+        "68b74273-3558-df3d-5c62-81fe468b2049",
+        "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+        "982eeb9c-d47a-4a68-81e0-00a4f0559252",
+        "2a6858aa-af24-4163-81f9-317d19e8a809",
+        "63bed46c-ef26-49b5-8f39-f134e103326c"
+    ]
+}

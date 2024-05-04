@@ -1,0 +1,195 @@
+{
+    "guid": "204da3c8-9795-2692-c609-4fce30a65092",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "71589f71-7360-c39b-c561-be9e64087732",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "af3a867c-51bd-34c9-5087-5550bb8e1977",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Spacesuit Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "4e7c5232-6eaf-fb40-9cf2-f286f4f8b78a",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "982eeb9c-d47a-4a68-81e0-00a4f0559252",
+                                "2a6858aa-af24-4163-81f9-317d19e8a809",
+                                "63bed46c-ef26-49b5-8f39-f134e103326c"
+                            ],
+                            "jump_animations": [
+                                "982eeb9c-d47a-4a68-81e0-00a4f0559252",
+                                "982eeb9c-d47a-4a68-81e0-00a4f0559252",
+                                "982eeb9c-d47a-4a68-81e0-00a4f0559252"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "e2982a83-b895-0267-fab6-408ee7ea01f5",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Spacesuit Orange 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "3868867c-e34a-b45c-63d1-5d9f744ed37c",
+                                "material_instance": "9009fbeb-e27e-170e-c01f-efc9a4155338"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "2bc58583-eb2c-8699-0a96-c21a5292b541"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "3c612403-4a13-af79-f13b-a9cae2c86772",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Spacesuit White 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "193cc345-e37c-dfc7-0626-5a80d53ce087",
+                                "material_instance": "55e4c33f-23a4-02d6-5278-397f3b0af1f9"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "f55dceee-091a-3578-f76c-f08e10618eb1"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d21be9ee-4acc-1fa9-18ae-ac6a72aba245",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Spacesuit Teal Dark"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c3c9be73-6cfb-072f-1c8a-fd8fb0f2e2c2",
+                                "material_instance": "459b2d0c-e380-100b-5a6b-098d3d43f6fb"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "ee6687db-a2e1-ea27-495f-adb472d96287"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "05f64233-0beb-caad-c4c5-38a3a8fcf4f6",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Spacesuit Teal"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "6acc9132-d9cd-cbd7-9589-f5a5bef4c8ea",
+                                "material_instance": "90bbc7cc-6c7c-410f-9438-cbb81ee3586f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "45b2e4cd-1e4f-e128-5f3a-5828d7ec05af"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "eaa8938c-540e-f343-ee34-81eb3cb8090d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Spacesuit Grey 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "8da4be7a-7d44-a812-c687-b01ee74654c7",
+                                "material_instance": "e45002be-5287-10ca-9d5f-13df690b6f34"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "2b716000-61a5-282d-a116-791000221f02"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "204da3c8-9795-2692-c609-4fce30a65092"
+    },
+    "dependencies": [
+        "9009fbeb-e27e-170e-c01f-efc9a4155338",
+        "3868867c-e34a-b45c-63d1-5d9f744ed37c",
+        "2bc58583-eb2c-8699-0a96-c21a5292b541",
+        "55e4c33f-23a4-02d6-5278-397f3b0af1f9",
+        "193cc345-e37c-dfc7-0626-5a80d53ce087",
+        "f55dceee-091a-3578-f76c-f08e10618eb1",
+        "459b2d0c-e380-100b-5a6b-098d3d43f6fb",
+        "c3c9be73-6cfb-072f-1c8a-fd8fb0f2e2c2",
+        "ee6687db-a2e1-ea27-495f-adb472d96287",
+        "90bbc7cc-6c7c-410f-9438-cbb81ee3586f",
+        "6acc9132-d9cd-cbd7-9589-f5a5bef4c8ea",
+        "45b2e4cd-1e4f-e128-5f3a-5828d7ec05af",
+        "e45002be-5287-10ca-9d5f-13df690b6f34",
+        "8da4be7a-7d44-a812-c687-b01ee74654c7",
+        "2b716000-61a5-282d-a116-791000221f02",
+        "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+        "982eeb9c-d47a-4a68-81e0-00a4f0559252",
+        "2a6858aa-af24-4163-81f9-317d19e8a809",
+        "63bed46c-ef26-49b5-8f39-f134e103326c"
+    ]
+}

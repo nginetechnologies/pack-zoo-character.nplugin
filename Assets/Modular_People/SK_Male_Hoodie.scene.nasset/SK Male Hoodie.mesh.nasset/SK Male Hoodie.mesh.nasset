@@ -1,0 +1,247 @@
+{
+    "guid": "69043c1c-8d35-6635-5cbe-63e2f3a2151b",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "d70aae19-1971-cb8b-6b52-1077a788dc78",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "8b50f7c0-cb2e-3e79-6bc2-5f1301369d79",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Hoodie Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "22ea5fa0-37f7-0318-827f-0fe3ba3fc9c9",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "982eeb9c-d47a-4a68-81e0-00a4f0559252",
+                                "2a6858aa-af24-4163-81f9-317d19e8a809",
+                                "63bed46c-ef26-49b5-8f39-f134e103326c"
+                            ],
+                            "jump_animations": [
+                                "982eeb9c-d47a-4a68-81e0-00a4f0559252",
+                                "982eeb9c-d47a-4a68-81e0-00a4f0559252",
+                                "982eeb9c-d47a-4a68-81e0-00a4f0559252"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "8dbe8ab8-5e11-9d55-8a2e-eff17894553e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Hoodie White 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d604ef54-e305-3215-398b-163112d6ddd0",
+                                "material_instance": "ef20d33c-59a9-04f8-2c2c-e7b72a1713fe"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "f2c86908-db26-c29e-9f7e-354e74865dcf"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "a94f7521-c018-5e47-f6d2-8fb9715f9142",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Hoodie Purple 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "3518b52d-bb9e-6a96-8ff4-10a5aaf08db9",
+                                "material_instance": "454b2bee-13ae-6f2c-4171-acea894e02d5"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "38e330a6-ef63-8cf8-22f2-11deca205b07"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "03688874-e113-7703-ccc5-3bb4d4850fb2",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Hoodie Skin"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "bbfa6b8f-9424-81e2-3e13-75060e4d682c",
+                                "material_instance": "632c0acb-e414-2dd0-c921-7d94ebb6b5e7"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "0ccd543f-126c-4e22-b5fb-19cf798af520"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "4d47c534-c782-52f5-a56e-42fe076b3183",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Hoodie Blue 3"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ea3991ff-d196-89b7-3db5-28b5a7481519",
+                                "material_instance": "3cf8c593-fc4f-ba15-8500-b5d6d735d5e9"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "693e5ffa-4912-9625-87b9-a5d4e1f75a9c"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "4e4a5e65-4bff-7546-2505-a71dcaedc41a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Hoodie Hair Brown"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "b2de0fdf-ed03-d5d2-2adb-1d9e8c91f808",
+                                "material_instance": "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "c233388c-a152-998f-e2ea-4dcbf715187d"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "909c7767-f176-ff9b-9242-ca6bd463728c",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Hoodie Brown 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "cceabefa-3734-746d-b8f7-186a5421541b",
+                                "material_instance": "185eec15-3a74-3d14-882c-d031c74bde40"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "9fab82bf-4aa0-f266-4f82-18757653bd29"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "ef2ffcaa-2091-d81a-99f2-649d31f67de8",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Hoodie Hair Red"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "5b0e7ffa-c55e-9505-407c-3af057631dd6",
+                                "material_instance": "d1a5ada9-30a1-e546-7928-e5bcdd07b39f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "ccdb1eeb-4f71-a2a4-ece6-d866fb2c4774"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "69043c1c-8d35-6635-5cbe-63e2f3a2151b"
+    },
+    "dependencies": [
+        "ef20d33c-59a9-04f8-2c2c-e7b72a1713fe",
+        "d604ef54-e305-3215-398b-163112d6ddd0",
+        "f2c86908-db26-c29e-9f7e-354e74865dcf",
+        "454b2bee-13ae-6f2c-4171-acea894e02d5",
+        "3518b52d-bb9e-6a96-8ff4-10a5aaf08db9",
+        "38e330a6-ef63-8cf8-22f2-11deca205b07",
+        "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+        "bbfa6b8f-9424-81e2-3e13-75060e4d682c",
+        "0ccd543f-126c-4e22-b5fb-19cf798af520",
+        "3cf8c593-fc4f-ba15-8500-b5d6d735d5e9",
+        "ea3991ff-d196-89b7-3db5-28b5a7481519",
+        "693e5ffa-4912-9625-87b9-a5d4e1f75a9c",
+        "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78",
+        "b2de0fdf-ed03-d5d2-2adb-1d9e8c91f808",
+        "c233388c-a152-998f-e2ea-4dcbf715187d",
+        "185eec15-3a74-3d14-882c-d031c74bde40",
+        "cceabefa-3734-746d-b8f7-186a5421541b",
+        "9fab82bf-4aa0-f266-4f82-18757653bd29",
+        "d1a5ada9-30a1-e546-7928-e5bcdd07b39f",
+        "5b0e7ffa-c55e-9505-407c-3af057631dd6",
+        "ccdb1eeb-4f71-a2a4-ece6-d866fb2c4774",
+        "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+        "982eeb9c-d47a-4a68-81e0-00a4f0559252",
+        "2a6858aa-af24-4163-81f9-317d19e8a809",
+        "63bed46c-ef26-49b5-8f39-f134e103326c"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "guid": "b1379cb0-ac85-088b-224b-5798c769422b",
+    "source": "../SK_Male_Farmer.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "f0aab878-2c7e-4e3a-1d3b-bb552cbf0495",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Male Farmer"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c72d243c-41e4-5b72-28c1-94e989593516",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Farmer"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "99fc5012-63ad-ff2c-46ca-264536ad3afb"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "b1379cb0-ac85-088b-224b-5798c769422b"
+    },
+    "dependencies": [
+        "99fc5012-63ad-ff2c-46ca-264536ad3afb"
+    ]
+}

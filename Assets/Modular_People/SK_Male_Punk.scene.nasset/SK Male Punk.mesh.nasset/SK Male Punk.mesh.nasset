@@ -1,0 +1,273 @@
+{
+    "guid": "d64cc065-7b2d-6e8c-31e2-9045d9e4c275",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "be32ce25-c247-0bfc-c0ea-8e8acf4226da",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "cc016706-6415-5927-9742-0c706d2a8cfc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Male Punk Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "23ae1e6e-7ba2-84e5-ee86-37ac9243a8ce",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "982eeb9c-d47a-4a68-81e0-00a4f0559252",
+                                "2a6858aa-af24-4163-81f9-317d19e8a809",
+                                "63bed46c-ef26-49b5-8f39-f134e103326c"
+                            ],
+                            "jump_animations": [
+                                "982eeb9c-d47a-4a68-81e0-00a4f0559252",
+                                "982eeb9c-d47a-4a68-81e0-00a4f0559252",
+                                "982eeb9c-d47a-4a68-81e0-00a4f0559252"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "fae91471-e9df-cf79-6050-3e193e2049e3",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Punk Black 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d24bac13-58df-bca2-93b3-bc276cc275cf",
+                                "material_instance": "2cb2bcae-4c72-7889-facb-7b4cb09a487d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "8b2bf437-7779-c0f2-7c7a-a48ddad0a05b"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "b5d7a47f-fce0-04fd-102d-10db7f9279ae",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Punk Skin"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "88fad8b7-598f-9d07-36b9-3699f4819f8d",
+                                "material_instance": "632c0acb-e414-2dd0-c921-7d94ebb6b5e7"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "eb0da728-841e-d90f-8386-60ba93c3e77b"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "ec2f129c-b409-8e2c-3b3b-5fad1b4f4a73",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Punk Blue 3"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "8b89c382-319a-36f9-d7d3-48296937a7df",
+                                "material_instance": "3cf8c593-fc4f-ba15-8500-b5d6d735d5e9"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "6c2602b5-df02-ac03-97fe-d0c2195cc60b"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "45dc8d7a-9aad-f33a-a36b-d43125066061",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Punk White 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c4ca0116-3100-1c7e-8473-350731b80e91",
+                                "material_instance": "ef20d33c-59a9-04f8-2c2c-e7b72a1713fe"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "bf63b4fe-057a-791f-07b2-8831a7655b09"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "2eb287e0-011f-edc4-7b9b-fe61f5601772",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Punk Red 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "5b5e3aec-3269-1865-5333-dda06b43f4c0",
+                                "material_instance": "ab021971-5963-7b4d-6cf3-cdd88b9b0199"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "95c0960c-d066-ada0-f4b6-2ee5fde08f2e"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "1dccb2de-6880-fbe8-6126-5ab9d41a2f83",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Punk Gold 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7f6fd1aa-584d-3144-541c-91a0f17d71f2",
+                                "material_instance": "efd77e32-5a19-6f7b-ae0a-982674eebe63"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "3d9d518b-f0e3-0257-8d0f-a28a5b658314"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "c1814d78-314c-e7e8-23ce-fcdcdf787bd9",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Punk Hair Brown"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "327312a1-5784-cc28-4acb-2c582720b839",
+                                "material_instance": "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "0d831e7a-d4a5-db45-d204-c1aa3ca596aa"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "3d277156-4bc6-4b56-45da-1d10ff7d971e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Punk Brown 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "27f51329-7f05-e75f-2d7d-d06767c7f490",
+                                "material_instance": "185eec15-3a74-3d14-882c-d031c74bde40"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "79a2c842-8e01-5b25-1abd-40ab4419de55"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "d64cc065-7b2d-6e8c-31e2-9045d9e4c275"
+    },
+    "dependencies": [
+        "2cb2bcae-4c72-7889-facb-7b4cb09a487d",
+        "d24bac13-58df-bca2-93b3-bc276cc275cf",
+        "8b2bf437-7779-c0f2-7c7a-a48ddad0a05b",
+        "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+        "88fad8b7-598f-9d07-36b9-3699f4819f8d",
+        "eb0da728-841e-d90f-8386-60ba93c3e77b",
+        "3cf8c593-fc4f-ba15-8500-b5d6d735d5e9",
+        "8b89c382-319a-36f9-d7d3-48296937a7df",
+        "6c2602b5-df02-ac03-97fe-d0c2195cc60b",
+        "ef20d33c-59a9-04f8-2c2c-e7b72a1713fe",
+        "c4ca0116-3100-1c7e-8473-350731b80e91",
+        "bf63b4fe-057a-791f-07b2-8831a7655b09",
+        "ab021971-5963-7b4d-6cf3-cdd88b9b0199",
+        "5b5e3aec-3269-1865-5333-dda06b43f4c0",
+        "95c0960c-d066-ada0-f4b6-2ee5fde08f2e",
+        "efd77e32-5a19-6f7b-ae0a-982674eebe63",
+        "7f6fd1aa-584d-3144-541c-91a0f17d71f2",
+        "3d9d518b-f0e3-0257-8d0f-a28a5b658314",
+        "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78",
+        "327312a1-5784-cc28-4acb-2c582720b839",
+        "0d831e7a-d4a5-db45-d204-c1aa3ca596aa",
+        "185eec15-3a74-3d14-882c-d031c74bde40",
+        "27f51329-7f05-e75f-2d7d-d06767c7f490",
+        "79a2c842-8e01-5b25-1abd-40ab4419de55",
+        "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+        "982eeb9c-d47a-4a68-81e0-00a4f0559252",
+        "2a6858aa-af24-4163-81f9-317d19e8a809",
+        "63bed46c-ef26-49b5-8f39-f134e103326c"
+    ]
+}
