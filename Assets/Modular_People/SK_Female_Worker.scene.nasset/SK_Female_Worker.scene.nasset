@@ -1,0 +1,34 @@
+{
+    "guid": "8234d3fe-1356-2f0d-2da7-e4ea359df5bf",
+    "source": "../SK_Female_Worker.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "019644bf-3a2b-3d94-fac6-aa02c7d04480",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Female Worker"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "40942933-9358-d9dc-2c91-846314a68435",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sk Female Worker"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fdb0cf31-58d3-a44c-a4be-3c5bcb819023"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "8234d3fe-1356-2f0d-2da7-e4ea359df5bf"
+    },
+    "dependencies": [
+        "fdb0cf31-58d3-a44c-a4be-3c5bcb819023"
+    ]
+}

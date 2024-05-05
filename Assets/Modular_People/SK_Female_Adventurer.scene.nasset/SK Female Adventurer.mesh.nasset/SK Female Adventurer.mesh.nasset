@@ -1,0 +1,257 @@
+{
+    "guid": "e53520ea-1c7b-d341-6467-55c826a1d163",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "3d0eef17-9be1-e481-5e68-22d194aeefed",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "1001bf4d-fc8e-6695-7e44-d5bc37d44f69",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Female Adventurer Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "044e3443-33be-4f2e-2097-1f026a955e52",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "92781e87-53f3-f422-490d-da0e924a289b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Adventurer Green Light"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "778e1737-b646-91de-01e7-8b19c892d62c",
+                                "material_instance": "c07af5ae-fe24-9314-adb1-607f98d77092"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "975707ea-d266-a3bd-c161-c2b6c5b1ef2f"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "8acda382-c93c-acec-67b0-c64f4ea9762c",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Adventurer Skin"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "0689184e-0099-6932-3d9f-c0c28e029897",
+                                "material_instance": "632c0acb-e414-2dd0-c921-7d94ebb6b5e7"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "10e0015d-56c0-b039-4a85-96be2b6d8d88"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "289ba8ae-c9a7-d4d0-b6e8-1f736c4f9b10",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Adventurer Green 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "60ccec80-17c1-7152-94c8-6b3cce484708",
+                                "material_instance": "6df30434-a7c9-d0d5-5581-ea98b15e0a73"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "3890100d-1654-5b32-248c-e094c34ad4d5"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "981ecb1d-605f-cca1-82a3-c3e16d84d97d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Adventurer White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4a3ada7e-737b-fbe2-ffe3-4abda5e22e70",
+                                "material_instance": "1a6c2f5f-0ecc-81d6-6e36-7ff062673105"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "1f31bf73-6edd-ca5a-7989-fdd861a01f8e"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "b42d77ce-134b-60ac-e5c6-b05dc0117c4e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Adventurer Brown 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "3b10d000-353a-3101-0953-c6851a76907d",
+                                "material_instance": "185eec15-3a74-3d14-882c-d031c74bde40"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "eb9f7627-7f6d-b319-c529-7a1b7fe79d65"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "4b24399c-0a78-23bc-914b-e045ee0f7a59",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Adventurer Gold 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4f5df0b8-8067-f51d-b7c7-7ff7cd5c97ef",
+                                "material_instance": "efd77e32-5a19-6f7b-ae0a-982674eebe63"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "40099916-16fb-ea1a-2aae-9a9eb01aaffc"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d00ca097-46f1-7108-cfee-cd24d7a745d3",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Adventurer Brown 4"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4e5b434b-8a7e-f587-83a9-4ea90ffea38b",
+                                "material_instance": "2e39aba7-5921-7120-e1ab-32d0ab5b1275"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "fddc74e4-3a6f-0d7a-f578-78fcc8a9360e"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "90dc9684-1ebc-d73b-7f73-d6062f0304bb",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Adventurer Hair Brown"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "8a35d702-0a67-3e23-7fa6-c152e004f196",
+                                "material_instance": "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "b8a454d1-1012-385a-b207-97acea80aa96"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "e53520ea-1c7b-d341-6467-55c826a1d163"
+    },
+    "dependencies": [
+        "c07af5ae-fe24-9314-adb1-607f98d77092",
+        "778e1737-b646-91de-01e7-8b19c892d62c",
+        "975707ea-d266-a3bd-c161-c2b6c5b1ef2f",
+        "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+        "0689184e-0099-6932-3d9f-c0c28e029897",
+        "10e0015d-56c0-b039-4a85-96be2b6d8d88",
+        "6df30434-a7c9-d0d5-5581-ea98b15e0a73",
+        "60ccec80-17c1-7152-94c8-6b3cce484708",
+        "3890100d-1654-5b32-248c-e094c34ad4d5",
+        "1a6c2f5f-0ecc-81d6-6e36-7ff062673105",
+        "4a3ada7e-737b-fbe2-ffe3-4abda5e22e70",
+        "1f31bf73-6edd-ca5a-7989-fdd861a01f8e",
+        "185eec15-3a74-3d14-882c-d031c74bde40",
+        "3b10d000-353a-3101-0953-c6851a76907d",
+        "eb9f7627-7f6d-b319-c529-7a1b7fe79d65",
+        "efd77e32-5a19-6f7b-ae0a-982674eebe63",
+        "4f5df0b8-8067-f51d-b7c7-7ff7cd5c97ef",
+        "40099916-16fb-ea1a-2aae-9a9eb01aaffc",
+        "2e39aba7-5921-7120-e1ab-32d0ab5b1275",
+        "4e5b434b-8a7e-f587-83a9-4ea90ffea38b",
+        "fddc74e4-3a6f-0d7a-f578-78fcc8a9360e",
+        "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78",
+        "8a35d702-0a67-3e23-7fa6-c152e004f196",
+        "b8a454d1-1012-385a-b207-97acea80aa96",
+        "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+    ]
+}

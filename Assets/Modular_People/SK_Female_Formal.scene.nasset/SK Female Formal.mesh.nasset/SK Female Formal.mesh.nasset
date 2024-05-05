@@ -1,0 +1,179 @@
+{
+    "guid": "b4ec400c-1778-16fc-0511-4e120780c5ba",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "2e9da032-f362-0fad-4c4b-e6646a3d7ccd",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "b1364c19-ad1b-8d48-bfc9-cb97e995027e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Female Formal Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "c83ecfa9-bb3e-b85a-ce32-2af6e90db0f9",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "f4abed1e-a90e-ddcb-de75-ef5aff86f775",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Formal Skin"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a4ad2e72-2fe3-6933-6415-0eda379f02e8",
+                                "material_instance": "632c0acb-e414-2dd0-c921-7d94ebb6b5e7"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "7722e897-0f6f-c6bd-e604-d36512aed850"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "b3031dea-f4dd-2aa3-4c15-b4d4b86facfa",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Formal Red 3"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e60b7624-b484-104e-c564-64d9507e8cce",
+                                "material_instance": "337934aa-8754-6ac8-b242-4574fa4ddaa3"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "306f2148-1e6b-2ce9-0e65-a08be88e94e9"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "adbf5dfe-f98d-91e1-046e-062124df08dc",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Formal Brown 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "156a26fd-c1d1-e190-c4bd-a3aae9140e4c",
+                                "material_instance": "185eec15-3a74-3d14-882c-d031c74bde40"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "316626ec-2bf1-5acf-33f4-ac5f95f3ddff"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "4049316a-2bae-1619-fe50-6039382f3de6",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Formal Green Lime"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "b26eccb1-e762-495b-8dcc-cd5eef0d0dd9",
+                                "material_instance": "1d6aec24-2631-2638-d70b-dca67bd6e737"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "0498e102-1a57-b0da-d2b5-4f453e8977fe"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "4104f477-d72c-bb67-594b-3072cdf6bdce",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Formal Gold 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "dce27088-d667-72f9-86a6-16580c467317",
+                                "material_instance": "efd77e32-5a19-6f7b-ae0a-982674eebe63"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "b8837c13-8843-afd5-f769-1b5476f6ec7a"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "b4ec400c-1778-16fc-0511-4e120780c5ba"
+    },
+    "dependencies": [
+        "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+        "a4ad2e72-2fe3-6933-6415-0eda379f02e8",
+        "7722e897-0f6f-c6bd-e604-d36512aed850",
+        "337934aa-8754-6ac8-b242-4574fa4ddaa3",
+        "e60b7624-b484-104e-c564-64d9507e8cce",
+        "306f2148-1e6b-2ce9-0e65-a08be88e94e9",
+        "185eec15-3a74-3d14-882c-d031c74bde40",
+        "156a26fd-c1d1-e190-c4bd-a3aae9140e4c",
+        "316626ec-2bf1-5acf-33f4-ac5f95f3ddff",
+        "1d6aec24-2631-2638-d70b-dca67bd6e737",
+        "b26eccb1-e762-495b-8dcc-cd5eef0d0dd9",
+        "0498e102-1a57-b0da-d2b5-4f453e8977fe",
+        "efd77e32-5a19-6f7b-ae0a-982674eebe63",
+        "dce27088-d667-72f9-86a6-16580c467317",
+        "b8837c13-8843-afd5-f769-1b5476f6ec7a",
+        "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+    ]
+}

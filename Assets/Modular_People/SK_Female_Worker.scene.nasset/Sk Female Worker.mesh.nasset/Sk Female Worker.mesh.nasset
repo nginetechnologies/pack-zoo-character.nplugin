@@ -1,0 +1,257 @@
+{
+    "guid": "fdb0cf31-58d3-a44c-a4be-3c5bcb819023",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "f42c2f5b-54c5-53a0-fa08-af90bbbd2dcd",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "c36cba19-3e4a-69c8-e3f6-2a58d68fa938",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sk Female Worker Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "d9a2e0b6-f5e4-3195-36f1-da65cc3f98b8",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d27fa158-497d-11a2-88ac-41b350e9af37",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Sk Female Worker Skin"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "220f8013-b0f8-f215-31e3-0a500565a04d",
+                                "material_instance": "632c0acb-e414-2dd0-c921-7d94ebb6b5e7"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "1a381a2a-2c79-c0eb-4bba-b148d1437821"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "2bad3688-a4fb-025b-cefc-f7b2ee29172e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Sk Female Worker Orange 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "1b152a50-beb9-b8ac-d1e1-d92376095dfc",
+                                "material_instance": "9009fbeb-e27e-170e-c01f-efc9a4155338"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "e86a0c54-5246-ae3d-ec61-5825d040e1c3"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "931ff442-6c92-19b5-ce77-5d17c8e2b7b0",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Sk Female Worker Yellow"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "85c02853-11a9-c0a7-1033-9f9e8fb69cad",
+                                "material_instance": "2217c2f6-5e67-1530-311e-5c09134c7b09"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "8f27905c-3af4-8a81-95fe-9fff5d597ba7"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "7fed44c3-aade-3a33-789f-65e4705b6f63",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Sk Female Worker White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f3e7226e-ab47-5e9e-f5b1-87c6cbe068c7",
+                                "material_instance": "1a6c2f5f-0ecc-81d6-6e36-7ff062673105"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "54a05088-c5d9-9c66-5d2b-b98323d2553a"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "cc4f2e71-4f01-2812-cc53-6f4bd3b0bd9e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Sk Female Worker Black 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "be9cdee0-3602-26eb-da78-82cf75b4e9d0",
+                                "material_instance": "6db63248-e34d-8c41-9f0f-565979c307ae"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "2bba6a0c-ee16-fd0b-9c98-beeb2c344de3"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "aa0e6fd4-9c67-815c-f69f-75f2d6f83b86",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Sk Female Worker Brown Dark 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "a3ca0d39-fbd3-7d61-25b5-c754f5e636a7",
+                                "material_instance": "c91fd22d-888f-84a7-81d6-38882a091b5e"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "288df22d-4f8a-8c57-5e5d-232da781b542"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "4eb2c7af-c839-01b1-1671-a81ae8b8fef2",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Sk Female Worker Brown 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d654d961-747a-353c-a3f8-7dbcb147b81c",
+                                "material_instance": "185eec15-3a74-3d14-882c-d031c74bde40"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "6d7175e3-25eb-e27f-2388-172987605176"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "4e04b9f6-8db4-fe8f-3f31-a056f278c8ac",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Sk Female Worker Brown 4"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "6e783882-e9db-804c-b3d5-638ce6671736",
+                                "material_instance": "2e39aba7-5921-7120-e1ab-32d0ab5b1275"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "f8cce55f-0e5c-bb9f-1c49-8d234d1730f2"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "fdb0cf31-58d3-a44c-a4be-3c5bcb819023"
+    },
+    "dependencies": [
+        "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+        "220f8013-b0f8-f215-31e3-0a500565a04d",
+        "1a381a2a-2c79-c0eb-4bba-b148d1437821",
+        "9009fbeb-e27e-170e-c01f-efc9a4155338",
+        "1b152a50-beb9-b8ac-d1e1-d92376095dfc",
+        "e86a0c54-5246-ae3d-ec61-5825d040e1c3",
+        "2217c2f6-5e67-1530-311e-5c09134c7b09",
+        "85c02853-11a9-c0a7-1033-9f9e8fb69cad",
+        "8f27905c-3af4-8a81-95fe-9fff5d597ba7",
+        "1a6c2f5f-0ecc-81d6-6e36-7ff062673105",
+        "f3e7226e-ab47-5e9e-f5b1-87c6cbe068c7",
+        "54a05088-c5d9-9c66-5d2b-b98323d2553a",
+        "6db63248-e34d-8c41-9f0f-565979c307ae",
+        "be9cdee0-3602-26eb-da78-82cf75b4e9d0",
+        "2bba6a0c-ee16-fd0b-9c98-beeb2c344de3",
+        "c91fd22d-888f-84a7-81d6-38882a091b5e",
+        "a3ca0d39-fbd3-7d61-25b5-c754f5e636a7",
+        "288df22d-4f8a-8c57-5e5d-232da781b542",
+        "185eec15-3a74-3d14-882c-d031c74bde40",
+        "d654d961-747a-353c-a3f8-7dbcb147b81c",
+        "6d7175e3-25eb-e27f-2388-172987605176",
+        "2e39aba7-5921-7120-e1ab-32d0ab5b1275",
+        "6e783882-e9db-804c-b3d5-638ce6671736",
+        "f8cce55f-0e5c-bb9f-1c49-8d234d1730f2",
+        "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+    ]
+}

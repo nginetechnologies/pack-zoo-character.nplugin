@@ -1,0 +1,231 @@
+{
+    "guid": "dc2b65ce-b286-c0fa-c32e-f564c8f70806",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "c793b83b-a4b1-0967-5161-6d3095abc0d4",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "b532eed1-946f-09bd-05a6-96c61fa8fe3d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Female Scifi Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "a1cb6fa5-704f-212e-d8b9-25458a40ee6b",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "fc9d393d-46bc-c26f-e987-15c1f4a05c8a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Scifi Black 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "82b8b8e6-14dd-3903-e700-60ed4a0197aa",
+                                "material_instance": "6db63248-e34d-8c41-9f0f-565979c307ae"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "9bfcfe38-5cbc-0c2a-21c2-b4a568e9bba9"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "0c1099ac-20bf-5c3b-ea16-017e345b7629",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Scifi Blue 4"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "94c0b36d-889c-d92d-7a47-cba363825d85",
+                                "material_instance": "df0bb0ea-e834-68e1-4e63-711c8bb9b382"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "463186f8-1949-e85d-2136-01d339ec8cd1"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "c1599deb-f22b-d981-722a-5a7e01671f2d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Scifi Skin"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "83e3844b-3927-2055-faeb-92c425dce6e1",
+                                "material_instance": "632c0acb-e414-2dd0-c921-7d94ebb6b5e7"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "f03dd37d-7d24-a42f-a45e-ed38da1fb419"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "4860673b-15bf-6c23-d87a-8ba4581e5d7d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Scifi Metal 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "8dd791d1-b388-b03f-3dbc-c3fd912909c4",
+                                "material_instance": "67fd4eea-9138-551d-bb3d-07d1c44dd5b9"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "3fbd86c1-4abc-2820-7665-3b1dda83468f"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "7663fa06-40aa-6e6d-5e70-22d89b0f0c60",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Scifi Blue 5"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "91421e6e-bece-130b-c4fa-a98239d31c65",
+                                "material_instance": "49664d30-ba43-c84d-aec2-9a022bce2acc"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "98d3961e-f9f0-da08-cdfa-26f423e63343"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "3f41d1fd-b427-6c2e-86e9-90e672a9b6c5",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Scifi Hair Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "96945335-6698-1cde-4b6e-5dd6d19b581c",
+                                "material_instance": "c75b2930-920c-7712-0d50-a0c1b8a835b6"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "c19ed863-ad65-3c2a-0b22-7cd00cc8de94"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "ffb7859e-18d5-530b-3696-e552d1e413d8",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Female Scifi Brown 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "b87b002a-5e7c-6f54-033c-fa82a96d4af1",
+                                "material_instance": "185eec15-3a74-3d14-882c-d031c74bde40"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "8c56b023-0680-ac56-8b1e-1370b4e606db"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "dc2b65ce-b286-c0fa-c32e-f564c8f70806"
+    },
+    "dependencies": [
+        "6db63248-e34d-8c41-9f0f-565979c307ae",
+        "82b8b8e6-14dd-3903-e700-60ed4a0197aa",
+        "9bfcfe38-5cbc-0c2a-21c2-b4a568e9bba9",
+        "df0bb0ea-e834-68e1-4e63-711c8bb9b382",
+        "94c0b36d-889c-d92d-7a47-cba363825d85",
+        "463186f8-1949-e85d-2136-01d339ec8cd1",
+        "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+        "83e3844b-3927-2055-faeb-92c425dce6e1",
+        "f03dd37d-7d24-a42f-a45e-ed38da1fb419",
+        "67fd4eea-9138-551d-bb3d-07d1c44dd5b9",
+        "8dd791d1-b388-b03f-3dbc-c3fd912909c4",
+        "3fbd86c1-4abc-2820-7665-3b1dda83468f",
+        "49664d30-ba43-c84d-aec2-9a022bce2acc",
+        "91421e6e-bece-130b-c4fa-a98239d31c65",
+        "98d3961e-f9f0-da08-cdfa-26f423e63343",
+        "c75b2930-920c-7712-0d50-a0c1b8a835b6",
+        "96945335-6698-1cde-4b6e-5dd6d19b581c",
+        "c19ed863-ad65-3c2a-0b22-7cd00cc8de94",
+        "185eec15-3a74-3d14-882c-d031c74bde40",
+        "b87b002a-5e7c-6f54-033c-fa82a96d4af1",
+        "8c56b023-0680-ac56-8b1e-1370b4e606db",
+        "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "source": "A_Modular_Male_Run_Right.fbx",
+    "skeleton": "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "61585b28-faf2-46e0-aa21-87d7b974fb01"
+        }
+    ],
+    "guid": "61585b28-faf2-46e0-aa21-87d7b974fb01",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+}

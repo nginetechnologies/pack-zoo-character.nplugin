@@ -1,0 +1,34 @@
+{
+    "guid": "9fa7b1cb-284c-0548-be30-bf2d5007f89d",
+    "source": "../SK_Female_Scifi.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "e0001fdc-7791-cc0d-4479-021295350e8c",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Female Scifi"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "310a45f8-55c7-dc33-7ad6-4c04e65c77b2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Female Scifi"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "dc2b65ce-b286-c0fa-c32e-f564c8f70806"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "9fa7b1cb-284c-0548-be30-bf2d5007f89d"
+    },
+    "dependencies": [
+        "dc2b65ce-b286-c0fa-c32e-f564c8f70806"
+    ]
+}
