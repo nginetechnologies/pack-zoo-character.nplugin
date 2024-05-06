@@ -18,11 +18,11 @@
         {
             "typeGuid": "183DEA3D-534F-47EA-B025-03FDAC1D17E9",
             "10bc2a29-2131-447a-8a66-43742c106bdf": {
-                "jumpHeight": 2.0,
-                "walkingSpeed": 5.0,
-                "runningSpeed": 10.0,
-                "walkingTurnSpeed": 3.0,
-                "runningTurnSpeed": 6.0
+                "jumpHeight": 0.4,
+                "walkingSpeed": 1.5,
+                "runningSpeed": 3.5,
+                "walkingTurnSpeed": 1.0,
+                "runningTurnSpeed": 2.0
             },
             "data_components": [
                 {
@@ -51,20 +51,20 @@
                     "typeGuid": "b0ec7111-5de9-4039-bee2-d915f63f929e",
                     "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                         "position": [
-                            0,
+                            0.2,
                             -3,
-                            1
+                            1.5
                         ],
                         "rotation": [
-                            -20.0,
+                            5.0,
                             0.0,
                             0.0
                         ]
                     },
                     "b0ec7111-5de9-4039-bee2-d915f63f929e": {
-                        "fieldOfView": 60.0,
-                        "nearPlane": 0.05,
-                        "farPlane": 128.0
+                        "fieldOfView": 75.0,
+                        "nearPlane": 0.1,
+                        "farPlane": 256.0
                     },
                     "data_components": [
                         {
