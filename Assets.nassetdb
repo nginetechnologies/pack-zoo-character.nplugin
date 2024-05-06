@@ -78,7 +78,7 @@
         "path": "Assets/Modular_People/SK_Male_Worker.scene.nasset/SK Male Worker.mesh.nasset/SK Male Worker Skin.meshskin.nasset",
         "dependencies": [
             "283b42f1-27c6-1e9f-d04a-c031f6bcb206",
-            "dc8d3b5c-d1cd-af8c-aad9-40cfae9fa8fd",
+            "e50d9802-3700-7660-59e9-b40273a5c799",
             "632c0acb-e414-2dd0-c921-7d94ebb6b5e7"
         ]
     },
@@ -115,7 +115,7 @@
     "0125e076-f3ad-423e-9b33-1efc14b34415": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/Animations/Modular People Wave.anim.nasset"
+        "path": "Assets/Modular_People/Animations/Male/Modular Male Wave.anim.nasset"
     },
     "01277167-1de5-bd5d-5b10-8d08a4e973c7": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -123,7 +123,7 @@
         "path": "Assets/Modular_People/SK_Male_Swat.scene.nasset/SK Male Swat.mesh.nasset/SK Male Swat Black 1.meshskin.nasset",
         "dependencies": [
             "e15b8427-fa5d-ebbe-9cba-fbc98c43ce9c",
-            "fb2054cb-484f-0562-5886-f79bc8c261ea",
+            "09452fcb-5ce0-5c76-2164-5668a78bdce4",
             "2cb2bcae-4c72-7889-facb-7b4cb09a487d"
         ]
     },
@@ -305,6 +305,11 @@
             "c79e69df-dfc9-4ea0-5820-d42928f5aeec"
         ]
     },
+    "02afb191-8480-426d-8db2-c064a13d8009": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Modular_People/Animations/Female/Modular Female Gun Shoot.anim.nasset"
+    },
     "02b004b2-970f-652e-8de3-d21b2cff663a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -315,6 +320,19 @@
         "dependencies": [
             "44801e67-2ba8-423b-d857-eab35579e57f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "02e1c3ef-5d3a-4291-a617-9048f3ebd8ca": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/Player_Scripts/Male/Male Spacesuit.scene.nasset",
+        "thumbnail": "85cf3bc2-d7b0-4056-8f2e-0bcd74d4848e",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "204da3c8-9795-2692-c609-4fce30a65092"
         ]
     },
     "02e34007-17a5-41dc-b6a3-6b7d660c9b87": {
@@ -470,11 +488,6 @@
             "b8bf7aa5-05e6-b5e1-8022-e3d399ea6786"
         ]
     },
-    "03fa5f4f-0f50-3d10-8a03-cbec98148add": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Skeleton/Animations/Skeleton Attack.anim.nasset"
-    },
     "0405ebc9-f180-0c9c-9e77-893268235763": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -486,6 +499,11 @@
             "3858271c-9362-0f4b-e21a-d2b8a07ba385",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "040dba0f-aea3-452d-b191-1ee3842aeebc": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Modular_People/Animations/Female/Modular Female Death.anim.nasset"
     },
     "0413f7ef-086a-c57b-fd2b-f3d2b9fbec46": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -762,7 +780,7 @@
         "path": "Assets/Modular_People/SK_Male_Farmer.scene.nasset/SK Male Farmer.mesh.nasset/SK Male Farmer Blue 3.meshskin.nasset",
         "dependencies": [
             "aae83b53-bb02-0b2a-14c7-9a9ad310810b",
-            "c204175f-b65e-c7fd-af79-01fcbdf8d900",
+            "836709f0-0ac6-f396-10d3-dd7bd03959b6",
             "3cf8c593-fc4f-ba15-8500-b5d6d735d5e9"
         ]
     },
@@ -835,7 +853,7 @@
         "path": "Assets/Modular_People/SK_Male_Casual.scene.nasset/SK Male Casual.mesh.nasset/SK Male Casual Red 1.meshskin.nasset",
         "dependencies": [
             "129fd7c8-6d65-ac20-ea95-a6b4325ea71b",
-            "0bcfa9ac-ad71-fcf0-5227-fe576da467ac",
+            "d50bdef0-e5eb-3460-f0b7-31c6a71922e8",
             "ab021971-5963-7b4d-6cf3-cdd88b9b0199"
         ]
     },
@@ -920,7 +938,7 @@
     "07775834-d201-47e4-97c6-6508e5dc7c01": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/Animations/Modular People Death.anim.nasset"
+        "path": "Assets/Modular_People/Animations/Male/Modular Male Death.anim.nasset"
     },
     "077c332d-4a2f-9b73-6da6-bfa59630ed8a": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -940,6 +958,11 @@
     "07ecb6a9-b9e8-46a2-9e36-57d3234f0d7b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/2D_Platformer/Abstract/Thumbnails/Abstract_Blue.scene.nasset.tex.nasset"
+    },
+    "0803bdf0-4cb4-48df-80cb-764e8e3461e4": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Modular_People/Animations/Female/Modular Female Idle Gun.anim.nasset"
     },
     "0818d335-3c25-b625-07ce-643ed12ff9c8": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -988,16 +1011,6 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Zebra/Animations/Zebra_Jump_Start.anim.nasset"
-    },
-    "08fa84dc-f2f7-564f-eb5b-b89bae41e4b6": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Modular_People/SK_Female_Adventurer.scene.nasset/Sk Female Worker.mesh.nasset/Sk Female Worker Brown Dark 2.meshskin.nasset",
-        "dependencies": [
-            "c3852439-4b4c-0dc1-5a38-0d85106f0ba7",
-            "1ff0dcbc-05cd-ded0-25b1-dbefc6d6f9e7",
-            "c91fd22d-888f-84a7-81d6-38882a091b5e"
-        ]
     },
     "090f8309-c595-4def-b5a0-3301113c7ee6": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -1231,6 +1244,16 @@
             "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480"
         ]
     },
+    "0b7f0a85-ca83-aa07-af35-e989f716114a": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Modular_People/SK_Male_Suit.scene.nasset/SK Male Suit.mesh.nasset/SK Male Suit White.meshskin.nasset",
+        "dependencies": [
+            "c8949d18-193b-8ac4-0e42-d7d519573ff1",
+            "3a8e96cf-7d35-0c28-918e-26fb121681da",
+            "1a6c2f5f-0ecc-81d6-6e36-7ff062673105"
+        ]
+    },
     "0b7f492a-cfd8-4d93-bbcd-b47f593e661a": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1262,11 +1285,6 @@
         "dependencies": [
             "dedcec34-5137-2919-2694-c972acd094b6"
         ]
-    },
-    "0bcfa9ac-ad71-fcf0-5227-fe576da467ac": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/SK_Male_Casual.scene.nasset/SK Male Casual.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "0bd28cbe-f001-763a-66df-0c19cf228ce9": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1327,6 +1345,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Sushime/Textures/T_Sushime_D.tex.nasset"
     },
+    "0c3f59f2-a26b-477b-9222-58b8b5d21912": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_People/Thumbnails/Female/Female_Medieval.scene.nasset.tex.nasset"
+    },
     "0c86023b-da7a-45ac-ad62-09740b9a468b": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1363,7 +1385,7 @@
         "path": "Assets/Modular_People/SK_Male_Hoodie.scene.nasset/SK Male Hoodie.mesh.nasset/SK Male Hoodie Skin.meshskin.nasset",
         "dependencies": [
             "bbfa6b8f-9424-81e2-3e13-75060e4d682c",
-            "713a7878-d8de-f17d-41a2-8bb0a9cefd34",
+            "9871ea97-f82f-0754-1566-b9c944ef31ad",
             "632c0acb-e414-2dd0-c921-7d94ebb6b5e7"
         ]
     },
@@ -1417,7 +1439,7 @@
         "path": "Assets/Modular_People/SK_Male_Punk.scene.nasset/SK Male Punk.mesh.nasset/SK Male Punk Hair Brown.meshskin.nasset",
         "dependencies": [
             "327312a1-5784-cc28-4acb-2c582720b839",
-            "0fbd572b-9544-e26e-970a-b2f0f9ae7056",
+            "68e6f7b4-fe78-2406-5081-86f20697af49",
             "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78"
         ]
     },
@@ -1564,11 +1586,6 @@
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
         ]
     },
-    "0e7827e5-ab46-ba1f-f37d-b7348cb54163": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Death.anim.nasset"
-    },
     "0e8ceb95-5244-43e4-8f53-204b14ad044c": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1658,7 +1675,7 @@
     "0f987f90-f400-44be-be2c-121c78598ffc": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/Animations/Modular People Idle Sword.anim.nasset"
+        "path": "Assets/Modular_People/Animations/Male/Modular Male Idle Sword.anim.nasset"
     },
     "0f9d3fa4-c327-481f-bd9c-b3a79d4fadca": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -1672,11 +1689,6 @@
         "dependencies": [
             "54026ee9-c279-9f4c-d4f3-dcbde89a4a5f"
         ]
-    },
-    "0fbd572b-9544-e26e-970a-b2f0f9ae7056": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/SK_Male_Punk.scene.nasset/SK Male Punk.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "0fc40ed9-778f-5367-e55b-39c2bd5fb264": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1744,7 +1756,7 @@
         "path": "Assets/Modular_People/SK_Male_Worker.scene.nasset/SK Male Worker.mesh.nasset/SK Male Worker Black 1.meshskin.nasset",
         "dependencies": [
             "7b0b634d-cb44-c507-84b2-f98cd60b829a",
-            "dc8d3b5c-d1cd-af8c-aad9-40cfae9fa8fd",
+            "e50d9802-3700-7660-59e9-b40273a5c799",
             "2cb2bcae-4c72-7889-facb-7b4cb09a487d"
         ]
     },
@@ -1957,18 +1969,6 @@
             "c30ea0a8-f648-4492-e746-bfb0fd879c09"
         ]
     },
-    "12a40edb-523b-ea26-fab8-c102ea0fcef5": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Modular_People/SK_Female_Adventurer.scene.nasset/Sk Female Worker.mesh.nasset/Sk Female Worker Brown 2.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "185eec15-3a74-3d14-882c-d031c74bde40",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "12b09a0a-bb89-9616-b6e2-04adc6f5dca6": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -1995,7 +1995,7 @@
         "path": "Assets/Modular_People/SK_Male_Swat.scene.nasset/SK Male Swat.mesh.nasset/SK Male Swat Black 2.meshskin.nasset",
         "dependencies": [
             "ef4ad7ca-7a2b-c17d-5c33-118c7b3b195f",
-            "fb2054cb-484f-0562-5886-f79bc8c261ea",
+            "09452fcb-5ce0-5c76-2164-5668a78bdce4",
             "6db63248-e34d-8c41-9f0f-565979c307ae"
         ]
     },
@@ -2185,7 +2185,11 @@
     },
     "144447b1-000e-97ab-489c-f97f87d83bf9": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Modular_People/SK_Female_Medieval.scene.nasset/SK_Female_Medieval.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/SK_Female_Medieval.scene.nasset/SK_Female_Medieval.scene.nasset",
+        "dependencies": [
+            "5841fd6f-a735-3dbb-9d43-e35bc8b3ca44"
+        ]
     },
     "146d2fa6-c64c-0ef4-7aec-7a0aeb6d4676": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -2193,7 +2197,7 @@
         "path": "Assets/Modular_People/SK_Male_Suit.scene.nasset/SK Male Suit.mesh.nasset/SK Male Suit Skin.meshskin.nasset",
         "dependencies": [
             "061f8b80-c532-b86f-032a-870d6aa206a8",
-            "8b861f68-cefd-d203-eef3-ad753741604e",
+            "3a8e96cf-7d35-0c28-918e-26fb121681da",
             "632c0acb-e414-2dd0-c921-7d94ebb6b5e7"
         ]
     },
@@ -2273,6 +2277,11 @@
             "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
         ]
     },
+    "1495466c-e3ef-7af7-f5ac-3b8b89541a09": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Skeleton/Animations/Skeleton Attack.anim.nasset"
+    },
     "1499a091-040e-42b3-9935-fb480e71eb11": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/2D_Platformer/Abstract/Thumbnails/Abstract_Red.scene.nasset.tex.nasset"
@@ -2333,7 +2342,11 @@
     },
     "15226ef4-4314-b122-6d6c-535e23830c19": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Modular_People/SK_Male_Punk.scene.nasset/SK_Male_Punk.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/SK_Male_Punk.scene.nasset/SK_Male_Punk.scene.nasset",
+        "dependencies": [
+            "d64cc065-7b2d-6e8c-31e2-9045d9e4c275"
+        ]
     },
     "152dc43f-fd84-bdf5-fe8e-1ed1ad386538": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -2360,11 +2373,6 @@
         "dependencies": [
             "073a5db1-d2aa-e36f-2a73-7f863363c977"
         ]
-    },
-    "153d7ac1-35de-dcec-75ad-fc64716aa89d": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/SK_Male_King.scene.nasset/SK Male King.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "154a229b-7007-c1cf-31a3-6ef2e276e53e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2766,7 +2774,11 @@
     },
     "18c482e9-dffe-a9d6-7738-cb1a34653a7f": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Modular_People/SK_Female_Soldier.scene.nasset/SK_Female_Soldier.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/SK_Female_Soldier.scene.nasset/SK_Female_Soldier.scene.nasset",
+        "dependencies": [
+            "fc7124fe-ad81-b09e-448d-96513f0097d5"
+        ]
     },
     "18c8cd13-f1f6-4f17-a99c-03503d4ef31b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2827,9 +2839,31 @@
     },
     "196b0e8a-3e87-9622-7e0d-7da3754f6aa4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Modular_People/SK_Female_Punk.scene.nasset/SK Female Punk.mesh.nasset/SK Female Punk.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+            "76a94aaf-c147-ba8b-a4fa-c57ef41f08c0",
+            "c27d96f4-d3ab-9312-c13f-a03afff31da6",
+            "24ce9ad5-cc42-442b-d8fd-f834f53629d8",
+            "b14e3f2f-c87c-ad02-9243-dcbcb2c026bc",
+            "51f38df3-3a49-540e-6bf1-2dd9c749f9e0",
+            "6db63248-e34d-8c41-9f0f-565979c307ae",
+            "c72c8472-0491-30e1-01e4-e5eed8fd3232",
+            "c16ec702-fcd5-35a0-2825-b36cfc7c90a3",
+            "e45002be-5287-10ca-9d5f-13df690b6f34",
+            "603eb16f-b567-6129-6ad7-f851df4540c1",
+            "d9645ce0-5036-36ac-c70a-803e6ffbebb0",
+            "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78",
+            "cac9b4ea-429b-cd5b-0475-e74aac60fd42",
+            "a71796f7-e082-500f-c219-6dd5f5e7e88b",
+            "185eec15-3a74-3d14-882c-d031c74bde40",
+            "7300fbb6-80e0-597a-1320-5508957597a7",
+            "aecda9a7-db32-6113-e1a0-91d0e01d5e6d",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
         ]
     },
     "19a577ba-976d-eeb6-0b69-975502413c96": {
@@ -2908,7 +2942,7 @@
         "path": "Assets/Modular_People/SK_Male_Casual.scene.nasset/SK Male Casual.mesh.nasset/SK Male Casual Brown 2.meshskin.nasset",
         "dependencies": [
             "ad94f43f-7b49-5df3-9585-ca402003b434",
-            "0bcfa9ac-ad71-fcf0-5227-fe576da467ac",
+            "d50bdef0-e5eb-3460-f0b7-31c6a71922e8",
             "185eec15-3a74-3d14-882c-d031c74bde40"
         ]
     },
@@ -3144,14 +3178,14 @@
         "path": "Assets/Modular_People/SK_Male_Casual.scene.nasset/SK Male Casual.mesh.nasset/SK Male Casual Skin Darker.meshskin.nasset",
         "dependencies": [
             "4144340c-71e3-2327-c160-1979d01d5676",
-            "0bcfa9ac-ad71-fcf0-5227-fe576da467ac",
+            "d50bdef0-e5eb-3460-f0b7-31c6a71922e8",
             "8d9f5af2-9fc6-23cb-2d01-c10dab9911de"
         ]
     },
     "1cb10f5d-023d-45ad-b51f-9db8253cff05": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/Animations/Modular People Kick Left.anim.nasset"
+        "path": "Assets/Modular_People/Animations/Male/Modular Male Kick Left.anim.nasset"
     },
     "1cd13c19-7a70-b5ff-0af3-b8cb9bea517c": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -3173,7 +3207,7 @@
         "path": "Assets/Modular_People/SK_Male_Swat.scene.nasset/SK Male Swat.mesh.nasset/SK Male Swat Swat.meshskin.nasset",
         "dependencies": [
             "5b52944c-5527-1e77-6907-9e9c6277ffe6",
-            "fb2054cb-484f-0562-5886-f79bc8c261ea",
+            "09452fcb-5ce0-5c76-2164-5668a78bdce4",
             "57858c03-24f2-158c-a480-183844c3a648"
         ]
     },
@@ -3341,7 +3375,7 @@
         "path": "Assets/Modular_People/SK_Male_Beach.scene.nasset/SK Male Beach.mesh.nasset/SK Male Beach Brown 2.meshskin.nasset",
         "dependencies": [
             "6a7fd32a-33be-219d-15cc-d76652dac122",
-            "9bb0dabb-b21d-5795-f5e1-8a87cd12eec7",
+            "d58ec2a3-fc8f-fe84-3755-ff0e88749653",
             "185eec15-3a74-3d14-882c-d031c74bde40"
         ]
     },
@@ -3404,6 +3438,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/2D_Platformer/Shapeways/Thumbnails/Shape_Blue.scene.nasset.tex.nasset"
     },
+    "1f60b351-a176-4b2d-a97d-1c08abaac916": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Modular_People/Animations/Female/Modular Female Punch Right.anim.nasset"
+    },
     "1f7afd8c-75e7-ccc0-e6d2-837367d69bb7": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -3413,11 +3452,6 @@
             "cbc2293a-c998-361e-74cf-3b37a3f0254f",
             "0c16198b-5391-5fb3-c9dd-519fa7ceae81"
         ]
-    },
-    "1ff0dcbc-05cd-ded0-25b1-dbefc6d6f9e7": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/SK_Female_Adventurer.scene.nasset/Sk Female Worker.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "202013cd-6eed-43d8-8ca4-555b393fb9e9": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -3444,9 +3478,31 @@
     },
     "204da3c8-9795-2692-c609-4fce30a65092": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Modular_People/SK_Male_Spacesuit.scene.nasset/SK Male Spacesuit.mesh.nasset/SK Male Spacesuit.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "9009fbeb-e27e-170e-c01f-efc9a4155338",
+            "3868867c-e34a-b45c-63d1-5d9f744ed37c",
+            "2bc58583-eb2c-8699-0a96-c21a5292b541",
+            "55e4c33f-23a4-02d6-5278-397f3b0af1f9",
+            "193cc345-e37c-dfc7-0626-5a80d53ce087",
+            "f55dceee-091a-3578-f76c-f08e10618eb1",
+            "459b2d0c-e380-100b-5a6b-098d3d43f6fb",
+            "c3c9be73-6cfb-072f-1c8a-fd8fb0f2e2c2",
+            "ee6687db-a2e1-ea27-495f-adb472d96287",
+            "90bbc7cc-6c7c-410f-9438-cbb81ee3586f",
+            "6acc9132-d9cd-cbd7-9589-f5a5bef4c8ea",
+            "45b2e4cd-1e4f-e128-5f3a-5828d7ec05af",
+            "e45002be-5287-10ca-9d5f-13df690b6f34",
+            "8da4be7a-7d44-a812-c687-b01ee74654c7",
+            "2b716000-61a5-282d-a116-791000221f02",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+            "9af5261f-d4dd-2a23-45df-8069f39da8a9",
+            "7ab66458-5f6c-859e-4977-7e4194de10ff",
+            "b1121b20-cb78-98d1-7406-4b7ed553603f"
         ]
     },
     "2066ff3a-9cbe-7d22-365d-bfe5d6207fe2": {
@@ -3570,6 +3626,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "210fd4be-5d25-4612-a6e1-7d12dbd52d43": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Modular_People/Animations/Female/Modular Female Roll.anim.nasset"
+    },
     "213f1021-0d45-9a8c-f7d0-06d9913d3ec1": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -3583,7 +3644,7 @@
     "21919f22-489e-43c7-8991-6d246611d3de": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/Animations/Modular People Gun Shoot.anim.nasset"
+        "path": "Assets/Modular_People/Animations/Male/Modular Male Gun Shoot.anim.nasset"
     },
     "21bd59e6-dd08-53b9-f777-f36c60c87499": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3647,7 +3708,7 @@
         "path": "Assets/Modular_People/SK_Male_Suit.scene.nasset/SK Male Suit.mesh.nasset/SK Male Suit Hair Brown.meshskin.nasset",
         "dependencies": [
             "b89ad926-06a0-66a9-37de-9f7b9a4e4c34",
-            "8b861f68-cefd-d203-eef3-ad753741604e",
+            "3a8e96cf-7d35-0c28-918e-26fb121681da",
             "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78"
         ]
     },
@@ -3738,6 +3799,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Material Instances/Thumbnails/Brain.mtli.nasset.tex.nasset"
     },
+    "22982399-3dc9-48b0-9f6d-6bfd3551ad75": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_People/Thumbnails/Female/Female_Formal.scene.nasset.tex.nasset"
+    },
     "22a1a375-592a-4c6e-8832-182d112c4a8d": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -3750,6 +3815,16 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Heist/_Weapons/Target/SK_Target.scene.nasset/SK Target.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "22e749d5-cdee-0f4e-f11a-2cd33e80dc16": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Modular_People/SK_Male_Punk.scene.nasset/SK Male Punk.mesh.nasset/SK Male Punk White.meshskin.nasset",
+        "dependencies": [
+            "252591ad-0c19-563f-2836-a3337a737a76",
+            "68e6f7b4-fe78-2406-5081-86f20697af49",
+            "1a6c2f5f-0ecc-81d6-6e36-7ff062673105"
+        ]
     },
     "2303a38a-b655-4a23-b3eb-cfb0f737cc6f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3795,9 +3870,31 @@
     },
     "23ab431e-2279-7005-9b33-d15f8005cd6a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Modular_People/SK_Female_Suit.scene.nasset/SK Female Suit.mesh.nasset/SK Female Suit.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "6db63248-e34d-8c41-9f0f-565979c307ae",
+            "d5348ca1-e0f4-ff7c-43c4-8fe0ffeaf7a8",
+            "73117cdf-e082-97ff-cacc-8e033ad3dbca",
+            "1a6c2f5f-0ecc-81d6-6e36-7ff062673105",
+            "8f53b938-c410-9c5c-124d-cb373476380e",
+            "8e22c7b6-8cd0-9417-c7f3-5e87cb438ab5",
+            "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+            "b2181913-2b04-a6ef-b308-8cf059d9e075",
+            "448ca3ac-4c18-a668-44d4-4836cd22a835",
+            "aa113881-89c6-5610-6c13-7c7f25e41977",
+            "23edcdd2-a94a-0646-cd7a-5fc97ff4d371",
+            "fb51ebb6-6c7b-8419-923d-60510cd2f5b9",
+            "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78",
+            "024d0220-70ba-f4ce-e6cf-ca806e091855",
+            "4a5a266e-4917-66cc-187e-c49d2a4cf0c9",
+            "185eec15-3a74-3d14-882c-d031c74bde40",
+            "73ef1cb7-c5a6-1e43-2459-cd77dda944e4",
+            "f16e6b04-54ad-1336-4312-b3278a7f0cdb",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
         ]
     },
     "23ace2be-f579-448a-9228-4ea4c6484578": {
@@ -3861,7 +3958,7 @@
         "path": "Assets/Modular_People/SK_Male_Beach.scene.nasset/SK Male Beach.mesh.nasset/SK Male Beach Brown Light 2.meshskin.nasset",
         "dependencies": [
             "97d231f8-6226-9897-7d0f-65c1572c6055",
-            "9bb0dabb-b21d-5795-f5e1-8a87cd12eec7",
+            "d58ec2a3-fc8f-fe84-3755-ff0e88749653",
             "373d32ae-df40-153b-164d-b5e187f9bce8"
         ]
     },
@@ -3925,6 +4022,19 @@
             "0b3d2f7d-cbd7-ef1d-4202-5bc8ec33572f"
         ]
     },
+    "2481fcfa-f364-428a-a3bb-0e91d4b1fbfc": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/Player_Scripts/Male/Male Farmer.scene.nasset",
+        "thumbnail": "b0d1356e-5031-4009-8c09-e33a71fe0af4",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "99fc5012-63ad-ff2c-46ca-264536ad3afb"
+        ]
+    },
     "24afcbb5-a574-069e-49de-ea766f508ed8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3954,7 +4064,7 @@
     "24c57018-b174-4c59-a010-13d17918bf28": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/Animations/Modular People Idle Gun Pointing.anim.nasset"
+        "path": "Assets/Modular_People/Animations/Male/Modular Male Idle Gun Pointing.anim.nasset"
     },
     "24ce9ad5-cc42-442b-d8fd-f834f53629d8": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -3993,6 +4103,18 @@
         "path": "Assets/Dinosaurs/Stegosaurus/Animations/Stegosaurus_Jump_End.anim.nasset",
         "dependencies": [
             "3d65b732-ebfc-12da-ec51-362e7a40c166"
+        ]
+    },
+    "252591ad-0c19-563f-2836-a3337a737a76": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Punk.scene.nasset/SK Male Punk.mesh.nasset/SK Male Punk White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "1a6c2f5f-0ecc-81d6-6e36-7ff062673105",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "253ec746-a4a7-0da8-cd4b-134cc7f074f4": {
@@ -4182,7 +4304,7 @@
         "path": "Assets/Modular_People/SK_Male_Suit.scene.nasset/SK Male Suit.mesh.nasset/SK Male Suit Black 1.meshskin.nasset",
         "dependencies": [
             "26e03584-60e8-4431-bc7d-ec03d6b652cc",
-            "8b861f68-cefd-d203-eef3-ad753741604e",
+            "3a8e96cf-7d35-0c28-918e-26fb121681da",
             "2cb2bcae-4c72-7889-facb-7b4cb09a487d"
         ]
     },
@@ -4303,7 +4425,7 @@
         "path": "Assets/Modular_People/SK_Male_Casual.scene.nasset/SK Male Casual.mesh.nasset/SK Male Casual Skin.meshskin.nasset",
         "dependencies": [
             "33bf690e-095e-b113-bef7-42983f5aa6cd",
-            "0bcfa9ac-ad71-fcf0-5227-fe576da467ac",
+            "d50bdef0-e5eb-3460-f0b7-31c6a71922e8",
             "632c0acb-e414-2dd0-c921-7d94ebb6b5e7"
         ]
     },
@@ -4370,6 +4492,19 @@
     "280153b2-78f6-6438-8537-7d5dd505186d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_People/Material Instances/Thumbnails/White 1.mtli.nasset.tex.nasset"
+    },
+    "282760d4-e449-493e-a222-00e6ed869735": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/Player_Scripts/Male/Male Hoodie.scene.nasset",
+        "thumbnail": "18c8cd13-f1f6-4f17-a99c-03503d4ef31b",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "69043c1c-8d35-6635-5cbe-63e2f3a2151b"
+        ]
     },
     "283b42f1-27c6-1e9f-d04a-c031f6bcb206": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -4530,7 +4665,23 @@
     "2a6858aa-af24-4163-81f9-317d19e8a809": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/Animations/Modular People Walk.anim.nasset"
+        "path": "Assets/Modular_People/Animations/Male/Modular Male Walk.anim.nasset",
+        "dependencies": [
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+        ]
+    },
+    "2a78a11e-b3e1-45d0-bde6-d2e4fade18d9": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/Player_Scripts/Female/Female Scifi.scene.nasset",
+        "thumbnail": "f8aceed8-2f5c-41cd-bba8-c476817fc60a",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "dc2b65ce-b286-c0fa-c32e-f564c8f70806"
+        ]
     },
     "2a9a89ac-5f52-6875-519d-8c367db6e877": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -4674,7 +4825,7 @@
         "path": "Assets/Modular_People/SK_Male_Spacesuit.scene.nasset/SK Male Spacesuit.mesh.nasset/SK Male Spacesuit Grey 1.meshskin.nasset",
         "dependencies": [
             "8da4be7a-7d44-a812-c687-b01ee74654c7",
-            "6ad9bf11-f3dc-afd8-01a8-37f4e7ab7582",
+            "67bb80b1-8def-ddb0-2142-be2d225622b9",
             "e45002be-5287-10ca-9d5f-13df690b6f34"
         ]
     },
@@ -4721,7 +4872,7 @@
         "path": "Assets/Modular_People/SK_Male_Beach.scene.nasset/SK Male Beach.mesh.nasset/SK Male Beach Red 1.meshskin.nasset",
         "dependencies": [
             "9f425deb-8f4d-5fab-f689-fa1947a88501",
-            "9bb0dabb-b21d-5795-f5e1-8a87cd12eec7",
+            "d58ec2a3-fc8f-fe84-3755-ff0e88749653",
             "ab021971-5963-7b4d-6cf3-cdd88b9b0199"
         ]
     },
@@ -5033,6 +5184,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "2f6185e4-293c-ba5b-7bde-a2bf10725261": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Casual.scene.nasset/SK Male Casual.mesh.nasset/SK Male Casual White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "1a6c2f5f-0ecc-81d6-6e36-7ff062673105",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "2f7156af-e32f-01e2-8153-966661a89715": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -5217,6 +5380,16 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "3115c92f-3e0c-dd92-ad99-223a48334575": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Modular_People/SK_Male_Hoodie.scene.nasset/SK Male Hoodie.mesh.nasset/SK Male Hoodie White.meshskin.nasset",
+        "dependencies": [
+            "dcab6d33-f560-5d72-d0fc-af5a68bb9894",
+            "9871ea97-f82f-0754-1566-b9c944ef31ad",
+            "1a6c2f5f-0ecc-81d6-6e36-7ff062673105"
+        ]
+    },
     "312e615b-8342-2e44-34d0-2abc019a63ad": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -5237,7 +5410,7 @@
         "path": "Assets/Modular_People/SK_Male_Swat.scene.nasset/SK Male Swat.mesh.nasset/SK Male Swat Skin.meshskin.nasset",
         "dependencies": [
             "a882ec51-8bfa-de6b-339a-743c030262c5",
-            "fb2054cb-484f-0562-5886-f79bc8c261ea",
+            "09452fcb-5ce0-5c76-2164-5668a78bdce4",
             "632c0acb-e414-2dd0-c921-7d94ebb6b5e7"
         ]
     },
@@ -5285,7 +5458,7 @@
         "path": "Assets/Modular_People/SK_Male_Casual.scene.nasset/SK Male Casual.mesh.nasset/SK Male Casual Hair Red.meshskin.nasset",
         "dependencies": [
             "1f396a7e-4da7-feca-b08d-805d2636cb8f",
-            "0bcfa9ac-ad71-fcf0-5227-fe576da467ac",
+            "d50bdef0-e5eb-3460-f0b7-31c6a71922e8",
             "d1a5ada9-30a1-e546-7928-e5bcdd07b39f"
         ]
     },
@@ -5994,18 +6167,6 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Snake/SK_Snake.scene.nasset/SK Snake.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
-    "37d83e9c-9160-1091-ad97-c87cb48e4950": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Modular_People/SK_Female_Adventurer.scene.nasset/Sk Female Worker.mesh.nasset/Sk Female Worker White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "1a6c2f5f-0ecc-81d6-6e36-7ff062673105",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "37d8a0c0-af8d-9040-eb06-494b12ca6ca0": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Modular_Toon/Material Instances/Pants 6.mtli.nasset",
@@ -6159,7 +6320,7 @@
         "path": "Assets/Modular_People/SK_Male_Hoodie.scene.nasset/SK Male Hoodie.mesh.nasset/SK Male Hoodie Purple 1.meshskin.nasset",
         "dependencies": [
             "3518b52d-bb9e-6a96-8ff4-10a5aaf08db9",
-            "713a7878-d8de-f17d-41a2-8bb0a9cefd34",
+            "9871ea97-f82f-0754-1566-b9c944ef31ad",
             "454b2bee-13ae-6f2c-4171-acea894e02d5"
         ]
     },
@@ -6184,11 +6345,6 @@
             "bdb4f982-68c7-2f52-bdfb-4dbcb949987d",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "397b9a4b-cf01-94e3-3178-cdd9164b4f55": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Skeleton/Animations/Skeleton Running.anim.nasset"
     },
     "39dfc81f-b468-4259-ba05-f1a5f2c0cac5": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -6442,7 +6598,11 @@
     },
     "3c5c85a0-8aeb-4f76-c821-c99138749306": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Modular_People/SK_Female_Punk.scene.nasset/SK_Female_Punk.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/SK_Female_Punk.scene.nasset/SK_Female_Punk.scene.nasset",
+        "dependencies": [
+            "196b0e8a-3e87-9622-7e0d-7da3754f6aa4"
+        ]
     },
     "3c5fab96-dc78-a7a5-afb2-8915a211b609": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -6546,7 +6706,7 @@
         "path": "Assets/Modular_People/SK_Male_Punk.scene.nasset/SK Male Punk.mesh.nasset/SK Male Punk Gold 2.meshskin.nasset",
         "dependencies": [
             "7f6fd1aa-584d-3144-541c-91a0f17d71f2",
-            "0fbd572b-9544-e26e-970a-b2f0f9ae7056",
+            "68e6f7b4-fe78-2406-5081-86f20697af49",
             "efd77e32-5a19-6f7b-ae0a-982674eebe63"
         ]
     },
@@ -6603,18 +6763,6 @@
         ],
         "dependencies": [
             "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "3e05acc9-b551-edd2-70dd-626a272b312e": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Modular_People/SK_Female_Adventurer.scene.nasset/Sk Female Worker.mesh.nasset/Sk Female Worker Black 2.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "6db63248-e34d-8c41-9f0f-565979c307ae",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -6794,11 +6942,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "3f2a23e2-409b-3f09-d586-d5ba5705da0f": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Roll.anim.nasset"
-    },
     "3f4ea462-e616-5161-190b-8d033fcf1171": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -6806,7 +6949,11 @@
     },
     "3f717e83-bf63-db1e-f1bf-0da9c8b52295": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Modular_People/SK_Male_Beach.scene.nasset/SK_Male_Beach.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/SK_Male_Beach.scene.nasset/SK_Male_Beach.scene.nasset",
+        "dependencies": [
+            "e06fe6e9-8e6e-38ab-d066-aa6b463e1dea"
+        ]
     },
     "3f7ac37d-f144-4d6f-b879-55b742e543c2": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -6823,7 +6970,7 @@
     "3fb0f29e-973d-427d-bc98-7f1081e62a62": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/Animations/Modular People Punch Right.anim.nasset"
+        "path": "Assets/Modular_People/Animations/Male/Modular Male Punch Right.anim.nasset"
     },
     "3fbd86c1-4abc-2820-7665-3b1dda83468f": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -6940,6 +7087,11 @@
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
     },
+    "40827e8c-e1e5-8121-9e5d-9f006caf0880": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Run Jump.anim.nasset"
+    },
     "40944b30-3331-718f-e1b2-15827b7863c4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -7029,7 +7181,7 @@
         "path": "Assets/Modular_People/SK_Male_Casual.scene.nasset/SK Male Casual.mesh.nasset/SK Male Casual Hair Brown.meshskin.nasset",
         "dependencies": [
             "0d7bf203-c43d-e46b-1916-47ff95ac3f9b",
-            "0bcfa9ac-ad71-fcf0-5227-fe576da467ac",
+            "d50bdef0-e5eb-3460-f0b7-31c6a71922e8",
             "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78"
         ]
     },
@@ -7075,6 +7227,19 @@
         "dependencies": [
             "8d9f5af2-9fc6-23cb-2d01-c10dab9911de",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "416abd23-2585-4310-9be4-69c7d4976273": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/Player_Scripts/Male/Male SWAT.scene.nasset",
+        "thumbnail": "a8692eca-a4b1-4d87-9118-959a3e0f726a",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "c29ee865-8fdd-76f1-c349-2ab033a2ab22"
         ]
     },
     "4174b82d-320f-d1e5-0337-7e164a2b5ebb": {
@@ -7217,6 +7382,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "437921f4-8942-4927-92c8-eb7c84b4f654": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_People/Thumbnails/Female/Female_Punk.scene.nasset.tex.nasset"
+    },
     "437dad28-1a0f-ca02-91cd-cd8bf5cb967c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Modular_Toon/Material Instances/Grey 2.mtli.nasset",
@@ -7307,6 +7476,11 @@
             "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
         ]
     },
+    "43ccf578-9f33-96f6-d418-5f9b6b84e522": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Skeleton/Animations/Skeleton Idle.anim.nasset"
+    },
     "43cf97b1-49a4-2041-8855-3bc6b39b7980": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -7346,7 +7520,11 @@
     },
     "43ea78d4-d2fb-d97a-3f47-e605a3aab17d": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Modular_People/SK_Female_Adventurer.scene.nasset/SK_Female_Adventurer.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/SK_Female_Adventurer.scene.nasset/SK_Female_Adventurer.scene.nasset",
+        "dependencies": [
+            "e53520ea-1c7b-d341-6467-55c826a1d163"
+        ]
     },
     "44040111-b603-4967-ae4a-187d8fcf9069": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -7555,7 +7733,7 @@
         "path": "Assets/Modular_People/SK_Male_Spacesuit.scene.nasset/SK Male Spacesuit.mesh.nasset/SK Male Spacesuit Teal.meshskin.nasset",
         "dependencies": [
             "6acc9132-d9cd-cbd7-9589-f5a5bef4c8ea",
-            "6ad9bf11-f3dc-afd8-01a8-37f4e7ab7582",
+            "67bb80b1-8def-ddb0-2142-be2d225622b9",
             "90bbc7cc-6c7c-410f-9438-cbb81ee3586f"
         ]
     },
@@ -7625,16 +7803,6 @@
         "dependencies": [
             "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "46b2d699-64b6-5a31-c8ac-a2dc7a40973c": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Modular_People/SK_Female_Adventurer.scene.nasset/Sk Female Worker.mesh.nasset/Sk Female Worker White.meshskin.nasset",
-        "dependencies": [
-            "37d83e9c-9160-1091-ad97-c87cb48e4950",
-            "1ff0dcbc-05cd-ded0-25b1-dbefc6d6f9e7",
-            "1a6c2f5f-0ecc-81d6-6e36-7ff062673105"
         ]
     },
     "46cda11e-d091-4f92-9175-3acb64b2d203": {
@@ -7713,7 +7881,7 @@
         "path": "Assets/Modular_People/SK_Male_Suit.scene.nasset/SK Male Suit.mesh.nasset/SK Male Suit Suit.meshskin.nasset",
         "dependencies": [
             "f9f07958-08b9-9083-89f4-d00e6e963e7f",
-            "8b861f68-cefd-d203-eef3-ad753741604e",
+            "3a8e96cf-7d35-0c28-918e-26fb121681da",
             "20b51c24-2d86-9ce6-68dd-b3f1b337d833"
         ]
     },
@@ -7758,6 +7926,19 @@
     "480b6356-fa13-4abf-bf55-80d7841c0196": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Monsters/Rounded/Thumbnails/Ball_Tree.scene.nasset.tex.nasset"
+    },
+    "4891c656-7a89-4bfd-bf9a-2701d7df9774": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/Player_Scripts/Female/Female Punk.scene.nasset",
+        "thumbnail": "437921f4-8942-4927-92c8-eb7c84b4f654",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "196b0e8a-3e87-9622-7e0d-7da3754f6aa4"
+        ]
     },
     "48c07248-d205-4917-ae12-a2763d783cab": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -7987,7 +8168,7 @@
     "4ae39da3-8206-4eed-87dc-0e82be9780e5": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/Animations/Modular People Hit React 1.anim.nasset"
+        "path": "Assets/Modular_People/Animations/Male/Modular Male Hit React 1.anim.nasset"
     },
     "4b124e9b-5879-aaa0-e754-38fcd9a2192e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -7996,7 +8177,7 @@
     "4b63c3ed-cb50-4e8d-9ee5-8e57be6072f2": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/Animations/Modular People Hit React 2.anim.nasset"
+        "path": "Assets/Modular_People/Animations/Male/Modular Male Hit React 2.anim.nasset"
     },
     "4b6c6c2f-178c-3ea0-f6de-8603b66839e5": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -8284,7 +8465,7 @@
         "path": "Assets/Modular_People/SK_Male_Farmer.scene.nasset/SK Male Farmer.mesh.nasset/SK Male Farmer Hair Brown.meshskin.nasset",
         "dependencies": [
             "ca5e5e34-b925-b53c-8770-19dfa9641146",
-            "c204175f-b65e-c7fd-af79-01fcbdf8d900",
+            "836709f0-0ac6-f396-10d3-dd7bd03959b6",
             "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78"
         ]
     },
@@ -8464,9 +8645,35 @@
             "5d811aae-aa46-e655-1b5f-73bc4e23cfae"
         ]
     },
+    "50477530-a525-455e-9b08-af6b37f1dce8": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/Player_Scripts/Female/Female Suit.scene.nasset",
+        "thumbnail": "d25db925-b526-46f7-a689-425ce52aa7d6",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "23ab431e-2279-7005-9b33-d15f8005cd6a"
+        ]
+    },
     "50582a90-4ebd-445c-9b41-a747087515ed": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/2D_Platformer/Aliens/Thumbnails/Alien_Green.scene.nasset.tex.nasset"
+    },
+    "506de6bf-f5c4-4cef-b62e-ab02f366fa50": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/Player_Scripts/Female/Female Soldier.scene.nasset",
+        "thumbnail": "f452f780-4aa5-45fb-84d7-0b6333428ceb",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "fc7124fe-ad81-b09e-448d-96513f0097d5"
+        ]
     },
     "5079053d-5b2c-9c65-da7b-ac58f4b8ae30": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -8527,6 +8734,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "50e8fbb9-a748-0730-2afa-deea48ceb2d3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Beach.scene.nasset/SK Male Beach.mesh.nasset/SK Male Beach White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "1a6c2f5f-0ecc-81d6-6e36-7ff062673105",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "50f5822f-5fcf-157d-9393-eb6410a99231": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -8563,7 +8782,7 @@
         "path": "Assets/Modular_People/SK_Male_Farmer.scene.nasset/SK Male Farmer.mesh.nasset/SK Male Farmer Brown 1.meshskin.nasset",
         "dependencies": [
             "7456b5a1-813e-678b-4661-f8b55e6aa7c9",
-            "c204175f-b65e-c7fd-af79-01fcbdf8d900",
+            "836709f0-0ac6-f396-10d3-dd7bd03959b6",
             "362a4c77-febb-0328-2673-0c1d5028b3e1"
         ]
     },
@@ -8746,6 +8965,19 @@
         "dependencies": [
             "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "52fb69fe-e704-4b5d-ba28-452ef78bfbea": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/Player_Scripts/Female/Female Casual.scene.nasset",
+        "thumbnail": "6032f483-350a-4372-bc23-3142077f2afa",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "5833ad8c-7b0b-d98c-1486-f1661d9cccd9"
         ]
     },
     "53078ea1-4c26-21e2-f652-4fb742b70031": {
@@ -9023,18 +9255,6 @@
             "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
         ]
     },
-    "5537d156-6962-ae9d-eaa9-f5d0b6e53bf8": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Sushime/Player_Scripts/Baldur.scene.nasset",
-        "thumbnail": "db845647-d95a-455a-b276-1f4396657cab",
-        "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
-        ],
-        "dependencies": [
-            "dedcec34-5137-2919-2694-c972acd094b6"
-        ]
-    },
     "554d7a8b-ee20-405d-95c2-ffd29f034241": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/2D_Platformer/Cartoon/Thumbnails/Player.scene.nasset.tex.nasset"
@@ -9151,9 +9371,46 @@
     },
     "563ed2a1-80cf-c9ae-1413-5d4623c5e034": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Modular_People/SK_Male_Worker.scene.nasset/SK Male Worker.mesh.nasset/SK Male Worker.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+            "283b42f1-27c6-1e9f-d04a-c031f6bcb206",
+            "00e8732b-bebe-bbcc-1d1a-72c69f56732f",
+            "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78",
+            "85fa65f1-3848-caef-3bd7-0e2f8d0a2b03",
+            "7a7050ae-9fcb-1113-93f1-781f8310154c",
+            "2217c2f6-5e67-1530-311e-5c09134c7b09",
+            "944048e4-306e-5597-55e0-73f9d40227bc",
+            "7a27412e-374c-4e07-423a-c57b7b111cb1",
+            "185eec15-3a74-3d14-882c-d031c74bde40",
+            "9b04b272-1f0e-c34b-1221-dd9f752201b7",
+            "7182c664-e0f2-ed91-3d10-08e896c0b72c",
+            "325ea406-94f0-64b9-fb17-c2b83f0d7ff7",
+            "10752b7e-3a2d-badd-5154-f22ba63f3b87",
+            "84fe19b5-9d95-fa7f-79e8-1d47fb478b28",
+            "7afae09f-5e45-60c3-b286-8b1a789c0992",
+            "8d792610-c958-83d3-abad-38530a336564",
+            "498a67ba-be72-599f-ea87-877b22869c40",
+            "373d32ae-df40-153b-164d-b5e187f9bce8",
+            "4d57b477-dc78-4cce-99bf-3d07fbe3a056",
+            "cea2579a-bdeb-a54d-678c-e635615e9144",
+            "362a4c77-febb-0328-2673-0c1d5028b3e1",
+            "8fea0674-f526-1f07-bb24-f394dfb218b4",
+            "eeb4c2df-3772-01b3-af3e-cc7dd8d347fc",
+            "2cb2bcae-4c72-7889-facb-7b4cb09a487d",
+            "7b0b634d-cb44-c507-84b2-f98cd60b829a",
+            "108b2512-60a5-60e8-f8fe-fc025b9fbaed",
+            "e45002be-5287-10ca-9d5f-13df690b6f34",
+            "791b856c-e0af-e13b-7b5f-01161bc4a73b",
+            "68b74273-3558-df3d-5c62-81fe468b2049",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+            "9009fbeb-e27e-170e-c01f-efc9a4155338",
+            "b470731c-37b1-28e0-f51c-45acd8c4f56d",
+            "f056695b-f1bf-8e36-17fd-32fd76381af5"
         ]
     },
     "56401c70-34be-4c35-ab98-4f1e5cb16e4b": {
@@ -9241,23 +9498,6 @@
             "5aaf9cab-b7fa-bd1c-58d1-d6a25f3e889d"
         ]
     },
-    "570a3ab7-5b89-99c1-d433-8a7862f1e091": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/SK_Female_Casual.scene.nasset/SK Female Casual.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
-    "571dd3cf-f16b-3ff7-2f93-978fd2ed7bb1": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Modular_People/SK_Female_Adventurer.scene.nasset/Sk Female Worker.mesh.nasset/Sk Female Worker Brown 4.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "2e39aba7-5921-7120-e1ab-32d0ab5b1275",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "57292530-8f73-43d0-8685-7ead625f5f54": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -9332,7 +9572,7 @@
         "path": "Assets/Modular_People/SK_Male_King.scene.nasset/SK Male King.mesh.nasset/SK Male King Metal 1.meshskin.nasset",
         "dependencies": [
             "e15f8fc8-b6da-5e05-c034-9e89437dff98",
-            "153d7ac1-35de-dcec-75ad-fc64716aa89d",
+            "b5a20136-d5e7-2c3c-c7c1-044f18813c7f",
             "bcfd4fca-766b-bd48-6d4c-692e999147f6"
         ]
     },
@@ -9345,9 +9585,34 @@
     },
     "5833ad8c-7b0b-d98c-1486-f1661d9cccd9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Modular_People/SK_Female_Casual.scene.nasset/SK Female Casual.mesh.nasset/SK Female Casual.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "1a6c2f5f-0ecc-81d6-6e36-7ff062673105",
+            "ba3001c7-36e7-ce20-976e-a0d1cb25f850",
+            "6dd92238-06e1-bf5e-e54c-3648ffdc572c",
+            "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+            "c802e81f-1161-bffe-721a-c57e1ef3bcf1",
+            "ebe14a91-69be-a53e-9401-07f4387ae07d",
+            "e45002be-5287-10ca-9d5f-13df690b6f34",
+            "4cdbcbb6-72d3-2059-4839-9817fd2c5066",
+            "336225c7-6a43-3a00-1713-17ba0fccafd6",
+            "aa113881-89c6-5610-6c13-7c7f25e41977",
+            "0625373f-e94b-3d50-692b-da6efe086fab",
+            "b53e5da8-85e5-bb78-8710-11c75bf2035e",
+            "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78",
+            "13d391b0-d856-85bb-d20c-727a6678fa27",
+            "b19ebe91-7946-821a-644a-5f5222a43f90",
+            "185eec15-3a74-3d14-882c-d031c74bde40",
+            "f7268210-5c6a-fd09-f4c0-a3079659168a",
+            "a24ce972-eec1-e98c-5d2d-8dff4fc2be72",
+            "9009fbeb-e27e-170e-c01f-efc9a4155338",
+            "8cfd22e6-4b47-9168-bfc8-2e785f57c5e0",
+            "78960c06-ba82-5374-39ed-5b6121517138",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
         ]
     },
     "5837c335-3a01-b56e-55a1-543afc3de7ab": {
@@ -9362,9 +9627,37 @@
     },
     "5841fd6f-a735-3dbb-9d43-e35bc8b3ca44": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Modular_People/SK_Female_Medieval.scene.nasset/SK Female Medieval.mesh.nasset/SK Female Medieval.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "6db63248-e34d-8c41-9f0f-565979c307ae",
+            "d9756677-dda6-ee50-7b65-2e81305e8d78",
+            "236bcf5f-2ff9-7535-43a1-31fb52dc1cd8",
+            "04e52c28-0902-81b1-1346-ed3d2e8a5042",
+            "bdf0d42d-899a-9f23-38d4-a160ccf72ebb",
+            "82647a21-8370-bd8e-7341-885060c51e4c",
+            "c91fd22d-888f-84a7-81d6-38882a091b5e",
+            "210738af-0e98-d7c6-6cfa-338eeda4583d",
+            "4bcb4d05-e2e7-800c-4de4-5040187c727c",
+            "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+            "8d8564fb-16e5-b040-6b55-9564a5ada102",
+            "158cdc59-84f0-bd49-2fa5-846ca06a86fb",
+            "efd77e32-5a19-6f7b-ae0a-982674eebe63",
+            "effa6f83-0794-c81f-e812-356a27e201f9",
+            "fdfd759f-8efe-643b-af5b-0c8162a428f9",
+            "67fd4eea-9138-551d-bb3d-07d1c44dd5b9",
+            "763b6200-9515-9929-324f-7318c546cf3c",
+            "3b50a9f1-60b5-c6c6-ba87-045165b31a86",
+            "1a6c2f5f-0ecc-81d6-6e36-7ff062673105",
+            "fe3a1dcd-c6a5-027e-4fb4-ed0ae2520662",
+            "0f6e4cce-0310-4c40-6899-8f18c651493e",
+            "185eec15-3a74-3d14-882c-d031c74bde40",
+            "b987eac5-3fca-c07e-407c-6bad2f554ab7",
+            "4ac3e820-b5b8-6f80-61d1-aeccd2d86bee",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
         ]
     },
     "584a1362-ab35-e528-7ca5-9c4bbd611d19": {
@@ -9534,11 +9827,6 @@
         "dependencies": [
             "2b52c73d-0d1e-7e45-9fa1-beb10d939916"
         ]
-    },
-    "5a753c8b-3420-8e4a-f3f9-d733b277c05f": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/SK_Female_Soldier.scene.nasset/SK Female Soldier.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "5a7a3a6c-1da8-350e-ac09-1e686fb94205": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -9766,7 +10054,11 @@
     },
     "5bf8fd1c-f897-a5c3-bcd9-5d895c7dd3a8": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Modular_People/SK_Female_Formal.scene.nasset/SK_Female_Formal.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/SK_Female_Formal.scene.nasset/SK_Female_Formal.scene.nasset",
+        "dependencies": [
+            "b4ec400c-1778-16fc-0511-4e120780c5ba"
+        ]
     },
     "5bf98f22-233b-3ce5-f54c-73b884387525": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -9976,9 +10268,43 @@
     },
     "5ec5d2d4-c899-0a09-7744-6b407849de6c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Modular_People/SK_Male_King.scene.nasset/SK Male King.mesh.nasset/SK Male King.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "bcfd4fca-766b-bd48-6d4c-692e999147f6",
+            "e15f8fc8-b6da-5e05-c034-9e89437dff98",
+            "5827b9f5-a554-9763-7244-bccd8cd4d133",
+            "38c0ca9d-4c64-70d2-bdd3-36b2adf97c19",
+            "8c6dbf4e-f362-489a-a149-d8b142bdc768",
+            "e4e5aa03-8844-55c1-17ec-0e7b0ad126b4",
+            "36c70b58-7989-4d54-ae9c-0fb442d73e6e",
+            "7f75758c-f6bb-947d-3f2a-5293348486ab",
+            "c2f73377-06fd-63eb-3609-45b391e87337",
+            "512839d1-555d-0788-4b7f-4e9c29136a97",
+            "acef7bda-26f8-b385-d9df-efe2f192c571",
+            "a1e191e2-9dbd-dc5a-1f97-238804b1d798",
+            "7821439d-9f19-92eb-65b9-fbedc36bae1f",
+            "0388b942-a759-0b19-310e-4f7ad34f66cd",
+            "b083515b-d6bc-91cc-6487-7cba67298a39",
+            "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+            "a91c3ee6-9e8e-2f79-9418-c3f153956c1d",
+            "9ca3fe2d-9def-983d-befc-1cbd18d5eade",
+            "ef20d33c-59a9-04f8-2c2c-e7b72a1713fe",
+            "9f6ca6e4-b6eb-dce6-a6ca-0c5a947d3357",
+            "0763dfda-8c37-078e-21de-2c3d59cef280",
+            "185eec15-3a74-3d14-882c-d031c74bde40",
+            "c2648a73-84d7-33aa-9fa5-34e6a8f2fb82",
+            "8356f092-7958-709c-a218-69a78a97ec01",
+            "019d2c43-eace-08a9-287e-11343882471c",
+            "875076b4-47de-8d4f-d595-b55da69fa76c",
+            "6c1ed96c-5764-167d-e97e-c47111019bca",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+            "1a6c2f5f-0ecc-81d6-6e36-7ff062673105",
+            "6593f387-d8f8-3b41-639d-f2ea4636d47b",
+            "69b0aaf4-ba50-84a8-7451-3e7371cae980"
         ]
     },
     "5ef10529-012b-4f65-895f-e0e4c0fbce78": {
@@ -10001,10 +10327,15 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Monsters/Rounded/Thumbnails/Ball_Ghost.scene.nasset.tex.nasset"
     },
+    "5fbffeb2-7ed6-45aa-988d-1e9ea8ba4572": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Modular_People/Animations/Female/Modular Female Kick Right.anim.nasset"
+    },
     "6000c707-fb46-4882-9bd4-b761a1a14601": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/Animations/Modular People Idle Gun.anim.nasset"
+        "path": "Assets/Modular_People/Animations/Male/Modular Male Idle Gun.anim.nasset"
     },
     "60200fef-5d55-47d4-9ca9-2afe17acabf1": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -10018,6 +10349,10 @@
         "dependencies": [
             "8a710282-72e0-c192-75a6-ddc2d5525035"
         ]
+    },
+    "6032f483-350a-4372-bc23-3142077f2afa": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_People/Thumbnails/Female/Female_Casual.scene.nasset.tex.nasset"
     },
     "603eb16f-b567-6129-6ad7-f851df4540c1": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -10126,7 +10461,7 @@
     "61585b28-faf2-46e0-aa21-87d7b974fb01": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/Animations/Modular People Run Right.anim.nasset"
+        "path": "Assets/Modular_People/Animations/Male/Modular Male Run Right.anim.nasset"
     },
     "617630b0-1ca8-98df-caee-21d056fcc01a": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -10187,7 +10522,7 @@
     "6210d719-6cbd-4bc6-bb22-d910b7a6b091": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/Animations/Modular People Roll.anim.nasset"
+        "path": "Assets/Modular_People/Animations/Male/Modular Male Roll.anim.nasset"
     },
     "6215d895-0371-36a4-5136-9e2d79984fa4": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -10309,7 +10644,10 @@
     "63bed46c-ef26-49b5-8f39-f134e103326c": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/Animations/Modular People Run.anim.nasset"
+        "path": "Assets/Modular_People/Animations/Male/Modular Male Run.anim.nasset",
+        "dependencies": [
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+        ]
     },
     "63c6c76a-191a-41d2-bf67-06ac6d02c08d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -10411,7 +10749,11 @@
     },
     "64b60640-4a31-192b-1cc2-5e65a8fb6277": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Modular_People/SK_Male_Hoodie.scene.nasset/SK_Male_Hoodie.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/SK_Male_Hoodie.scene.nasset/SK_Male_Hoodie.scene.nasset",
+        "dependencies": [
+            "69043c1c-8d35-6635-5cbe-63e2f3a2151b"
+        ]
     },
     "65500852-9ec3-63a0-e45d-79342aec775b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -10447,13 +10789,25 @@
             "6b5f1dcf-d332-5d8e-a8d1-3c9e59c72ce5"
         ]
     },
+    "6593f387-d8f8-3b41-639d-f2ea4636d47b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_King.scene.nasset/SK Male King.mesh.nasset/SK Male King White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "1a6c2f5f-0ecc-81d6-6e36-7ff062673105",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "659d599b-1ef3-bd09-1615-44feb0c3ffc2": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Modular_People/SK_Male_Casual.scene.nasset/SK Male Casual.mesh.nasset/SK Male Casual Blue 3.meshskin.nasset",
         "dependencies": [
             "b3db1ad6-b76d-cafc-56a0-7a7a0b712c6d",
-            "0bcfa9ac-ad71-fcf0-5227-fe576da467ac",
+            "d50bdef0-e5eb-3460-f0b7-31c6a71922e8",
             "3cf8c593-fc4f-ba15-8500-b5d6d735d5e9"
         ]
     },
@@ -10575,6 +10929,18 @@
             "2e9ff2e7-afcf-e2b9-c8c4-2abceb951b38"
         ]
     },
+    "6768051b-3704-05dc-593d-82adb5f3fabc": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Sushime/Player_Scripts/Baldur.scene.nasset",
+        "thumbnail": "db845647-d95a-455a-b276-1f4396657cab",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "dedcec34-5137-2919-2694-c972acd094b6"
+        ]
+    },
     "6776e8b5-0a64-4cab-91b2-579f29f6e571": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/2D_Platformer/Cartoon_2/Thumbnails/Male_Adventurer.scene.nasset.tex.nasset"
@@ -10590,11 +10956,6 @@
     "67bafe6f-6889-43e8-8a2e-74951e14cc97": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Heist/Thumbnails/Soldier.scene.nasset.tex.nasset"
-    },
-    "67c83052-122b-2ef2-54fe-193655d7a825": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Run Hold.anim.nasset"
     },
     "67cf39b6-6165-1380-2e3e-bcbb925934b3": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -10707,7 +11068,7 @@
         "path": "Assets/Modular_People/SK_Male_Worker.scene.nasset/SK Male Worker.mesh.nasset/SK Male Worker Grey 1.meshskin.nasset",
         "dependencies": [
             "791b856c-e0af-e13b-7b5f-01161bc4a73b",
-            "dc8d3b5c-d1cd-af8c-aad9-40cfae9fa8fd",
+            "e50d9802-3700-7660-59e9-b40273a5c799",
             "e45002be-5287-10ca-9d5f-13df690b6f34"
         ]
     },
@@ -10780,9 +11141,37 @@
     },
     "69043c1c-8d35-6635-5cbe-63e2f3a2151b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Modular_People/SK_Male_Hoodie.scene.nasset/SK Male Hoodie.mesh.nasset/SK Male Hoodie.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "ef20d33c-59a9-04f8-2c2c-e7b72a1713fe",
+            "d604ef54-e305-3215-398b-163112d6ddd0",
+            "f2c86908-db26-c29e-9f7e-354e74865dcf",
+            "454b2bee-13ae-6f2c-4171-acea894e02d5",
+            "3518b52d-bb9e-6a96-8ff4-10a5aaf08db9",
+            "38e330a6-ef63-8cf8-22f2-11deca205b07",
+            "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+            "bbfa6b8f-9424-81e2-3e13-75060e4d682c",
+            "0ccd543f-126c-4e22-b5fb-19cf798af520",
+            "3cf8c593-fc4f-ba15-8500-b5d6d735d5e9",
+            "ea3991ff-d196-89b7-3db5-28b5a7481519",
+            "693e5ffa-4912-9625-87b9-a5d4e1f75a9c",
+            "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78",
+            "b2de0fdf-ed03-d5d2-2adb-1d9e8c91f808",
+            "c233388c-a152-998f-e2ea-4dcbf715187d",
+            "185eec15-3a74-3d14-882c-d031c74bde40",
+            "cceabefa-3734-746d-b8f7-186a5421541b",
+            "9fab82bf-4aa0-f266-4f82-18757653bd29",
+            "d1a5ada9-30a1-e546-7928-e5bcdd07b39f",
+            "5b0e7ffa-c55e-9505-407c-3af057631dd6",
+            "ccdb1eeb-4f71-a2a4-ece6-d866fb2c4774",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+            "1a6c2f5f-0ecc-81d6-6e36-7ff062673105",
+            "dcab6d33-f560-5d72-d0fc-af5a68bb9894",
+            "3115c92f-3e0c-dd92-ad99-223a48334575"
         ]
     },
     "693e5ffa-4912-9625-87b9-a5d4e1f75a9c": {
@@ -10791,7 +11180,7 @@
         "path": "Assets/Modular_People/SK_Male_Hoodie.scene.nasset/SK Male Hoodie.mesh.nasset/SK Male Hoodie Blue 3.meshskin.nasset",
         "dependencies": [
             "ea3991ff-d196-89b7-3db5-28b5a7481519",
-            "713a7878-d8de-f17d-41a2-8bb0a9cefd34",
+            "9871ea97-f82f-0754-1566-b9c944ef31ad",
             "3cf8c593-fc4f-ba15-8500-b5d6d735d5e9"
         ]
     },
@@ -10810,6 +11199,16 @@
         "thumbnail": "8fe4a0e2-782f-43a2-ab94-25219b578847",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
+    "69b0aaf4-ba50-84a8-7451-3e7371cae980": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Modular_People/SK_Male_King.scene.nasset/SK Male King.mesh.nasset/SK Male King White.meshskin.nasset",
+        "dependencies": [
+            "6593f387-d8f8-3b41-639d-f2ea4636d47b",
+            "b5a20136-d5e7-2c3c-c7c1-044f18813c7f",
+            "1a6c2f5f-0ecc-81d6-6e36-7ff062673105"
         ]
     },
     "69be551a-e4d3-48e3-a62e-e3cb52a30c54": {
@@ -10916,11 +11315,6 @@
             "90bbc7cc-6c7c-410f-9438-cbb81ee3586f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "6ad9bf11-f3dc-afd8-01a8-37f4e7ab7582": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/SK_Male_Spacesuit.scene.nasset/SK Male Spacesuit.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "6aed3467-3081-cefc-40d4-37fcf82dcc6c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -11088,7 +11482,7 @@
         "path": "Assets/Modular_People/SK_Male_King.scene.nasset/SK Male King.mesh.nasset/SK Male King Gold 1.meshskin.nasset",
         "dependencies": [
             "875076b4-47de-8d4f-d595-b55da69fa76c",
-            "153d7ac1-35de-dcec-75ad-fc64716aa89d",
+            "b5a20136-d5e7-2c3c-c7c1-044f18813c7f",
             "019d2c43-eace-08a9-287e-11343882471c"
         ]
     },
@@ -11098,7 +11492,7 @@
         "path": "Assets/Modular_People/SK_Male_Punk.scene.nasset/SK Male Punk.mesh.nasset/SK Male Punk Blue 3.meshskin.nasset",
         "dependencies": [
             "8b89c382-319a-36f9-d7d3-48296937a7df",
-            "0fbd572b-9544-e26e-970a-b2f0f9ae7056",
+            "68e6f7b4-fe78-2406-5081-86f20697af49",
             "3cf8c593-fc4f-ba15-8500-b5d6d735d5e9"
         ]
     },
@@ -11109,6 +11503,21 @@
         "dependencies": [
             "e2b038c2-fa2d-b80e-8bd8-71521884d547"
         ]
+    },
+    "6c72834f-2333-f351-4e24-8e7dd3e5ed2c": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Modular_People/SK_Male_Beach.scene.nasset/SK Male Beach.mesh.nasset/SK Male Beach White.meshskin.nasset",
+        "dependencies": [
+            "50e8fbb9-a748-0730-2afa-deea48ceb2d3",
+            "d58ec2a3-fc8f-fe84-3755-ff0e88749653",
+            "1a6c2f5f-0ecc-81d6-6e36-7ff062673105"
+        ]
+    },
+    "6c72e63d-42f5-436b-926d-431d952f271f": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Modular_People/Animations/Female/Modular Female Kick Left.anim.nasset"
     },
     "6c912523-d00d-da38-5bf2-16a9023c65c4": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -11220,13 +11629,6 @@
         "thumbnail": "bcc3423c-40f7-ec6c-460c-0d6d9135c742",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "6dbefb50-d8fc-88d8-4f70-362634c934f1": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Modular_People/SK_Female_Adventurer.scene.nasset/Sk Female Worker.mesh.nasset/Sk Female Worker.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "6dd2217c-91d4-8926-540e-f5c746aaa901": {
@@ -11584,11 +11986,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Material Instances/Thumbnails/Shirt 2.mtli.nasset.tex.nasset"
     },
-    "713a7878-d8de-f17d-41a2-8bb0a9cefd34": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/SK_Male_Hoodie.scene.nasset/SK Male Hoodie.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
     "713e2c4e-0afa-00b4-5b26-77fed7f728e1": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -11596,6 +11993,11 @@
         "dependencies": [
             "c45681b2-45e6-a7cb-3a92-6d3b80947301"
         ]
+    },
+    "71562429-a2c4-a71c-25d5-25da4aace317": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Skeleton/Animations/Skeleton Spawn.anim.nasset"
     },
     "71687d46-3362-4a65-b838-5f4af2be2e12": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -11667,7 +12069,7 @@
         "path": "Assets/Modular_People/SK_Male_Worker.scene.nasset/SK Male Worker.mesh.nasset/SK Male Worker Brown 2.meshskin.nasset",
         "dependencies": [
             "9b04b272-1f0e-c34b-1221-dd9f752201b7",
-            "dc8d3b5c-d1cd-af8c-aad9-40cfae9fa8fd",
+            "e50d9802-3700-7660-59e9-b40273a5c799",
             "185eec15-3a74-3d14-882c-d031c74bde40"
         ]
     },
@@ -11845,11 +12247,6 @@
     "733edc07-3cbf-5ff7-80b8-2ab32cd6c58d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Material Instances/Thumbnails/Magenta.mtli.nasset.tex.nasset"
-    },
-    "7358029f-c792-09a8-4bd1-b8cd31166ce1": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/SK_Female_Adventurer.scene.nasset/SK Female Adventurer.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "735f097e-d23b-44b1-8c11-2b5164d1ca53": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -12516,7 +12913,7 @@
         "path": "Assets/Modular_People/SK_Male_Beach.scene.nasset/SK Male Beach.mesh.nasset/SK Male Beach Hair Red.meshskin.nasset",
         "dependencies": [
             "43856c90-39dc-576c-15f8-c704ed4d132b",
-            "9bb0dabb-b21d-5795-f5e1-8a87cd12eec7",
+            "d58ec2a3-fc8f-fe84-3755-ff0e88749653",
             "d1a5ada9-30a1-e546-7928-e5bcdd07b39f"
         ]
     },
@@ -12714,7 +13111,7 @@
         "path": "Assets/Modular_People/SK_Male_Punk.scene.nasset/SK Male Punk.mesh.nasset/SK Male Punk Brown 2.meshskin.nasset",
         "dependencies": [
             "27f51329-7f05-e75f-2d7d-d06767c7f490",
-            "0fbd572b-9544-e26e-970a-b2f0f9ae7056",
+            "68e6f7b4-fe78-2406-5081-86f20697af49",
             "185eec15-3a74-3d14-882c-d031c74bde40"
         ]
     },
@@ -12760,11 +13157,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "7a115947-fc6b-5b71-ad7d-c7d56b7ef749": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/SK_Female_Punk.scene.nasset/SK Female Punk.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
     "7a221d85-79a7-bf21-b8a2-dc6707ae978b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Heist/Material Instances/Thumbnails/Red.mtli.nasset.tex.nasset"
@@ -12787,7 +13179,7 @@
         "path": "Assets/Modular_People/SK_Male_Worker.scene.nasset/SK Male Worker.mesh.nasset/SK Male Worker Yellow.meshskin.nasset",
         "dependencies": [
             "944048e4-306e-5597-55e0-73f9d40227bc",
-            "dc8d3b5c-d1cd-af8c-aad9-40cfae9fa8fd",
+            "e50d9802-3700-7660-59e9-b40273a5c799",
             "2217c2f6-5e67-1530-311e-5c09134c7b09"
         ]
     },
@@ -12813,7 +13205,7 @@
         "path": "Assets/Modular_People/SK_Male_Worker.scene.nasset/SK Male Worker.mesh.nasset/SK Male Worker Hair Brown.meshskin.nasset",
         "dependencies": [
             "85fa65f1-3848-caef-3bd7-0e2f8d0a2b03",
-            "dc8d3b5c-d1cd-af8c-aad9-40cfae9fa8fd",
+            "e50d9802-3700-7660-59e9-b40273a5c799",
             "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78"
         ]
     },
@@ -12836,6 +13228,18 @@
     "7a9b8ae0-9030-2d70-30ee-9502eb46351b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Monsters/Rounded/Textures/T_Ghost_D.tex.nasset"
+    },
+    "7ab66458-5f6c-859e-4977-7e4194de10ff": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Spacesuit.scene.nasset/SK Male Spacesuit.mesh.nasset/SK Male Spacesuit Orange 1.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9af5261f-d4dd-2a23-45df-8069f39da8a9",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "7ac1c119-5377-4fc6-8e4a-6137de0d81d9": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -13039,6 +13443,11 @@
             "afedac7a-9ac2-fbf5-d68f-f07670051099",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "7d10fa02-6a3e-4a2e-df6b-c56eaf0b40dd": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Clapping.anim.nasset"
     },
     "7d2b177f-678c-1364-1633-d556aa124261": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -13269,11 +13678,6 @@
             "41eecb07-491c-4a32-aeb8-e4bf73ca92fc"
         ]
     },
-    "7ec7068b-eda5-8f36-ef4e-5b89af166846": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Skeleton/Animations/Skeleton Death.anim.nasset"
-    },
     "7eea67e0-3c5d-43fe-b4d4-6e1558162506": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -13296,6 +13700,11 @@
     "7f240cd4-02c9-ce0f-ce88-0267dcd99eb0": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Material Instances/Thumbnails/Pants 4.mtli.nasset.tex.nasset"
+    },
+    "7f2cb78d-fd97-fae1-5e3d-8e012371d5bf": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Skeleton/Animations/Skeleton Death.anim.nasset"
     },
     "7f3edfbf-371f-4771-ad9d-bf64912393d3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -13458,7 +13867,7 @@
     "80e245bb-800a-4979-9ddc-f13b728f67d2": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/Animations/Modular People Run Shoot.anim.nasset"
+        "path": "Assets/Modular_People/Animations/Male/Modular Male Run Shoot.anim.nasset"
     },
     "80e48a6f-3ee3-5a1a-fcfe-e50731424333": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -13492,11 +13901,6 @@
             "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
         ]
     },
-    "81b2635c-3ebb-7464-b31a-389793500a1e": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/SK_Female_Scifi.scene.nasset/SK Female Scifi.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
     "81c415b2-b3dd-f177-7020-a6575561df5d": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -13514,7 +13918,11 @@
     },
     "8234d3fe-1356-2f0d-2da7-e4ea359df5bf": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Modular_People/SK_Female_Worker.scene.nasset/SK_Female_Worker.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/SK_Female_Worker.scene.nasset/SK_Female_Worker.scene.nasset",
+        "dependencies": [
+            "fdb0cf31-58d3-a44c-a4be-3c5bcb819023"
+        ]
     },
     "82647a21-8370-bd8e-7341-885060c51e4c": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -13557,7 +13965,11 @@
     },
     "82ce99af-ad0a-7a8d-791a-6b06e19bd941": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Modular_People/SK_Male_Worker.scene.nasset/SK_Male_Worker.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/SK_Male_Worker.scene.nasset/SK_Male_Worker.scene.nasset",
+        "dependencies": [
+            "563ed2a1-80cf-c9ae-1413-5d4623c5e034"
+        ]
     },
     "82d21691-31ca-49a9-a541-176edf912426": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -13614,7 +14026,7 @@
         "path": "Assets/Modular_People/SK_Male_King.scene.nasset/SK Male King.mesh.nasset/SK Male King Brown 2.meshskin.nasset",
         "dependencies": [
             "c2648a73-84d7-33aa-9fa5-34e6a8f2fb82",
-            "153d7ac1-35de-dcec-75ad-fc64716aa89d",
+            "b5a20136-d5e7-2c3c-c7c1-044f18813c7f",
             "185eec15-3a74-3d14-882c-d031c74bde40"
         ]
     },
@@ -13670,9 +14082,40 @@
     },
     "83cc5c8f-62df-72e5-3929-e6754fc5542e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Modular_People/SK_Male_Suit.scene.nasset/SK Male Suit.mesh.nasset/SK Male Suit.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "20b51c24-2d86-9ce6-68dd-b3f1b337d833",
+            "f9f07958-08b9-9083-89f4-d00e6e963e7f",
+            "47b81b8f-e445-8ec9-c362-cc4c6d320b6d",
+            "2cb2bcae-4c72-7889-facb-7b4cb09a487d",
+            "26e03584-60e8-4431-bc7d-ec03d6b652cc",
+            "26a31fa4-7d96-50ba-2101-869b045350ad",
+            "ef20d33c-59a9-04f8-2c2c-e7b72a1713fe",
+            "4c70f83a-b1a3-232b-f9e8-1043ac4f55c5",
+            "17e3933a-4a3d-43e3-d532-a1bbf704ea4c",
+            "351337dd-3d80-9b5f-7f9e-d75caa46d097",
+            "e5d4572e-ab3f-3af6-aef3-27f65176bd35",
+            "b651832e-3bd8-54f0-768e-85de45dd1bc9",
+            "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+            "061f8b80-c532-b86f-032a-870d6aa206a8",
+            "146d2fa6-c64c-0ef4-7aec-7a0aeb6d4676",
+            "d1a5ada9-30a1-e546-7928-e5bcdd07b39f",
+            "25835333-955d-2af2-2e89-d5e555ac8726",
+            "8cd07d2f-b0ac-423d-304e-6e5986db47cf",
+            "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78",
+            "b89ad926-06a0-66a9-37de-9f7b9a4e4c34",
+            "21d9586f-ce03-742a-706a-c7a47a9e412d",
+            "185eec15-3a74-3d14-882c-d031c74bde40",
+            "69c2d6c8-4962-2b66-74f3-476d8ed5edb2",
+            "e96d4ecf-7f51-68e0-2146-210cfa5cdd92",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+            "1a6c2f5f-0ecc-81d6-6e36-7ff062673105",
+            "c8949d18-193b-8ac4-0e42-d7d519573ff1",
+            "0b7f0a85-ca83-aa07-af35-e989f716114a"
         ]
     },
     "83ccba51-d218-c4af-7240-bace0fd7edd0": {
@@ -13808,7 +14251,7 @@
         "path": "Assets/Modular_People/SK_Male_Worker.scene.nasset/SK Male Worker.mesh.nasset/SK Male Worker Moustache.meshskin.nasset",
         "dependencies": [
             "10752b7e-3a2d-badd-5154-f22ba63f3b87",
-            "dc8d3b5c-d1cd-af8c-aad9-40cfae9fa8fd",
+            "e50d9802-3700-7660-59e9-b40273a5c799",
             "325ea406-94f0-64b9-fb17-c2b83f0d7ff7"
         ]
     },
@@ -13968,7 +14411,7 @@
     "862e5f8c-8ce4-4355-80bf-80120ee2c912": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/Animations/Modular People Interact.anim.nasset"
+        "path": "Assets/Modular_People/Animations/Male/Modular Male Interact.anim.nasset"
     },
     "863b5e65-8e6a-c888-1623-6c86802d1f11": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -13979,6 +14422,11 @@
             "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
             "362a4c77-febb-0328-2673-0c1d5028b3e1"
         ]
+    },
+    "863f23e2-cad2-1c65-6469-85f3c15ca552": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Roll.anim.nasset"
     },
     "8647149a-53ec-e2d2-7c65-c837c1fa30d6": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -14137,11 +14585,19 @@
     },
     "883bc84d-b2fd-3285-8966-b6f5f1372dd9": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Modular_People/SK_Female_Suit.scene.nasset/SK_Female_Suit.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/SK_Female_Suit.scene.nasset/SK_Female_Suit.scene.nasset",
+        "dependencies": [
+            "23ab431e-2279-7005-9b33-d15f8005cd6a"
+        ]
     },
     "8849dc5f-f417-a51d-8730-b43b1afa5ee9": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Modular_People/SK_Male_King.scene.nasset/SK_Male_King.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/SK_Male_King.scene.nasset/SK_Male_King.scene.nasset",
+        "dependencies": [
+            "5ec5d2d4-c899-0a09-7744-6b407849de6c"
+        ]
     },
     "8849eb5e-0ce4-a057-6e19-2c1cfa28cded": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -14366,6 +14822,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "8a4b27fd-0ca7-55ac-b370-6ed44a321d62": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Run Hold.anim.nasset"
+    },
     "8a710282-72e0-c192-75a6-ddc2d5525035": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -14415,13 +14876,18 @@
             "bd54ce69-d6a1-82ed-302c-c73767ec01a3"
         ]
     },
+    "8af71bb0-b139-4702-995c-6cd912d8eb01": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Modular_People/Animations/Female/Modular Female Walk.anim.nasset"
+    },
     "8b2bf437-7779-c0f2-7c7a-a48ddad0a05b": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Modular_People/SK_Male_Punk.scene.nasset/SK Male Punk.mesh.nasset/SK Male Punk Black 1.meshskin.nasset",
         "dependencies": [
             "d24bac13-58df-bca2-93b3-bc276cc275cf",
-            "0fbd572b-9544-e26e-970a-b2f0f9ae7056",
+            "68e6f7b4-fe78-2406-5081-86f20697af49",
             "2cb2bcae-4c72-7889-facb-7b4cb09a487d"
         ]
     },
@@ -14453,11 +14919,6 @@
             "b1ccc0d1-9c6f-43bc-44c1-027e277d3db7",
             "1dfb7d67-302b-850f-a04f-f02b0d8e34b2"
         ]
-    },
-    "8b861f68-cefd-d203-eef3-ad753741604e": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/SK_Male_Suit.scene.nasset/SK Male Suit.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "8b89c382-319a-36f9-d7d3-48296937a7df": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -14623,7 +15084,11 @@
     },
     "8cab3cd8-871b-0809-a2a8-05f897858c1c": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Modular_People/SK_Male_Spacesuit.scene.nasset/SK_Male_Spacesuit.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/SK_Male_Spacesuit.scene.nasset/SK_Male_Spacesuit.scene.nasset",
+        "dependencies": [
+            "204da3c8-9795-2692-c609-4fce30a65092"
+        ]
     },
     "8cbb82b7-f0bd-4cb9-92a5-380c510d6aa2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -14660,7 +15125,7 @@
         "path": "Assets/Modular_People/SK_Male_Suit.scene.nasset/SK Male Suit.mesh.nasset/SK Male Suit Hair Red.meshskin.nasset",
         "dependencies": [
             "25835333-955d-2af2-2e89-d5e555ac8726",
-            "8b861f68-cefd-d203-eef3-ad753741604e",
+            "3a8e96cf-7d35-0c28-918e-26fb121681da",
             "d1a5ada9-30a1-e546-7928-e5bcdd07b39f"
         ]
     },
@@ -14702,11 +15167,6 @@
             "9009fbeb-e27e-170e-c01f-efc9a4155338",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "8d286507-e3e9-baa5-2f5d-281a06622612": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Swim.anim.nasset"
     },
     "8d42b13d-bfc8-1ab5-c31b-f87c82a1e3fd": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -15076,11 +15536,6 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
-    "907c6425-f3b8-da4c-ca41-c5bc89e5e6f0": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Skeleton/Animations/Skeleton Idle.anim.nasset"
-    },
     "907f19f4-1f01-44f7-4e0b-4ec3e952f5f0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -15123,11 +15578,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "90b3faec-bbab-06e8-37fd-c2b6bca2d733": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Standing.anim.nasset"
-    },
     "90bbc7cc-6c7c-410f-9438-cbb81ee3586f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Modular_People/Material Instances/Teal.mtli.nasset",
@@ -15152,7 +15602,7 @@
         "path": "Assets/Modular_People/SK_Male_Beach.scene.nasset/SK Male Beach.mesh.nasset/SK Male Beach Hair Brown.meshskin.nasset",
         "dependencies": [
             "23a90362-b7c2-1a67-d63a-a4964c3f5f15",
-            "9bb0dabb-b21d-5795-f5e1-8a87cd12eec7",
+            "d58ec2a3-fc8f-fe84-3755-ff0e88749653",
             "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78"
         ]
     },
@@ -15175,6 +15625,10 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "9157961b-598e-490b-ac58-9332dba316c2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_People/Thumbnails/Female/Female_Adventurer.scene.nasset.tex.nasset"
     },
     "9175f80e-2b1d-062a-b14a-c1628ae13c7b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -15368,7 +15822,7 @@
     "92e43745-6e5d-46b1-9dbd-6cedc4d785aa": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/Animations/Modular People Run Back.anim.nasset"
+        "path": "Assets/Modular_People/Animations/Male/Modular Male Run Back.anim.nasset"
     },
     "92e64400-4d44-45d5-ac41-6103b29d0b10": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -15443,11 +15897,6 @@
         "dependencies": [
             "fc819d7c-8737-7fbd-3f07-a469bd202982"
         ]
-    },
-    "93d6d787-3f47-d5cd-63f4-7edebd68ed8a": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/SK_Female_Formal.scene.nasset/SK Female Formal.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "93e22d17-0b93-6125-a645-b83260a74e0a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -15536,6 +15985,10 @@
             "44801e67-2ba8-423b-d857-eab35579e57f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "94a1cb39-8b1b-478d-9726-5b79fa511c44": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_People/Thumbnails/Female/Female_Worker.scene.nasset.tex.nasset"
     },
     "94a7748f-5ee7-4afd-7bcb-80be3529c630": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -15756,7 +16209,7 @@
         "path": "Assets/Modular_People/SK_Male_Punk.scene.nasset/SK Male Punk.mesh.nasset/SK Male Punk Red 1.meshskin.nasset",
         "dependencies": [
             "5b5e3aec-3269-1865-5333-dda06b43f4c0",
-            "0fbd572b-9544-e26e-970a-b2f0f9ae7056",
+            "68e6f7b4-fe78-2406-5081-86f20697af49",
             "ab021971-5963-7b4d-6cf3-cdd88b9b0199"
         ]
     },
@@ -16031,6 +16484,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "97e2d1da-5335-4333-a78f-5e38f5620621": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Modular_People/Animations/Female/Modular Female Punch Left.anim.nasset"
+    },
     "981dd2db-064f-d55c-1693-b6bd8755015e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -16063,7 +16521,10 @@
     "982eeb9c-d47a-4a68-81e0-00a4f0559252": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/Animations/Modular People Idle.anim.nasset"
+        "path": "Assets/Modular_People/Animations/Male/Modular Male Idle.anim.nasset",
+        "dependencies": [
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+        ]
     },
     "9879e9fb-04f2-cdd1-5ab4-3120897b1434": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -16198,6 +16659,11 @@
             "ff57c016-0b7b-23d8-9689-0cdad3fb2fbf"
         ]
     },
+    "99a03dff-66ff-43f1-962b-70d222bf26ed": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Modular_People/Animations/Female/Modular Female Idle Gun Pointing.anim.nasset"
+    },
     "99a48bf8-1989-4c67-af15-bab202456ae4": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -16231,9 +16697,34 @@
     },
     "99fc5012-63ad-ff2c-46ca-264536ad3afb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Modular_People/SK_Male_Farmer.scene.nasset/SK Male Farmer.mesh.nasset/SK Male Farmer.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+            "0312e4b0-c400-b219-2885-a969582e3806",
+            "e7eb4137-2b6f-84bc-8c11-4b7110fc95f3",
+            "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78",
+            "ca5e5e34-b925-b53c-8770-19dfa9641146",
+            "4e69f672-b231-514a-4db9-898012024beb",
+            "7821439d-9f19-92eb-65b9-fbedc36bae1f",
+            "28928298-fa4e-dde3-a912-0f91ac5c9517",
+            "e8da14bc-9c4d-2c10-e83e-37725c293231",
+            "ab021971-5963-7b4d-6cf3-cdd88b9b0199",
+            "70bcd9ba-ed76-0ae6-2393-c372458539db",
+            "dfb11a45-3269-48d3-94e5-4dd22a085d97",
+            "185eec15-3a74-3d14-882c-d031c74bde40",
+            "32439574-a3b4-5cf4-a985-e1a29582c949",
+            "bcb7e83b-efa1-4069-efb7-e4b35e3731d2",
+            "3cf8c593-fc4f-ba15-8500-b5d6d735d5e9",
+            "aae83b53-bb02-0b2a-14c7-9a9ad310810b",
+            "065838a4-cd5c-0d58-797a-04e6d3867348",
+            "362a4c77-febb-0328-2673-0c1d5028b3e1",
+            "7456b5a1-813e-678b-4661-f8b55e6aa7c9",
+            "512d17d0-af15-f922-9484-27e64a31b905",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
         ]
     },
     "9a18887a-c61e-43e3-a9e5-b41166ab24b9": {
@@ -16250,11 +16741,6 @@
             "4cb827c1-5d9e-33fb-a339-3080024129b0",
             "5c61259d-05ec-c7df-266f-829c4b3ed67f"
         ]
-    },
-    "9a418d00-36ae-3829-7900-9a778f44682e": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Punch.anim.nasset"
     },
     "9a562454-76fe-008c-35dd-58bb5cae646b": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -16317,6 +16803,13 @@
         "dependencies": [
             "9148218c-115e-6158-be6c-74bd9ddf9fde",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9af5261f-d4dd-2a23-45df-8069f39da8a9": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Modular_People/Material Instances/Orange 1.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "9afb1e9a-0fbe-4246-b3ed-1a8a517c5d81": {
@@ -16413,11 +16906,6 @@
             "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
         ]
     },
-    "9bb0dabb-b21d-5795-f5e1-8a87cd12eec7": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/SK_Male_Beach.scene.nasset/SK Male Beach.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
     "9bc67955-a3d0-4ec1-3ac3-ac5a58e12995": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -16479,7 +16967,7 @@
         "path": "Assets/Modular_People/SK_Male_King.scene.nasset/SK Male King.mesh.nasset/SK Male King Skin.meshskin.nasset",
         "dependencies": [
             "a91c3ee6-9e8e-2f79-9418-c3f153956c1d",
-            "153d7ac1-35de-dcec-75ad-fc64716aa89d",
+            "b5a20136-d5e7-2c3c-c7c1-044f18813c7f",
             "632c0acb-e414-2dd0-c921-7d94ebb6b5e7"
         ]
     },
@@ -16621,6 +17109,11 @@
         "dependencies": [
             "3e66a21b-1adc-25ba-1991-d4f080d5529d"
         ]
+    },
+    "9e2a503c-735c-e18c-95d1-52434cb21cac": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Skeleton/Animations/Skeleton Running.anim.nasset"
     },
     "9e4c761d-c8a4-4eff-979d-42022fe9202c": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -16777,7 +17270,11 @@
     },
     "9fa7b1cb-284c-0548-be30-bf2d5007f89d": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Modular_People/SK_Female_Scifi.scene.nasset/SK_Female_Scifi.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/SK_Female_Scifi.scene.nasset/SK_Female_Scifi.scene.nasset",
+        "dependencies": [
+            "dc2b65ce-b286-c0fa-c32e-f564c8f70806"
+        ]
     },
     "9fab82bf-4aa0-f266-4f82-18757653bd29": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -16785,7 +17282,7 @@
         "path": "Assets/Modular_People/SK_Male_Hoodie.scene.nasset/SK Male Hoodie.mesh.nasset/SK Male Hoodie Brown 2.meshskin.nasset",
         "dependencies": [
             "cceabefa-3734-746d-b8f7-186a5421541b",
-            "713a7878-d8de-f17d-41a2-8bb0a9cefd34",
+            "9871ea97-f82f-0754-1566-b9c944ef31ad",
             "185eec15-3a74-3d14-882c-d031c74bde40"
         ]
     },
@@ -16809,14 +17306,17 @@
             "67fc8f99-af22-217a-b807-8d0fe436d431"
         ]
     },
-    "a01afd0a-ae7e-dba7-1403-cb705fbbba1e": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Modular_People/SK_Female_Adventurer.scene.nasset/Sk Female Worker.mesh.nasset/Sk Female Worker Orange 2.meshskin.nasset",
+    "a03b0ce4-596a-4266-7fbb-3d432e0d885c": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/Player_Scripts/Female/Female Formal.scene.nasset",
+        "thumbnail": "22982399-3dc9-48b0-9f6d-6bfd3551ad75",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
         "dependencies": [
-            "ffc5963d-7949-8f47-07a7-1382062e8f3c",
-            "1ff0dcbc-05cd-ded0-25b1-dbefc6d6f9e7",
-            "9009fbeb-e27e-170e-c01f-efc9a4155338"
+            "b4ec400c-1778-16fc-0511-4e120780c5ba"
         ]
     },
     "a05d53bd-f31e-4cde-8f18-381d3111da0b": {
@@ -16951,7 +17451,7 @@
         "path": "Assets/Modular_People/SK_Male_King.scene.nasset/SK Male King.mesh.nasset/SK Male King Blue 1.meshskin.nasset",
         "dependencies": [
             "acef7bda-26f8-b385-d9df-efe2f192c571",
-            "153d7ac1-35de-dcec-75ad-fc64716aa89d",
+            "b5a20136-d5e7-2c3c-c7c1-044f18813c7f",
             "512839d1-555d-0788-4b7f-4e9c29136a97"
         ]
     },
@@ -17106,11 +17606,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Worker.scene.nasset.tex.nasset"
     },
-    "a338ea26-1d19-9c7e-df7f-a8f70f6f5468": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Run Jump.anim.nasset"
-    },
     "a33d3873-080e-4e3e-b393-e2d8ce98821c": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -17145,6 +17640,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "a3f89c57-52ed-4282-a270-f26f46e5ba0e": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Modular_People/Animations/Female/Modular Female Run Back.anim.nasset"
+    },
     "a3fbc0e6-906f-4eea-bbd4-518863d7e85d": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -17171,6 +17671,19 @@
         "path": "Assets/Sushime/Animations/Sushime Chop End.anim.nasset",
         "dependencies": [
             "d9f46431-0cc8-aac3-c7ec-30bf7144851e"
+        ]
+    },
+    "a4a06247-0e82-499c-9960-275e8dc737a5": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/Player_Scripts/Female/Female Witch.scene.nasset",
+        "thumbnail": "d1ff1bb7-f4d6-4d95-9a64-f36cb0886a2d",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "a80de285-763d-be33-bd76-d778a9b41272"
         ]
     },
     "a4a61705-4b59-0802-500c-b9e683fe2d8f": {
@@ -17217,6 +17730,11 @@
         "dependencies": [
             "94dd023c-4dd2-0998-2453-be02180e9712"
         ]
+    },
+    "a4f7ee5c-a5b9-4195-94b5-8410d0c804db": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Modular_People/Animations/Female/Modular Female Idle Sword.anim.nasset"
     },
     "a50f1203-11b9-4415-b770-507cb9c2cf9e": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -17311,11 +17829,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Sushime/Thumbnails/Blondie.scene.nasset.tex.nasset"
     },
-    "a622d5c8-898f-343f-3c85-4355fe99e813": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Clapping.anim.nasset"
-    },
     "a63e1b38-a29a-576e-aa27-335f420cfc26": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -17376,13 +17889,18 @@
             "9b9d6cf0-e652-b9a1-bda2-925e8f8dba7b"
         ]
     },
+    "a6ab16e2-51c5-4131-b89b-69643496ef76": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Swim.anim.nasset"
+    },
     "a6c41eb8-ee4a-1419-91e1-affc742712c1": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Modular_People/SK_Male_Beach.scene.nasset/SK Male Beach.mesh.nasset/SK Male Beach Gold 2.meshskin.nasset",
         "dependencies": [
             "ad93c1aa-ab1f-e28f-6dfc-d49385af90ad",
-            "9bb0dabb-b21d-5795-f5e1-8a87cd12eec7",
+            "d58ec2a3-fc8f-fe84-3755-ff0e88749653",
             "efd77e32-5a19-6f7b-ae0a-982674eebe63"
         ]
     },
@@ -17516,9 +18034,28 @@
     },
     "a80de285-763d-be33-bd76-d778a9b41272": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Modular_People/SK_Female_Witch.scene.nasset/SK Female Witch.mesh.nasset/SK Female Witch.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "1dfb7d67-302b-850f-a04f-f02b0d8e34b2",
+            "6c9a5614-f8db-f0bb-10ee-49a17d18d944",
+            "8b65f0cf-12f6-da97-030c-7e422f7e8d85",
+            "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+            "cc6c1ed5-8d87-b8ea-d26c-62dec3db8dad",
+            "ee4ed031-bd55-3c2d-7b6a-294433e7ae3a",
+            "efd77e32-5a19-6f7b-ae0a-982674eebe63",
+            "a4a61705-4b59-0802-500c-b9e683fe2d8f",
+            "2993cb38-51c6-1b5a-1b4c-53d8fbf64e6f",
+            "185eec15-3a74-3d14-882c-d031c74bde40",
+            "03792975-7972-acb0-aa28-490c1e9a2b62",
+            "b92879f1-d5b4-2fae-c2c3-fad78b185154",
+            "c75b2930-920c-7712-0d50-a0c1b8a835b6",
+            "337678df-f8bf-57c6-6a2a-555b32c52022",
+            "74da2a58-cf7d-a313-b54a-0b4a4319d8f9",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
         ]
     },
     "a8146617-705b-45d8-8081-2fec12d073ef": {
@@ -17532,6 +18069,19 @@
     "a82d204b-92e4-4a95-9e78-9950c0113da3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Doctor_Old.scene.nasset.tex.nasset"
+    },
+    "a82fbee1-86e0-48ed-bcae-b10089572b7b": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/Player_Scripts/Male/Male Worker.scene.nasset",
+        "thumbnail": "a7e65b31-5a43-4519-9d09-45c58f8dbe92",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "563ed2a1-80cf-c9ae-1413-5d4623c5e034"
+        ]
     },
     "a8316c2b-d221-c1c5-44d6-ceb966c778a8": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -17547,16 +18097,6 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mechs/George/SK_George.scene.nasset/SK George.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
-    "a866f225-d9c4-1dbc-20c8-45bf2eab625d": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Modular_People/SK_Female_Adventurer.scene.nasset/Sk Female Worker.mesh.nasset/Sk Female Worker Skin.meshskin.nasset",
-        "dependencies": [
-            "fab356f6-8e7e-8a3a-2730-071897672930",
-            "1ff0dcbc-05cd-ded0-25b1-dbefc6d6f9e7",
-            "632c0acb-e414-2dd0-c921-7d94ebb6b5e7"
-        ]
     },
     "a868bd6e-2464-9f4d-95f1-90dd10503b94": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -17594,6 +18134,19 @@
         "dependencies": [
             "ae59664e-44f1-cea1-a6b0-523697106e7b",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a8c7f538-2aac-49a6-b2aa-3025cf07a9d0": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/Player_Scripts/Male/Male Suit.scene.nasset",
+        "thumbnail": "0287510b-bbca-4aea-a6c7-b035c987af77",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "83cc5c8f-62df-72e5-3929-e6754fc5542e"
         ]
     },
     "a9178549-cc95-80c2-bf42-6361b0324553": {
@@ -17771,16 +18324,6 @@
     "aa9bb729-87e8-6323-141b-15cce759f7dd": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Animals/Snake/Material Instances/Snake Eye.mtli.nasset"
-    },
-    "aacef62b-2029-9c9b-0bc2-945b8489e9f5": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Modular_People/SK_Female_Adventurer.scene.nasset/Sk Female Worker.mesh.nasset/Sk Female Worker Black 2.meshskin.nasset",
-        "dependencies": [
-            "3e05acc9-b551-edd2-70dd-626a272b312e",
-            "1ff0dcbc-05cd-ded0-25b1-dbefc6d6f9e7",
-            "6db63248-e34d-8c41-9f0f-565979c307ae"
-        ]
     },
     "aae724af-2651-841b-52c2-bd44795c3113": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -18317,11 +18860,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/2D_Platformer/Jumperman/Thumbnails/Spike_Man.scene.nasset.tex.nasset"
     },
-    "afc9b48c-b7c7-3c7d-32f4-e0dd23b1b351": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Sitting.anim.nasset"
-    },
     "afe3aaaf-7375-87d2-42b0-789989bb8b3b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -18432,7 +18970,7 @@
         "path": "Assets/Modular_People/SK_Male_King.scene.nasset/SK Male King.mesh.nasset/SK Male King Beige.meshskin.nasset",
         "dependencies": [
             "0388b942-a759-0b19-310e-4f7ad34f66cd",
-            "153d7ac1-35de-dcec-75ad-fc64716aa89d",
+            "b5a20136-d5e7-2c3c-c7c1-044f18813c7f",
             "7821439d-9f19-92eb-65b9-fbedc36bae1f"
         ]
     },
@@ -18470,9 +19008,23 @@
             "add9eeac-039d-8c56-5381-6e886b6b3b0e"
         ]
     },
+    "b1121b20-cb78-98d1-7406-4b7ed553603f": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Modular_People/SK_Male_Spacesuit.scene.nasset/SK Male Spacesuit.mesh.nasset/SK Male Spacesuit Orange 1.meshskin.nasset",
+        "dependencies": [
+            "7ab66458-5f6c-859e-4977-7e4194de10ff",
+            "67bb80b1-8def-ddb0-2142-be2d225622b9",
+            "9af5261f-d4dd-2a23-45df-8069f39da8a9"
+        ]
+    },
     "b1379cb0-ac85-088b-224b-5798c769422b": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Modular_People/SK_Male_Farmer.scene.nasset/SK_Male_Farmer.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/SK_Male_Farmer.scene.nasset/SK_Male_Farmer.scene.nasset",
+        "dependencies": [
+            "99fc5012-63ad-ff2c-46ca-264536ad3afb"
+        ]
     },
     "b14e3f2f-c87c-ad02-9243-dcbcb2c026bc": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -18525,7 +19077,7 @@
         "path": "Assets/Modular_People/SK_Male_Casual.scene.nasset/SK Male Casual.mesh.nasset/SK Male Casual Brown Light 2.meshskin.nasset",
         "dependencies": [
             "ab146dc5-09f4-14e3-de9a-36571d5ed035",
-            "0bcfa9ac-ad71-fcf0-5227-fe576da467ac",
+            "d50bdef0-e5eb-3460-f0b7-31c6a71922e8",
             "373d32ae-df40-153b-164d-b5e187f9bce8"
         ]
     },
@@ -18538,11 +19090,6 @@
             "570a3ab7-5b89-99c1-d433-8a7862f1e091",
             "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78"
         ]
-    },
-    "b1ccc0d1-9c6f-43bc-44c1-027e277d3db7": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/SK_Female_Witch.scene.nasset/SK Female Witch.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "b1d652f3-363c-405b-a855-4ca4655734ba": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -18592,7 +19139,7 @@
     "b1e7d5ec-be09-49d2-b8d6-dfd4131f483f": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/Animations/Modular People Idle Neutral.anim.nasset"
+        "path": "Assets/Modular_People/Animations/Male/Modular Male Idle Neutral.anim.nasset"
     },
     "b1eeac02-ff98-4d5c-81e4-c7a43dfec9d0": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -18641,6 +19188,19 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/2D_Platformer/Shapeways/Thumbnails/Shape_Green.scene.nasset.tex.nasset"
     },
+    "b22985f2-3430-4245-981c-8246ea471e14": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/Player_Scripts/Male/Male Casual.scene.nasset",
+        "thumbnail": "c6fd71ad-13d6-4dad-a7e1-ad4c381bd4fd",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "e664ee89-6d0a-1870-2950-c0b16dcd5504"
+        ]
+    },
     "b2331a8b-652b-47c0-97c9-a55350cfcde7": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -18684,7 +19244,11 @@
     },
     "b28b3e16-3678-bf51-a00d-6b9e7384beee": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Modular_People/SK_Male_Suit.scene.nasset/SK_Male_Suit.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/SK_Male_Suit.scene.nasset/SK_Male_Suit.scene.nasset",
+        "dependencies": [
+            "83cc5c8f-62df-72e5-3929-e6754fc5542e"
+        ]
     },
     "b29e7dd0-99d7-422c-a68f-43adc16aed01": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -18725,6 +19289,11 @@
             "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "b2e78a72-cb2c-49ae-a0a3-2c0dc7b0a263": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Modular_People/Animations/Female/Modular Female Idle.anim.nasset"
     },
     "b2ebfbc6-d39a-42ca-893c-d10551e874a3": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -18861,6 +19430,18 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mini/Animations/Mini Grab.anim.nasset"
     },
+    "b470731c-37b1-28e0-f51c-45acd8c4f56d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Worker.scene.nasset/SK Male Worker.mesh.nasset/SK Male Worker Orange 2.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9009fbeb-e27e-170e-c01f-efc9a4155338",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "b47fdb30-1afe-d97a-c413-cbf29fc5e84e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Mechs/Mike/Textures/T_Mike_D.tex.nasset"
@@ -18889,9 +19470,28 @@
     },
     "b4ec400c-1778-16fc-0511-4e120780c5ba": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Modular_People/SK_Female_Formal.scene.nasset/SK Female Formal.mesh.nasset/SK Female Formal.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+            "a4ad2e72-2fe3-6933-6415-0eda379f02e8",
+            "7722e897-0f6f-c6bd-e604-d36512aed850",
+            "337934aa-8754-6ac8-b242-4574fa4ddaa3",
+            "e60b7624-b484-104e-c564-64d9507e8cce",
+            "306f2148-1e6b-2ce9-0e65-a08be88e94e9",
+            "185eec15-3a74-3d14-882c-d031c74bde40",
+            "156a26fd-c1d1-e190-c4bd-a3aae9140e4c",
+            "316626ec-2bf1-5acf-33f4-ac5f95f3ddff",
+            "1d6aec24-2631-2638-d70b-dca67bd6e737",
+            "b26eccb1-e762-495b-8dcc-cd5eef0d0dd9",
+            "0498e102-1a57-b0da-d2b5-4f453e8977fe",
+            "efd77e32-5a19-6f7b-ae0a-982674eebe63",
+            "dce27088-d667-72f9-86a6-16580c467317",
+            "b8837c13-8843-afd5-f769-1b5476f6ec7a",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
         ]
     },
     "b4f4db88-7518-4c07-97ea-d92b33e60433": {
@@ -18916,6 +19516,19 @@
         "dependencies": [
             "d794673a-a697-a90b-1db7-abda1c9bee7f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b519ab68-e6a7-42b8-b98c-4f681524439f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/Player_Scripts/Male/Male Punk.scene.nasset",
+        "thumbnail": "3a845b5f-a983-41f4-93b9-2ae54d00efde",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "d64cc065-7b2d-6e8c-31e2-9045d9e4c275"
         ]
     },
     "b53e5da8-85e5-bb78-8710-11c75bf2035e": {
@@ -18971,7 +19584,7 @@
     "b5fa0592-a13b-4dd9-8f3f-76bf70cd6233": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/Animations/Modular People Idle Gun Shoot.anim.nasset"
+        "path": "Assets/Modular_People/Animations/Male/Modular Male Idle Gun Shoot.anim.nasset"
     },
     "b605b034-f32d-30f8-56ab-b5e665cc8e69": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -19006,7 +19619,7 @@
         "path": "Assets/Modular_People/SK_Male_Suit.scene.nasset/SK Male Suit.mesh.nasset/SK Male Suit Tie.meshskin.nasset",
         "dependencies": [
             "e5d4572e-ab3f-3af6-aef3-27f65176bd35",
-            "8b861f68-cefd-d203-eef3-ad753741604e",
+            "3a8e96cf-7d35-0c28-918e-26fb121681da",
             "351337dd-3d80-9b5f-7f9e-d75caa46d097"
         ]
     },
@@ -19138,6 +19751,11 @@
             "f76751a5-d6e4-241f-b934-5f7172ff20a0"
         ]
     },
+    "b7974d1d-2e1a-4416-9ecf-a9b2048e5dd0": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Modular_People/Animations/Female/Modular Female Hit React 1.anim.nasset"
+    },
     "b7b0c202-03ea-473c-6dd5-0a1c42f87905": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -19149,6 +19767,11 @@
             "1b5e6a47-26c9-6bee-79de-d6492154ec1d",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "b7d5d0ef-a677-4660-87ba-977d052a2288": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Modular_People/Animations/Female/Modular Female Wave.anim.nasset"
     },
     "b7e06fcf-3d19-0b32-0c9a-d4aa9d3381c0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -19196,6 +19819,19 @@
         "thumbnail": "793b5c52-8ce0-4bd0-bf72-1ee817034f58",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
+    "b81660b7-bcc8-4041-9f2e-70fb1341aba1": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/Player_Scripts/Female/Female Adventurer.scene.nasset",
+        "thumbnail": "9157961b-598e-490b-ac58-9332dba316c2",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "e53520ea-1c7b-d341-6467-55c826a1d163"
         ]
     },
     "b8519aae-9b5f-47bf-b10f-555b54bf86cb": {
@@ -19311,10 +19947,6 @@
         "dependencies": [
             "54026ee9-c279-9f4c-d4f3-dcbde89a4a5f"
         ]
-    },
-    "b90f0e47-858e-be7a-390d-a9c4992638c3": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Modular_People/SK_Female_Adventurer.scene.nasset/SK_Female_Adventurer.scene.nasset"
     },
     "b91be93c-455e-d613-9950-bb6f5dff4610": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -19705,7 +20337,7 @@
         "path": "Assets/Modular_People/SK_Male_Farmer.scene.nasset/SK Male Farmer.mesh.nasset/SK Male Farmer Brown 2.meshskin.nasset",
         "dependencies": [
             "32439574-a3b4-5cf4-a985-e1a29582c949",
-            "c204175f-b65e-c7fd-af79-01fcbdf8d900",
+            "836709f0-0ac6-f396-10d3-dd7bd03959b6",
             "185eec15-3a74-3d14-882c-d031c74bde40"
         ]
     },
@@ -19816,6 +20448,19 @@
         "path": "Assets/Animals/Alpaca/Animations/Alpaca_Run.anim.nasset",
         "dependencies": [
             "125cd8a8-6a61-0b44-61b0-ea6c323702e8"
+        ]
+    },
+    "bd8b578d-974e-4856-85f8-d2e8da6904fe": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/Player_Scripts/Female/Female Worker.scene.nasset",
+        "thumbnail": "94a1cb39-8b1b-478d-9726-5b79fa511c44",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "fdb0cf31-58d3-a44c-a4be-3c5bcb819023"
         ]
     },
     "bd9750ad-8023-4fe4-93e7-79cd0806268a": {
@@ -20001,6 +20646,19 @@
         ],
         "dependencies": [
             "c0ef37a3-1fe9-a633-bf90-51c2de6ecce5"
+        ]
+    },
+    "bf4820b9-f573-4e04-8f04-d41d5646a715": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/Player_Scripts/Male/Male Adventurer.scene.nasset",
+        "thumbnail": "5588ff0b-c0fd-41a3-830d-6b964c8bbf18",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "188a6a71-ffbf-c6aa-a06c-ec7d29f520d2"
         ]
     },
     "bf518174-e3bf-8827-4a6f-456e28da52a2": {
@@ -20305,6 +20963,19 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Pug/Animations/Pug_Idle.anim.nasset"
     },
+    "c18de3db-7e17-4cb5-b0db-39ee73a3a1c7": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/Player_Scripts/Female/Female Medieval.scene.nasset",
+        "thumbnail": "0c3f59f2-a26b-477b-9222-58b8b5d21912",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "5841fd6f-a735-3dbb-9d43-e35bc8b3ca44"
+        ]
+    },
     "c18eaf78-86ed-5713-5d11-ed832411c4da": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -20352,18 +21023,13 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Sushime/Thumbnails/Cy.scene.nasset.tex.nasset"
     },
-    "c204175f-b65e-c7fd-af79-01fcbdf8d900": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/SK_Male_Farmer.scene.nasset/SK Male Farmer.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
     "c233388c-a152-998f-e2ea-4dcbf715187d": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Modular_People/SK_Male_Hoodie.scene.nasset/SK Male Hoodie.mesh.nasset/SK Male Hoodie Hair Brown.meshskin.nasset",
         "dependencies": [
             "b2de0fdf-ed03-d5d2-2adb-1d9e8c91f808",
-            "713a7878-d8de-f17d-41a2-8bb0a9cefd34",
+            "9871ea97-f82f-0754-1566-b9c944ef31ad",
             "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78"
         ]
     },
@@ -20401,9 +21067,25 @@
     },
     "c29ee865-8fdd-76f1-c349-2ab033a2ab22": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Modular_People/SK_Male_Swat.scene.nasset/SK Male Swat.mesh.nasset/SK Male Swat.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "57858c03-24f2-158c-a480-183844c3a648",
+            "5b52944c-5527-1e77-6907-9e9c6277ffe6",
+            "1cecf9f7-0f3c-8c80-f0e9-2451b9cebabc",
+            "6db63248-e34d-8c41-9f0f-565979c307ae",
+            "ef4ad7ca-7a2b-c17d-5c33-118c7b3b195f",
+            "12d597ec-4742-ee99-ccf6-5302884fd24e",
+            "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+            "a882ec51-8bfa-de6b-339a-743c030262c5",
+            "31469fe1-8b2e-ec9b-e796-3c59287a201c",
+            "2cb2bcae-4c72-7889-facb-7b4cb09a487d",
+            "e15b8427-fa5d-ebbe-9cba-fbc98c43ce9c",
+            "01277167-1de5-bd5d-5b10-8d08a4e973c7",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
         ]
     },
     "c2af3cd0-3d2d-45cf-9112-a24102a039fb": {
@@ -20451,7 +21133,7 @@
         "path": "Assets/Modular_People/SK_Male_King.scene.nasset/SK Male King.mesh.nasset/SK Male King Metal 3.meshskin.nasset",
         "dependencies": [
             "7f75758c-f6bb-947d-3f2a-5293348486ab",
-            "153d7ac1-35de-dcec-75ad-fc64716aa89d",
+            "b5a20136-d5e7-2c3c-c7c1-044f18813c7f",
             "36c70b58-7989-4d54-ae9c-0fb442d73e6e"
         ]
     },
@@ -20480,6 +21162,11 @@
         "dependencies": [
             "d9f46431-0cc8-aac3-c7ec-30bf7144851e"
         ]
+    },
+    "c310003b-9f95-4b29-8950-2a1fda36e181": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Modular_People/Animations/Female/Modular Female Idle Neutral.anim.nasset"
     },
     "c310de75-6871-6625-6c5e-94bf154b2f8b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -20512,18 +21199,6 @@
         "thumbnail": "74f76f54-fce7-d3a5-3c76-02b251d1e901",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "c3852439-4b4c-0dc1-5a38-0d85106f0ba7": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Modular_People/SK_Female_Adventurer.scene.nasset/Sk Female Worker.mesh.nasset/Sk Female Worker Brown Dark 2.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "c91fd22d-888f-84a7-81d6-38882a091b5e",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "c3a1f071-27d2-455b-aeda-15ff4f58e423": {
@@ -20561,7 +21236,7 @@
     "c3f7e475-8f25-4508-a062-7fc5502891d2": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/Animations/Modular People Sword Slash.anim.nasset"
+        "path": "Assets/Modular_People/Animations/Male/Modular Male Sword Slash.anim.nasset"
     },
     "c4094a23-2254-488f-b411-a02d948cae66": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -21117,11 +21792,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "c85e4633-fd97-f31d-9e12-ce4487be688d": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Sword Slash.anim.nasset"
-    },
     "c881d960-a883-8988-403d-cfcf0399a0ab": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -21130,6 +21800,18 @@
             "f7667dac-fc7a-0a24-b24b-6dbde0cccf6d",
             "cbc2293a-c998-361e-74cf-3b37a3f0254f",
             "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec"
+        ]
+    },
+    "c8949d18-193b-8ac4-0e42-d7d519573ff1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Suit.scene.nasset/SK Male Suit.mesh.nasset/SK Male Suit White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "1a6c2f5f-0ecc-81d6-6e36-7ff062673105",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "c8a034a6-4ac1-4919-af92-6b22625725af": {
@@ -21215,16 +21897,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "c95bb343-601c-c533-1229-9ee05541c075": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Modular_People/SK_Female_Adventurer.scene.nasset/Sk Female Worker.mesh.nasset/Sk Female Worker Brown 4.meshskin.nasset",
-        "dependencies": [
-            "571dd3cf-f16b-3ff7-2f93-978fd2ed7bb1",
-            "1ff0dcbc-05cd-ded0-25b1-dbefc6d6f9e7",
-            "2e39aba7-5921-7120-e1ab-32d0ab5b1275"
-        ]
-    },
     "c965188d-d1a2-645a-9663-c08045ae7f92": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Animals/Spider/Material Instances/Spider Main.mtli.nasset",
@@ -21271,9 +21943,19 @@
             "38705279-46f4-3ef0-c783-9bb1a6bfacef"
         ]
     },
+    "c9c0279c-4315-ea46-14f3-30dff7c97d5f": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Sitting.anim.nasset"
+    },
     "c9e6ecf3-1c52-46a9-80db-486a11ab7e4e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Monsters/Big/Thumbnails/Snapper.scene.nasset.tex.nasset"
+    },
+    "c9fdb453-5004-4dc6-aec2-5cf4ea6f5261": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Modular_People/Animations/Female/Modular Female Run Right.anim.nasset"
     },
     "ca129694-85cf-9b9d-115c-961ce159c234": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -21409,6 +22091,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "caee058b-bbc1-5784-c030-415710e3faae": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Standing.anim.nasset"
+    },
     "cafa2059-c3a5-bab3-bf36-9392358d349b": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -21497,6 +22184,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Mini/Textures/T_Mini_Dungeon_D.tex.nasset"
     },
+    "cbce0eb8-6f73-5771-1bcd-67b77e34e38b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Punch.anim.nasset"
+    },
     "cbdf5e3a-d005-1df3-43ea-dde9b2ef8757": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -21563,6 +22255,11 @@
             "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ]
     },
+    "cc6063bf-bf5c-5700-0e40-534b693a6484": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Death.anim.nasset"
+    },
     "cc616704-08ad-3a9e-701e-7169df6bae52": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Material Instances/Thumbnails/Pink.mtli.nasset.tex.nasset"
@@ -21607,10 +22304,10 @@
             "aa1005b0-745e-719c-bb1c-c515e64e9c59"
         ]
     },
-    "cccaadb0-f8de-e5e5-7e1b-5b3ddd979d65": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+    "ccd845c0-6407-4471-ad72-fe0fa4c69f46": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/SK_Female_Suit.scene.nasset/SK Female Suit.mesh.nasset/Skeletons/RootNode.skel.nasset"
+        "path": "Assets/Modular_People/Animations/Female/Modular Female Run Shoot.anim.nasset"
     },
     "ccdb1eeb-4f71-a2a4-ece6-d866fb2c4774": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -21618,7 +22315,7 @@
         "path": "Assets/Modular_People/SK_Male_Hoodie.scene.nasset/SK Male Hoodie.mesh.nasset/SK Male Hoodie Hair Red.meshskin.nasset",
         "dependencies": [
             "5b0e7ffa-c55e-9505-407c-3af057631dd6",
-            "713a7878-d8de-f17d-41a2-8bb0a9cefd34",
+            "9871ea97-f82f-0754-1566-b9c944ef31ad",
             "d1a5ada9-30a1-e546-7928-e5bcdd07b39f"
         ]
     },
@@ -21747,6 +22444,19 @@
             "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec"
         ]
     },
+    "cdf4d68b-9e94-4591-a37a-cd96908f163b": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/Player_Scripts/Male/Male King.scene.nasset",
+        "thumbnail": "903dac1b-3d92-484a-9bac-9a8883d0415d",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "5ec5d2d4-c899-0a09-7744-6b407849de6c"
+        ]
+    },
     "ce20d49a-e099-3c72-54ef-6a5236472a2c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Material Instances/Thumbnails/Belt 3.mtli.nasset.tex.nasset"
@@ -21781,7 +22491,7 @@
         "path": "Assets/Modular_People/SK_Male_Worker.scene.nasset/SK Male Worker.mesh.nasset/SK Male Worker Brown Light 2.meshskin.nasset",
         "dependencies": [
             "4d57b477-dc78-4cce-99bf-3d07fbe3a056",
-            "dc8d3b5c-d1cd-af8c-aad9-40cfae9fa8fd",
+            "e50d9802-3700-7660-59e9-b40273a5c799",
             "373d32ae-df40-153b-164d-b5e187f9bce8"
         ]
     },
@@ -21977,7 +22687,11 @@
     },
     "d060f22b-bcbd-fef7-b296-453dffe3b525": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Modular_People/SK_Female_Casual.scene.nasset/SK_Female_Casual.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/SK_Female_Casual.scene.nasset/SK_Female_Casual.scene.nasset",
+        "dependencies": [
+            "5833ad8c-7b0b-d98c-1486-f1661d9cccd9"
+        ]
     },
     "d0702a1e-9071-4138-8ef0-03db2c77579d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -22137,6 +22851,10 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "d1ff1bb7-f4d6-4d95-9a64-f36cb0886a2d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_People/Thumbnails/Female/Female_Witch.scene.nasset.tex.nasset"
+    },
     "d2014c2b-3063-2f77-db91-784ffdc786fc": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Heist/Material Instances/Grey Dark.mtli.nasset",
@@ -22207,6 +22925,10 @@
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
+    },
+    "d25db925-b526-46f7-a689-425ce52aa7d6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_People/Thumbnails/Female/Female_Suit.scene.nasset.tex.nasset"
     },
     "d26dae75-77ca-ba8f-85d4-480b99c76166": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -22385,6 +23107,11 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mini/SK_Mini_Gladiator.scene.nasset/SK Mini Gladiator.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "d43fb6e0-c3df-49d9-bd9d-d6ef7ce88313": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Modular_People/Animations/Female/Modular Female Interact.anim.nasset"
+    },
     "d47b6347-605b-48a6-acc8-05a5281325a3": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -22498,7 +23225,11 @@
     },
     "d55c6d22-0162-25c7-fef9-284a168eda4a": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Modular_People/SK_Female_Witch.scene.nasset/SK_Female_Witch.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/SK_Female_Witch.scene.nasset/SK_Female_Witch.scene.nasset",
+        "dependencies": [
+            "a80de285-763d-be33-bd76-d778a9b41272"
+        ]
     },
     "d560ddcc-d4bf-e6e9-5ea3-76e90754235e": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -22576,9 +23307,40 @@
     },
     "d64cc065-7b2d-6e8c-31e2-9045d9e4c275": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Modular_People/SK_Male_Punk.scene.nasset/SK Male Punk.mesh.nasset/SK Male Punk.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "2cb2bcae-4c72-7889-facb-7b4cb09a487d",
+            "d24bac13-58df-bca2-93b3-bc276cc275cf",
+            "8b2bf437-7779-c0f2-7c7a-a48ddad0a05b",
+            "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+            "88fad8b7-598f-9d07-36b9-3699f4819f8d",
+            "eb0da728-841e-d90f-8386-60ba93c3e77b",
+            "3cf8c593-fc4f-ba15-8500-b5d6d735d5e9",
+            "8b89c382-319a-36f9-d7d3-48296937a7df",
+            "6c2602b5-df02-ac03-97fe-d0c2195cc60b",
+            "ef20d33c-59a9-04f8-2c2c-e7b72a1713fe",
+            "c4ca0116-3100-1c7e-8473-350731b80e91",
+            "bf63b4fe-057a-791f-07b2-8831a7655b09",
+            "ab021971-5963-7b4d-6cf3-cdd88b9b0199",
+            "5b5e3aec-3269-1865-5333-dda06b43f4c0",
+            "95c0960c-d066-ada0-f4b6-2ee5fde08f2e",
+            "efd77e32-5a19-6f7b-ae0a-982674eebe63",
+            "7f6fd1aa-584d-3144-541c-91a0f17d71f2",
+            "3d9d518b-f0e3-0257-8d0f-a28a5b658314",
+            "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78",
+            "327312a1-5784-cc28-4acb-2c582720b839",
+            "0d831e7a-d4a5-db45-d204-c1aa3ca596aa",
+            "185eec15-3a74-3d14-882c-d031c74bde40",
+            "27f51329-7f05-e75f-2d7d-d06767c7f490",
+            "79a2c842-8e01-5b25-1abd-40ab4419de55",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+            "1a6c2f5f-0ecc-81d6-6e36-7ff062673105",
+            "252591ad-0c19-563f-2836-a3337a737a76",
+            "22e749d5-cdee-0f4e-f11a-2cd33e80dc16"
         ]
     },
     "d654d961-747a-353c-a3f8-7dbcb147b81c": {
@@ -22670,12 +23432,7 @@
     "d855a32a-da81-4404-9615-2f15eaac9d7c": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/Animations/Modular People Punch Left.anim.nasset"
-    },
-    "d879bd64-e14d-a868-a8ef-81baba0b5471": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Skeleton/Animations/Skeleton Spawn.anim.nasset"
+        "path": "Assets/Modular_People/Animations/Male/Modular Male Punch Left.anim.nasset"
     },
     "d8a157ef-683c-47f6-a7c1-11695f7baf92": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -22684,11 +23441,6 @@
     "d8b657ad-ed29-4991-9b68-d0e74a50d962": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/2D_Platformer/Jumperman/Thumbnails/Bunny_Brown.scene.nasset.tex.nasset"
-    },
-    "d8c880b9-9517-7157-d9fa-86e2f9c87711": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Misc/Alien/Animations/Alien Rogue Idle Hold.anim.nasset"
     },
     "d8e1bfc7-4e24-49c8-8ac0-3227891c6768": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -23096,9 +23848,34 @@
     },
     "dc2b65ce-b286-c0fa-c32e-f564c8f70806": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Modular_People/SK_Female_Scifi.scene.nasset/SK Female Scifi.mesh.nasset/SK Female Scifi.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "6db63248-e34d-8c41-9f0f-565979c307ae",
+            "82b8b8e6-14dd-3903-e700-60ed4a0197aa",
+            "9bfcfe38-5cbc-0c2a-21c2-b4a568e9bba9",
+            "df0bb0ea-e834-68e1-4e63-711c8bb9b382",
+            "94c0b36d-889c-d92d-7a47-cba363825d85",
+            "463186f8-1949-e85d-2136-01d339ec8cd1",
+            "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+            "83e3844b-3927-2055-faeb-92c425dce6e1",
+            "f03dd37d-7d24-a42f-a45e-ed38da1fb419",
+            "67fd4eea-9138-551d-bb3d-07d1c44dd5b9",
+            "8dd791d1-b388-b03f-3dbc-c3fd912909c4",
+            "3fbd86c1-4abc-2820-7665-3b1dda83468f",
+            "49664d30-ba43-c84d-aec2-9a022bce2acc",
+            "91421e6e-bece-130b-c4fa-a98239d31c65",
+            "98d3961e-f9f0-da08-cdfa-26f423e63343",
+            "c75b2930-920c-7712-0d50-a0c1b8a835b6",
+            "96945335-6698-1cde-4b6e-5dd6d19b581c",
+            "c19ed863-ad65-3c2a-0b22-7cd00cc8de94",
+            "185eec15-3a74-3d14-882c-d031c74bde40",
+            "b87b002a-5e7c-6f54-033c-fa82a96d4af1",
+            "8c56b023-0680-ac56-8b1e-1370b4e606db",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
         ]
     },
     "dc2bd89d-aa74-3499-0370-19da95cb5d27": {
@@ -23121,14 +23898,21 @@
             "3f4ea462-e616-5161-190b-8d033fcf1171"
         ]
     },
-    "dc8d3b5c-d1cd-af8c-aad9-40cfae9fa8fd": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/SK_Male_Worker.scene.nasset/SK Male Worker.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
     "dc8dd89b-11da-44ae-80fa-3a63042a74fc": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Dinosaurs/Stegosaurus/Thumbnails/Stegosaurus.scene.nasset.tex.nasset"
+    },
+    "dcab6d33-f560-5d72-d0fc-af5a68bb9894": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Modular_People/SK_Male_Hoodie.scene.nasset/SK Male Hoodie.mesh.nasset/SK Male Hoodie White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "1a6c2f5f-0ecc-81d6-6e36-7ff062673105",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "dcb6b080-de19-48a8-90d2-7f8792db3a59": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -23442,7 +24226,7 @@
         "path": "Assets/Modular_People/SK_Male_Farmer.scene.nasset/SK Male Farmer.mesh.nasset/SK Male Farmer Red 1.meshskin.nasset",
         "dependencies": [
             "70bcd9ba-ed76-0ae6-2393-c372458539db",
-            "c204175f-b65e-c7fd-af79-01fcbdf8d900",
+            "836709f0-0ac6-f396-10d3-dd7bd03959b6",
             "ab021971-5963-7b4d-6cf3-cdd88b9b0199"
         ]
     },
@@ -23461,11 +24245,6 @@
         "dependencies": [
             "dae8675b-ba76-2bd4-21fb-cb54c859696f"
         ]
-    },
-    "e007e658-261f-bca2-479c-1c6d8d3c74e1": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/SK_Female_Medieval.scene.nasset/SK Female Medieval.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "e01ba6ff-0d86-8d96-6de3-31d41f1740a8": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -23510,9 +24289,40 @@
     },
     "e06fe6e9-8e6e-38ab-d066-aa6b463e1dea": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Modular_People/SK_Male_Beach.scene.nasset/SK Male Beach.mesh.nasset/SK Male Beach.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+            "35fb51ef-8aa2-e908-777f-40a5e9c68365",
+            "e14e5dcf-088c-e3f7-4011-50fe2ccd8352",
+            "ab021971-5963-7b4d-6cf3-cdd88b9b0199",
+            "9f425deb-8f4d-5fab-f689-fa1947a88501",
+            "2c16365f-546a-8871-b762-30d598f517cc",
+            "ef20d33c-59a9-04f8-2c2c-e7b72a1713fe",
+            "8fcd0774-32db-4c01-7e3c-108c2bad92ac",
+            "675cebe2-c78e-feeb-9759-3b52b0f5683a",
+            "373d32ae-df40-153b-164d-b5e187f9bce8",
+            "97d231f8-6226-9897-7d0f-65c1572c6055",
+            "23db291b-2dde-bfcc-e81d-60379fa47925",
+            "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78",
+            "23a90362-b7c2-1a67-d63a-a4964c3f5f15",
+            "91155ff5-77ad-b2e0-261e-f7f549dadfaa",
+            "185eec15-3a74-3d14-882c-d031c74bde40",
+            "6a7fd32a-33be-219d-15cc-d76652dac122",
+            "1e474105-53a0-1fa8-9f87-25bfeecfeb3b",
+            "d1a5ada9-30a1-e546-7928-e5bcdd07b39f",
+            "43856c90-39dc-576c-15f8-c704ed4d132b",
+            "78b714f4-839c-1161-d01a-0086f2d570dd",
+            "efd77e32-5a19-6f7b-ae0a-982674eebe63",
+            "ad93c1aa-ab1f-e28f-6dfc-d49385af90ad",
+            "a6c41eb8-ee4a-1419-91e1-affc742712c1",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+            "1a6c2f5f-0ecc-81d6-6e36-7ff062673105",
+            "50e8fbb9-a748-0730-2afa-deea48ceb2d3",
+            "6c72834f-2333-f351-4e24-8e7dd3e5ed2c"
         ]
     },
     "e070d054-1eab-4f0b-b524-449eac3a1515": {
@@ -23562,7 +24372,12 @@
     "e0cbd50a-bb63-45d9-90ab-4ac762c121bc": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/Animations/Modular People Kick Right.anim.nasset"
+        "path": "Assets/Modular_People/Animations/Male/Modular Male Kick Right.anim.nasset"
+    },
+    "e0dae674-599a-4c16-8b8b-ee6aae867f5d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Modular_People/Animations/Female/Modular Female Run Left.anim.nasset"
     },
     "e104a0fc-3236-d746-99e4-53e1fb6f676c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -23598,14 +24413,14 @@
         "path": "Assets/Modular_People/SK_Male_Beach.scene.nasset/SK Male Beach.mesh.nasset/SK Male Beach Skin.meshskin.nasset",
         "dependencies": [
             "35fb51ef-8aa2-e908-777f-40a5e9c68365",
-            "9bb0dabb-b21d-5795-f5e1-8a87cd12eec7",
+            "d58ec2a3-fc8f-fe84-3755-ff0e88749653",
             "632c0acb-e414-2dd0-c921-7d94ebb6b5e7"
         ]
     },
     "e1582266-fdfb-470e-a7fa-cebad28836d3": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/Animations/Modular People Run Left.anim.nasset"
+        "path": "Assets/Modular_People/Animations/Male/Modular Male Run Left.anim.nasset"
     },
     "e15b8427-fa5d-ebbe-9cba-fbc98c43ce9c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -23639,17 +24454,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Monsters/Big/Thumbnails/Jinn.scene.nasset.tex.nasset"
     },
-    "e1c53233-a38d-36d4-8928-9db1d0d542f0": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Modular_People/SK_Female_Adventurer.scene.nasset/Sk Female Worker.mesh.nasset/Sk Female Worker Yellow.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "2217c2f6-5e67-1530-311e-5c09134c7b09",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
+    "e1aafc96-08a4-47b3-83cf-7a7622fac517": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Modular_People/Animations/Female/Modular Female Run.anim.nasset"
     },
     "e1d83495-4174-017e-e309-34f5512a9f79": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -23791,6 +24599,16 @@
             "f07a06e6-2918-ffb8-7886-1c8e3caa907e"
         ]
     },
+    "e3ce5ca0-575c-38c1-a487-56b90c648f73": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Modular_People/SK_Male_Casual.scene.nasset/SK Male Casual.mesh.nasset/SK Male Casual White.meshskin.nasset",
+        "dependencies": [
+            "2f6185e4-293c-ba5b-7bde-a2bf10725261",
+            "d50bdef0-e5eb-3460-f0b7-31c6a71922e8",
+            "1a6c2f5f-0ecc-81d6-6e36-7ff062673105"
+        ]
+    },
     "e3e00b72-daed-5d1d-c28c-8e1ab29a3499": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Modular_Toon/Material Instances/Horns.mtli.nasset",
@@ -23845,7 +24663,11 @@
     },
     "e464674d-324e-9d1a-0612-9f9440352b13": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Modular_People/SK_Male_Swat.scene.nasset/SK_Male_Swat.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/SK_Male_Swat.scene.nasset/SK_Male_Swat.scene.nasset",
+        "dependencies": [
+            "c29ee865-8fdd-76f1-c349-2ab033a2ab22"
+        ]
     },
     "e4751355-e32f-e1fe-72fc-e381e30c65b7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -23885,7 +24707,7 @@
         "path": "Assets/Modular_People/SK_Male_King.scene.nasset/SK Male King.mesh.nasset/SK Male King Brown Dark 1.meshskin.nasset",
         "dependencies": [
             "8c6dbf4e-f362-489a-a149-d8b142bdc768",
-            "153d7ac1-35de-dcec-75ad-fc64716aa89d",
+            "b5a20136-d5e7-2c3c-c7c1-044f18813c7f",
             "38c0ca9d-4c64-70d2-bdd3-36b2adf97c19"
         ]
     },
@@ -23943,9 +24765,37 @@
     },
     "e53520ea-1c7b-d341-6467-55c826a1d163": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Modular_People/SK_Female_Adventurer.scene.nasset/SK Female Adventurer.mesh.nasset/SK Female Adventurer.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "c07af5ae-fe24-9314-adb1-607f98d77092",
+            "778e1737-b646-91de-01e7-8b19c892d62c",
+            "975707ea-d266-a3bd-c161-c2b6c5b1ef2f",
+            "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+            "0689184e-0099-6932-3d9f-c0c28e029897",
+            "10e0015d-56c0-b039-4a85-96be2b6d8d88",
+            "6df30434-a7c9-d0d5-5581-ea98b15e0a73",
+            "60ccec80-17c1-7152-94c8-6b3cce484708",
+            "3890100d-1654-5b32-248c-e094c34ad4d5",
+            "1a6c2f5f-0ecc-81d6-6e36-7ff062673105",
+            "4a3ada7e-737b-fbe2-ffe3-4abda5e22e70",
+            "1f31bf73-6edd-ca5a-7989-fdd861a01f8e",
+            "185eec15-3a74-3d14-882c-d031c74bde40",
+            "3b10d000-353a-3101-0953-c6851a76907d",
+            "eb9f7627-7f6d-b319-c529-7a1b7fe79d65",
+            "efd77e32-5a19-6f7b-ae0a-982674eebe63",
+            "4f5df0b8-8067-f51d-b7c7-7ff7cd5c97ef",
+            "40099916-16fb-ea1a-2aae-9a9eb01aaffc",
+            "2e39aba7-5921-7120-e1ab-32d0ab5b1275",
+            "4e5b434b-8a7e-f587-83a9-4ea90ffea38b",
+            "fddc74e4-3a6f-0d7a-f578-78fcc8a9360e",
+            "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78",
+            "8a35d702-0a67-3e23-7fa6-c152e004f196",
+            "b8a454d1-1012-385a-b207-97acea80aa96",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
         ]
     },
     "e5364d0f-5c32-1153-831a-721a55bc6cae": {
@@ -24030,10 +24880,49 @@
     },
     "e664ee89-6d0a-1870-2950-c0b16dcd5504": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Modular_People/SK_Male_Casual.scene.nasset/SK Male Casual.mesh.nasset/SK Male Casual.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "3cf8c593-fc4f-ba15-8500-b5d6d735d5e9",
+            "b3db1ad6-b76d-cafc-56a0-7a7a0b712c6d",
+            "659d599b-1ef3-bd09-1615-44feb0c3ffc2",
+            "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+            "33bf690e-095e-b113-bef7-42983f5aa6cd",
+            "27a02b2d-2028-6b6a-df6a-947537084ca4",
+            "8d9f5af2-9fc6-23cb-2d01-c10dab9911de",
+            "4144340c-71e3-2327-c160-1979d01d5676",
+            "1cb0e5a7-e4c3-0600-3ba0-b35f991827b0",
+            "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78",
+            "0d7bf203-c43d-e46b-1916-47ff95ac3f9b",
+            "4112a2b9-043e-0da7-f3dd-25bbc8a87f1b",
+            "185eec15-3a74-3d14-882c-d031c74bde40",
+            "ad94f43f-7b49-5df3-9585-ca402003b434",
+            "19deb904-0a31-f3d8-8ee2-f6222ad28d95",
+            "d1a5ada9-30a1-e546-7928-e5bcdd07b39f",
+            "1f396a7e-4da7-feca-b08d-805d2636cb8f",
+            "3175b175-7984-1bf4-e48e-3e15331f675c",
+            "373d32ae-df40-153b-164d-b5e187f9bce8",
+            "ab146dc5-09f4-14e3-de9a-36571d5ed035",
+            "b192fc69-4e6b-b4c1-264c-385df2ea9193",
+            "ef20d33c-59a9-04f8-2c2c-e7b72a1713fe",
+            "684c455c-1de9-b902-bd77-7d8702ba9904",
+            "a14b2533-53ab-d0fd-0341-c0ce4649b840",
+            "ab021971-5963-7b4d-6cf3-cdd88b9b0199",
+            "129fd7c8-6d65-ac20-ea95-a6b4325ea71b",
+            "06c3feb7-abde-8f89-4f26-b18adfd14bbf",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+            "1a6c2f5f-0ecc-81d6-6e36-7ff062673105",
+            "2f6185e4-293c-ba5b-7bde-a2bf10725261",
+            "e3ce5ca0-575c-38c1-a487-56b90c648f73"
         ]
+    },
+    "e6983721-eead-4c0e-a86e-b341476522fa": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Modular_People/Animations/Female/Modular Female Hit React 2.anim.nasset"
     },
     "e6b9afdb-2929-4608-b6e0-95383edffcd7": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -24172,7 +25061,7 @@
         "path": "Assets/Modular_People/SK_Male_Farmer.scene.nasset/SK Male Farmer.mesh.nasset/SK Male Farmer Skin.meshskin.nasset",
         "dependencies": [
             "0312e4b0-c400-b219-2885-a969582e3806",
-            "c204175f-b65e-c7fd-af79-01fcbdf8d900",
+            "836709f0-0ac6-f396-10d3-dd7bd03959b6",
             "632c0acb-e414-2dd0-c921-7d94ebb6b5e7"
         ]
     },
@@ -24245,7 +25134,7 @@
         "path": "Assets/Modular_People/SK_Male_Farmer.scene.nasset/SK Male Farmer.mesh.nasset/SK Male Farmer Beige.meshskin.nasset",
         "dependencies": [
             "28928298-fa4e-dde3-a912-0f91ac5c9517",
-            "c204175f-b65e-c7fd-af79-01fcbdf8d900",
+            "836709f0-0ac6-f396-10d3-dd7bd03959b6",
             "7821439d-9f19-92eb-65b9-fbedc36bae1f"
         ]
     },
@@ -24289,6 +25178,11 @@
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
         ]
     },
+    "e93263ec-bff8-dd66-e5be-65938c1f38dc": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Idle Hold.anim.nasset"
+    },
     "e94f78fa-cbbc-4f4f-a426-1ece5b2fce1e": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -24315,7 +25209,7 @@
         "path": "Assets/Modular_People/SK_Male_Suit.scene.nasset/SK Male Suit.mesh.nasset/SK Male Suit Brown 2.meshskin.nasset",
         "dependencies": [
             "69c2d6c8-4962-2b66-74f3-476d8ed5edb2",
-            "8b861f68-cefd-d203-eef3-ad753741604e",
+            "3a8e96cf-7d35-0c28-918e-26fb121681da",
             "185eec15-3a74-3d14-882c-d031c74bde40"
         ]
     },
@@ -24501,7 +25395,7 @@
         "path": "Assets/Modular_People/SK_Male_Punk.scene.nasset/SK Male Punk.mesh.nasset/SK Male Punk Skin.meshskin.nasset",
         "dependencies": [
             "88fad8b7-598f-9d07-36b9-3699f4819f8d",
-            "0fbd572b-9544-e26e-970a-b2f0f9ae7056",
+            "68e6f7b4-fe78-2406-5081-86f20697af49",
             "632c0acb-e414-2dd0-c921-7d94ebb6b5e7"
         ]
     },
@@ -24613,7 +25507,11 @@
     },
     "ec2034a1-31bb-61f8-9b3f-a7c31074ded4": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Modular_People/SK_Male_Casual.scene.nasset/SK_Male_Casual.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/SK_Male_Casual.scene.nasset/SK_Male_Casual.scene.nasset",
+        "dependencies": [
+            "e664ee89-6d0a-1870-2950-c0b16dcd5504"
+        ]
     },
     "ec4c0dcb-9207-4df7-b6bf-0f3c5cb85f21": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -24740,6 +25638,11 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "ee054760-b465-2d53-5954-a0e4b0843484": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Misc/Alien/Animations/Alien Rogue Sword Slash.anim.nasset"
+    },
     "ee357dbb-fb9c-4f85-e951-6436f5cfdede": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -24786,7 +25689,7 @@
         "path": "Assets/Modular_People/SK_Male_Spacesuit.scene.nasset/SK Male Spacesuit.mesh.nasset/SK Male Spacesuit Teal Dark.meshskin.nasset",
         "dependencies": [
             "c3c9be73-6cfb-072f-1c8a-fd8fb0f2e2c2",
-            "6ad9bf11-f3dc-afd8-01a8-37f4e7ab7582",
+            "67bb80b1-8def-ddb0-2142-be2d225622b9",
             "459b2d0c-e380-100b-5a6b-098d3d43f6fb"
         ]
     },
@@ -24818,7 +25721,7 @@
         "path": "Assets/Modular_People/SK_Male_Worker.scene.nasset/SK Male Worker.mesh.nasset/SK Male Worker Brown 1.meshskin.nasset",
         "dependencies": [
             "8fea0674-f526-1f07-bb24-f394dfb218b4",
-            "dc8d3b5c-d1cd-af8c-aad9-40cfae9fa8fd",
+            "e50d9802-3700-7660-59e9-b40273a5c799",
             "362a4c77-febb-0328-2673-0c1d5028b3e1"
         ]
     },
@@ -24996,6 +25899,16 @@
             "632c0acb-e414-2dd0-c921-7d94ebb6b5e7"
         ]
     },
+    "f056695b-f1bf-8e36-17fd-32fd76381af5": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Modular_People/SK_Male_Worker.scene.nasset/SK Male Worker.mesh.nasset/SK Male Worker Orange 2.meshskin.nasset",
+        "dependencies": [
+            "b470731c-37b1-28e0-f51c-45acd8c4f56d",
+            "e50d9802-3700-7660-59e9-b40273a5c799",
+            "9009fbeb-e27e-170e-c01f-efc9a4155338"
+        ]
+    },
     "f05bac4f-577b-48ae-a845-691d6293c0c0": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Chef.scene.nasset.tex.nasset"
@@ -25135,6 +26048,19 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Voxel/Danny/Run.anim.nasset"
+    },
+    "f10d927b-df74-425a-9d7c-cf4c8b5638b0": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/Player_Scripts/Male/Male Beach.scene.nasset",
+        "thumbnail": "ad2a8220-1ddd-4969-8816-1bf7cc81e01a",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "e06fe6e9-8e6e-38ab-d066-aa6b463e1dea"
+        ]
     },
     "f13b7bca-5650-b8c7-5a18-e47f014a6220": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -25481,6 +26407,10 @@
             "8bc18bb0-7201-9ef7-68d7-af31f82012a0"
         ]
     },
+    "f452f780-4aa5-45fb-84d7-0b6333428ceb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_People/Thumbnails/Female/Female_Soldier.scene.nasset.tex.nasset"
+    },
     "f45f4743-1c78-93b9-91b0-db43c52546cf": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -25592,7 +26522,7 @@
         "path": "Assets/Modular_People/SK_Male_Spacesuit.scene.nasset/SK Male Spacesuit.mesh.nasset/SK Male Spacesuit White 2.meshskin.nasset",
         "dependencies": [
             "193cc345-e37c-dfc7-0626-5a80d53ce087",
-            "6ad9bf11-f3dc-afd8-01a8-37f4e7ab7582",
+            "67bb80b1-8def-ddb0-2142-be2d225622b9",
             "55e4c33f-23a4-02d6-5278-397f3b0af1f9"
         ]
     },
@@ -25754,6 +26684,11 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Dragon/Animations/Dragon_Attack_1.anim.nasset"
+    },
+    "f7071431-57d4-4d75-bbc0-9fb814d5ab2b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Modular_People/Animations/Female/Modular Female Sword Slash.anim.nasset"
     },
     "f72634f3-643d-89eb-0bf6-e7fdea65b4f9": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -25957,6 +26892,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "f8aceed8-2f5c-41cd-bba8-c476817fc60a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Modular_People/Thumbnails/Female/Female_Scifi.scene.nasset.tex.nasset"
+    },
     "f8b355f8-5654-485c-b227-603f9371a839": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -26003,6 +26942,11 @@
     "f92f75b2-d4d3-feaf-a0a6-69466d94a813": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_People/Material Instances/Thumbnails/Red 1.mtli.nasset.tex.nasset"
+    },
+    "f9612a0b-96f1-4fd7-b219-90d1128555af": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Modular_People/Animations/Female/Modular Female Idle Gun Shoot.anim.nasset"
     },
     "f97c2cdb-3081-45a9-b2f3-4d27661d527a": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -26063,18 +27007,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/RPG/Wizard/Thumbnails/Wizard.scene.nasset.tex.nasset"
     },
-    "fab356f6-8e7e-8a3a-2730-071897672930": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Modular_People/SK_Female_Adventurer.scene.nasset/Sk Female Worker.mesh.nasset/Sk Female Worker Skin.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "fafbccbb-6713-15b4-04c5-dd904dc7a948": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -26086,11 +27018,6 @@
             "b03a8c05-41e5-9982-653d-03e373549e10",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "fb2054cb-484f-0562-5886-f79bc8c261ea": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/SK_Male_Swat.scene.nasset/SK Male Swat.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "fb3d77a8-ef1e-47c5-9cc1-117a726ecfbe": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -26174,16 +27101,6 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Sushime/SK_Meanie.scene.nasset/SK Meanie.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
-    "fc009ace-ef1d-be32-b3e9-2dbcfabfbc75": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Modular_People/SK_Female_Adventurer.scene.nasset/Sk Female Worker.mesh.nasset/Sk Female Worker Brown 2.meshskin.nasset",
-        "dependencies": [
-            "12a40edb-523b-ea26-fab8-c102ea0fcef5",
-            "1ff0dcbc-05cd-ded0-25b1-dbefc6d6f9e7",
-            "185eec15-3a74-3d14-882c-d031c74bde40"
-        ]
-    },
     "fc07b9b6-5a51-e8ca-171e-d09451d477e1": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -26192,16 +27109,6 @@
             "1a1043f6-94dc-cfcd-721e-b5cea5601e71",
             "fba9d5de-3e54-7227-fb4d-45cb02fc69d5",
             "6ccd44eb-9d4b-c0a2-2383-b713c9966de4"
-        ]
-    },
-    "fc2e6318-1823-de14-061e-c3bc0cdfbb17": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Modular_People/SK_Female_Adventurer.scene.nasset/Sk Female Worker.mesh.nasset/Sk Female Worker Yellow.meshskin.nasset",
-        "dependencies": [
-            "e1c53233-a38d-36d4-8928-9db1d0d542f0",
-            "1ff0dcbc-05cd-ded0-25b1-dbefc6d6f9e7",
-            "2217c2f6-5e67-1530-311e-5c09134c7b09"
         ]
     },
     "fc46e49f-7ded-b28d-0524-ef3720470407": {
@@ -26226,9 +27133,31 @@
     },
     "fc7124fe-ad81-b09e-448d-96513f0097d5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Modular_People/SK_Female_Soldier.scene.nasset/SK Female Soldier.mesh.nasset/SK Female Soldier.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "6db63248-e34d-8c41-9f0f-565979c307ae",
+            "845cc67b-93bd-b0fa-0998-5c2f259ea87e",
+            "de8ca8ea-0041-ef0d-17bf-01fd385704df",
+            "57858c03-24f2-158c-a480-183844c3a648",
+            "f8daf751-6218-85bf-8663-0ea733707fd7",
+            "a5b178b7-494b-031a-691b-3a2b4f060f26",
+            "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+            "9b24f317-3e82-2396-2820-48b62f6d20a3",
+            "0188dce2-ff73-e01e-a65c-96facb1479d5",
+            "e45002be-5287-10ca-9d5f-13df690b6f34",
+            "7e33a215-b183-4b77-218c-3b5698a15ea0",
+            "af379074-229c-8b7f-b839-871a61a616ca",
+            "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78",
+            "76d13eff-3049-28e2-ca83-00c24239a301",
+            "a9ade6c4-f49c-612b-ac94-247049c1a00a",
+            "185eec15-3a74-3d14-882c-d031c74bde40",
+            "2dcec84c-acde-ab29-f423-2fca8f768d0e",
+            "8123cded-487e-5e80-229f-757664142e94",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
         ]
     },
     "fc7a308e-a16d-8183-bd2b-b392e3d8b600": {
@@ -26375,9 +27304,37 @@
     },
     "fdb0cf31-58d3-a44c-a4be-3c5bcb819023": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Modular_People/SK_Female_Worker.scene.nasset/Sk Female Worker.mesh.nasset/Sk Female Worker.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
+            "220f8013-b0f8-f215-31e3-0a500565a04d",
+            "1a381a2a-2c79-c0eb-4bba-b148d1437821",
+            "9009fbeb-e27e-170e-c01f-efc9a4155338",
+            "1b152a50-beb9-b8ac-d1e1-d92376095dfc",
+            "e86a0c54-5246-ae3d-ec61-5825d040e1c3",
+            "2217c2f6-5e67-1530-311e-5c09134c7b09",
+            "85c02853-11a9-c0a7-1033-9f9e8fb69cad",
+            "8f27905c-3af4-8a81-95fe-9fff5d597ba7",
+            "1a6c2f5f-0ecc-81d6-6e36-7ff062673105",
+            "f3e7226e-ab47-5e9e-f5b1-87c6cbe068c7",
+            "54a05088-c5d9-9c66-5d2b-b98323d2553a",
+            "6db63248-e34d-8c41-9f0f-565979c307ae",
+            "be9cdee0-3602-26eb-da78-82cf75b4e9d0",
+            "2bba6a0c-ee16-fd0b-9c98-beeb2c344de3",
+            "c91fd22d-888f-84a7-81d6-38882a091b5e",
+            "a3ca0d39-fbd3-7d61-25b5-c754f5e636a7",
+            "288df22d-4f8a-8c57-5e5d-232da781b542",
+            "185eec15-3a74-3d14-882c-d031c74bde40",
+            "d654d961-747a-353c-a3f8-7dbcb147b81c",
+            "6d7175e3-25eb-e27f-2388-172987605176",
+            "2e39aba7-5921-7120-e1ab-32d0ab5b1275",
+            "6e783882-e9db-804c-b3d5-638ce6671736",
+            "f8cce55f-0e5c-bb9f-1c49-8d234d1730f2",
+            "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
         ]
     },
     "fdbbef53-9fc9-4657-b30b-4f275db3f28f": {
@@ -26441,11 +27398,6 @@
         "dependencies": [
             "7ebcb7cc-ca7c-6244-1566-ae5daa480f02"
         ]
-    },
-    "fe20a9f9-ba41-844a-ec83-66679efdd8f5": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Modular_People/SK_Female_Worker.scene.nasset/Sk Female Worker.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "fe3a1dcd-c6a5-027e-4fb4-ed0ae2520662": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -26602,18 +27554,6 @@
             "0b72007d-9f2c-4caf-bfcc-ccb961b91ee1",
             "0b72007d-9f2c-4caf-bfcc-ccb961b91ee1",
             "0b72007d-9f2c-4caf-bfcc-ccb961b91ee1"
-        ]
-    },
-    "ffc5963d-7949-8f47-07a7-1382062e8f3c": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Modular_People/SK_Female_Adventurer.scene.nasset/Sk Female Worker.mesh.nasset/Sk Female Worker Orange 2.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "9009fbeb-e27e-170e-c01f-efc9a4155338",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "fff5e2d1-e1e2-4951-a0b9-95542fe4aece": {

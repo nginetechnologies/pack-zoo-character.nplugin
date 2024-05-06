@@ -233,6 +233,205 @@
                     "f6140603-c29e-4bf9-946d-498dba6709ff": {
                         "skeleton": "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
                     }
+                },
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "ff2efd21-8772-a85c-822e-db4eb88ef5ca",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "8d30f2ec-beb3-93de-175a-156cec7f8c15",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Beach Skin"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "35fb51ef-8aa2-e908-777f-40a5e9c68365",
+                                "material_instance": "632c0acb-e414-2dd0-c921-7d94ebb6b5e7"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "e14e5dcf-088c-e3f7-4011-50fe2ccd8352"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "282d573e-cf34-c1f3-0d96-974becb22aba",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Beach Red 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "9f425deb-8f4d-5fab-f689-fa1947a88501",
+                                "material_instance": "ab021971-5963-7b4d-6cf3-cdd88b9b0199"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "2c16365f-546a-8871-b762-30d598f517cc"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "c5528f31-f202-f1e2-9cad-a4f0dc8e385d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Beach White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "50e8fbb9-a748-0730-2afa-deea48ceb2d3",
+                                "material_instance": "1a6c2f5f-0ecc-81d6-6e36-7ff062673105"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "6c72834f-2333-f351-4e24-8e7dd3e5ed2c"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "ec3a5671-52ca-82c3-2139-2012d6a561f0",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Beach Brown Light 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "97d231f8-6226-9897-7d0f-65c1572c6055",
+                                "material_instance": "373d32ae-df40-153b-164d-b5e187f9bce8"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "23db291b-2dde-bfcc-e81d-60379fa47925"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "24eb4493-884b-d152-a29a-902becf453a6",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Beach Hair Brown"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "23a90362-b7c2-1a67-d63a-a4964c3f5f15",
+                                "material_instance": "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "91155ff5-77ad-b2e0-261e-f7f549dadfaa"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "56b2d56d-f4f6-00cc-622d-9a4a4b6fd34b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Beach Brown 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "6a7fd32a-33be-219d-15cc-d76652dac122",
+                                "material_instance": "185eec15-3a74-3d14-882c-d031c74bde40"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "1e474105-53a0-1fa8-9f87-25bfeecfeb3b"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "12597195-4999-b3c7-3f2c-792d291815a7",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Beach Hair Red"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "43856c90-39dc-576c-15f8-c704ed4d132b",
+                                "material_instance": "d1a5ada9-30a1-e546-7928-e5bcdd07b39f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "78b714f4-839c-1161-d01a-0086f2d570dd"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "8ae235ab-62b1-4328-1047-5fef270154fd",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Male Beach Gold 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ad93c1aa-ab1f-e28f-6dfc-d49385af90ad",
+                                "material_instance": "efd77e32-5a19-6f7b-ae0a-982674eebe63"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "a6c41eb8-ee4a-1419-91e1-affc742712c1"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+                    }
                 }
             ]
         }
@@ -266,8 +465,8 @@
         "ad93c1aa-ab1f-e28f-6dfc-d49385af90ad",
         "a6c41eb8-ee4a-1419-91e1-affc742712c1",
         "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
-        "982eeb9c-d47a-4a68-81e0-00a4f0559252",
-        "2a6858aa-af24-4163-81f9-317d19e8a809",
-        "63bed46c-ef26-49b5-8f39-f134e103326c"
+        "1a6c2f5f-0ecc-81d6-6e36-7ff062673105",
+        "50e8fbb9-a748-0730-2afa-deea48ceb2d3",
+        "6c72834f-2333-f351-4e24-8e7dd3e5ed2c"
     ]
 }
