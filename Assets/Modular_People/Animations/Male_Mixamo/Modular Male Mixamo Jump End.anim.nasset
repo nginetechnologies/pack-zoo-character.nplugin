@@ -1,0 +1,20 @@
+{
+    "source": "A_Modular_Male_Mixamo_Jump_End.fbx",
+    "skeleton": "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "3fdb670f-8a5a-4230-914f-2211c8257333",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "d15b5dd1-a624-48ec-bd1c-b4d1089b36c7"
+        }
+    ],
+    "guid": "d15b5dd1-a624-48ec-bd1c-b4d1089b36c7",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+    ]
+}

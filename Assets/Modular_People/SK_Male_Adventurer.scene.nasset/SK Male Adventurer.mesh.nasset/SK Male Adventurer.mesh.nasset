@@ -33,14 +33,14 @@
                         {
                             "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
                             "move_animations": [
-                                "982eeb9c-d47a-4a68-81e0-00a4f0559252",
-                                "2a6858aa-af24-4163-81f9-317d19e8a809",
-                                "63bed46c-ef26-49b5-8f39-f134e103326c"
+                                "d673d910-f24a-c190-c2b3-57d5857ca6dd",
+                                "6a432078-81a4-4e29-b444-2c10c8fbbd8b",
+                                "2589db0d-7181-499b-aa71-99f805ad5025"
                             ],
                             "jump_animations": [
-                                "982eeb9c-d47a-4a68-81e0-00a4f0559252",
-                                "982eeb9c-d47a-4a68-81e0-00a4f0559252",
-                                "982eeb9c-d47a-4a68-81e0-00a4f0559252"
+                                "430514e9-6270-445f-b92a-c59e0b7cb82c",
+                                "0abaf606-438e-4bff-b44e-1e6f07c26f7a",
+                                "d15b5dd1-a624-48ec-bd1c-b4d1089b36c7"
                             ]
                         }
                     ],
@@ -317,6 +317,12 @@
         "019d2c43-eace-08a9-287e-11343882471c",
         "613e5b61-21aa-2021-cab0-85e3a3cef4fa",
         "af27e4ec-021d-c090-8e41-cb8efd0cf9c2",
-        "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+        "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+        "d673d910-f24a-c190-c2b3-57d5857ca6dd",
+        "6a432078-81a4-4e29-b444-2c10c8fbbd8b",
+        "2589db0d-7181-499b-aa71-99f805ad5025",
+        "430514e9-6270-445f-b92a-c59e0b7cb82c",
+        "0abaf606-438e-4bff-b44e-1e6f07c26f7a",
+        "d15b5dd1-a624-48ec-bd1c-b4d1089b36c7"
     ]
 }

@@ -1,0 +1,20 @@
+{
+    "source": "A_Modular_Male_Mixamo_Run.fbx",
+    "skeleton": "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "3e033b71-ca0a-4d76-8f74-ceacdf04fb23",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "2589db0d-7181-499b-aa71-99f805ad5025"
+        }
+    ],
+    "guid": "2589db0d-7181-499b-aa71-99f805ad5025",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+    ]
+}

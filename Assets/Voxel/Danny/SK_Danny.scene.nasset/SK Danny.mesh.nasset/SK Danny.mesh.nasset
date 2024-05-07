@@ -31,10 +31,7 @@
             "children": [
                 {
                     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-                    "instanceGuid": "e07158b1-fdbf-8034-429b-03449753d32c",
-                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
-                        "skeleton": "c50b45c1-4d5a-6d62-6fa9-1d7614e1d959"
-                    },
+                    "instanceGuid": "f460be65-d18d-2da9-5ad9-677123b271f7",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -52,21 +49,22 @@
                                 "e85881cb-1f1c-41e8-9073-a8fe2f0b840d",
                                 "34f2f830-ab2c-4ab9-a68f-5e9de49454bc"
                             ]
-                        },
-                        {
-                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                            "templateInstanceGuid": "e07158b1-fdbf-8034-429b-03449753d32c"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-                            "instanceGuid": "cc885c3b-d21a-bbc6-b289-5440c1a8a705",
+                            "instanceGuid": "8ba21ea4-12d8-9c4f-019b-4f11e99c9fb8",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Danny Danny"
+                                }
+                            ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
                                 "stages": [
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
                                     "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
@@ -75,25 +73,12 @@
                             },
                             "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
                                 "skin": "2f7463ff-ce46-e370-d3cb-e08821bbd775"
-                            },
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "SK Danny Danny"
-                                },
-                                {
-                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-                                    "mask": [
-                                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
-                                    ]
-                                },
-                                {
-                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                    "templateInstanceGuid": "cc885c3b-d21a-bbc6-b289-5440c1a8a705"
-                                }
-                            ]
+                            }
                         }
-                    ]
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "c50b45c1-4d5a-6d62-6fa9-1d7614e1d959"
+                    }
                 }
             ]
         }

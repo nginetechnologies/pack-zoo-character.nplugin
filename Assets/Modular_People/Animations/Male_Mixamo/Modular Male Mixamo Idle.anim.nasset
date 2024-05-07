@@ -1,0 +1,20 @@
+{
+    "source": "A_Modular_Male_Mixamo_Idle.fbx",
+    "skeleton": "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "3498ab7d-3004-4bfc-923b-78d6bcd1f5b6",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "d673d910-f24a-c190-c2b3-57d5857ca6dd"
+        }
+    ],
+    "guid": "d673d910-f24a-c190-c2b3-57d5857ca6dd",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+    ]
+}
