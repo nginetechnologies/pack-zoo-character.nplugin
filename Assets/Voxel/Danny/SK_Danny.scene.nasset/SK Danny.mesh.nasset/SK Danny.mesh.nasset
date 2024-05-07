@@ -101,5 +101,21 @@
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "b8bf7aa5-05e6-b5e1-8022-e3d399ea6786"
-    }
+    },
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "data_components": [],
+    "dependencies": [
+        "04923f94-6d3d-a296-66e1-c36f6eb6ca70",
+        "724f1717-733a-1e08-7254-9dc8e6a47d09",
+        "2f7463ff-ce46-e370-d3cb-e08821bbd775",
+        "c50b45c1-4d5a-6d62-6fa9-1d7614e1d959",
+        "a9f3884c-3026-4742-a788-9c1c91625bd8",
+        "b0277646-6441-437e-a768-9a47e5a64520",
+        "f100eff4-4f75-4ea4-962b-751f8af415ed",
+        "20cf6175-5fc4-41fb-938d-08db6a1371a1",
+        "e85881cb-1f1c-41e8-9073-a8fe2f0b840d",
+        "34f2f830-ab2c-4ab9-a68f-5e9de49454bc"
+    ]
 }
