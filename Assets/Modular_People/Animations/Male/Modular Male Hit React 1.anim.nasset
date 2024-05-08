@@ -1,5 +1,5 @@
 {
-    "source": "A_Modular_Male_Hit_React_1.fbx",
+    "source": "A_Modular_Male_Hit_Receive_1.fbx",
     "skeleton": "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
@@ -13,5 +13,8 @@
         }
     ],
     "guid": "4ae39da3-8206-4eed-87dc-0e82be9780e5",
-    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+    ]
 }
