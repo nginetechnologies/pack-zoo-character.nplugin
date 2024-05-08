@@ -1,0 +1,231 @@
+{
+    "guid": "9ac87fbf-b6b8-de6c-c3cf-c0f2d698d909",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "ee2ce820-f7bf-8189-f0cf-184ce9aa0c66",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "0c6ba62a-2503-80f7-d7ff-d6f6fa983045",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Deer Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "5392c9c6-2598-823f-3347-87248a28bd95",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "32566fac-878e-5a20-c02b-345ab57d9063",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Deer Deer Main Light"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "108a3f81-8705-54e1-7ab0-453e092e70a9",
+                                "material_instance": "4ce434a2-57ef-e188-4add-3f6fddc3c192"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "050f5a64-a659-d8c1-0502-4f11516f2484"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "c684bbef-4a9d-242e-7df7-df4d60e517ea",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Deer Deer Main"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "244e5f2d-ec42-2034-175a-3632ac939afc",
+                                "material_instance": "130ea5bc-5487-1872-3149-963786e48989"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "29b6487a-c43c-e1cc-f0ec-ccf3e3ef0cad"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "fdf39536-3774-6cf2-3ff9-3d0bb274d3da",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Deer Deer Main Dark"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7fa2ca83-469b-403e-42a2-38d2330f886e",
+                                "material_instance": "3541e23f-d75e-302d-d974-e5869adb6503"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "8fffde4d-fbce-07e2-aaa3-964c29a9874a"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "3393cc79-fe34-111a-bc00-5d34d9646324",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Deer Hooves"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ef7636a6-ff24-f69a-9bc5-982f8f23fe2d",
+                                "material_instance": "8b3c27f4-ad9a-969c-cca1-91fc47ab8520"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "b35322be-8be5-bc83-917b-82548b905532"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "123a73a8-aa68-d785-4635-a5976c25d423",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Deer Eye Lighter"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "2a812570-e55c-421e-ccd5-52792af8893b",
+                                "material_instance": "218dbb6f-05f5-0c9b-6370-5aa01402542e"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "e756e5ce-8d99-8a60-9fc4-89bf42d0138f"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "019e8c9f-5235-c141-65e3-93db707d731b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Deer Eye Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "55070675-b41c-2c4b-bccd-8eead810ee90",
+                                "material_instance": "2e6c4ee1-876e-5bf2-0790-410a94e431af"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "cff13b1c-eeed-432a-4ded-2ef876f756f4"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "83b4721b-b055-03a6-78ab-b93e01b60afc",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Deer Eye White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "af1b0bbf-6276-6d56-861e-f95e47bc0504",
+                                "material_instance": "9bae4767-c09b-9f7c-bcd9-1953444eeb89"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "17db23c2-8aa4-2f00-aaa9-7fc97958583d"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "6bb2e258-64a8-355c-875a-4d713b4b934e"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "9ac87fbf-b6b8-de6c-c3cf-c0f2d698d909"
+    },
+    "dependencies": [
+        "4ce434a2-57ef-e188-4add-3f6fddc3c192",
+        "108a3f81-8705-54e1-7ab0-453e092e70a9",
+        "050f5a64-a659-d8c1-0502-4f11516f2484",
+        "130ea5bc-5487-1872-3149-963786e48989",
+        "244e5f2d-ec42-2034-175a-3632ac939afc",
+        "29b6487a-c43c-e1cc-f0ec-ccf3e3ef0cad",
+        "3541e23f-d75e-302d-d974-e5869adb6503",
+        "7fa2ca83-469b-403e-42a2-38d2330f886e",
+        "8fffde4d-fbce-07e2-aaa3-964c29a9874a",
+        "8b3c27f4-ad9a-969c-cca1-91fc47ab8520",
+        "ef7636a6-ff24-f69a-9bc5-982f8f23fe2d",
+        "b35322be-8be5-bc83-917b-82548b905532",
+        "218dbb6f-05f5-0c9b-6370-5aa01402542e",
+        "2a812570-e55c-421e-ccd5-52792af8893b",
+        "e756e5ce-8d99-8a60-9fc4-89bf42d0138f",
+        "2e6c4ee1-876e-5bf2-0790-410a94e431af",
+        "55070675-b41c-2c4b-bccd-8eead810ee90",
+        "cff13b1c-eeed-432a-4ded-2ef876f756f4",
+        "9bae4767-c09b-9f7c-bcd9-1953444eeb89",
+        "af1b0bbf-6276-6d56-861e-f95e47bc0504",
+        "17db23c2-8aa4-2f00-aaa9-7fc97958583d",
+        "6bb2e258-64a8-355c-875a-4d713b4b934e"
+    ]
+}
