@@ -1,10 +1,10 @@
 {
     "source": "A_Modular_Female_Kick_Left.fbx",
-    "skeleton": "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab",
+    "skeleton": "8e7fa16b-8037-f0f9-4d32-7b7e353f459d",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
+        "skeleton": "8e7fa16b-8037-f0f9-4d32-7b7e353f459d"
     },
     "data_components": [
         {
