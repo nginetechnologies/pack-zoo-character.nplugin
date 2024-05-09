@@ -1,0 +1,256 @@
+{
+    "guid": "727d4f49-1011-de80-4680-c9946881d1eb",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "538484af-c18f-1dc3-92b1-d779b9065522",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "936b1af7-ce64-f823-0036-a95ed169ee60",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Donkey Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "c1a48779-f323-d737-ad73-96c13876f5f0",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "4ac2e4a2-361e-6641-5f99-04b47c751084",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Donkey Main Light"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ab89bc1b-aa2d-aff8-0e2d-8d42c80f074f",
+                                "material_instance": "ddef666e-70de-c30e-32c4-37aa638d9952"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "a6f83a7b-6e82-9d2b-86b0-a355cebf2f92"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "b1a87cbb-6453-1148-9fde-2a66f6d3ec69",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Donkey Main"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "32f129ee-3db7-925f-f8f1-78f6c97f0f77",
+                                "material_instance": "5a32995c-eb79-660a-0c72-1588dab76760"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "be526328-5247-4786-a579-cf73e6a2d921"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "2199c3dd-cd97-567a-aca5-9cb66ef5355e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Donkey Hair"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e240eb74-0073-3b70-ad6b-ea16cd4f4cf6",
+                                "material_instance": "99b06b94-b21e-e80d-0d4d-d1406491002c"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "e8b1ce01-a333-629d-6c9d-1b798833b389"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "23fc1821-fd45-b075-ea12-cac68f5da46e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Donkey Muzzle"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "8cc15350-a0a8-4349-ce03-a1a26c8abe5b",
+                                "material_instance": "2373f9e6-e051-0c3a-7548-093162964d91"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "34e57b4e-9b3a-a6ef-6ab2-9ef80c12834e"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "cf935ed6-bd23-8c77-093a-3bccb5a516e0",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Donkey Hooves"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "fca9ea8d-609f-da6b-692b-f922ab40a336",
+                                "material_instance": "ac282f88-88ef-779d-fb32-c7aca78bc9c9"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "e530f654-c7ed-6cda-68b3-c94855598e2a"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "1e14670f-1c61-c567-294d-e821164ffd46",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Donkey Hair-2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "23295851-9892-234e-9c77-44ce91f1b2e0",
+                                "material_instance": "99b06b94-b21e-e80d-0d4d-d1406491002c"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "28956ce7-7404-cdcd-8a77-0732eecc68b9"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "0f9294df-3436-836f-7e14-457f75cc5b9a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Donkey Eye Dark"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "9fac0f4a-f94b-f34d-6f71-2188b123d469",
+                                "material_instance": "49d9ec98-d236-075f-e707-a2c4bec88221"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "2b27a91f-7aa3-39e9-4deb-b2c348c91a1d"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "bf6de467-2e4c-9c80-3644-ab28f2e8a916",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Donkey Eye White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e985232f-1e7a-3b95-09c8-5eed3b2ff4a5",
+                                "material_instance": "bcbfa25b-aa88-5054-509e-9200e3b9fb9f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "abad0db0-e846-fb91-aa35-2007f1c32097"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "d0f1aac8-d834-56bf-c66f-ce424d92600d"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "727d4f49-1011-de80-4680-c9946881d1eb"
+    },
+    "dependencies": [
+        "ddef666e-70de-c30e-32c4-37aa638d9952",
+        "ab89bc1b-aa2d-aff8-0e2d-8d42c80f074f",
+        "a6f83a7b-6e82-9d2b-86b0-a355cebf2f92",
+        "5a32995c-eb79-660a-0c72-1588dab76760",
+        "32f129ee-3db7-925f-f8f1-78f6c97f0f77",
+        "be526328-5247-4786-a579-cf73e6a2d921",
+        "99b06b94-b21e-e80d-0d4d-d1406491002c",
+        "e240eb74-0073-3b70-ad6b-ea16cd4f4cf6",
+        "e8b1ce01-a333-629d-6c9d-1b798833b389",
+        "2373f9e6-e051-0c3a-7548-093162964d91",
+        "8cc15350-a0a8-4349-ce03-a1a26c8abe5b",
+        "34e57b4e-9b3a-a6ef-6ab2-9ef80c12834e",
+        "ac282f88-88ef-779d-fb32-c7aca78bc9c9",
+        "fca9ea8d-609f-da6b-692b-f922ab40a336",
+        "e530f654-c7ed-6cda-68b3-c94855598e2a",
+        "23295851-9892-234e-9c77-44ce91f1b2e0",
+        "28956ce7-7404-cdcd-8a77-0732eecc68b9",
+        "49d9ec98-d236-075f-e707-a2c4bec88221",
+        "9fac0f4a-f94b-f34d-6f71-2188b123d469",
+        "2b27a91f-7aa3-39e9-4deb-b2c348c91a1d",
+        "bcbfa25b-aa88-5054-509e-9200e3b9fb9f",
+        "e985232f-1e7a-3b95-09c8-5eed3b2ff4a5",
+        "abad0db0-e846-fb91-aa35-2007f1c32097",
+        "d0f1aac8-d834-56bf-c66f-ce424d92600d"
+    ]
+}

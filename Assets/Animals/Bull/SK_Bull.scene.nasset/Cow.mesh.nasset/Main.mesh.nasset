@@ -1,0 +1,231 @@
+{
+    "guid": "018d91cb-dfc7-b55d-7e6a-77513a5f8743",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "9e40c8a3-c9d0-27d4-527e-671d63d3beab",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "d71dfb28-6867-3bc7-17cd-d4c6193c5d1a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cow Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "2f5f9547-d108-078b-7d6b-c74c6e822526",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "e968114a-4839-4e27-508d-3eec4a9876ba",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Cow Main"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c93afb69-62d8-5c85-6500-709500638100",
+                                "material_instance": "7ca688c9-926a-357a-72a0-6003e89143a5"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "8bd6aa31-49bb-07e9-774d-5e9c3cf31616"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "6aa5391c-0765-9add-2e1e-babc5785d79a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Cow Muzzle"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "799c7e07-e3ab-4799-5c4c-5e8de30e589d",
+                                "material_instance": "9adcc2af-cd1b-d630-2169-b686df633a21"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "77905391-7225-6080-06eb-0183bef1e60e"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "85c57162-7e71-b070-b5ea-e36a5d8ccd26",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Cow Hooves"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "89fad75b-2286-005a-023b-10c2cc8a1c0f",
+                                "material_instance": "6b229f3e-805f-8b46-b008-6db796fde2f6"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "a5ef14d5-e464-2aaf-58cb-a4e139c2ac03"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "8d428342-ef0c-d4e9-6603-e077f10f39c7",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Cow Main Light"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "9b75415b-57e7-7cb5-da52-62a02eb433ec",
+                                "material_instance": "47464552-c18a-23c8-b74d-19ff7a11e2d2"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "38e60b21-b3eb-6d23-f1e9-7ef6a8049dff"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "73868f03-234c-867e-2ffc-c5f54d6ff025",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Cow Eye Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e09862b2-bb8c-6cc7-7f04-2505585ef793",
+                                "material_instance": "f110a6b6-00f3-3729-fa1b-a2fd77dac5d9"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "16f04f4f-c93d-3c38-434d-483fa28c00cb"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "b18d21d7-3ca8-43d5-bfab-1544824a51bf",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Cow Eye White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "28a5aa7c-c6ea-6ee3-3b1f-71d4caade59c",
+                                "material_instance": "3601cb8e-6eaa-5cb8-70b5-2c76dc38b096"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "52f11025-c05b-941f-6ac2-ac1495eebaa3"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "7b84676c-9e26-aa24-60a2-09227380f9a1",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Cow Horns"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "bd233eda-4e5f-3dbc-55cf-4b97d1674714",
+                                "material_instance": "2f37a053-9456-c567-0c84-316e1c486cea"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "761c242e-78d1-1070-5420-617424b586c9"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "a57b6e9b-762a-b66e-67a8-eb636c07c0ca"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "018d91cb-dfc7-b55d-7e6a-77513a5f8743"
+    },
+    "dependencies": [
+        "7ca688c9-926a-357a-72a0-6003e89143a5",
+        "c93afb69-62d8-5c85-6500-709500638100",
+        "8bd6aa31-49bb-07e9-774d-5e9c3cf31616",
+        "9adcc2af-cd1b-d630-2169-b686df633a21",
+        "799c7e07-e3ab-4799-5c4c-5e8de30e589d",
+        "77905391-7225-6080-06eb-0183bef1e60e",
+        "6b229f3e-805f-8b46-b008-6db796fde2f6",
+        "89fad75b-2286-005a-023b-10c2cc8a1c0f",
+        "a5ef14d5-e464-2aaf-58cb-a4e139c2ac03",
+        "47464552-c18a-23c8-b74d-19ff7a11e2d2",
+        "9b75415b-57e7-7cb5-da52-62a02eb433ec",
+        "38e60b21-b3eb-6d23-f1e9-7ef6a8049dff",
+        "f110a6b6-00f3-3729-fa1b-a2fd77dac5d9",
+        "e09862b2-bb8c-6cc7-7f04-2505585ef793",
+        "16f04f4f-c93d-3c38-434d-483fa28c00cb",
+        "3601cb8e-6eaa-5cb8-70b5-2c76dc38b096",
+        "28a5aa7c-c6ea-6ee3-3b1f-71d4caade59c",
+        "52f11025-c05b-941f-6ac2-ac1495eebaa3",
+        "2f37a053-9456-c567-0c84-316e1c486cea",
+        "bd233eda-4e5f-3dbc-55cf-4b97d1674714",
+        "761c242e-78d1-1070-5420-617424b586c9",
+        "a57b6e9b-762a-b66e-67a8-eb636c07c0ca"
+    ]
+}

@@ -169,6 +169,38 @@
             "632c0acb-e414-2dd0-c921-7d94ebb6b5e7"
         ]
     },
+    "018d91cb-dfc7-b55d-7e6a-77513a5f8743": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Animals/Bull/SK_Bull.scene.nasset/Cow.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "7ca688c9-926a-357a-72a0-6003e89143a5",
+            "c93afb69-62d8-5c85-6500-709500638100",
+            "8bd6aa31-49bb-07e9-774d-5e9c3cf31616",
+            "9adcc2af-cd1b-d630-2169-b686df633a21",
+            "799c7e07-e3ab-4799-5c4c-5e8de30e589d",
+            "77905391-7225-6080-06eb-0183bef1e60e",
+            "6b229f3e-805f-8b46-b008-6db796fde2f6",
+            "89fad75b-2286-005a-023b-10c2cc8a1c0f",
+            "a5ef14d5-e464-2aaf-58cb-a4e139c2ac03",
+            "47464552-c18a-23c8-b74d-19ff7a11e2d2",
+            "9b75415b-57e7-7cb5-da52-62a02eb433ec",
+            "38e60b21-b3eb-6d23-f1e9-7ef6a8049dff",
+            "f110a6b6-00f3-3729-fa1b-a2fd77dac5d9",
+            "e09862b2-bb8c-6cc7-7f04-2505585ef793",
+            "16f04f4f-c93d-3c38-434d-483fa28c00cb",
+            "3601cb8e-6eaa-5cb8-70b5-2c76dc38b096",
+            "28a5aa7c-c6ea-6ee3-3b1f-71d4caade59c",
+            "52f11025-c05b-941f-6ac2-ac1495eebaa3",
+            "2f37a053-9456-c567-0c84-316e1c486cea",
+            "bd233eda-4e5f-3dbc-55cf-4b97d1674714",
+            "761c242e-78d1-1070-5420-617424b586c9",
+            "a57b6e9b-762a-b66e-67a8-eb636c07c0ca"
+        ]
+    },
     "0195dd7a-53a6-43e7-9028-3b91404d6d1b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Witch.scene.nasset.tex.nasset"
@@ -179,6 +211,16 @@
         "thumbnail": "87a18a1a-d65e-48f8-280a-b842089ec73f",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "01adb244-7e9f-33ae-2a1e-5911a3e59537": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Stag/SK_Stag.scene.nasset/Stag.mesh.nasset/Stag Main.meshskin.nasset",
+        "dependencies": [
+            "380950c1-efca-6781-0113-ec8178959734",
+            "e463006b-2257-7e6c-887b-547a03febb86",
+            "7088fd8f-e289-0920-ce52-330a8feb5bfe"
         ]
     },
     "01ae8cf0-8de2-41e9-bb01-b01eb0e30aed": {
@@ -1747,6 +1789,13 @@
             "6aed3467-3081-cefc-40d4-37fcf82dcc6c"
         ]
     },
+    "10623caf-61f8-8248-7b02-bbcff75b8cc2": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Stag/Material Instances/Eye Black.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "106a4624-28a7-440b-9a45-13dcc0feb144": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1867,6 +1916,11 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Sushime/SK_Prince.scene.nasset/SK Prince.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "1128fecc-2700-d64f-5795-74e6133c2728": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Animals/Wolf/SK_Wolf.scene.nasset/Wolf.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "11468797-129b-8a7f-eded-ac0aab48711e": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -2257,6 +2311,16 @@
             "5841fd6f-a735-3dbb-9d43-e35bc8b3ca44"
         ]
     },
+    "146cc38f-a58e-e7e6-2e3b-79c3cde57389": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Cow/SK_Cow.scene.nasset/Cow.mesh.nasset/Cow White.meshskin.nasset",
+        "dependencies": [
+            "32e786fa-1dda-ac86-6f97-95d66f57cb6a",
+            "41efcd6e-8a4f-2577-7b16-70fc975f66fb",
+            "cf141f6d-4986-5e3d-e311-4117f61ec31f"
+        ]
+    },
     "146d2fa6-c64c-0ef4-7aec-7a0aeb6d4676": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -2635,6 +2699,16 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Cow/Animations/Cow_Jump_Loop.anim.nasset"
+    },
+    "16f04f4f-c93d-3c38-434d-483fa28c00cb": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Bull/SK_Bull.scene.nasset/Cow.mesh.nasset/Cow Eye Black.meshskin.nasset",
+        "dependencies": [
+            "e09862b2-bb8c-6cc7-7f04-2505585ef793",
+            "a57b6e9b-762a-b66e-67a8-eb636c07c0ca",
+            "f110a6b6-00f3-3729-fa1b-a2fd77dac5d9"
+        ]
     },
     "16fb392a-fef3-4857-bd0b-79ca9277cf5d": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -3193,6 +3267,32 @@
             "8e4c6d61-b043-0f8e-bf0c-5640a7ee71d2"
         ]
     },
+    "1bcc9785-b1b8-85a5-101e-ae3f3e519d4a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Animals/Stag/SK_Stag.scene.nasset/Stag.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "d0946306-8027-c0d8-2408-b3b569c38627",
+            "609b44bb-ded3-6a6e-87c8-75259a5ffa9b",
+            "9c933cc0-d706-b3fe-ba5d-13d2dddfe9ce",
+            "27587aa0-5c13-3b0e-96d6-6d5b4558740d",
+            "f7b3e071-fac4-6f5d-5c7a-15eed86dc680",
+            "4e0b16ec-b46a-56f1-e09e-c985bd97883a",
+            "7088fd8f-e289-0920-ce52-330a8feb5bfe",
+            "380950c1-efca-6781-0113-ec8178959734",
+            "01adb244-7e9f-33ae-2a1e-5911a3e59537",
+            "ef538d05-2fa9-0aeb-c226-af7237cda9c3",
+            "cf798a44-ce09-8f65-aa8b-6a0ae13d2683",
+            "1d5f1072-8c45-b0c9-e4c9-60333495a721",
+            "10623caf-61f8-8248-7b02-bbcff75b8cc2",
+            "2f084d90-1088-7d91-3f82-cc1b573c9814",
+            "9121106e-9dae-8bb1-a8c7-4b90b8f5992e",
+            "e463006b-2257-7e6c-887b-547a03febb86"
+        ]
+    },
     "1be2d72f-b6c3-5ff9-9273-dc8adc0d3813": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -3365,6 +3465,16 @@
     "1d37507a-05a1-1e4b-5528-f6820e852db6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_People/Material Instances/Thumbnails/Orange 2.mtli.nasset.tex.nasset"
+    },
+    "1d5f1072-8c45-b0c9-e4c9-60333495a721": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Stag/SK_Stag.scene.nasset/Stag.mesh.nasset/Stag Main Dark.meshskin.nasset",
+        "dependencies": [
+            "cf798a44-ce09-8f65-aa8b-6a0ae13d2683",
+            "e463006b-2257-7e6c-887b-547a03febb86",
+            "ef538d05-2fa9-0aeb-c226-af7237cda9c3"
+        ]
     },
     "1d6aec24-2631-2638-d70b-dca67bd6e737": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -3946,6 +4056,18 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Thumbnails/Female/Female_Kimono.scene.nasset.tex.nasset"
     },
+    "23295851-9892-234e-9c77-44ce91f1b2e0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Donkey/SK_Donkey.scene.nasset/Donkey.mesh.nasset/Donkey Hair-2.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "99b06b94-b21e-e80d-0d4d-d1406491002c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "2358ae78-ac48-489a-8d0e-de60d8dee9ca": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Animals/Snake/Material Instances/Snake Pupil.mtli.nasset"
@@ -3958,6 +4080,13 @@
             "d9756677-dda6-ee50-7b65-2e81305e8d78",
             "e007e658-261f-bca2-479c-1c6d8d3c74e1",
             "6db63248-e34d-8c41-9f0f-565979c307ae"
+        ]
+    },
+    "2373f9e6-e051-0c3a-7548-093162964d91": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Donkey/Material Instances/Muzzle.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "23a49c25-e725-3e78-4160-f3e6cde5a2e5": {
@@ -4527,6 +4656,29 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_People/Material Instances/Thumbnails/Metal 3.mtli.nasset.tex.nasset"
     },
+    "26fe4be9-832e-09fa-af53-4d81a80f9568": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Animals/Wolf/SK_Wolf.scene.nasset/Wolf.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "37dbff3f-f36f-b90d-de04-becbea6b2c70",
+            "2d8a901a-9d8b-1503-d8d5-bf8522474614",
+            "f49470dc-ff38-3b65-b405-7def24a7cf32",
+            "a228c795-fcc6-5ab8-3aab-a418fdc7737f",
+            "888061a7-1d07-0911-d28a-37c55237efbd",
+            "2d39075e-0ba5-4faf-940d-63eabdfa26c6",
+            "550814bd-55a5-46c2-1fda-0403e5a33927",
+            "7a2105c6-45da-d3a2-2603-593eb521ecec",
+            "2d420d66-39cc-ffe9-b330-599081173ee1",
+            "821e8ac3-7a0e-839c-80f3-fc68da316656",
+            "e059f83d-e772-0622-8d66-37aaca3a24d7",
+            "4bfa70ee-95cc-ba18-66af-4ccd0af70154",
+            "1128fecc-2700-d64f-5795-74e6133c2728"
+        ]
+    },
     "2707552f-0b77-b6b6-c88d-3a0c2527b2c8": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4537,6 +4689,13 @@
         "dependencies": [
             "0a250487-13bf-882d-8600-f0db1104d024",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "27587aa0-5c13-3b0e-96d6-6d5b4558740d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Stag/Material Instances/Main Light.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "27822d33-dca1-5d19-96ab-a40592e60691": {
@@ -4697,9 +4856,31 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "28956ce7-7404-cdcd-8a77-0732eecc68b9": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Donkey/SK_Donkey.scene.nasset/Donkey.mesh.nasset/Donkey Hair-2.meshskin.nasset",
+        "dependencies": [
+            "23295851-9892-234e-9c77-44ce91f1b2e0",
+            "d0f1aac8-d834-56bf-c66f-ce424d92600d",
+            "99b06b94-b21e-e80d-0d4d-d1406491002c"
+        ]
+    },
     "289b28e3-6b2c-c4a5-57e2-23e2405fa1e3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Material Instances/Thumbnails/Black.mtli.nasset.tex.nasset"
+    },
+    "28a5aa7c-c6ea-6ee3-3b1f-71d4caade59c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Bull/SK_Bull.scene.nasset/Cow.mesh.nasset/Cow Eye White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3601cb8e-6eaa-5cb8-70b5-2c76dc38b096",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "28dd0f19-f762-fff7-852b-a446ff50ebfe": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -4948,6 +5129,16 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "2b27a91f-7aa3-39e9-4deb-b2c348c91a1d": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Donkey/SK_Donkey.scene.nasset/Donkey.mesh.nasset/Donkey Eye Dark.meshskin.nasset",
+        "dependencies": [
+            "9fac0f4a-f94b-f34d-6f71-2188b123d469",
+            "d0f1aac8-d834-56bf-c66f-ce424d92600d",
+            "49d9ec98-d236-075f-e707-a2c4bec88221"
+        ]
+    },
     "2b31f247-fd93-4b84-a1c8-9ffe143b2ed7": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -5130,6 +5321,16 @@
             "9148218c-115e-6158-be6c-74bd9ddf9fde"
         ]
     },
+    "2d39075e-0ba5-4faf-940d-63eabdfa26c6": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Wolf/SK_Wolf.scene.nasset/Wolf.mesh.nasset/Wolf Main Light.meshskin.nasset",
+        "dependencies": [
+            "888061a7-1d07-0911-d28a-37c55237efbd",
+            "1128fecc-2700-d64f-5795-74e6133c2728",
+            "a228c795-fcc6-5ab8-3aab-a418fdc7737f"
+        ]
+    },
     "2d3d5b5e-ffcc-3713-787e-aa19f8dd3153": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -5138,6 +5339,16 @@
             "fcf6cd0a-2263-8ca6-1213-18a7bcca0fb4",
             "364d875a-9d6b-f257-7cd4-0de3f6400e4c",
             "c33d4aee-8454-24d8-af97-8e89a1f13fc6"
+        ]
+    },
+    "2d420d66-39cc-ffe9-b330-599081173ee1": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Wolf/SK_Wolf.scene.nasset/Wolf.mesh.nasset/Wolf Eyes Black.meshskin.nasset",
+        "dependencies": [
+            "7a2105c6-45da-d3a2-2603-593eb521ecec",
+            "1128fecc-2700-d64f-5795-74e6133c2728",
+            "550814bd-55a5-46c2-1fda-0403e5a33927"
         ]
     },
     "2d6326cd-cf8f-8033-ea35-42218620e578": {
@@ -5155,6 +5366,18 @@
         "path": "Assets/Dinosaurs/Parasaurolophus/Material Instances/Parasaurolophus Nails.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "2d8a901a-9d8b-1503-d8d5-bf8522474614": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Wolf/SK_Wolf.scene.nasset/Wolf.mesh.nasset/Wolf Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "37dbff3f-f36f-b90d-de04-becbea6b2c70",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "2d9bc9c5-b42e-203e-28c6-f46eedaf8223": {
@@ -5349,6 +5572,18 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Sheep/SK_Sheep.scene.nasset/SK Sheep.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "2f084d90-1088-7d91-3f82-cc1b573c9814": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Stag/SK_Stag.scene.nasset/Stag.mesh.nasset/Stag Eye Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "10623caf-61f8-8248-7b02-bbcff75b8cc2",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "2f2d6258-1bca-5c9d-0864-4d31d7f16e6d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -5359,6 +5594,13 @@
         "dependencies": [
             "0c16198b-5391-5fb3-c9dd-519fa7ceae81",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "2f37a053-9456-c567-0c84-316e1c486cea": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Bull/Material Instances/Horns.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "2f6185e4-293c-ba5b-7bde-a2bf10725261": {
@@ -5842,6 +6084,30 @@
             "44801e67-2ba8-423b-d857-eab35579e57f"
         ]
     },
+    "32e786fa-1dda-ac86-6f97-95d66f57cb6a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Cow/SK_Cow.scene.nasset/Cow.mesh.nasset/Cow White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "cf141f6d-4986-5e3d-e311-4117f61ec31f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "32f129ee-3db7-925f-f8f1-78f6c97f0f77": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Donkey/SK_Donkey.scene.nasset/Donkey.mesh.nasset/Donkey Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5a32995c-eb79-660a-0c72-1588dab76760",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "32f27583-4685-40b2-9a2a-4639874ad850": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -6066,6 +6332,16 @@
             "abc6f9bb-d521-dda2-87bd-9986bd3abb80"
         ]
     },
+    "34e57b4e-9b3a-a6ef-6ab2-9ef80c12834e": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Donkey/SK_Donkey.scene.nasset/Donkey.mesh.nasset/Donkey Muzzle.meshskin.nasset",
+        "dependencies": [
+            "8cc15350-a0a8-4349-ce03-a1a26c8abe5b",
+            "d0f1aac8-d834-56bf-c66f-ce424d92600d",
+            "2373f9e6-e051-0c3a-7548-093162964d91"
+        ]
+    },
     "34e60c99-6883-18e3-2c75-26857a2b44db": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -6226,6 +6502,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "3601cb8e-6eaa-5cb8-70b5-2c76dc38b096": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Bull/Material Instances/Eye White.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "36067433-0b51-9197-49dd-9ba1951241c0": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -6364,6 +6647,13 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "37dbff3f-f36f-b90d-de04-becbea6b2c70": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Wolf/Material Instances/Main.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "37fbb575-41bd-cfef-9662-d086f2365de8": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -6378,6 +6668,18 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Modular_Toon/Animations/Modular Toon Walk Carry.anim.nasset"
+    },
+    "380950c1-efca-6781-0113-ec8178959734": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Stag/SK_Stag.scene.nasset/Stag.mesh.nasset/Stag Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "7088fd8f-e289-0920-ce52-330a8feb5bfe",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "382cf4b6-126e-368e-ffec-816edd693c68": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -6518,6 +6820,16 @@
             "3518b52d-bb9e-6a96-8ff4-10a5aaf08db9",
             "9871ea97-f82f-0754-1566-b9c944ef31ad",
             "454b2bee-13ae-6f2c-4171-acea894e02d5"
+        ]
+    },
+    "38e60b21-b3eb-6d23-f1e9-7ef6a8049dff": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Bull/SK_Bull.scene.nasset/Cow.mesh.nasset/Cow Main Light.meshskin.nasset",
+        "dependencies": [
+            "9b75415b-57e7-7cb5-da52-62a02eb433ec",
+            "a57b6e9b-762a-b66e-67a8-eb636c07c0ca",
+            "47464552-c18a-23c8-b74d-19ff7a11e2d2"
         ]
     },
     "3950147f-563e-446b-9875-5911818b2647": {
@@ -7455,6 +7767,26 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "4189f061-028c-1054-598d-671d54267a03": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Animals/Cow/SK_Cow.scene.nasset/Cow.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "cf141f6d-4986-5e3d-e311-4117f61ec31f",
+            "32e786fa-1dda-ac86-6f97-95d66f57cb6a",
+            "146cc38f-a58e-e7e6-2e3b-79c3cde57389",
+            "f3c86afc-bca9-c38d-04d4-bbcd42e532a7",
+            "4cd51b53-1e10-5867-3234-ea5744a81db1",
+            "aed6abcd-03c2-2274-d6e5-32872a74e080",
+            "752a0dda-7244-ed5a-e3c0-a62d9a21ee8a",
+            "55f94f63-c511-e2ed-0523-1f7d8f6d9265",
+            "fc497742-fd91-e710-7e4e-a66468c0ff87",
+            "41efcd6e-8a4f-2577-7b16-70fc975f66fb"
+        ]
+    },
     "41dde2a3-1979-4bf6-b337-e49c2dce8cb0": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -7474,6 +7806,11 @@
         "dependencies": [
             "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
         ]
+    },
+    "41efcd6e-8a4f-2577-7b16-70fc975f66fb": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Animals/Cow/SK_Cow.scene.nasset/Cow.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "426a06bd-dc40-f7d7-a251-0385ecfd137d": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -8052,6 +8389,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "47464552-c18a-23c8-b74d-19ff7a11e2d2": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Bull/Material Instances/Main Light.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "47650a28-8375-4878-be58-bc93c12549f2": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -8216,6 +8560,13 @@
             "466c358d-6439-c716-97a7-17f797479617",
             "29bb091e-6034-6dd8-d2e1-6359d32a2e75",
             "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec"
+        ]
+    },
+    "49d9ec98-d236-075f-e707-a2c4bec88221": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Donkey/Material Instances/Eye Dark.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "49e8661f-f797-538c-a3f9-21cb305c7ca0": {
@@ -8459,6 +8810,16 @@
             "38705279-46f4-3ef0-c783-9bb1a6bfacef"
         ]
     },
+    "4bfa70ee-95cc-ba18-66af-4ccd0af70154": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Wolf/SK_Wolf.scene.nasset/Wolf.mesh.nasset/Wolf Nose.meshskin.nasset",
+        "dependencies": [
+            "e059f83d-e772-0622-8d66-37aaca3a24d7",
+            "1128fecc-2700-d64f-5795-74e6133c2728",
+            "821e8ac3-7a0e-839c-80f3-fc68da316656"
+        ]
+    },
     "4c70f83a-b1a3-232b-f9e8-1043ac4f55c5": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -8495,6 +8856,18 @@
         ],
         "dependencies": [
             "e7b304e7-64b0-3ad4-ae5b-3bcb763e55bf"
+        ]
+    },
+    "4cd51b53-1e10-5867-3234-ea5744a81db1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Cow/SK_Cow.scene.nasset/Cow.mesh.nasset/Cow Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f3c86afc-bca9-c38d-04d4-bbcd42e532a7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "4cdbcbb6-72d3-2059-4839-9817fd2c5066": {
@@ -8608,6 +8981,16 @@
             "a80b2506-2354-7b33-33e2-c3c0f9535f70",
             "591bd446-1d0c-54be-387f-ff763faf6d30",
             "70aaac7b-3805-593f-e263-14f37083c9af"
+        ]
+    },
+    "4e0b16ec-b46a-56f1-e09e-c985bd97883a": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Stag/SK_Stag.scene.nasset/Stag.mesh.nasset/Stag Main Light.meshskin.nasset",
+        "dependencies": [
+            "f7b3e071-fac4-6f5d-5c7a-15eed86dc680",
+            "e463006b-2257-7e6c-887b-547a03febb86",
+            "27587aa0-5c13-3b0e-96d6-6d5b4558740d"
         ]
     },
     "4e104633-68fb-4d99-556d-6f0eb12cae6a": {
@@ -9186,6 +9569,16 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "52f11025-c05b-941f-6ac2-ac1495eebaa3": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Bull/SK_Bull.scene.nasset/Cow.mesh.nasset/Cow Eye White.meshskin.nasset",
+        "dependencies": [
+            "28a5aa7c-c6ea-6ee3-3b1f-71d4caade59c",
+            "a57b6e9b-762a-b66e-67a8-eb636c07c0ca",
+            "3601cb8e-6eaa-5cb8-70b5-2c76dc38b096"
+        ]
+    },
     "52faa3c4-e940-0cdf-3758-480f8c2ffaec": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -9498,6 +9891,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "550814bd-55a5-46c2-1fda-0403e5a33927": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Wolf/Material Instances/Eyes Black.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "554d7a8b-ee20-405d-95c2-ffd29f034241": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/2D_Platformer/Cartoon/Thumbnails/Player.scene.nasset.tex.nasset"
@@ -9597,6 +9997,18 @@
         "path": "Assets/Modular_Toon/Animations/Modular Toon Run.anim.nasset",
         "dependencies": [
             "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+        ]
+    },
+    "55f94f63-c511-e2ed-0523-1f7d8f6d9265": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Cow/SK_Cow.scene.nasset/Cow.mesh.nasset/Cow Pink.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "752a0dda-7244-ed5a-e3c0-a62d9a21ee8a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "55f9b598-f5c9-4882-676c-92f45f22fcf3": {
@@ -9996,6 +10408,14 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Cow/Animations/Cow_Jump_End.anim.nasset"
     },
+    "5933febd-8bf4-3168-5666-1d0f0da3b173": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Animals/Bull/SK_Bull.scene.nasset/Main.scene.nasset",
+        "dependencies": [
+            "018d91cb-dfc7-b55d-7e6a-77513a5f8743"
+        ]
+    },
     "59522d09-9961-8e51-cee7-7fd6c9b640be": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -10065,6 +10485,13 @@
     "5a27ae66-f1ab-4bbd-ab54-f6bc21efad1c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/2D_Platformer/Aliens/Thumbnails/Alien_Blue.scene.nasset.tex.nasset"
+    },
+    "5a32995c-eb79-660a-0c72-1588dab76760": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Donkey/Material Instances/Main.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "5a3aab91-e5fc-4901-953a-ec910a29753f": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -10672,6 +11099,18 @@
         ],
         "dependencies": [
             "ac4f76e5-6745-7782-d91d-859ea7fef7c3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "609b44bb-ded3-6a6e-87c8-75259a5ffa9b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Stag/SK_Stag.scene.nasset/Stag.mesh.nasset/Stag Antlers.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d0946306-8027-c0d8-2408-b3b569c38627",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -11676,6 +12115,13 @@
             "44801e67-2ba8-423b-d857-eab35579e57f"
         ]
     },
+    "6b229f3e-805f-8b46-b008-6db796fde2f6": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Bull/Material Instances/Hooves.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "6b47686f-498d-4532-a01a-f14af1493053": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -12193,6 +12639,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "7088fd8f-e289-0920-ce52-330a8feb5bfe": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Stag/Material Instances/Main.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "709376a7-166b-e45d-1a38-033a4455ae83": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -12473,6 +12926,40 @@
         "dependencies": [
             "04923f94-6d3d-a296-66e1-c36f6eb6ca70",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "727d4f49-1011-de80-4680-c9946881d1eb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Animals/Donkey/SK_Donkey.scene.nasset/Donkey.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "ddef666e-70de-c30e-32c4-37aa638d9952",
+            "ab89bc1b-aa2d-aff8-0e2d-8d42c80f074f",
+            "a6f83a7b-6e82-9d2b-86b0-a355cebf2f92",
+            "5a32995c-eb79-660a-0c72-1588dab76760",
+            "32f129ee-3db7-925f-f8f1-78f6c97f0f77",
+            "be526328-5247-4786-a579-cf73e6a2d921",
+            "99b06b94-b21e-e80d-0d4d-d1406491002c",
+            "e240eb74-0073-3b70-ad6b-ea16cd4f4cf6",
+            "e8b1ce01-a333-629d-6c9d-1b798833b389",
+            "2373f9e6-e051-0c3a-7548-093162964d91",
+            "8cc15350-a0a8-4349-ce03-a1a26c8abe5b",
+            "34e57b4e-9b3a-a6ef-6ab2-9ef80c12834e",
+            "ac282f88-88ef-779d-fb32-c7aca78bc9c9",
+            "fca9ea8d-609f-da6b-692b-f922ab40a336",
+            "e530f654-c7ed-6cda-68b3-c94855598e2a",
+            "23295851-9892-234e-9c77-44ce91f1b2e0",
+            "28956ce7-7404-cdcd-8a77-0732eecc68b9",
+            "49d9ec98-d236-075f-e707-a2c4bec88221",
+            "9fac0f4a-f94b-f34d-6f71-2188b123d469",
+            "2b27a91f-7aa3-39e9-4deb-b2c348c91a1d",
+            "bcbfa25b-aa88-5054-509e-9200e3b9fb9f",
+            "e985232f-1e7a-3b95-09c8-5eed3b2ff4a5",
+            "abad0db0-e846-fb91-aa35-2007f1c32097",
+            "d0f1aac8-d834-56bf-c66f-ce424d92600d"
         ]
     },
     "72b790a4-1c7c-19fd-426d-778af02eeacd": {
@@ -12832,6 +13319,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "752a0dda-7244-ed5a-e3c0-a62d9a21ee8a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Cow/Material Instances/Pink.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "75436c3f-9935-40ca-8c08-d625c1e98e09": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -12891,6 +13385,16 @@
             "fdd6581c-84e3-971e-3a28-f4d64082f47a",
             "7bca780d-2d4d-0059-ff4a-eee066c1186c",
             "656ff302-ba9c-1f33-ae72-fa5ff72708f1"
+        ]
+    },
+    "761c242e-78d1-1070-5420-617424b586c9": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Bull/SK_Bull.scene.nasset/Cow.mesh.nasset/Cow Horns.meshskin.nasset",
+        "dependencies": [
+            "bd233eda-4e5f-3dbc-55cf-4b97d1674714",
+            "a57b6e9b-762a-b66e-67a8-eb636c07c0ca",
+            "2f37a053-9456-c567-0c84-316e1c486cea"
         ]
     },
     "762136c2-3ba5-92ea-0ccc-17c2ae5f5f40": {
@@ -13040,6 +13544,14 @@
             "0eaeff54-959c-56fc-919f-9706ffedbe64"
         ]
     },
+    "775a6b53-82bc-95f3-7ed5-c94762222970": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Animals/Wolf/SK_Wolf.scene.nasset/Main.scene.nasset",
+        "dependencies": [
+            "26fe4be9-832e-09fa-af53-4d81a80f9568"
+        ]
+    },
     "775f3eaa-1c86-c624-4de5-390db7feba28": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Material Instances/Thumbnails/Bones.mtli.nasset.tex.nasset"
@@ -13064,6 +13576,16 @@
         "dependencies": [
             "c07af5ae-fe24-9314-adb1-607f98d77092",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "77905391-7225-6080-06eb-0183bef1e60e": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Bull/SK_Bull.scene.nasset/Cow.mesh.nasset/Cow Muzzle.meshskin.nasset",
+        "dependencies": [
+            "799c7e07-e3ab-4799-5c4c-5e8de30e589d",
+            "a57b6e9b-762a-b66e-67a8-eb636c07c0ca",
+            "9adcc2af-cd1b-d630-2169-b686df633a21"
         ]
     },
     "7794243e-c254-6d79-ee68-3ab232d56429": {
@@ -13406,6 +13928,18 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Cat/Animations/Cat_Jump_Start.anim.nasset"
     },
+    "799c7e07-e3ab-4799-5c4c-5e8de30e589d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Bull/SK_Bull.scene.nasset/Cow.mesh.nasset/Cow Muzzle.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9adcc2af-cd1b-d630-2169-b686df633a21",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "79a2c842-8e01-5b25-1abd-40ab4419de55": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -13455,6 +13989,18 @@
         ],
         "dependencies": [
             "d560ddcc-d4bf-e6e9-5ea3-76e90754235e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7a2105c6-45da-d3a2-2603-593eb521ecec": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Wolf/SK_Wolf.scene.nasset/Wolf.mesh.nasset/Wolf Eyes Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "550814bd-55a5-46c2-1fda-0403e5a33927",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -13719,6 +14265,13 @@
             "310511af-5758-9b7e-5205-c76cca92789e",
             "dca2bb6b-ca77-5a6b-a299-89414325cd87",
             "44801e67-2ba8-423b-d857-eab35579e57f"
+        ]
+    },
+    "7ca688c9-926a-357a-72a0-6003e89143a5": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Bull/Material Instances/Main.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "7cbcf053-014d-f7c5-94f6-17dc5aba705c": {
@@ -14227,6 +14780,13 @@
     "81c4b1b3-4526-98c2-4d4e-194b11a4a9df": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dinosaurs/Triceratops/Material Instances/Triceratops Trim.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "821e8ac3-7a0e-839c-80f3-fc68da316656": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Wolf/Material Instances/Nose.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -14942,6 +15502,18 @@
             "d9f46431-0cc8-aac3-c7ec-30bf7144851e"
         ]
     },
+    "888061a7-1d07-0911-d28a-37c55237efbd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Wolf/SK_Wolf.scene.nasset/Wolf.mesh.nasset/Wolf Main Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a228c795-fcc6-5ab8-3aab-a418fdc7737f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "88813ff4-82be-bbda-bee8-8d4aae612706": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -15131,6 +15703,18 @@
             "1d113227-a66f-89b2-146a-c9e196c51d60"
         ]
     },
+    "89fad75b-2286-005a-023b-10c2cc8a1c0f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Bull/SK_Bull.scene.nasset/Cow.mesh.nasset/Cow Hooves.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "6b229f3e-805f-8b46-b008-6db796fde2f6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "8a171e76-8763-46c9-a168-afdf46ecb0d3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Animals/Spider/Thumbnails/Spider.scene.nasset.tex.nasset"
@@ -15300,6 +15884,16 @@
             "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
         ]
     },
+    "8bd6aa31-49bb-07e9-774d-5e9c3cf31616": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Bull/SK_Bull.scene.nasset/Cow.mesh.nasset/Cow Main.meshskin.nasset",
+        "dependencies": [
+            "c93afb69-62d8-5c85-6500-709500638100",
+            "a57b6e9b-762a-b66e-67a8-eb636c07c0ca",
+            "7ca688c9-926a-357a-72a0-6003e89143a5"
+        ]
+    },
     "8bde0b1a-16e8-e496-02aa-743705bc74be": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -15444,6 +16038,18 @@
             "21d85dae-1ec7-dbe8-f947-4ad68ac55c79",
             "c69ce741-92a0-09fe-6429-ac092e8babbb",
             "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+        ]
+    },
+    "8cc15350-a0a8-4349-ce03-a1a26c8abe5b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Donkey/SK_Donkey.scene.nasset/Donkey.mesh.nasset/Donkey Muzzle.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2373f9e6-e051-0c3a-7548-093162964d91",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "8cd07d2f-b0ac-423d-304e-6e5986db47cf": {
@@ -15946,6 +16552,16 @@
             "23a90362-b7c2-1a67-d63a-a4964c3f5f15",
             "d58ec2a3-fc8f-fe84-3755-ff0e88749653",
             "4a2a3af8-a2a1-182f-ab2f-bd10eaf7ab78"
+        ]
+    },
+    "9121106e-9dae-8bb1-a8c7-4b90b8f5992e": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Stag/SK_Stag.scene.nasset/Stag.mesh.nasset/Stag Eye Black.meshskin.nasset",
+        "dependencies": [
+            "2f084d90-1088-7d91-3f82-cc1b573c9814",
+            "e463006b-2257-7e6c-887b-547a03febb86",
+            "10623caf-61f8-8248-7b02-bbcff75b8cc2"
         ]
     },
     "91421e6e-bece-130b-c4fa-a98239d31c65": {
@@ -17042,6 +17658,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "99b06b94-b21e-e80d-0d4d-d1406491002c": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Donkey/Material Instances/Hair.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "99fc5012-63ad-ff2c-46ca-264536ad3afb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -17149,6 +17772,13 @@
             "058e1344-192e-0653-0ce4-97af78d7b5b9"
         ]
     },
+    "9adcc2af-cd1b-d630-2169-b686df633a21": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Bull/Material Instances/Muzzle.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "9ae58b54-ac12-4a44-3a05-06ccceb38ade": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -17236,6 +17866,18 @@
             "2fc69539-f340-d314-9a0b-6cb844323402",
             "5953edef-1d98-9382-a5e4-efec48304d9d",
             "ea8ac4f7-f06e-96b8-67e9-c6f89ddc7983"
+        ]
+    },
+    "9b75415b-57e7-7cb5-da52-62a02eb433ec": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Bull/SK_Bull.scene.nasset/Cow.mesh.nasset/Cow Main Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "47464552-c18a-23c8-b74d-19ff7a11e2d2",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "9b9d6cf0-e652-b9a1-bda2-925e8f8dba7b": {
@@ -17331,6 +17973,16 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Cat/Animations/Cat_Run.anim.nasset"
+    },
+    "9c933cc0-d706-b3fe-ba5d-13d2dddfe9ce": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Stag/SK_Stag.scene.nasset/Stag.mesh.nasset/Stag Antlers.meshskin.nasset",
+        "dependencies": [
+            "609b44bb-ded3-6a6e-87c8-75259a5ffa9b",
+            "e463006b-2257-7e6c-887b-547a03febb86",
+            "d0946306-8027-c0d8-2408-b3b569c38627"
+        ]
     },
     "9ca3fe2d-9def-983d-befc-1cbd18d5eade": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -17582,6 +18234,14 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Sushime/SK_Misty.scene.nasset/SK Misty.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "9f176447-6790-bf7d-08c9-8eb4f5a7db62": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Animals/Cow/SK_Cow.scene.nasset/Main.scene.nasset",
+        "dependencies": [
+            "4189f061-028c-1054-598d-671d54267a03"
+        ]
+    },
     "9f2137b7-9f22-a80b-e557-45edf742530c": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -17654,6 +18314,18 @@
             "cceabefa-3734-746d-b8f7-186a5421541b",
             "9871ea97-f82f-0754-1566-b9c944ef31ad",
             "185eec15-3a74-3d14-882c-d031c74bde40"
+        ]
+    },
+    "9fac0f4a-f94b-f34d-6f71-2188b123d469": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Donkey/SK_Donkey.scene.nasset/Donkey.mesh.nasset/Donkey Eye Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "49d9ec98-d236-075f-e707-a2c4bec88221",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "9fc07a32-94ec-ce9b-cca3-208dee6b5e40": {
@@ -17832,6 +18504,13 @@
             "6094aea5-06ec-9419-7998-d213ed94a6b5",
             "53efc5e1-9c1b-6f5a-2a1a-54b62ec15e67",
             "ac4f76e5-6745-7782-d91d-859ea7fef7c3"
+        ]
+    },
+    "a228c795-fcc6-5ab8-3aab-a418fdc7737f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Wolf/Material Instances/Main Light.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "a234cfd8-7feb-4e10-87f7-2d04f2df5d51": {
@@ -18120,6 +18799,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "a57b6e9b-762a-b66e-67a8-eb636c07c0ca": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Animals/Bull/SK_Bull.scene.nasset/Cow.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
     "a58f446e-77cb-d966-802d-2c2557f7b4db": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Modular_Toon/Material Instances/Hair 2.mtli.nasset",
@@ -18185,6 +18869,16 @@
     "a5e87e0c-6fdb-4211-a5c0-ecaf6b2c905a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Sushime/Thumbnails/Blondie.scene.nasset.tex.nasset"
+    },
+    "a5ef14d5-e464-2aaf-58cb-a4e139c2ac03": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Bull/SK_Bull.scene.nasset/Cow.mesh.nasset/Cow Hooves.meshskin.nasset",
+        "dependencies": [
+            "89fad75b-2286-005a-023b-10c2cc8a1c0f",
+            "a57b6e9b-762a-b66e-67a8-eb636c07c0ca",
+            "6b229f3e-805f-8b46-b008-6db796fde2f6"
+        ]
     },
     "a63e1b38-a29a-576e-aa27-335f420cfc26": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -18271,6 +18965,16 @@
         "thumbnail": "fce48e11-f3f6-e212-1eb2-8219cd7ddf20",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "a6f83a7b-6e82-9d2b-86b0-a355cebf2f92": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Donkey/SK_Donkey.scene.nasset/Donkey.mesh.nasset/Donkey Main Light.meshskin.nasset",
+        "dependencies": [
+            "ab89bc1b-aa2d-aff8-0e2d-8d42c80f074f",
+            "d0f1aac8-d834-56bf-c66f-ce424d92600d",
+            "ddef666e-70de-c30e-32c4-37aa638d9952"
         ]
     },
     "a71520e7-d5ab-257a-3702-16d0c56141da": {
@@ -18448,6 +19152,14 @@
             "58a99b5b-cb9e-7184-a95b-970cf91a7d7d",
             "53efc5e1-9c1b-6f5a-2a1a-54b62ec15e67",
             "7794243e-c254-6d79-ee68-3ab232d56429"
+        ]
+    },
+    "a831c921-c242-2844-3052-7db07cb91700": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Animals/Stag/SK_Stag.scene.nasset/Main.scene.nasset",
+        "dependencies": [
+            "1bcc9785-b1b8-85a5-101e-ae3f3e519d4a"
         ]
     },
     "a85be35e-5a2b-8bba-8c91-c1e7580edd7f": {
@@ -18784,6 +19496,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "ab89bc1b-aa2d-aff8-0e2d-8d42c80f074f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Donkey/SK_Donkey.scene.nasset/Donkey.mesh.nasset/Donkey Main Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "ddef666e-70de-c30e-32c4-37aa638d9952",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "ab93cd3e-7f97-8a5f-df0d-a2e316748d8d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -18794,6 +19518,16 @@
         "dependencies": [
             "8ceab018-48dc-097a-167b-ce11cca1d63e",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "abad0db0-e846-fb91-aa35-2007f1c32097": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Donkey/SK_Donkey.scene.nasset/Donkey.mesh.nasset/Donkey Eye White.meshskin.nasset",
+        "dependencies": [
+            "e985232f-1e7a-3b95-09c8-5eed3b2ff4a5",
+            "d0f1aac8-d834-56bf-c66f-ce424d92600d",
+            "bcbfa25b-aa88-5054-509e-9200e3b9fb9f"
         ]
     },
     "abc6f9bb-d521-dda2-87bd-9986bd3abb80": {
@@ -18918,6 +19652,13 @@
         "dependencies": [
             "33d66126-bd02-3f2c-ba2b-7892ed00adf0",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ac282f88-88ef-779d-fb32-c7aca78bc9c9": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Donkey/Material Instances/Hooves.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "ac4f76e5-6745-7782-d91d-859ea7fef7c3": {
@@ -19155,6 +19896,16 @@
             "7300fbb6-80e0-597a-1320-5508957597a7",
             "7a115947-fc6b-5b71-ad7d-c7d56b7ef749",
             "185eec15-3a74-3d14-882c-d031c74bde40"
+        ]
+    },
+    "aed6abcd-03c2-2274-d6e5-32872a74e080": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Cow/SK_Cow.scene.nasset/Cow.mesh.nasset/Cow Black.meshskin.nasset",
+        "dependencies": [
+            "4cd51b53-1e10-5867-3234-ea5744a81db1",
+            "41efcd6e-8a4f-2577-7b16-70fc975f66fb",
+            "f3c86afc-bca9-c38d-04d4-bbcd42e532a7"
         ]
     },
     "aeded11d-15bc-e23c-ce19-66710a0127d9": {
@@ -20772,6 +21523,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "bcbfa25b-aa88-5054-509e-9200e3b9fb9f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Donkey/Material Instances/Eye White.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "bcc3423c-40f7-ec6c-460c-0d6d9135c742": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_People/Material Instances/Thumbnails/Black 2.mtli.nasset.tex.nasset"
@@ -20825,6 +21583,18 @@
         ],
         "dependencies": [
             "62b3e2c5-f926-f13c-4b71-27413432ebae",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "bd233eda-4e5f-3dbc-55cf-4b97d1674714": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Bull/SK_Bull.scene.nasset/Cow.mesh.nasset/Cow Horns.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2f37a053-9456-c567-0c84-316e1c486cea",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -20966,6 +21736,16 @@
     "be4a748f-02ad-6d8e-e7b4-b829cf27e214": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_People/Material Instances/Thumbnails/Metal 1.mtli.nasset.tex.nasset"
+    },
+    "be526328-5247-4786-a579-cf73e6a2d921": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Donkey/SK_Donkey.scene.nasset/Donkey.mesh.nasset/Donkey Main.meshskin.nasset",
+        "dependencies": [
+            "32f129ee-3db7-925f-f8f1-78f6c97f0f77",
+            "d0f1aac8-d834-56bf-c66f-ce424d92600d",
+            "5a32995c-eb79-660a-0c72-1588dab76760"
+        ]
     },
     "be542ede-28aa-451e-bb11-6874bb35c2b3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -22136,6 +22916,14 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "c77fd99c-a69c-1192-3ae6-6f9bc90ac50a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Animals/Donkey/SK_Donkey.scene.nasset/Main.scene.nasset",
+        "dependencies": [
+            "727d4f49-1011-de80-4680-c9946881d1eb"
+        ]
+    },
     "c792f527-b572-a2ee-61f8-d9c731ef09df": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Material Instances/Thumbnails/Red 1.mtli.nasset.tex.nasset"
@@ -22323,6 +23111,18 @@
         ],
         "dependencies": [
             "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c93afb69-62d8-5c85-6500-709500638100": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Bull/SK_Bull.scene.nasset/Cow.mesh.nasset/Cow Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "7ca688c9-926a-357a-72a0-6003e89143a5",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -22929,6 +23729,13 @@
             "44801e67-2ba8-423b-d857-eab35579e57f"
         ]
     },
+    "cf141f6d-4986-5e3d-e311-4117f61ec31f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Cow/Material Instances/White.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "cf2d7841-7b05-4b90-84c1-f701241d98f1": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -22994,6 +23801,18 @@
             "e2865493-2b61-d050-3305-d0c1382cf5cf",
             "858451af-d7fc-4ff7-7629-26984f4f5ffe",
             "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
+        ]
+    },
+    "cf798a44-ce09-8f65-aa8b-6a0ae13d2683": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Stag/SK_Stag.scene.nasset/Stag.mesh.nasset/Stag Main Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "ef538d05-2fa9-0aeb-c226-af7237cda9c3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "cf802433-c04e-2223-db78-0f14c2635a04": {
@@ -23136,6 +23955,13 @@
             "317aa5f0-f2af-bd2f-93c9-23d6382f76a5"
         ]
     },
+    "d0946306-8027-c0d8-2408-b3b569c38627": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Stag/Material Instances/Antlers.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "d0aa4986-78f5-43fe-ab74-780f6ef0d598": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -23170,6 +23996,11 @@
             "11872f52-83be-1877-4620-643ab37e8a7d",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "d0f1aac8-d834-56bf-c66f-ce424d92600d": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Animals/Donkey/SK_Donkey.scene.nasset/Donkey.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "d107f9f5-e688-25c1-4f95-10a2f2c3f9a4": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -24476,6 +25307,13 @@
             "bdb4f982-68c7-2f52-bdfb-4dbcb949987d"
         ]
     },
+    "ddef666e-70de-c30e-32c4-37aa638d9952": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Donkey/Material Instances/Main Light.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "de03b733-8429-e6a3-b92c-19fcc8566cae": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -24735,6 +25573,18 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Sushime/SK_Shades.scene.nasset/SK Shades.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "e059f83d-e772-0622-8d66-37aaca3a24d7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Wolf/SK_Wolf.scene.nasset/Wolf.mesh.nasset/Wolf Nose.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "821e8ac3-7a0e-839c-80f3-fc68da316656",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "e05e8d3d-368c-47db-8efe-4ad404d4bd2f": {
         "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
         "path": "Package.nplugin",
@@ -24823,6 +25673,18 @@
     "e08858e0-d6fc-d000-e71e-ea4bd090fd41": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Material Instances/Thumbnails/Belt 2.mtli.nasset.tex.nasset"
+    },
+    "e09862b2-bb8c-6cc7-7f04-2505585ef793": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Bull/SK_Bull.scene.nasset/Cow.mesh.nasset/Cow Eye Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f110a6b6-00f3-3729-fa1b-a2fd77dac5d9",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "e0b1fff3-3812-3808-c2fc-d1b3799332ed": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -24940,6 +25802,18 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mini/Animations/Mini Crouch Pose.anim.nasset"
+    },
+    "e240eb74-0073-3b70-ad6b-ea16cd4f4cf6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Donkey/SK_Donkey.scene.nasset/Donkey.mesh.nasset/Donkey Hair.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "99b06b94-b21e-e80d-0d4d-d1406491002c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "e2483a05-b38f-4a8f-abde-1039888d85d3": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -25126,6 +26000,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "e463006b-2257-7e6c-887b-547a03febb86": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Animals/Stag/SK_Stag.scene.nasset/Stag.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
     "e464674d-324e-9d1a-0612-9f9440352b13": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -25226,6 +26105,16 @@
             "12675b09-7109-fa77-973f-5a0904c8aa25",
             "0804380a-9e1d-552e-75de-6752b6e95064",
             "44801e67-2ba8-423b-d857-eab35579e57f"
+        ]
+    },
+    "e530f654-c7ed-6cda-68b3-c94855598e2a": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Donkey/SK_Donkey.scene.nasset/Donkey.mesh.nasset/Donkey Hooves.meshskin.nasset",
+        "dependencies": [
+            "fca9ea8d-609f-da6b-692b-f922ab40a336",
+            "d0f1aac8-d834-56bf-c66f-ce424d92600d",
+            "ac282f88-88ef-779d-fb32-c7aca78bc9c9"
         ]
     },
     "e53520ea-1c7b-d341-6467-55c826a1d163": {
@@ -25603,6 +26492,16 @@
             "6b5f1dcf-d332-5d8e-a8d1-3c9e59c72ce5"
         ]
     },
+    "e8b1ce01-a333-629d-6c9d-1b798833b389": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Donkey/SK_Donkey.scene.nasset/Donkey.mesh.nasset/Donkey Hair.meshskin.nasset",
+        "dependencies": [
+            "e240eb74-0073-3b70-ad6b-ea16cd4f4cf6",
+            "d0f1aac8-d834-56bf-c66f-ce424d92600d",
+            "99b06b94-b21e-e80d-0d4d-d1406491002c"
+        ]
+    },
     "e8da14bc-9c4d-2c10-e83e-37725c293231": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -25681,6 +26580,18 @@
             "69c2d6c8-4962-2b66-74f3-476d8ed5edb2",
             "3a8e96cf-7d35-0c28-918e-26fb121681da",
             "185eec15-3a74-3d14-882c-d031c74bde40"
+        ]
+    },
+    "e985232f-1e7a-3b95-09c8-5eed3b2ff4a5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Donkey/SK_Donkey.scene.nasset/Donkey.mesh.nasset/Donkey Eye White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bcbfa25b-aa88-5054-509e-9200e3b9fb9f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "e994f1db-878f-9762-ba1d-1040a04ca3d8": {
@@ -26274,6 +27185,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "ef538d05-2fa9-0aeb-c226-af7237cda9c3": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Stag/Material Instances/Main Dark.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "ef7636a6-ff24-f69a-9bc5-982f8f23fe2d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -26537,6 +27455,13 @@
         ],
         "dependencies": [
             "e06fe6e9-8e6e-38ab-d066-aa6b463e1dea"
+        ]
+    },
+    "f110a6b6-00f3-3729-fa1b-a2fd77dac5d9": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Bull/Material Instances/Eye Black.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "f13b7bca-5650-b8c7-5a18-e47f014a6220": {
@@ -26821,6 +27746,13 @@
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Animals/Snake/SK_Snake.scene.nasset/SK Snake.mesh.nasset/SK Snake Snake Mouth.meshskin.nasset"
     },
+    "f3c86afc-bca9-c38d-04d4-bbcd42e532a7": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Cow/Material Instances/Black.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "f3d34ac9-270f-747f-712d-76fe069057a5": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Material Instances/Thumbnails/Hair 13.mtli.nasset.tex.nasset"
@@ -26915,6 +27847,16 @@
         "dependencies": [
             "5383edbe-0e6c-9c1e-bdb0-03291b98f472",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f49470dc-ff38-3b65-b405-7def24a7cf32": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Wolf/SK_Wolf.scene.nasset/Wolf.mesh.nasset/Wolf Main.meshskin.nasset",
+        "dependencies": [
+            "2d8a901a-9d8b-1503-d8d5-bf8522474614",
+            "1128fecc-2700-d64f-5795-74e6133c2728",
+            "37dbff3f-f36f-b90d-de04-becbea6b2c70"
         ]
     },
     "f49a4d94-9a88-4261-939d-ebe03549b289": {
@@ -27302,6 +28244,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "f7b3e071-fac4-6f5d-5c7a-15eed86dc680": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Stag/SK_Stag.scene.nasset/Stag.mesh.nasset/Stag Main Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "27587aa0-5c13-3b0e-96d6-6d5b4558740d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "f7c1fdba-3127-4a9b-a88a-4abf8bc5a8ae": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -27617,6 +28571,16 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "fc497742-fd91-e710-7e4e-a66468c0ff87": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Cow/SK_Cow.scene.nasset/Cow.mesh.nasset/Cow Pink.meshskin.nasset",
+        "dependencies": [
+            "55f94f63-c511-e2ed-0523-1f7d8f6d9265",
+            "41efcd6e-8a4f-2577-7b16-70fc975f66fb",
+            "752a0dda-7244-ed5a-e3c0-a62d9a21ee8a"
+        ]
+    },
     "fc6c0d4f-9654-4148-92ab-518c77c6cb77": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -27727,6 +28691,18 @@
             "afe3aaaf-7375-87d2-42b0-789989bb8b3b",
             "563655d6-0ecf-20b3-a0d1-8dc287399911",
             "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec"
+        ]
+    },
+    "fca9ea8d-609f-da6b-692b-f922ab40a336": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Donkey/SK_Donkey.scene.nasset/Donkey.mesh.nasset/Donkey Hooves.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "ac282f88-88ef-779d-fb32-c7aca78bc9c9",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "fcba0c15-18bd-49e7-95a3-77150a0a9ce1": {

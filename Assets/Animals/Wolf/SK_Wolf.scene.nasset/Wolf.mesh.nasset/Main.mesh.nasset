@@ -1,0 +1,153 @@
+{
+    "guid": "26fe4be9-832e-09fa-af53-4d81a80f9568",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "06dc87fb-aee8-beec-9f09-8394451e9876",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "f7bb7e3d-00b1-cee0-a979-750b9dd1946e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wolf Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "e7033f57-9e93-a079-81d9-99c8b183b3a0",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "f9da549f-5f7f-94b6-2d75-fac86f18b66f",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Wolf Main"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "2d8a901a-9d8b-1503-d8d5-bf8522474614",
+                                "material_instance": "37dbff3f-f36f-b90d-de04-becbea6b2c70"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "f49470dc-ff38-3b65-b405-7def24a7cf32"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "5c9cb0fb-387b-a443-eb06-02dd3ddbf0f6",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Wolf Main Light"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "888061a7-1d07-0911-d28a-37c55237efbd",
+                                "material_instance": "a228c795-fcc6-5ab8-3aab-a418fdc7737f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "2d39075e-0ba5-4faf-940d-63eabdfa26c6"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "09b346ee-25c7-d69a-247e-c9b7d91372e9",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Wolf Eyes Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7a2105c6-45da-d3a2-2603-593eb521ecec",
+                                "material_instance": "550814bd-55a5-46c2-1fda-0403e5a33927"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "2d420d66-39cc-ffe9-b330-599081173ee1"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "6a3068d5-3262-079c-ce33-64c664f21d82",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Wolf Nose"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e059f83d-e772-0622-8d66-37aaca3a24d7",
+                                "material_instance": "821e8ac3-7a0e-839c-80f3-fc68da316656"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "4bfa70ee-95cc-ba18-66af-4ccd0af70154"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "1128fecc-2700-d64f-5795-74e6133c2728"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "26fe4be9-832e-09fa-af53-4d81a80f9568"
+    },
+    "dependencies": [
+        "37dbff3f-f36f-b90d-de04-becbea6b2c70",
+        "2d8a901a-9d8b-1503-d8d5-bf8522474614",
+        "f49470dc-ff38-3b65-b405-7def24a7cf32",
+        "a228c795-fcc6-5ab8-3aab-a418fdc7737f",
+        "888061a7-1d07-0911-d28a-37c55237efbd",
+        "2d39075e-0ba5-4faf-940d-63eabdfa26c6",
+        "550814bd-55a5-46c2-1fda-0403e5a33927",
+        "7a2105c6-45da-d3a2-2603-593eb521ecec",
+        "2d420d66-39cc-ffe9-b330-599081173ee1",
+        "821e8ac3-7a0e-839c-80f3-fc68da316656",
+        "e059f83d-e772-0622-8d66-37aaca3a24d7",
+        "4bfa70ee-95cc-ba18-66af-4ccd0af70154",
+        "1128fecc-2700-d64f-5795-74e6133c2728"
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "guid": "4189f061-028c-1054-598d-671d54267a03",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "f31567fe-8cdc-2de2-ab37-5eb4d91a4168",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "92da3d92-5b46-e693-a417-2281b32ce4f9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cow Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "6a7241f3-9835-377c-24ed-f50559dd7018",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "0d3c5d9c-703c-6d7d-c07d-84c6cb83d422",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Cow White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "32e786fa-1dda-ac86-6f97-95d66f57cb6a",
+                                "material_instance": "cf141f6d-4986-5e3d-e311-4117f61ec31f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "146cc38f-a58e-e7e6-2e3b-79c3cde57389"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "b7dbec28-3709-db11-c60b-4ce85a9845bd",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Cow Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4cd51b53-1e10-5867-3234-ea5744a81db1",
+                                "material_instance": "f3c86afc-bca9-c38d-04d4-bbcd42e532a7"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "aed6abcd-03c2-2274-d6e5-32872a74e080"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "76167b13-e57a-9b16-cc45-71229e8dcc2d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Cow Pink"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "55f94f63-c511-e2ed-0523-1f7d8f6d9265",
+                                "material_instance": "752a0dda-7244-ed5a-e3c0-a62d9a21ee8a"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "fc497742-fd91-e710-7e4e-a66468c0ff87"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "41efcd6e-8a4f-2577-7b16-70fc975f66fb"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "4189f061-028c-1054-598d-671d54267a03"
+    },
+    "dependencies": [
+        "cf141f6d-4986-5e3d-e311-4117f61ec31f",
+        "32e786fa-1dda-ac86-6f97-95d66f57cb6a",
+        "146cc38f-a58e-e7e6-2e3b-79c3cde57389",
+        "f3c86afc-bca9-c38d-04d4-bbcd42e532a7",
+        "4cd51b53-1e10-5867-3234-ea5744a81db1",
+        "aed6abcd-03c2-2274-d6e5-32872a74e080",
+        "752a0dda-7244-ed5a-e3c0-a62d9a21ee8a",
+        "55f94f63-c511-e2ed-0523-1f7d8f6d9265",
+        "fc497742-fd91-e710-7e4e-a66468c0ff87",
+        "41efcd6e-8a4f-2577-7b16-70fc975f66fb"
+    ]
+}
