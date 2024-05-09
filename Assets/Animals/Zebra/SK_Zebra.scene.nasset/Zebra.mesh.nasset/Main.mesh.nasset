@@ -1,0 +1,101 @@
+{
+    "guid": "91e3eb39-eaf9-e7c0-364c-da0c1708be9a",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "433a8c67-8bef-4753-cfa4-d1123bf048a9",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "d321f120-679b-44d4-e163-1415bcdbcf64",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Zebra Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "46c5a253-d73c-ea5a-498e-d990ff99ff00",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "67717cd8-cf72-30fa-cd2d-57ca7d44cb71",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Zebra Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "af714051-5550-6ae1-f02a-a937a1dea7f3",
+                                "material_instance": "6381b44b-89f1-204b-5b1c-3d1688b3d652"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "e6602b12-d7fe-6bb7-5ce4-d50e2059c210"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "46bfe4a7-1b38-ff60-5cad-71c09e8603c4",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Zebra White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "1c6b7e54-f97a-5518-74f3-3fc9a2a2156d",
+                                "material_instance": "7507d465-9f53-244c-2c2a-f51d88696ce1"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "b7865c9f-c125-78bf-5d6f-9f778fae5161"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "b48c70f2-1635-9484-0afb-c080293ffbb1"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "91e3eb39-eaf9-e7c0-364c-da0c1708be9a"
+    },
+    "dependencies": [
+        "6381b44b-89f1-204b-5b1c-3d1688b3d652",
+        "af714051-5550-6ae1-f02a-a937a1dea7f3",
+        "e6602b12-d7fe-6bb7-5ce4-d50e2059c210",
+        "7507d465-9f53-244c-2c2a-f51d88696ce1",
+        "1c6b7e54-f97a-5518-74f3-3fc9a2a2156d",
+        "b7865c9f-c125-78bf-5d6f-9f778fae5161",
+        "b48c70f2-1635-9484-0afb-c080293ffbb1"
+    ]
+}

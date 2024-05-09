@@ -3337,6 +3337,18 @@
             "3492c9cd-b15c-296a-92e5-b3c727aaafac"
         ]
     },
+    "1c6b7e54-f97a-5518-74f3-3fc9a2a2156d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Zebra/SK_Zebra.scene.nasset/Zebra.mesh.nasset/Zebra White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "7507d465-9f53-244c-2c2a-f51d88696ce1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "1c7b213d-acac-4f0c-901c-389d2ed36657": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -11362,6 +11374,13 @@
             "a2e3f6da-7d05-695f-2187-12088a16e0ec"
         ]
     },
+    "6381b44b-89f1-204b-5b1c-3d1688b3d652": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Zebra/Material Instances/Black.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "639ad76a-8f9d-4307-85ce-2f1c47d484c7": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -13297,6 +13316,13 @@
             "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
         ]
     },
+    "7507d465-9f53-244c-2c2a-f51d88696ce1": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Animals/Zebra/Material Instances/White.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "751d6669-49a7-e36d-7a8f-9b24cd0a4d54": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -13445,6 +13471,14 @@
         "dependencies": [
             "444c2baa-6b53-c2e6-f501-d5424242672b",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "769462e8-9db2-94b5-a2b3-77d69ef1c26f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Animals/Zebra/SK_Zebra.scene.nasset/Main.scene.nasset",
+        "dependencies": [
+            "91e3eb39-eaf9-e7c0-364c-da0c1708be9a"
         ]
     },
     "76a94aaf-c147-ba8b-a4fa-c57ef41f08c0": {
@@ -16649,6 +16683,23 @@
         "dependencies": [
             "16c7ac35-12ac-a87a-dc30-6a680a707d59",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "91e3eb39-eaf9-e7c0-364c-da0c1708be9a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Animals/Zebra/SK_Zebra.scene.nasset/Zebra.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "6381b44b-89f1-204b-5b1c-3d1688b3d652",
+            "af714051-5550-6ae1-f02a-a937a1dea7f3",
+            "e6602b12-d7fe-6bb7-5ce4-d50e2059c210",
+            "7507d465-9f53-244c-2c2a-f51d88696ce1",
+            "1c6b7e54-f97a-5518-74f3-3fc9a2a2156d",
+            "b7865c9f-c125-78bf-5d6f-9f778fae5161",
+            "b48c70f2-1635-9484-0afb-c080293ffbb1"
         ]
     },
     "9203f35a-b54d-8bc4-99f8-0dc565918790": {
@@ -19982,6 +20033,18 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Cow/Animations/Cow_Idle.anim.nasset"
     },
+    "af714051-5550-6ae1-f02a-a937a1dea7f3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Animals/Zebra/SK_Zebra.scene.nasset/Zebra.mesh.nasset/Zebra Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "6381b44b-89f1-204b-5b1c-3d1688b3d652",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "afaeaeb4-1547-4307-b38d-a2e4348cdf60": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Knight_Golden.scene.nasset.tex.nasset"
@@ -20591,6 +20654,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Mechs/Mike/Textures/T_Mike_D.tex.nasset"
     },
+    "b48c70f2-1635-9484-0afb-c080293ffbb1": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Animals/Zebra/SK_Zebra.scene.nasset/Zebra.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
     "b490392f-e681-7367-d279-3501d636fd04": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -20899,6 +20967,16 @@
             "0053e7c8-9d84-8fb5-3759-0f22800dc7fb",
             "3f2df98c-d0e9-5730-1c78-00dfe6684241",
             "f76751a5-d6e4-241f-b934-5f7172ff20a0"
+        ]
+    },
+    "b7865c9f-c125-78bf-5d6f-9f778fae5161": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Zebra/SK_Zebra.scene.nasset/Zebra.mesh.nasset/Zebra White.meshskin.nasset",
+        "dependencies": [
+            "1c6b7e54-f97a-5518-74f3-3fc9a2a2156d",
+            "b48c70f2-1635-9484-0afb-c080293ffbb1",
+            "7507d465-9f53-244c-2c2a-f51d88696ce1"
         ]
     },
     "b7974d1d-2e1a-4416-9ecf-a9b2048e5dd0": {
@@ -26230,6 +26308,16 @@
         "dependencies": [
             "2ac34ad7-d032-06a4-98d0-e4b078b536ec",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e6602b12-d7fe-6bb7-5ce4-d50e2059c210": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Animals/Zebra/SK_Zebra.scene.nasset/Zebra.mesh.nasset/Zebra Black.meshskin.nasset",
+        "dependencies": [
+            "af714051-5550-6ae1-f02a-a937a1dea7f3",
+            "b48c70f2-1635-9484-0afb-c080293ffbb1",
+            "6381b44b-89f1-204b-5b1c-3d1688b3d652"
         ]
     },
     "e664ee89-6d0a-1870-2950-c0b16dcd5504": {
