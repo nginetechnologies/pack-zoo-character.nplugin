@@ -1,5 +1,5 @@
 {
-    "source": "A_Anne_Jump_Loop.fbx",
+    "source": "A_Cleric_Hit_React.fbx",
     "skeleton": "1f4b1c8d-dfd8-efe6-4930-ee5f68594183",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
@@ -9,10 +9,10 @@
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": "127f6a63-9c58-4aad-8fb7-b5889cde08d2"
+            "animation": "87e93492-dc4f-41f3-9fff-8e5911fb20a2"
         }
     ],
-    "guid": "127f6a63-9c58-4aad-8fb7-b5889cde08d2",
+    "guid": "87e93492-dc4f-41f3-9fff-8e5911fb20a2",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
         "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"

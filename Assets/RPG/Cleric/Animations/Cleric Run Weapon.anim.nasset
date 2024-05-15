@@ -1,5 +1,5 @@
 {
-    "source": "A_Anne_Run.fbx",
+    "source": "A_Cleric_Run_Weapon.fbx",
     "skeleton": "1f4b1c8d-dfd8-efe6-4930-ee5f68594183",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
@@ -9,10 +9,10 @@
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": "6cb4e43f-21da-402e-940e-fd6544b20d92"
+            "animation": "e9e5e4fb-71a5-4e20-951f-52b2214c8ce5"
         }
     ],
-    "guid": "6cb4e43f-21da-402e-940e-fd6544b20d92",
+    "guid": "e9e5e4fb-71a5-4e20-951f-52b2214c8ce5",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
         "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"

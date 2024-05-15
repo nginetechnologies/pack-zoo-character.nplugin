@@ -1,5 +1,5 @@
 {
-    "source": "A_Anne_Walk.fbx",
+    "source": "A_Cleric_Idle.fbx",
     "skeleton": "1f4b1c8d-dfd8-efe6-4930-ee5f68594183",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
@@ -9,10 +9,10 @@
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": "fc98c489-dcf2-4359-838b-e309e75cd7cc"
+            "animation": "796a0ce1-6c74-4030-b182-439e6ac30821"
         }
     ],
-    "guid": "fc98c489-dcf2-4359-838b-e309e75cd7cc",
+    "guid": "796a0ce1-6c74-4030-b182-439e6ac30821",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
         "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
