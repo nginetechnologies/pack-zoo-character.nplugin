@@ -1,0 +1,19 @@
+{
+    "source": "A_Velociraptor_Death.fbx",
+    "skeleton": "bc6c4d4b-a05b-6e71-5d0f-7689c128925b",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "bc6c4d4b-a05b-6e71-5d0f-7689c128925b"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "a5553a43-5234-4fb8-befb-40c84cf096b8"
+        }
+    ],
+    "guid": "a5553a43-5234-4fb8-befb-40c84cf096b8",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "bc6c4d4b-a05b-6e71-5d0f-7689c128925b"
+    ]
+}

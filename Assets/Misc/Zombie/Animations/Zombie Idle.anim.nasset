@@ -1,20 +1,20 @@
 {
-    "source": "A_Alien_Rogue_Sword_Slash.fbx",
-    "skeleton": "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc",
+    "source": "A_Zombie_Idle.fbx",
+    "skeleton": "",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
+        "skeleton": ""
     },
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": "77903f93-df90-4e2f-a87b-d5de8d8cf3eb"
+            "animation": "aeb75c82-74f2-4ffa-9632-9b6849b0909a"
         }
     ],
-    "guid": "77903f93-df90-4e2f-a87b-d5de8d8cf3eb",
+    "guid": "aeb75c82-74f2-4ffa-9632-9b6849b0909a",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
+        ""
     ]
 }

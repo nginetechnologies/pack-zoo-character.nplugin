@@ -1,0 +1,19 @@
+{
+    "source": "A_Triceratops_Attack.fbx",
+    "skeleton": "add9eeac-039d-8c56-5381-6e886b6b3b0e",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "add9eeac-039d-8c56-5381-6e886b6b3b0e"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "4273477b-ce12-423d-8c39-f6dbe0eb8587"
+        }
+    ],
+    "guid": "4273477b-ce12-423d-8c39-f6dbe0eb8587",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "add9eeac-039d-8c56-5381-6e886b6b3b0e"
+    ]
+}

@@ -1,20 +1,19 @@
 {
-    "source": "A_Skeleton_Idle.fbx",
-    "skeleton": "",
+    "source": "A_Trex_Death.fbx",
+    "skeleton": "8e676748-0b12-e7c7-d974-4ff4c059a00b",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-    "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": ""
+        "skeleton": "8e676748-0b12-e7c7-d974-4ff4c059a00b"
     },
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": "3dcc5d7d-50e5-484a-9ee3-69f2eb1697aa"
+            "animation": "ff0c91cd-26ca-4202-937b-47f6e6da22ed"
         }
     ],
-    "guid": "3dcc5d7d-50e5-484a-9ee3-69f2eb1697aa",
+    "guid": "ff0c91cd-26ca-4202-937b-47f6e6da22ed",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        ""
+        "8e676748-0b12-e7c7-d974-4ff4c059a00b"
     ]
 }
