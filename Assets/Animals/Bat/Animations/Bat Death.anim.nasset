@@ -1,0 +1,19 @@
+{
+    "source": "A_Bat_Death.fbx",
+    "skeleton": "",
+    "guid": "bdd0c6ac-7b5e-4c5c-be8c-d30c32a1d336",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "bdd0c6ac-7b5e-4c5c-be8c-d30c32a1d336"
+        }
+    ],
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": ""
+    },
+    "dependencies": [
+        ""
+    ]
+}

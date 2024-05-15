@@ -1,0 +1,19 @@
+{
+    "source": "A_Bat_Flying.fbx",
+    "skeleton": "",
+    "guid": "4695843a-04f6-406f-adaa-3d9b8313ffe4",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "4695843a-04f6-406f-adaa-3d9b8313ffe4"
+        }
+    ],
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": ""
+    },
+    "dependencies": [
+        ""
+    ]
+}
