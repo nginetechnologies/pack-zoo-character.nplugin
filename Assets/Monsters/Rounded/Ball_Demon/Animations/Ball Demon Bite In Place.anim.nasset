@@ -1,0 +1,16 @@
+{
+    "source": "A_Ball_Demon_Bite_In_Place.fbx",
+    "skeleton": "",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": ""
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "61051182-d4f4-41ab-9a99-8529e74eb6a5"
+        }
+    ],
+    "guid": "61051182-d4f4-41ab-9a99-8529e74eb6a5",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+}

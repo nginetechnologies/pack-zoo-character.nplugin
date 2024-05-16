@@ -1,0 +1,16 @@
+{
+    "source": "A_Ball_Penguin_Hit_React.fbx",
+    "skeleton": "",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": ""
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "38704d2e-78e7-4b30-b4dc-811b1d2d97e2"
+        }
+    ],
+    "guid": "38704d2e-78e7-4b30-b4dc-811b1d2d97e2",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+}

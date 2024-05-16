@@ -1,0 +1,16 @@
+{
+    "source": "A_Ball_Tree_Bite_In_Place.fbx",
+    "skeleton": "",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": ""
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "4792f2d6-d88e-4bd5-b3e8-c8408c2e25f8"
+        }
+    ],
+    "guid": "4792f2d6-d88e-4bd5-b3e8-c8408c2e25f8",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+}

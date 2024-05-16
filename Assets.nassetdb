@@ -15,6 +15,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Monsters/Rounded/Ball_Panda/Thumbnails/Ball_Panda.scene.nasset.tex.nasset"
     },
+    "00537c74-c527-4308-bae7-6d7967df7e75": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Slime/Animations/Ball Slime Walk.anim.nasset"
+    },
     "0053e7c8-9d84-8fb5-3759-0f22800dc7fb": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -81,6 +86,11 @@
             "e50d9802-3700-7660-59e9-b40273a5c799",
             "632c0acb-e414-2dd0-c921-7d94ebb6b5e7"
         ]
+    },
+    "00e9d15f-e3a8-494a-b057-2e9d6bcd177c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Mushroom/Animations/Ball Mushroom Yes.anim.nasset"
     },
     "00f68f55-344f-9781-f751-aeb7cf180dc7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -327,7 +337,7 @@
     "027476d5-faf1-435f-9fd4-8a6c316c05fe": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Monsters/Big/Animations/Big Monster Jump Start.anim.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/Animations/Big Monster Jump Start.anim.nasset",
         "dependencies": [
             "793c6a70-4969-f8d8-e862-721b1ccf5d02"
         ]
@@ -453,6 +463,11 @@
             "8a87989c-d277-42f9-bb9b-b7e1193b8fcd"
         ]
     },
+    "0375e57d-740f-4409-bbbe-dac992aa14f2": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Panda/Animations/Ball Panda Hit React.anim.nasset"
+    },
     "03792975-7972-acb0-aa28-490c1e9a2b62": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -492,6 +507,11 @@
             "1e21f612-86c7-fe73-ce68-68ef40b177bd",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "03a9c7bd-5287-4f03-b204-ee73b8a9553b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Penguin/Animations/Ball Penguin Dance.anim.nasset"
     },
     "03abfa91-b383-b68f-cd1c-1a2aad2fa8f0": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -704,7 +724,7 @@
     "052de4c1-f984-49b4-a132-1edb648d3f28": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Big/Player_Scripts/Sue.scene.nasset",
+        "path": "Assets/Monsters/Big/Sue/Sue.scene.nasset",
         "thumbnail": "39dfc81f-b468-4259-ba05-f1a5f2c0cac5",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
@@ -717,6 +737,11 @@
     "053b54cc-d89d-43ca-80af-51c1d4ca8219": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Suit.scene.nasset.tex.nasset"
+    },
+    "0545c612-c37a-4239-84ed-6cf882ebd7eb": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Crab/Animations/Ball Crab Dance.anim.nasset"
     },
     "0546446e-8c52-40bb-be18-4f624b6ad950": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -875,7 +900,7 @@
     },
     "067be3a9-bbd2-4d79-b26f-f21449a0d852": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Monsters/Big/Thumbnails/Kappa.scene.nasset.tex.nasset"
+        "path": "Assets/Monsters/Big/Kappa/Thumbnails/Kappa.scene.nasset.tex.nasset"
     },
     "0689184e-0099-6932-3d9f-c0c28e029897": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -940,10 +965,20 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "06eb655d-9f50-442f-88f0-26f0aeb4a572": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Alien_Tall/Animations/Ball Alien Tall Death.anim.nasset"
+    },
+    "06f650dd-bd32-424c-ad10-d540e4314e84": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Dragon/Animations/Ball Dragon Flying.anim.nasset"
+    },
     "073a5db1-d2aa-e36f-2a73-7f863363c977": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Big/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee.mesh.nasset",
+        "path": "Assets/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1098,6 +1133,11 @@
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
     },
+    "0923ef8a-addd-40c9-9e8a-233b865e47aa": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Mushroom/Animations/Ball Mushroom Dance.anim.nasset"
+    },
     "092d17aa-fe0e-aad0-f033-e7e15c5712a1": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Material Instances/Thumbnails/Main 4.mtli.nasset.tex.nasset"
@@ -1202,6 +1242,11 @@
             "d9f46431-0cc8-aac3-c7ec-30bf7144851e"
         ]
     },
+    "0a6b8573-3186-4054-b071-e99da8e5a7b0": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Cyclops/Animations/Ball Cyclops No.anim.nasset"
+    },
     "0a7177bb-0f96-4b66-ba7d-39421f8a7fd0": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1215,10 +1260,15 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mechs/Ronnie/SK_Ronnie.scene.nasset/SK Ronnie.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "0a85eccb-8b62-434e-a11b-c7931335a891": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Deer/Animations/Ball Deer Yes.anim.nasset"
+    },
     "0aad54cb-2209-aa05-4672-429880665af8": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Big/SK_Teddy.scene.nasset/SK_Teddy.scene.nasset",
+        "path": "Assets/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK_Teddy.scene.nasset",
         "dependencies": [
             "c5c54f75-ba7d-aa94-84f4-8ff019b54f53"
         ]
@@ -1343,7 +1393,7 @@
     "0b7f492a-cfd8-4d93-bbcd-b47f593e661a": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Big/Player_Scripts/Uglee.scene.nasset",
+        "path": "Assets/Monsters/Big/Uglee/Uglee.scene.nasset",
         "thumbnail": "b5713928-28ee-4571-9b14-811bdfc0d2f8",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
@@ -1395,7 +1445,7 @@
     "0c1c7403-b05c-1462-6332-67e0058f2684": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Uglee Main.mesh.nasset",
+        "path": "Assets/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Uglee Main.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1554,7 +1604,7 @@
     "0da20ae6-cccb-28a8-22a2-9dbdb09e4dbd": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Eye Black.mesh.nasset",
+        "path": "Assets/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Eye Black.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1697,6 +1747,11 @@
             "32334bad-98b5-123a-186d-ac74735179bf"
         ]
     },
+    "0ea547f3-5756-4f22-9cb1-7084bb2c99fc": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Ghost/Animations/Ball Ghost Death.anim.nasset"
+    },
     "0eaeff54-959c-56fc-919f-9706ffedbe64": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1778,7 +1833,7 @@
     "0f9d3fa4-c327-481f-bd9c-b3a79d4fadca": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Big/Player_Scripts/Lucifer.scene.nasset",
+        "path": "Assets/Monsters/Big/Lucifer/Lucifer.scene.nasset",
         "thumbnail": "39dfc81f-b468-4259-ba05-f1a5f2c0cac5",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
@@ -1933,10 +1988,10 @@
             "edfc293f-756d-1f2a-1a74-d68fb05d43ee"
         ]
     },
-    "111184c5-7c46-aa3e-0bef-e850dcd8c212": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+    "11132cef-66cb-40cc-8456-c4ab8407d2af": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Sushime/SK_Prince.scene.nasset/SK Prince.mesh.nasset/Skeletons/RootNode.skel.nasset"
+        "path": "Assets/Monsters/Rounded/Ball_Yeti/Animations/Ball Yeti Bite Front.anim.nasset"
     },
     "1128fecc-2700-d64f-5795-74e6133c2728": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
@@ -2228,6 +2283,16 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Rat/Animations/Rat Run.anim.nasset"
     },
+    "13bfc8ef-5562-45c4-a834-81e319eb5da5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Alien/Animations/Ball Alien Bite In Place.anim.nasset"
+    },
+    "13c65f28-282c-4e51-b0a1-6cc523ed48e6": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Alien/Animations/Ball Alien Idle.anim.nasset"
+    },
     "13d391b0-d856-85bb-d20c-727a6678fa27": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2313,6 +2378,11 @@
             "d02912e8-920e-5952-57e0-7e7a6a776ae5",
             "125cd8a8-6a61-0b44-61b0-ea6c323702e8"
         ]
+    },
+    "14112d5d-8c06-4f15-81bc-7a6487b9a180": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Pig/Animations/Ball Pig Idle.anim.nasset"
     },
     "142bb04f-a3ba-4672-8bf9-cc112ef9511a": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -2443,7 +2513,7 @@
     "14b0637f-05be-7242-8630-a6d01a97a473": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Eye White.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Eye White.meshskin.nasset",
         "dependencies": [
             "6dd2217c-91d4-8926-540e-f5c746aaa901",
             "fba9d5de-3e54-7227-fb4d-45cb02fc69d5",
@@ -2460,7 +2530,7 @@
     },
     "14efef50-cbb0-40ef-8f1e-333d2ff6728f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Monsters/Big/Thumbnails/Lucifer.scene.nasset.tex.nasset"
+        "path": "Assets/Monsters/Big/Lucifer/Thumbnails/Lucifer.scene.nasset.tex.nasset"
     },
     "14f8ba06-8bc7-a93c-5d7d-8688266e9e31": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2523,7 +2593,7 @@
     "15388f8e-a624-a7bb-c0ec-1d9fba7e2917": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Big/SK_Uglee.scene.nasset/SK_Uglee.scene.nasset",
+        "path": "Assets/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK_Uglee.scene.nasset",
         "dependencies": [
             "073a5db1-d2aa-e36f-2a73-7f863363c977"
         ]
@@ -2593,7 +2663,7 @@
     "159a8a35-1ca1-e024-c54f-c49706437d8f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Sword Blade.mesh.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Sword Blade.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2601,6 +2671,11 @@
             "2b7eb6cd-cb49-5f62-0ca0-e37bf8deca98",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "159b9c2e-9b5d-4eda-9c49-4bf05f97d09b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Cyclops/Animations/Ball Cyclops Dance.anim.nasset"
     },
     "15a0b38a-3ac5-34ab-287d-21ebd7eb3b47": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2671,6 +2746,11 @@
             "aa1005b0-745e-719c-bb1c-c515e64e9c59",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "168374d0-1053-492b-8024-4301aeeb5444": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Deer/Animations/Ball Deer Idle.anim.nasset"
     },
     "168afce9-5187-0e51-633f-16d8963b418d": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -2847,6 +2927,11 @@
             "ef20d33c-59a9-04f8-2c2c-e7b72a1713fe"
         ]
     },
+    "17e5ac60-69e2-4bf7-a132-90d66e1dd248": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Deer/Animations/Ball Deer No.anim.nasset"
+    },
     "17f33d01-e7b1-f743-00ff-a165cb4d8c16": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -2856,6 +2941,11 @@
             "3e6ba347-1a15-9f56-1497-9646878efacc",
             "1b5e6a47-26c9-6bee-79de-d6492154ec1d"
         ]
+    },
+    "17f834fc-93a4-40b1-905d-da469bd6daff": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Tree/Animations/Ball Tree Walk.anim.nasset"
     },
     "1812180e-4fcd-4596-bba8-021d46e48449": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -3138,7 +3228,7 @@
     "1a1043f6-94dc-cfcd-721e-b5cea5601e71": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Main.mesh.nasset",
+        "path": "Assets/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Main.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -3189,6 +3279,11 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "1aa97c89-53ed-4a46-aad7-13330f0edbdd": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Alien_Tall/Animations/Ball Alien Tall Bite Front.anim.nasset"
     },
     "1aaae4f9-3684-8131-3396-5332e05340d7": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -3350,6 +3445,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Mechs/Mike/Thumbnails/Mike.scene.nasset.tex.nasset"
     },
+    "1c43ba8e-cbb1-4931-92f6-a5d78c2b3699": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Alien/Animations/Ball Alien Jump.anim.nasset"
+    },
     "1c44d482-439c-4d4c-98c5-ab5d5f8b4aaa": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -3364,6 +3464,11 @@
             "35df7ddc-12db-88ad-6988-7152e6761d3a",
             "3492c9cd-b15c-296a-92e5-b3c727aaafac"
         ]
+    },
+    "1c60c1f0-dee9-46e5-85c4-52397d3a7de5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Penguin/Animations/Ball Penguin No.anim.nasset"
     },
     "1c6b7e54-f97a-5518-74f3-3fc9a2a2156d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3396,8 +3501,19 @@
             "6b5f1dcf-d332-5d8e-a8d1-3c9e59c72ce5",
             "ca5eef1b-9891-8037-467c-8d1948cf10f0",
             "b3405601-cea0-f02e-c495-1b7757f59cd3",
-            "a37e492b-f0a4-3aa2-3fed-c8c35f4a6bbe"
+            "d9f46431-0cc8-aac3-c7ec-30bf7144851e",
+            "44040111-b603-4967-ae4a-187d8fcf9069",
+            "2405b114-de09-463c-af0e-a580771e71a5",
+            "93171657-f8b1-4c2f-b69d-a3d5f843ad7f",
+            "0a56477c-a014-4f84-8952-21959c4dea58",
+            "2ad2e68c-1657-4e9b-8b10-70576378d9ac",
+            "74ba0142-f8fb-4de3-a6a3-aab8dc098584"
         ]
+    },
+    "1c9cc1f9-a5a2-40da-bfe8-3d094eadba96": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Penguin/Animations/Ball Penguin Walk.anim.nasset"
     },
     "1cb0e5a7-e4c3-0600-3ba0-b35f991827b0": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -3628,6 +3744,11 @@
             "d58ec2a3-fc8f-fe84-3755-ff0e88749653",
             "185eec15-3a74-3d14-882c-d031c74bde40"
         ]
+    },
+    "1e4fcdc6-f4da-4dd5-a8de-56fac80632e9": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Ghost/Animations/Ball Ghost Bite In Place.anim.nasset"
     },
     "1e582fb0-4f30-4c8d-fab7-bc23eb2d3243": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -3955,7 +4076,7 @@
     "21d71db5-155b-21de-f851-0ab5ac76087b": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Secondary.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Secondary.meshskin.nasset",
         "dependencies": [
             "d2d15041-1591-3c04-42fc-0c86f862b8fa",
             "b92f680b-c751-067d-3e6f-39cb0a12a674",
@@ -4066,6 +4187,11 @@
             "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "2260cbbf-eea3-4b49-9cad-2bb8766e0d17": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Ghost/Animations/Ball Ghost Jump.anim.nasset"
     },
     "22709967-151c-6987-23a0-108c51202502": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -4254,6 +4380,11 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "23d28410-f4cc-4b14-9040-cbbe3ccae539": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Yeti/Animations/Ball Yeti Walk.anim.nasset"
+    },
     "23db291b-2dde-bfcc-e81d-60379fa47925": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -4399,6 +4530,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Voxel/Danny/Textures/T_Player_D.tex.nasset"
     },
+    "24f9255c-39e5-4211-b609-60d596369f07": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Cactus/Animations/Ball Cactus No.anim.nasset"
+    },
     "25014541-11a7-4ebd-993c-b7e3946ebda0": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/2D_Platformer/Cartoon/Thumbnails/Zombie.scene.nasset.tex.nasset"
@@ -4458,6 +4594,11 @@
             "364d875a-9d6b-f257-7cd4-0de3f6400e4c",
             "5aaf9cab-b7fa-bd1c-58d1-d6a25f3e889d"
         ]
+    },
+    "255d0799-447e-4eb7-9008-96f16a8c841d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Demon/Animations/Ball Demon Idle.anim.nasset"
     },
     "257f48b7-35e7-49fa-9d8b-5c103b1c0689": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -4606,7 +4747,7 @@
     "2684ab59-1c72-45b0-a7e9-764123159e6d": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Monsters/Big/Animations/Big Monster Weapon.anim.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/Animations/Big Monster Weapon.anim.nasset",
         "dependencies": [
             "793c6a70-4969-f8d8-e862-721b1ccf5d02"
         ]
@@ -4657,6 +4798,11 @@
         "dependencies": [
             "95b4a6ab-d160-1859-efe4-71133e2cdb41"
         ]
+    },
+    "26b8f39c-30d1-4688-9a00-6a143634770c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Yeti/Animations/Ball Yeti Jump.anim.nasset"
     },
     "26cd3070-b0bd-3d2e-6460-b3872cea6eee": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4778,6 +4924,11 @@
             "44801e67-2ba8-423b-d857-eab35579e57f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "279faf35-c851-4aac-a0d6-9fdea9c97de8": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Alien_Tall/Animations/Ball Alien Tall No.anim.nasset"
     },
     "27a02b2d-2028-6b6a-df6a-947537084ca4": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -4947,6 +5098,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "28d075ed-7e77-49e7-a5e1-8a718e2125cc": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Cthulhu/Animations/Ball Cthulhu Bite Front.anim.nasset"
+    },
     "28dd0f19-f762-fff7-852b-a446ff50ebfe": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -5040,6 +5196,11 @@
             "6bb2e258-64a8-355c-875a-4d713b4b934e",
             "130ea5bc-5487-1872-3149-963786e48989"
         ]
+    },
+    "29e3572d-8775-4c52-bf02-75d2b21f013b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Demon/Animations/Ball Demon No.anim.nasset"
     },
     "2a05f2c3-8d97-4779-b11a-7f4e3154c61b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -5257,7 +5418,7 @@
     },
     "2b7eb6cd-cb49-5f62-0ca0-e37bf8deca98": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Monsters/Big/Material Instances/Sword Blade.mtli.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/Material Instances/Sword Blade.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -5363,7 +5524,7 @@
     },
     "2cf1ac63-cc66-0be6-fd0b-e0c67251bd1b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Monsters/Big/Material Instances/Hanzo Armband.mtli.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/Material Instances/Hanzo Armband.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -5425,6 +5586,11 @@
             "5900a00b-2bb6-3d3e-e859-b287fdf07bf6",
             "8289163d-646c-87c8-a984-874c192d4667"
         ]
+    },
+    "2d848b4f-fac9-44c0-b28c-7087a530f99c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Cactus/Animations/Ball Cactus Bite Front.anim.nasset"
     },
     "2d892fd4-ec5e-309c-6a82-8da148ab6e48": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -5759,12 +5925,17 @@
     "2f979d84-da38-3459-6133-ee20731572ee": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Teeth.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Teeth.meshskin.nasset",
         "dependencies": [
             "c519adb8-ea80-11e2-b3f4-5155e09f57d0",
             "b92f680b-c751-067d-3e6f-39cb0a12a674",
             "51f8961c-aac6-65f0-599e-879b8472be4b"
         ]
+    },
+    "2f9f5b38-485e-4175-b4e1-c6d9a33e14f5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Slime/Animations/Ball Slime Attack.anim.nasset"
     },
     "2fa5defd-296c-b190-23db-2486c004e37e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -5814,6 +5985,11 @@
             "25ce46c4-20ca-438a-e413-34fbf78f4fa3",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "305286ed-a5e9-482a-a9bf-03d6b9f5b776": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Penguin/Animations/Ball Penguin Jump.anim.nasset"
     },
     "306f2148-1e6b-2ce9-0e65-a08be88e94e9": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -5899,6 +6075,11 @@
             "bc6c4d4b-a05b-6e71-5d0f-7689c128925b",
             "069e5e09-f1a1-153a-f44c-a0af0c731598"
         ]
+    },
+    "31310acb-757c-4f4a-9a64-39e8024e4607": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Chicken/Animations/Ball Chicken Bite In Place.anim.nasset"
     },
     "3139d2ac-4118-a7d7-c7e7-01151a9b8470": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -6085,6 +6266,11 @@
             "185eec15-3a74-3d14-882c-d031c74bde40",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "32474861-dee8-4340-9911-b1dca0b6642d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Alien_Tall/Animations/Ball Alien Tall Hit React.anim.nasset"
     },
     "325a3295-2f0a-d3b3-fe2d-a186e044ec6d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -6636,7 +6822,7 @@
     "36a84f67-78fb-3ccd-eb6c-3551a1725b3f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Armband.mesh.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Armband.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -6701,7 +6887,7 @@
     "37836af8-5f3b-ed8c-f60d-469d6f34d34e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Shoe Red.mesh.nasset",
+        "path": "Assets/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Shoe Red.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -6729,6 +6915,11 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "37f7877e-b01f-4ae6-8a36-29025fc6a53e": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Tree/Animations/Ball Tree Dance.anim.nasset"
     },
     "37fbb575-41bd-cfef-9662-d086f2365de8": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -6813,6 +7004,11 @@
             "9009fbeb-e27e-170e-c01f-efc9a4155338",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "38704d2e-78e7-4b30-b4dc-811b1d2d97e2": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Penguin/Animations/Ball Penguin Hit React.anim.nasset"
     },
     "38705279-46f4-3ef0-c783-9bb1a6bfacef": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -6932,15 +7128,20 @@
     },
     "39dfc81f-b468-4259-ba05-f1a5f2c0cac5": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Monsters/Big/Thumbnails/Hanzo.scene.nasset.tex.nasset"
+        "path": "Assets/Monsters/Big/Hanzo/Thumbnails/Hanzo.scene.nasset.tex.nasset"
     },
     "39e06ae1-2ccd-45ba-a962-899aa7d61436": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Monsters/Big/Animations/Big Monster Walk.anim.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/Animations/Big Monster Walk.anim.nasset",
         "dependencies": [
             "793c6a70-4969-f8d8-e862-721b1ccf5d02"
         ]
+    },
+    "39e83d41-0f47-4adb-9bc1-2810420351c2": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Pig/Animations/Ball Pig No.anim.nasset"
     },
     "39eab8cb-f721-9478-9495-6c470939ff31": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -7010,6 +7211,11 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "3aa21747-b5d6-486d-9e77-746be31d140e": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Alien_Tall/Animations/Ball Alien Tall Idle.anim.nasset"
     },
     "3ab84ff0-c5d2-47ab-94fd-1fd6a0559040": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -7144,6 +7350,11 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mini/Animations/Mini Jump.anim.nasset"
     },
+    "3bc88da0-c536-4c36-b5de-7568ec84385e": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Crab/Animations/Ball Crab Jump.anim.nasset"
+    },
     "3bd7c063-b72a-3d6d-4967-41bcdb3205ad": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -7202,6 +7413,11 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Dinosaurs/Parasaurolophus/SK_Parasaurolophus.scene.nasset/SK Parasaurolophus.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "3cbc0fb6-b844-4d22-afd5-ab5b031b8339": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Demon/Animations/Ball Demon Walk.anim.nasset"
     },
     "3ce7f640-a04f-761c-8d85-e88f6a3a8052": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -7319,7 +7535,7 @@
     "3dc053dc-464b-4d4e-89e8-dfc6359cf263": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Big/Player_Scripts/Teddy.scene.nasset",
+        "path": "Assets/Monsters/Big/Teddy/Teddy.scene.nasset",
         "thumbnail": "4e37ddf4-55e9-4e0a-b5e4-2749bb7296f6",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
@@ -7359,6 +7575,11 @@
             "23cad62a-22bd-3e6d-41e5-c392f8f6b9ec",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "3e146bdb-bff8-463f-90a3-39dc9187b20b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Pig/Animations/Ball Pig Yes.anim.nasset"
     },
     "3e153255-0af1-4dfc-a093-63134473b0ad": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -7654,6 +7875,11 @@
             "efd77e32-5a19-6f7b-ae0a-982674eebe63"
         ]
     },
+    "404be916-abd6-4864-b899-c53ee5e9b8bf": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Alien/Animations/Ball Alien Dance.anim.nasset"
+    },
     "4052eb71-9343-c249-ee39-8e73f05fd547": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -7678,7 +7904,7 @@
     },
     "406ff6b1-7880-7486-3185-7a955c5cf3da": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Monsters/Big/Material Instances/Yeti Eye Black.mtli.nasset",
+        "path": "Assets/Monsters/Big/Teddy/Material Instances/Yeti Eye Black.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -7722,7 +7948,7 @@
     "40a29ab6-516c-4c4d-8497-4e3ad42cce31": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Monsters/Big/Animations/Big Monster Punch.anim.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/Animations/Big Monster Punch.anim.nasset",
         "dependencies": [
             "793c6a70-4969-f8d8-e862-721b1ccf5d02"
         ]
@@ -7734,7 +7960,7 @@
     "40c5005e-0d61-b8c9-a1f1-3be582502871": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Eye Black.mesh.nasset",
+        "path": "Assets/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Eye Black.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -7902,6 +8128,11 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Cow/SK_Cow.scene.nasset/Cow.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "422d2705-33a6-42b7-be91-bbbfc1a48d92": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Ghost/Animations/Ball Ghost Dance.anim.nasset"
     },
     "426a06bd-dc40-f7d7-a251-0385ecfd137d": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -8177,7 +8408,7 @@
     "4405cefc-2556-6b17-d891-02fd483f9681": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Uglee Main.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Uglee Main.meshskin.nasset",
         "dependencies": [
             "0c1c7403-b05c-1462-6332-67e0058f2684",
             "265d1a29-d656-a2e5-7771-8fe8e116e427",
@@ -8305,6 +8536,11 @@
             "0a7a53bc-3fb7-50a2-d22c-3ecdab8bf480"
         ]
     },
+    "453ef94c-e717-4bde-86de-f59d035b6ac1": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Cactus/Animations/Ball Cactus Hit React.anim.nasset"
+    },
     "45403d04-75ae-8496-1ec1-cda4d9d0a135": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Modular_Toon/Material Instances/Clothes 5.mtli.nasset",
@@ -8376,6 +8612,11 @@
             "67bb80b1-8def-ddb0-2142-be2d225622b9",
             "90bbc7cc-6c7c-410f-9438-cbb81ee3586f"
         ]
+    },
+    "45bcb366-2c61-43b6-80e2-8d31a99d3e1a": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Cthulhu/Animations/Ball Cthulhu Flying.anim.nasset"
     },
     "45c58730-e0f7-4bcf-b31f-0f3c134e1a36": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -8501,12 +8742,22 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "4735fb51-ba8f-415f-ac3d-e38fe13091e5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Pig/Animations/Ball Pig Hit React.anim.nasset"
+    },
     "47464552-c18a-23c8-b74d-19ff7a11e2d2": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Animals/Bull/Material Instances/Main Light.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "4748e910-dfce-4387-aeb6-dd5863e263f7": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Alien_Tall/Animations/Ball Alien Tall Walk.anim.nasset"
     },
     "47650a28-8375-4878-be58-bc93c12549f2": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -8535,6 +8786,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "4792f2d6-d88e-4bd5-b3e8-c8408c2e25f8": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Tree/Animations/Ball Tree Bite In Place.anim.nasset"
+    },
     "47b81b8f-e445-8ec9-c362-cc4c6d320b6d": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -8560,6 +8816,11 @@
     "47db1cc6-ce32-1b1f-d49c-c84b74a8603e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Mechs/George/Textures/T_George_D.tex.nasset"
+    },
+    "47dd5374-a0d8-450f-95cf-c38ffd8be01c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Chicken/Animations/Ball Chicken No.anim.nasset"
     },
     "47f25dd0-82ed-f2e9-26e6-6e70f0ada0bf": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -8587,6 +8848,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Monsters/Rounded/Ball_Tree/Thumbnails/Ball_Tree.scene.nasset.tex.nasset"
     },
+    "483a03ec-c776-4ae3-b15c-a382817fbbc7": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Alien/Animations/Ball Alien Yes.anim.nasset"
+    },
     "4891c656-7a89-4bfd-bf9a-2701d7df9774": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -8600,9 +8866,14 @@
             "196b0e8a-3e87-9622-7e0d-7da3754f6aa4"
         ]
     },
+    "4893f739-109d-4ca9-803a-b7ba7bf75192": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Bee/Animations/Ball Bee Bite Front.anim.nasset"
+    },
     "48c07248-d205-4917-ae12-a2763d783cab": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Monsters/Big/Thumbnails/Prickly_Pear.scene.nasset.tex.nasset"
+        "path": "Assets/Monsters/Big/Prickly_Pear/Thumbnails/Prickly_Pear.scene.nasset.tex.nasset"
     },
     "48c07c27-b59f-20da-9717-24e40c33987a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -8629,15 +8900,25 @@
             "ac4f76e5-6745-7782-d91d-859ea7fef7c3"
         ]
     },
+    "48dad84b-b759-446e-9712-db2d4d0d6de5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Crab/Animations/Ball Crab Walk.anim.nasset"
+    },
     "48dbec17-6250-897c-9ac1-295f516f5011": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Shoe Blue.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Shoe Blue.meshskin.nasset",
         "dependencies": [
             "b2d23685-4246-62db-f1de-dc57763d41ec",
             "265d1a29-d656-a2e5-7771-8fe8e116e427",
             "e91f5e4b-cf85-50aa-d0f5-2364a828cdb5"
         ]
+    },
+    "4929412f-abed-4107-a2f5-c62c481794b7": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Panda/Animations/Ball Panda Dance.anim.nasset"
     },
     "49664d30-ba43-c84d-aec2-9a022bce2acc": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -8645,6 +8926,11 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "49746099-f448-42be-a028-b87e69daae3c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Yeti/Animations/Ball Yeti Yes.anim.nasset"
     },
     "498a67ba-be72-599f-ea87-877b22869c40": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -8963,6 +9249,11 @@
             "5d75332f-00e4-8a6f-33ac-8a52f13b170f"
         ]
     },
+    "4c7fbf13-e29e-4ce8-ac26-3b8bd8ff1b1c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Cyclops/Animations/Ball Cyclops Yes.anim.nasset"
+    },
     "4c83b546-ffdf-96c6-157b-7c5e5e290ce9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Material Instances/Thumbnails/Detail 1.mtli.nasset.tex.nasset"
@@ -9028,9 +9319,19 @@
             "909d260b-415e-044c-b85b-577b1cff9292"
         ]
     },
+    "4d1b3752-eca4-47c3-98d5-9ce56cd95644": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Deer/Animations/Ball Deer Jump.anim.nasset"
+    },
     "4d216451-b436-b268-862e-fbd3e918649c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Material Instances/Thumbnails/Top.mtli.nasset.tex.nasset"
+    },
+    "4d24cb76-8b2d-44a5-951d-321796cda011": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Bat/Animations/Ball Bat Bite Front.anim.nasset"
     },
     "4d397e44-ed9a-c373-477c-1e4f98687556": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -9089,7 +9390,7 @@
     "4dfc9358-c647-0944-d58d-e1b056bd209f": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Big/SK_Snapper.scene.nasset/SK_Snapper.scene.nasset",
+        "path": "Assets/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK_Snapper.scene.nasset",
         "dependencies": [
             "d41bcbff-78b9-6467-1e93-b3604d5a15c9"
         ]
@@ -9158,7 +9459,7 @@
     },
     "4e37ddf4-55e9-4e0a-b5e4-2749bb7296f6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Monsters/Big/Thumbnails/Teddy.scene.nasset.tex.nasset"
+        "path": "Assets/Monsters/Big/Teddy/Thumbnails/Teddy.scene.nasset.tex.nasset"
     },
     "4e5b434b-8a7e-f587-83a9-4ea90ffea38b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -9306,6 +9607,11 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Monsters/Rounded/Ball_Chicken/Ball Chicken.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+    },
+    "500642a8-ac7e-4103-abe2-186be17aad31": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Bee/Animations/Ball Bee Death.anim.nasset"
     },
     "500b0631-53a1-4111-abda-704cbb183b62": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -9568,7 +9874,7 @@
     },
     "51f8961c-aac6-65f0-599e-879b8472be4b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Monsters/Big/Material Instances/Yeti Teeth.mtli.nasset",
+        "path": "Assets/Monsters/Big/Teddy/Material Instances/Yeti Teeth.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -9609,6 +9915,11 @@
         "dependencies": [
             "dad7e293-b162-9581-a8f7-723ad19d54c9"
         ]
+    },
+    "5250395e-14c8-497c-a1c4-f48c59fe44a3": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Penguin/Animations/Ball Penguin Death.anim.nasset"
     },
     "526a4c23-35be-4537-a176-b491dc61dbc9": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -9807,7 +10118,7 @@
     },
     "53764358-59f4-4628-a1c0-557b33266642": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Monsters/Big/Thumbnails/Bobo.scene.nasset.tex.nasset"
+        "path": "Assets/Monsters/Big/Bobo/Thumbnails/Bobo.scene.nasset.tex.nasset"
     },
     "5383edbe-0e6c-9c1e-bdb0-03291b98f472": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -9824,6 +10135,11 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "53ca1b90-cbc5-43bf-b907-78e94816e3bd": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Ghost/Animations/Ball Ghost No.anim.nasset"
+    },
     "53e9ed70-47cc-0564-3074-f8a87a4b4d4b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Animals/Alpaca/Material Instances/Eyes White.mtli.nasset",
@@ -9834,7 +10150,7 @@
     "54026ee9-c279-9f4c-d4f3-dcbde89a4a5f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Big/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo.mesh.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -10202,7 +10518,12 @@
     },
     "56401c70-34be-4c35-ab98-4f1e5cb16e4b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Monsters/Big/Thumbnails/Prince.scene.nasset.tex.nasset"
+        "path": "Assets/Monsters/Big/Prince/Thumbnails/Prince.scene.nasset.tex.nasset"
+    },
+    "566c84e4-1a54-4390-8384-a51262c440a5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Mushroom/Animations/Ball Mushroom Bite In Place.anim.nasset"
     },
     "566dad40-9822-6976-fc27-a32518140757": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -10288,7 +10609,7 @@
     "57292530-8f73-43d0-8685-7ead625f5f54": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Big/Player_Scripts/Penny.scene.nasset",
+        "path": "Assets/Monsters/Big/Penny/Penny.scene.nasset",
         "thumbnail": "39dfc81f-b468-4259-ba05-f1a5f2c0cac5",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
@@ -10297,6 +10618,11 @@
         "dependencies": [
             "54026ee9-c279-9f4c-d4f3-dcbde89a4a5f"
         ]
+    },
+    "5754fb95-a16a-4758-b960-679e4dfa47c0": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Yeti/Animations/Ball Yeti Idle.anim.nasset"
     },
     "575a2299-99ba-ed8d-975e-c00a6b3f3800": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -10375,7 +10701,7 @@
     },
     "5832aa71-41c4-7852-1677-dd591f6f92c9": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Monsters/Big/Material Instances/Hanzo Gold.mtli.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/Material Instances/Hanzo Gold.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -10596,7 +10922,7 @@
     "5a1320c5-3e5d-429a-9fe9-2edd2727c14a": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Big/Player_Scripts/Omek.scene.nasset",
+        "path": "Assets/Monsters/Big/Omek/Omek.scene.nasset",
         "thumbnail": "39dfc81f-b468-4259-ba05-f1a5f2c0cac5",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
@@ -10617,6 +10943,11 @@
     "5a27ae66-f1ab-4bbd-ab54-f6bc21efad1c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/2D_Platformer/Aliens/Thumbnails/Alien_Blue.scene.nasset.tex.nasset"
+    },
+    "5a28a885-2f96-474b-aaed-8a3ef0537fc9": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Skull/Animations/Ball Skull Jump.anim.nasset"
     },
     "5a32995c-eb79-660a-0c72-1588dab76760": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -10740,6 +11071,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "5b34dd41-5ec0-4619-a904-d92d581c12e2": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Mushroom/Animations/Ball Mushroom Bite Front.anim.nasset"
+    },
     "5b38c6aa-e364-57a8-55ac-c0d2b6f4a1d0": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Mechs/Mike/Material Instances/Mike.mtli.nasset",
@@ -10751,7 +11087,7 @@
     "5b396c6c-fbee-7e38-8e7a-b4384dcdcb2c": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Gold.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Gold.meshskin.nasset",
         "dependencies": [
             "c8aa8d64-eb42-87b2-4576-2a00779d0d73",
             "793c6a70-4969-f8d8-e862-721b1ccf5d02",
@@ -10894,6 +11230,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Monsters/Rounded/Ball_Cyclops/Thumbnails/Ball_Cyclops.scene.nasset.tex.nasset"
     },
+    "5c3cf70a-c6bd-40a7-897f-6a60ceaab24b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Skull/Animations/Ball Skull Bite Front.anim.nasset"
+    },
     "5c61259d-05ec-c7df-266f-829c4b3ed67f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Modular_Toon/Material Instances/Grey 1.mtli.nasset",
@@ -10929,6 +11270,11 @@
             "8a87989c-d277-42f9-bb9b-b7e1193b8fcd",
             "3c3be70e-6799-34c5-4484-b3a138f1577c"
         ]
+    },
+    "5c701853-0968-4a87-8203-e7368a0dd77a": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Mushroom/Animations/Ball Mushroom Jump.anim.nasset"
     },
     "5c85a030-2f35-c1e3-e0d8-d976bd5130c4": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -11039,6 +11385,11 @@
         "dependencies": [
             "add9eeac-039d-8c56-5381-6e886b6b3b0e"
         ]
+    },
+    "5dfb517c-0808-4677-9603-e0494d310fa9": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Yeti/Animations/Ball Yeti No.anim.nasset"
     },
     "5e031b36-1882-5fe9-fc9c-2d38d0dd1081": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -11157,6 +11508,11 @@
             "168dd918-458d-874d-bf82-79ae00ea4a15"
         ]
     },
+    "5ef5e5d3-5237-45cd-a341-00cc71f190d2": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Cactus/Animations/Ball Cactus Bite In Place.anim.nasset"
+    },
     "5f002a04-1d42-d5f1-3c0a-3a1d9c1a84c5": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -11181,6 +11537,11 @@
         "dependencies": [
             "35b0ec4b-aa66-c7ac-4d4f-cdea2a232bab"
         ]
+    },
+    "6012d325-e805-4513-bd0c-2610ef4ab0fe": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Pig/Animations/Ball Pig Dance.anim.nasset"
     },
     "60200fef-5d55-47d4-9ca9-2afe17acabf1": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -11273,6 +11634,11 @@
             "5aaeb590-2bb2-2171-71ae-c2dd228d0437"
         ]
     },
+    "61051182-d4f4-41ab-9a99-8529e74eb6a5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Demon/Animations/Ball Demon Bite In Place.anim.nasset"
+    },
     "612393c1-bdbc-4c39-b961-86dfd94ea80e": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -11329,7 +11695,7 @@
     },
     "617c8b75-3d4c-43d8-8915-fa85deb7b3b3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Monsters/Big/Thumbnails/Meyer.scene.nasset.tex.nasset"
+        "path": "Assets/Monsters/Big/Meyer/Thumbnails/Meyer.scene.nasset.tex.nasset"
     },
     "617ea9c4-8f71-4267-a993-5621e8b454aa": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -11388,6 +11754,11 @@
         "dependencies": [
             "7a87bb9d-d0cc-0883-9cbd-8d005fdae678"
         ]
+    },
+    "621a2ce0-148f-490f-bf5c-c90e77ac0709": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Bee/Animations/Ball Bee Hit React.anim.nasset"
     },
     "62218bb4-a768-69f3-4b9d-27a22868e279": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -11593,6 +11964,11 @@
             "c0a57d9c-ec0e-b656-f846-7e5d267cdf83"
         ]
     },
+    "6487ca69-4e86-4e20-ac0f-fb39047dcccb": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Dragon/Animations/Ball Dragon Hit React.anim.nasset"
+    },
     "64979109-6b8c-dad4-a608-739fc9fde0cc": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -11626,6 +12002,16 @@
         "dependencies": [
             "69043c1c-8d35-6635-5cbe-63e2f3a2151b"
         ]
+    },
+    "650beaa0-2331-4a07-8d29-a27824215c65": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Dragon/Animations/Ball Dragon Death.anim.nasset"
+    },
+    "652c47bc-b3cc-44a9-b50e-aae8ea68bf4d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Demon/Animations/Ball Demon Dance.anim.nasset"
     },
     "65500852-9ec3-63a0-e45d-79342aec775b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -11691,6 +12077,11 @@
             "36aa8a28-0ffe-bd66-d950-2c378f6b3cbc"
         ]
     },
+    "65e08656-16a8-4e6e-af2b-2ab1cccf1c74": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Crab/Animations/Ball Crab Idle.anim.nasset"
+    },
     "660c0310-00bf-34c5-bb5b-d8ef17187a4d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -11716,7 +12107,7 @@
     "6612b532-f014-6b8c-1fe3-9dd28429a720": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Skin.mesh.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Skin.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -11851,7 +12242,7 @@
     "67ed525c-000d-15bd-7b23-a1dd8a7869c5": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Armband.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Armband.meshskin.nasset",
         "dependencies": [
             "36a84f67-78fb-3ccd-eb6c-3551a1725b3f",
             "793c6a70-4969-f8d8-e862-721b1ccf5d02",
@@ -12047,6 +12438,11 @@
             "3115c92f-3e0c-dd92-ad99-223a48334575"
         ]
     },
+    "69392332-3713-4832-a127-d1e97dd4cd3d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Slime/Animations/Ball Slime Death.anim.nasset"
+    },
     "693e5ffa-4912-9625-87b9-a5d4e1f75a9c": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -12115,6 +12511,11 @@
             "44801e67-2ba8-423b-d857-eab35579e57f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "69eff244-1880-4c56-8a5f-43cac0c5ec22": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Tree/Animations/Ball Tree Yes.anim.nasset"
     },
     "6a020960-5b6a-642e-7db6-5d585552b2d6": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -12301,7 +12702,7 @@
     "6b97deaa-daeb-eb94-d565-de79d0eef337": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Eye Black.mesh.nasset",
+        "path": "Assets/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Eye Black.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -12314,6 +12715,11 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Deer/SK_Deer.scene.nasset/SK Deer.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "6bcba385-dc4e-4cde-b1b8-a64f90093ef5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Tree/Animations/Ball Tree Death.anim.nasset"
     },
     "6bd09dcc-79be-4d9d-8d9c-2c9ed2330b72": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -12481,7 +12887,7 @@
     },
     "6d159ec2-726e-f3b6-1369-ca32b7e2763d": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Monsters/Big/Material Instances/Yeti Main.mtli.nasset",
+        "path": "Assets/Monsters/Big/Teddy/Material Instances/Yeti Main.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -12489,10 +12895,15 @@
     "6d512e35-97be-41d3-a565-505b3560a079": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Monsters/Big/Animations/Big Monster Jump End.anim.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/Animations/Big Monster Jump End.anim.nasset",
         "dependencies": [
             "793c6a70-4969-f8d8-e862-721b1ccf5d02"
         ]
+    },
+    "6d692d8c-fc6a-44cd-84b9-c2af799c9a6f": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Demon/Animations/Ball Demon Death.anim.nasset"
     },
     "6d7175e3-25eb-e27f-2388-172987605176": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -12503,6 +12914,11 @@
             "0b55fbd1-d8d1-e74e-d76d-06f4af7f0071",
             "185eec15-3a74-3d14-882c-d031c74bde40"
         ]
+    },
+    "6d7f2737-6bc4-450a-910c-c137e5d22c1e": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Panda/Animations/Ball Panda Idle.anim.nasset"
     },
     "6d857760-521e-e28f-6ff5-6c2ff5d6421c": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -12535,7 +12951,7 @@
     "6dd2217c-91d4-8926-540e-f5c746aaa901": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Eye White.mesh.nasset",
+        "path": "Assets/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Eye White.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -12688,11 +13104,6 @@
             "5aaeb590-2bb2-2171-71ae-c2dd228d0437"
         ]
     },
-    "6f99ab57-098b-873e-3427-1008cfe00daa": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Sushime/SK_Cy.scene.nasset/SK Cy.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
     "6fb26075-b299-962e-c563-e6bb3221ee4a": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -12748,6 +13159,11 @@
             "edd3849f-6c09-b06d-ad53-354c61ea972f"
         ]
     },
+    "70442a03-57e9-402c-ba0d-890361500156": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Deer/Animations/Ball Deer Bite In Place.anim.nasset"
+    },
     "704dd06d-c505-ee41-1783-77680c7841a4": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -12779,7 +13195,7 @@
     "70874ff6-288c-9422-10ee-9d99460ef07c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Eye White.mesh.nasset",
+        "path": "Assets/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Eye White.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -12884,6 +13300,11 @@
         "dependencies": [
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
+    },
+    "7105572c-d660-4aa8-a070-9bc58a6d127f": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Crab/Animations/Ball Crab Bite Front.anim.nasset"
     },
     "710a4750-7ba2-491a-975c-3767b680a3c1": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -13000,6 +13421,11 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Bat/Animations/Bat Hit.anim.nasset"
+    },
+    "71bf5648-2e44-4882-bf63-d400588c5eb4": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Pig/Animations/Ball Pig Bite Front.anim.nasset"
     },
     "71d4e356-c821-c1d9-0e5c-99eee3ee9152": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -13205,7 +13631,7 @@
     },
     "73342d7e-7ab4-4ea5-a7cc-f2c4904f990d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Monsters/Big/Thumbnails/Cain.scene.nasset.tex.nasset"
+        "path": "Assets/Monsters/Big/Cain/Thumbnails/Cain.scene.nasset.tex.nasset"
     },
     "733edc07-3cbf-5ff7-80b8-2ab32cd6c58d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -13318,6 +13744,11 @@
             "44c26fb9-847e-22e0-5afc-964fd4600979",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "741453fc-164c-4414-ae35-90d64f51cdbd": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Yeti/Animations/Ball Yeti Bite In Place.anim.nasset"
     },
     "7456b5a1-813e-678b-4661-f8b55e6aa7c9": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -13438,19 +13869,6 @@
     "74e3b6d8-d042-45c0-a11a-c42c67d86ede": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Animals/Pig/Thumbnails/Pig.scene.nasset.tex.nasset"
-    },
-    "74f5dcb7-6c3d-520b-aea6-fb0eed3dd168": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Modular_People/Player_Scripts/Female/Female Formal.scene.nasset",
-        "thumbnail": "22982399-3dc9-48b0-9f6d-6bfd3551ad75",
-        "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
-            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
-        ],
-        "dependencies": [
-            "b4ec400c-1778-16fc-0511-4e120780c5ba"
-        ]
     },
     "74f76f54-fce7-d3a5-3c76-02b251d1e901": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -13889,6 +14307,11 @@
             "3f4ea462-e616-5161-190b-8d033fcf1171"
         ]
     },
+    "7866906e-70fe-47a8-a2ab-25b2b24f8b16": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Alien_Tall/Animations/Ball Alien Tall Jump.anim.nasset"
+    },
     "786e0b0a-d52e-4a1a-aaa8-ab657cfdd357": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -14039,7 +14462,7 @@
     "793c6a70-4969-f8d8-e862-721b1ccf5d02": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Monsters/Big/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/Skeletons/RootNode.skel.nasset"
+        "path": "Assets/Monsters/Big/Hanzo/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "793f7db6-2b2c-4712-c416-ced78a90b500": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -14163,7 +14586,7 @@
     },
     "79b76e84-814a-ce18-0a50-3ece874e2e6d": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Monsters/Big/Material Instances/Yeti Secondary.mtli.nasset",
+        "path": "Assets/Monsters/Big/Teddy/Material Instances/Yeti Secondary.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -14244,7 +14667,7 @@
     "7a490b18-5236-61f3-078e-a65aef36c09a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Eye Black.mesh.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Eye Black.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -14370,6 +14793,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "7b5744ea-f9f1-49bf-b8d9-2eb2f4c36eca": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Dragon/Animations/Ball Dragon Bite Front.anim.nasset"
+    },
     "7b68271a-f0ef-5c08-dfde-f134cb460945": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -14379,6 +14807,11 @@
             "053d0148-9227-11bb-d511-2cd9caca0e5c",
             "2dbbc424-2e0c-5fb7-eb97-b3d80f09b648"
         ]
+    },
+    "7b878ea5-ecd4-4f90-bc55-bb5150a8aeeb": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Crab/Animations/Ball Crab Yes.anim.nasset"
     },
     "7ba29c6c-d48a-5fd0-7200-31442793658c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -14459,16 +14892,21 @@
     "7c58956f-fbdb-4d68-ec8a-a68b78993740": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Eye White.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Eye White.meshskin.nasset",
         "dependencies": [
             "70874ff6-288c-9422-10ee-9d99460ef07c",
             "b92f680b-c751-067d-3e6f-39cb0a12a674",
             "ebe647eb-a575-4d39-82af-f5bd50d096fc"
         ]
     },
+    "7c5e03b9-161f-4ef8-a1bd-2ffe05a80c52": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Cyclops/Animations/Ball Cyclops Idle.anim.nasset"
+    },
     "7c6710a9-4a3c-db36-03f2-c571c797fee2": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Monsters/Big/Material Instances/Hanzo Eye Black.mtli.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/Material Instances/Hanzo Eye Black.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -14501,6 +14939,11 @@
     "7cbcf053-014d-f7c5-94f6-17dc5aba705c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Voxel/Danny/SK_Danny.scene.nasset/SK Danny.mesh.nasset/Thumbnails/SK Danny.mesh.nasset.tex.nasset"
+    },
+    "7cc3f7f3-e106-4180-889f-a79c46b3e6d3": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Yeti/Animations/Ball Yeti Hit React.anim.nasset"
     },
     "7cc90554-c1c3-17c5-4e1b-8d0594180d39": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -14603,6 +15046,11 @@
             "85719760-1897-5c52-bb06-782b86d5cd77"
         ]
     },
+    "7d8684e1-6c1e-466c-afbb-4272e26fff8c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Cyclops/Animations/Ball Cyclops Bite Front.anim.nasset"
+    },
     "7d8aa959-662d-af40-fe83-269c67c39dae": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -14649,6 +15097,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "7deba970-e6f2-4a4e-89b4-ccd6fd727c6e": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Ghost/Animations/Ball Ghost Hit React.anim.nasset"
+    },
     "7e1401a3-5bd6-069f-1209-09eea9eddc41": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -14681,6 +15134,11 @@
             "fba99c4d-5f83-f3a8-2768-621ae18bda1e"
         ]
     },
+    "7e56b7be-266f-48f0-be6b-4f6f961bf3d3": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Skull/Animations/Ball Skull Hit React.anim.nasset"
+    },
     "7e5b4e24-0e1a-196c-9a38-381a46a49a6c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -14696,7 +15154,7 @@
     "7e650dbb-9b53-459f-8cd5-6412b9c172c0": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Monsters/Big/Animations/Big Monster Yes.anim.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/Animations/Big Monster Yes.anim.nasset",
         "dependencies": [
             "793c6a70-4969-f8d8-e862-721b1ccf5d02"
         ]
@@ -14751,6 +15209,11 @@
             "41eecb07-491c-4a32-aeb8-e4bf73ca92fc"
         ]
     },
+    "7edbd03d-3ecf-416b-92a1-1c05298f3d36": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Panda/Animations/Ball Panda Yes.anim.nasset"
+    },
     "7eea67e0-3c5d-43fe-b4d4-6e1558162506": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -14777,6 +15240,11 @@
     "7f3edfbf-371f-4771-ad9d-bf64912393d3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/2D_Platformer/Jumperman/Thumbnails/Spring_Man.scene.nasset.tex.nasset"
+    },
+    "7f59376d-7ad3-484a-9139-813f8dd0d337": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Cthulhu/Animations/Ball Cthulhu Death.anim.nasset"
     },
     "7f5c30d4-0b98-411e-8cf9-a3316905e6b4": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -14903,6 +15371,21 @@
             "60ad8b23-45d0-1cc3-8e33-2196bdcdb9aa"
         ]
     },
+    "807ab8e5-9270-49d1-8f3b-1291f1077603": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Skull/Animations/Ball Skull Walk.anim.nasset"
+    },
+    "80893e2b-baa7-43a4-9062-934429cb347f": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Tree/Animations/Ball Tree No.anim.nasset"
+    },
+    "8099bfda-7d05-483d-84bc-eeab92d7a292": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Demon/Animations/Ball Demon Jump.anim.nasset"
+    },
     "809d7626-c991-6db6-3895-1dfae5f4105f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -14955,7 +15438,7 @@
     "80b66372-ae43-fa9c-a94c-ba7ab5963575": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Beak.mesh.nasset",
+        "path": "Assets/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Beak.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -15142,6 +15625,11 @@
             "185eec15-3a74-3d14-882c-d031c74bde40"
         ]
     },
+    "835a631c-3e17-449d-8e5a-f4d0f4a6ba8c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Chicken/Animations/Ball Chicken Bite Front.anim.nasset"
+    },
     "8361631d-beda-4808-a0ec-c14b5e5d810f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -15322,7 +15810,7 @@
     "84b1f066-8970-f924-1298-f4b4334311e5": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Fin.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Fin.meshskin.nasset",
         "dependencies": [
             "c16ca5c6-2149-6228-7ee1-7d873763c022",
             "fba9d5de-3e54-7227-fb4d-45cb02fc69d5",
@@ -15398,7 +15886,7 @@
     "856bd768-704b-e669-f53c-5ebc6064d04b": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Lace Rings.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Lace Rings.meshskin.nasset",
         "dependencies": [
             "dd22f2e7-b34a-1c81-2ce8-886f97232d1f",
             "265d1a29-d656-a2e5-7771-8fe8e116e427",
@@ -15559,10 +16047,20 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Material Instances/Thumbnails/Hair 7.mtli.nasset.tex.nasset"
     },
+    "864e8c41-cd7d-4909-91c7-87748c6ace3c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Deer/Animations/Ball Deer Death.anim.nasset"
+    },
+    "86842e8a-6db9-49dd-9e67-e33bf044fa16": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Deer/Animations/Ball Deer Walk.anim.nasset"
+    },
     "868c14a2-44df-60db-a3f2-651cf0fafe78": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Mouth.mesh.nasset",
+        "path": "Assets/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Mouth.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -15689,7 +16187,7 @@
     "88078735-a97c-4758-9d4f-ae8852aa852b": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Big/Player_Scripts/Hanzo.scene.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/Hanzo.scene.nasset",
         "thumbnail": "39dfc81f-b468-4259-ba05-f1a5f2c0cac5",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
@@ -15780,7 +16278,7 @@
     "8891794d-c554-4859-9a86-e79bb391f789": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Big/Player_Scripts/Meyer.scene.nasset",
+        "path": "Assets/Monsters/Big/Meyer/Meyer.scene.nasset",
         "thumbnail": "39dfc81f-b468-4259-ba05-f1a5f2c0cac5",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
@@ -15831,6 +16329,11 @@
             "16c7ac35-12ac-a87a-dc30-6a680a707d59",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "892a64a5-4f9d-4fad-b3be-1d4624750129": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Alien/Animations/Ball Alien Bite Front.anim.nasset"
     },
     "8931f32d-7522-7ffa-0a21-c19232bfc9da": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -15889,7 +16392,7 @@
     "899cb133-ad9b-4171-b47f-d17ddde9148f": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Big/Player_Scripts/Prince.scene.nasset",
+        "path": "Assets/Monsters/Big/Prince/Prince.scene.nasset",
         "thumbnail": "39dfc81f-b468-4259-ba05-f1a5f2c0cac5",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
@@ -16364,6 +16867,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "8d44eb6b-9e93-4fa1-b841-26ec3b18fd18": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Tree/Animations/Ball Tree Idle.anim.nasset"
+    },
     "8d792610-c958-83d3-abad-38530a336564": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -16478,7 +16986,7 @@
     },
     "8e2a80fc-bee9-4ead-9752-03fb9a92035b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Monsters/Big/Thumbnails/Omek.scene.nasset.tex.nasset"
+        "path": "Assets/Monsters/Big/Omek/Thumbnails/Omek.scene.nasset.tex.nasset"
     },
     "8e2d0157-aa24-5e1f-1134-7447bf359417": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -16514,6 +17022,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "8e48ba54-b950-4678-ab6a-730bf58cf7a8": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Bat/Animations/Ball Bat Flying.anim.nasset"
+    },
     "8e4c6d61-b043-0f8e-bf0c-5640a7ee71d2": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Monsters/Rounded/Ball_Penguin/Material Instances/Penguin.mtli.nasset",
@@ -16535,7 +17048,7 @@
     "8e5ce88a-fc93-4da1-994a-4c848a25a2ec": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Monsters/Big/Animations/Big Monster No.anim.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/Animations/Big Monster No.anim.nasset",
         "dependencies": [
             "793c6a70-4969-f8d8-e862-721b1ccf5d02"
         ]
@@ -16549,6 +17062,11 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mini/Animations/Mini Attack Melee Left.anim.nasset"
+    },
+    "8e7df264-47f5-4db1-8d5f-826c594eb357": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Cactus/Animations/Ball Cactus Idle.anim.nasset"
     },
     "8e7fa16b-8037-f0f9-4d32-7b7e353f459d": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
@@ -16713,6 +17231,11 @@
             "555cace4-7a0f-e012-3b96-0474285690af"
         ]
     },
+    "902e626a-0406-48c4-a75d-d686672f2e67": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Bat/Animations/Ball Bat Death.anim.nasset"
+    },
     "903dac1b-3d92-484a-9bac-9a8883d0415d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_People/Thumbnails/Male/Male_King.scene.nasset.tex.nasset"
@@ -16734,6 +17257,11 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "90757b73-5b85-46f1-a736-e8b6f3ca3a56": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Penguin/Animations/Ball Penguin Bite In Place.anim.nasset"
     },
     "907f19f4-1f01-44f7-4e0b-4ec3e952f5f0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -16877,8 +17405,19 @@
             "6b5f1dcf-d332-5d8e-a8d1-3c9e59c72ce5",
             "ad53dc40-ebf9-344d-fb66-6a5bb2a67be1",
             "6587be16-0e65-a761-6e00-1e5e0af45cc1",
-            "111184c5-7c46-aa3e-0bef-e850dcd8c212"
+            "d9f46431-0cc8-aac3-c7ec-30bf7144851e",
+            "44040111-b603-4967-ae4a-187d8fcf9069",
+            "2405b114-de09-463c-af0e-a580771e71a5",
+            "93171657-f8b1-4c2f-b69d-a3d5f843ad7f",
+            "0a56477c-a014-4f84-8952-21959c4dea58",
+            "2ad2e68c-1657-4e9b-8b10-70576378d9ac",
+            "74ba0142-f8fb-4de3-a6a3-aab8dc098584"
         ]
+    },
+    "919799f0-10f6-4443-a9ec-52a74ade70fb": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Chicken/Animations/Ball Chicken Walk.anim.nasset"
     },
     "91babbb9-483c-5c9e-9180-6516ae33ffd6": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -17210,6 +17749,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "945b7249-9f56-4342-a9c5-a40a1ebc827a": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Bee/Animations/Ball Bee Flying.anim.nasset"
+    },
     "94794a84-7af7-4378-a0f9-9398cc285594": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -17338,7 +17882,7 @@
     "94e199e4-6c02-4281-a4b0-7609b9213f4d": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Monsters/Big/Animations/Big Monster Duck.anim.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/Animations/Big Monster Duck.anim.nasset",
         "dependencies": [
             "793c6a70-4969-f8d8-e862-721b1ccf5d02"
         ]
@@ -17444,7 +17988,13 @@
             "6b5f1dcf-d332-5d8e-a8d1-3c9e59c72ce5",
             "7185406c-27b5-33e5-abb2-9426bc874ef8",
             "ff835cea-6a06-e83f-15d8-b6e890ca234d",
-            "9f0893c9-f38c-22ed-b406-1e23be1cf70d"
+            "d9f46431-0cc8-aac3-c7ec-30bf7144851e",
+            "44040111-b603-4967-ae4a-187d8fcf9069",
+            "2405b114-de09-463c-af0e-a580771e71a5",
+            "93171657-f8b1-4c2f-b69d-a3d5f843ad7f",
+            "0a56477c-a014-4f84-8952-21959c4dea58",
+            "2ad2e68c-1657-4e9b-8b10-70576378d9ac",
+            "74ba0142-f8fb-4de3-a6a3-aab8dc098584"
         ]
     },
     "95c0960c-d066-ada0-f4b6-2ee5fde08f2e": {
@@ -17738,6 +18288,11 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Modular_People/Animations/Female/Modular Female Punch Left.anim.nasset"
     },
+    "98140bc9-e930-499e-b4b6-fbbe856e6413": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Cactus/Animations/Ball Cactus Walk.anim.nasset"
+    },
     "981dd2db-064f-d55c-1693-b6bd8755015e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -17898,6 +18453,11 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Animals/Bat/Material Instances/Black.mtli.nasset"
     },
+    "9975f06d-39e9-4342-9a10-f41812205e87": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Alien/Animations/Ball Alien Walk.anim.nasset"
+    },
     "999bdbcc-65e9-4535-847d-e73d961cfc44": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -17909,7 +18469,7 @@
     "999fb7a6-eea0-c0cf-aaa4-7f321b22b70e": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Belt.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Belt.meshskin.nasset",
         "dependencies": [
             "e4751355-e32f-e1fe-72fc-e381e30c65b7",
             "793c6a70-4969-f8d8-e862-721b1ccf5d02",
@@ -18032,6 +18592,11 @@
             "67fc8f99-af22-217a-b807-8d0fe436d431",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "9a987b2e-187e-4db0-bb3b-6f6418ce6baf": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Penguin/Animations/Ball Penguin Bite Front.anim.nasset"
     },
     "9ac87fbf-b6b8-de6c-c3cf-c0f2d698d909": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -18257,7 +18822,7 @@
     "9beef49e-4774-f1fc-a971-d6f1c5b97797": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Tongue.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Tongue.meshskin.nasset",
         "dependencies": [
             "a88a5032-2a77-1d07-4164-5fcc4f9fdfbb",
             "b92f680b-c751-067d-3e6f-39cb0a12a674",
@@ -18292,6 +18857,16 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Cat/Animations/Cat_Run.anim.nasset"
+    },
+    "9c303d22-7b98-41eb-a99c-7dd7f6aeac97": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Crab/Animations/Ball Crab No.anim.nasset"
+    },
+    "9c83f89c-d6e8-4195-bc7a-65c8b2746ff4": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Slime/Animations/Ball Slime Idle.anim.nasset"
     },
     "9c933cc0-d706-b3fe-ba5d-13d2dddfe9ce": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -18557,11 +19132,6 @@
             "25f7cf55-4228-4def-99b7-bbd136d50d4c"
         ]
     },
-    "9f0893c9-f38c-22ed-b406-1e23be1cf70d": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Sushime/SK_Misty.scene.nasset/SK Misty.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
     "9f176447-6790-bf7d-08c9-8eb4f5a7db62": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -18573,7 +19143,7 @@
     "9f2137b7-9f22-a80b-e557-45edf742530c": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Main.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Main.meshskin.nasset",
         "dependencies": [
             "c448c2ec-7df6-44de-acf8-4467c5414d96",
             "b92f680b-c751-067d-3e6f-39cb0a12a674",
@@ -18681,6 +19251,11 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Rat/Animations/Rat Idle.anim.nasset"
     },
+    "a077e6a7-96f6-4026-a42c-7c571d75985c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Penguin/Animations/Ball Penguin Idle.anim.nasset"
+    },
     "a08ff50d-2e45-439e-9414-024aa3148dd5": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -18709,7 +19284,7 @@
     "a0e377a9-e842-0cd0-c6e8-6e5005c2e642": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Sword Blade.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Sword Blade.meshskin.nasset",
         "dependencies": [
             "159a8a35-1ca1-e024-c54f-c49706437d8f",
             "793c6a70-4969-f8d8-e862-721b1ccf5d02",
@@ -18782,6 +19357,11 @@
             "c30ea0a8-f648-4492-e746-bfb0fd879c09"
         ]
     },
+    "a1cccb5d-0f1a-4525-9e3d-a725177792ea": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Yeti/Animations/Ball Yeti Death.anim.nasset"
+    },
     "a1cd8ab7-c82c-1968-2073-1264950e0fa3": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -18844,7 +19424,7 @@
     "a234cfd8-7feb-4e10-87f7-2d04f2df5d51": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Big/Player_Scripts/Jinn.scene.nasset",
+        "path": "Assets/Monsters/Big/Jinn/Jinn.scene.nasset",
         "thumbnail": "39dfc81f-b468-4259-ba05-f1a5f2c0cac5",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
@@ -18986,11 +19566,6 @@
             "0649d2bc-3a9c-24f8-9517-7f4c6a55e3f3",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "a37e492b-f0a4-3aa2-3fed-c8c35f4a6bbe": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Sushime/SK_Blondie.scene.nasset/SK Blondie.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "a3ca0d39-fbd3-7d61-25b5-c754f5e636a7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -19139,6 +19714,11 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Bull/SK_Bull.scene.nasset/Cow.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "a57f493e-d373-41a1-86d9-b571a6b3f816": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Alien/Animations/Ball Alien No.anim.nasset"
     },
     "a58f446e-77cb-d966-802d-2c2557f7b4db": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -19353,7 +19933,7 @@
     "a76138bc-3850-73e6-a5dc-e5df68df3f30": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Mouth.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Mouth.meshskin.nasset",
         "dependencies": [
             "868c14a2-44df-60db-a3f2-651cf0fafe78",
             "fba9d5de-3e54-7227-fb4d-45cb02fc69d5",
@@ -19385,9 +19965,19 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "a78edbc9-f691-473a-8131-9a88ca5068a8": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Chicken/Animations/Ball Chicken Hit React.anim.nasset"
+    },
     "a798354a-4f5a-4466-a91b-807a82b4de0e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/2D_Platformer/Jumperman/Thumbnails/Sun.scene.nasset.tex.nasset"
+    },
+    "a7a17ad6-9435-4edd-80bf-2f0ded4dc144": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Cactus/Animations/Ball Cactus Death.anim.nasset"
     },
     "a7b9c34f-d00a-a8ed-54e0-c7694c06031d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -19531,7 +20121,7 @@
     "a88a5032-2a77-1d07-4164-5fcc4f9fdfbb": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Tongue.mesh.nasset",
+        "path": "Assets/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Tongue.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -19552,6 +20142,11 @@
         "dependencies": [
             "83cc5c8f-62df-72e5-3929-e6754fc5542e"
         ]
+    },
+    "a8ff569c-ed74-4203-b168-cbd21159216c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Skull/Animations/Ball Skull Idle.anim.nasset"
     },
     "a9178549-cc95-80c2-bf42-6361b0324553": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -19590,7 +20185,7 @@
     },
     "a93286de-6178-43d2-9739-a48702d816e9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Monsters/Big/Thumbnails/Sue.scene.nasset.tex.nasset"
+        "path": "Assets/Monsters/Big/Sue/Thumbnails/Sue.scene.nasset.tex.nasset"
     },
     "a93d221e-c830-4201-aa67-68d98449d0ec": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -19609,6 +20204,11 @@
             "230c02df-b4e1-0e8f-7be9-9d852c84e302",
             "5c61259d-05ec-c7df-266f-829c4b3ed67f"
         ]
+    },
+    "a95b0cd4-d828-43c6-8b38-dad269ecb7dc": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Chicken/Animations/Ball Chicken Idle.anim.nasset"
     },
     "a95f4433-8cca-dbf9-e016-4ac2a0b4f22b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -19712,7 +20312,13 @@
             "6b5f1dcf-d332-5d8e-a8d1-3c9e59c72ce5",
             "a95f4433-8cca-dbf9-e016-4ac2a0b4f22b",
             "156b70de-6b63-7f2c-7195-da837e760c22",
-            "fbe904d4-61cc-8990-7b90-9f4bf48e7e45"
+            "d9f46431-0cc8-aac3-c7ec-30bf7144851e",
+            "44040111-b603-4967-ae4a-187d8fcf9069",
+            "2405b114-de09-463c-af0e-a580771e71a5",
+            "93171657-f8b1-4c2f-b69d-a3d5f843ad7f",
+            "0a56477c-a014-4f84-8952-21959c4dea58",
+            "2ad2e68c-1657-4e9b-8b10-70576378d9ac",
+            "74ba0142-f8fb-4de3-a6a3-aab8dc098584"
         ]
     },
     "aa52e282-e01d-95c6-d5f7-5f5e205798dc": {
@@ -19736,6 +20342,16 @@
     "aa9bb729-87e8-6323-141b-15cce759f7dd": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Animals/Snake/Material Instances/Snake Eye.mtli.nasset"
+    },
+    "aaa4ccb9-59c7-4967-b312-5d8ac043b607": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Panda/Animations/Ball Panda No.anim.nasset"
+    },
+    "aac7e02a-a7d2-47a9-b9d5-2e68e12e4193": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Tree/Animations/Ball Tree Hit React.anim.nasset"
     },
     "aae724af-2651-841b-52c2-bd44795c3113": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -19786,6 +20402,11 @@
             "373d32ae-df40-153b-164d-b5e187f9bce8",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "ab228696-c4b7-4e59-9214-516ec04a9663": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Deer/Animations/Ball Deer Dance.anim.nasset"
     },
     "ab2bd2ad-b84d-ff92-70a7-cf17fdba654a": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -19863,6 +20484,11 @@
             "bcbfa25b-aa88-5054-509e-9200e3b9fb9f"
         ]
     },
+    "abc6908f-9904-40bc-a5b9-c6eb262022a8": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Panda/Animations/Ball Panda Death.anim.nasset"
+    },
     "abc6f9bb-d521-dda2-87bd-9986bd3abb80": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -19897,6 +20523,11 @@
             "94ccc4b9-58cc-4a11-a6f6-31fdf8d755d5",
             "f8385ce4-8cd2-4237-b5b2-dec2fad400d6"
         ]
+    },
+    "abcbb273-b78f-4e4b-ba00-b05b87bad8ee": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Mushroom/Animations/Ball Mushroom No.anim.nasset"
     },
     "abe7e7be-b79e-a574-26ff-9726adc33c55": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -20019,6 +20650,11 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Rat/Animations/Rat Jump Start.anim.nasset"
     },
+    "ac7e15fe-7520-4092-b70b-bdb3a339a42c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Chicken/Animations/Ball Chicken Dance.anim.nasset"
+    },
     "ac9d4242-2747-2731-f84a-6ca4b00cda72": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -20030,6 +20666,11 @@
             "aa1005b0-745e-719c-bb1c-c515e64e9c59",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "acaedad1-d1a6-425d-aa5b-d9b4d048f5d5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Bat/Animations/Ball Bat Hit React.anim.nasset"
     },
     "acc6886f-b1bd-4fc6-953f-c257b0f9300d": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -20212,7 +20853,7 @@
     },
     "ae59664e-44f1-cea1-a6b0-523697106e7b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Monsters/Big/Material Instances/Yeti Tongue.mtli.nasset",
+        "path": "Assets/Monsters/Big/Teddy/Material Instances/Yeti Tongue.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -20220,6 +20861,11 @@
     "ae8308f0-9a40-5c91-ceef-e0a62e299e34": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Material Instances/Thumbnails/Red Hair.mtli.nasset.tex.nasset"
+    },
+    "ae95ee4d-33bb-46af-af9e-2fcbc7ac7df9": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Cyclops/Animations/Ball Cyclops Bite In Place.anim.nasset"
     },
     "aeb675bc-5607-fb78-4d30-4e69759c49af": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -20256,7 +20902,7 @@
     },
     "aeded11d-15bc-e23c-ce19-66710a0127d9": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Monsters/Big/Material Instances/Hanzo Main.mtli.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/Material Instances/Hanzo Main.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -20441,6 +21087,11 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "b05ed31d-d59d-458e-8e66-c78649687f9b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Cactus/Animations/Ball Cactus Jump.anim.nasset"
     },
     "b05fee07-e982-4053-8025-eeb60b37f02f": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -20765,7 +21416,7 @@
     "b2d23685-4246-62db-f1de-dc57763d41ec": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Shoe Blue.mesh.nasset",
+        "path": "Assets/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Shoe Blue.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -20794,15 +21445,20 @@
     "b2ebfbc6-d39a-42ca-893c-d10551e874a3": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Monsters/Big/Animations/Big Monster Idle.anim.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/Animations/Big Monster Idle.anim.nasset",
         "dependencies": [
             "793c6a70-4969-f8d8-e862-721b1ccf5d02"
         ]
     },
+    "b304c560-1a2f-412f-878d-ff4aff0f63a5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Cyclops/Animations/Ball Cyclops Hit React.anim.nasset"
+    },
     "b3142bf9-24e9-122e-0d46-c4f1aacbff78": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Shoe Red.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Shoe Red.meshskin.nasset",
         "dependencies": [
             "37836af8-5f3b-ed8c-f60d-469d6f34d34e",
             "265d1a29-d656-a2e5-7771-8fe8e116e427",
@@ -21066,7 +21722,7 @@
     },
     "b5713928-28ee-4571-9b14-811bdfc0d2f8": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Monsters/Big/Thumbnails/Uglee.scene.nasset.tex.nasset"
+        "path": "Assets/Monsters/Big/Uglee/Thumbnails/Uglee.scene.nasset.tex.nasset"
     },
     "b58dc986-ffae-4560-a092-0c5b67e8c888": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -21266,6 +21922,11 @@
             "3d65b732-ebfc-12da-ec51-362e7a40c166",
             "0e17f6b5-5fe5-9a40-3643-1583ecb87cf9"
         ]
+    },
+    "b77a203b-b620-4072-a2cc-ba3dd5d8eb2a": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Alien_Tall/Animations/Ball Alien Tall Dance.anim.nasset"
     },
     "b78524a2-c5a9-000b-f202-83e53f65888e": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -21486,10 +22147,15 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "b8fbe940-82ed-48eb-8127-3a6f3abe02b4": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Demon/Animations/Ball Demon Bite Front.anim.nasset"
+    },
     "b9069913-d066-45f1-aa52-78e70e19ce30": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Big/Player_Scripts/Kappa.scene.nasset",
+        "path": "Assets/Monsters/Big/Kappa/Kappa.scene.nasset",
         "thumbnail": "39dfc81f-b468-4259-ba05-f1a5f2c0cac5",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
@@ -21685,11 +22351,6 @@
             "91917686-25b7-3f28-3b72-5c5fd70d0d7a"
         ]
     },
-    "ba91ca9f-40b1-303e-912c-33c8c029bc7d": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Sushime/SK_Express.scene.nasset/SK Express.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
     "baae48e8-4108-435f-878e-208e8bcd09eb": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -21760,7 +22421,13 @@
             "6b5f1dcf-d332-5d8e-a8d1-3c9e59c72ce5",
             "9db9826f-c64a-2368-7d38-a3d125d19f4e",
             "c4c001d9-96c3-3923-dee2-38e8de27cc4b",
-            "e056753c-0415-6671-e733-e75d04dcb7cf"
+            "d9f46431-0cc8-aac3-c7ec-30bf7144851e",
+            "44040111-b603-4967-ae4a-187d8fcf9069",
+            "2405b114-de09-463c-af0e-a580771e71a5",
+            "93171657-f8b1-4c2f-b69d-a3d5f843ad7f",
+            "0a56477c-a014-4f84-8952-21959c4dea58",
+            "2ad2e68c-1657-4e9b-8b10-70576378d9ac",
+            "74ba0142-f8fb-4de3-a6a3-aab8dc098584"
         ]
     },
     "bb3985e0-a4f6-462a-b6d9-5fd2d230a346": {
@@ -21801,6 +22468,11 @@
         "dependencies": [
             "0b3d2f7d-cbd7-ef1d-4202-5bc8ec33572f"
         ]
+    },
+    "bbe69b0a-064e-4a38-a88e-246832520ed5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Cyclops/Animations/Ball Cyclops Walk.anim.nasset"
     },
     "bbfa6b8f-9424-81e2-3e13-75060e4d682c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -21861,13 +22533,23 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Material Instances/Thumbnails/Hair 4.mtli.nasset.tex.nasset"
     },
+    "bc836814-4962-4abc-b001-b6fb7f490547": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Chicken/Animations/Ball Chicken Yes.anim.nasset"
+    },
     "bc85b72d-f8a8-443f-b0eb-dc71684fca6f": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Monsters/Big/Animations/Big Monster Wave.anim.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/Animations/Big Monster Wave.anim.nasset",
         "dependencies": [
             "793c6a70-4969-f8d8-e862-721b1ccf5d02"
         ]
+    },
+    "bc97f1a6-3f04-4b32-9d8d-d7d2a6075bf1": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Alien/Animations/Ball Alien Death.anim.nasset"
     },
     "bc9883e8-d247-45fe-82fd-ee0442f84ac8": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -22112,6 +22794,11 @@
             "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
         ]
     },
+    "be1c1fb7-41e3-4be9-b0a6-c8d276c98a4a": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Tree/Animations/Ball Tree Jump.anim.nasset"
+    },
     "be3b591f-4805-a942-0e40-6963aa9077ca": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -22253,6 +22940,11 @@
         "dependencies": [
             "188a6a71-ffbf-c6aa-a06c-ec7d29f520d2"
         ]
+    },
+    "bf4c3f48-f48b-40e0-8765-83791fb937d5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Pig/Animations/Ball Pig Death.anim.nasset"
     },
     "bf518174-e3bf-8827-4a6f-456e28da52a2": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -22532,7 +23224,7 @@
     "c16ca5c6-2149-6228-7ee1-7d873763c022": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Fin.mesh.nasset",
+        "path": "Assets/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Fin.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -22689,6 +23381,11 @@
             "a85be35e-5a2b-8bba-8c91-c1e7580edd7f"
         ]
     },
+    "c2b43fa2-5bc8-478d-8b83-853f0a61b15b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Panda/Animations/Ball Panda Walk.anim.nasset"
+    },
     "c2c9dc57-332a-434c-95c8-b1632d844d28": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -22781,6 +23478,11 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "c3402f12-504c-4f5f-b730-b1f7a48ecfb5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Mushroom/Animations/Ball Mushroom Hit React.anim.nasset"
+    },
     "c354d7df-a7e8-4e07-a026-c8fe83bfb851": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -22794,10 +23496,15 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "c36cd3fc-c3a1-4684-aa13-dd3de78b7faf": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Deer/Animations/Ball Deer Bite Front.anim.nasset"
+    },
     "c3a1f071-27d2-455b-aeda-15ff4f58e423": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Monsters/Big/Animations/Big Monster Hit React.anim.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/Animations/Big Monster Hit React.anim.nasset",
         "dependencies": [
             "793c6a70-4969-f8d8-e862-721b1ccf5d02"
         ]
@@ -22875,7 +23582,7 @@
     "c448c2ec-7df6-44de-acf8-4467c5414d96": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Main.mesh.nasset",
+        "path": "Assets/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Main.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -23026,7 +23733,7 @@
     "c519adb8-ea80-11e2-b3f4-5155e09f57d0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Teeth.mesh.nasset",
+        "path": "Assets/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Teeth.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -23098,7 +23805,7 @@
     "c5c54f75-ba7d-aa94-84f4-8ff019b54f53": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Big/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy.mesh.nasset",
+        "path": "Assets/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -23173,6 +23880,11 @@
     "c65a07c6-21c4-456c-9bc8-7cb618f17266": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/2D_Platformer/Robots/Thumbnails/Robot_Blue.scene.nasset.tex.nasset"
+    },
+    "c68055f1-d11c-47ea-996f-543bff5f5edb": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Tree/Animations/Ball Tree Bite Front.anim.nasset"
     },
     "c69ce741-92a0-09fe-6429-ac092e8babbb": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -23270,7 +23982,7 @@
     "c744561e-294f-4b43-b69d-116fbfc58db5": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Big/Player_Scripts/Cain.scene.nasset",
+        "path": "Assets/Monsters/Big/Cain/Cain.scene.nasset",
         "thumbnail": "39dfc81f-b468-4259-ba05-f1a5f2c0cac5",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
@@ -23337,6 +24049,19 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/2D_Platformer/Robots/Thumbnails/Robot_Grey.scene.nasset.tex.nasset"
     },
+    "c7d42c06-e1cb-e781-1cc9-8c8e74bbf910": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Modular_People/Player_Scripts/Female/Female Formal.scene.nasset",
+        "thumbnail": "22982399-3dc9-48b0-9f6d-6bfd3551ad75",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "b4ec400c-1778-16fc-0511-4e120780c5ba"
+        ]
+    },
     "c7dfcb41-e05b-e67c-0f34-ae408e8e43c3": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -23370,6 +24095,11 @@
             "632c0acb-e414-2dd0-c921-7d94ebb6b5e7",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "c8161784-8120-4b1b-a866-41f9471bc889": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Ghost/Animations/Ball Ghost Walk.anim.nasset"
     },
     "c83fe294-8de8-4b05-8359-b50b7b9e4532": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -23431,7 +24161,7 @@
     "c8aa8d64-eb42-87b2-4576-2a00779d0d73": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Gold.mesh.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Gold.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -23498,6 +24228,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "c9312daf-1942-4c65-9684-382c11f23efc": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Skull/Animations/Ball Skull Death.anim.nasset"
+    },
     "c93afb69-62d8-5c85-6500-709500638100": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -23558,7 +24293,7 @@
     },
     "c9e6ecf3-1c52-46a9-80db-486a11ab7e4e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Monsters/Big/Thumbnails/Snapper.scene.nasset.tex.nasset"
+        "path": "Assets/Monsters/Big/Snapper/Thumbnails/Snapper.scene.nasset.tex.nasset"
     },
     "c9fdb453-5004-4dc6-aec2-5cf4ea6f5261": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -23626,6 +24361,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "ca7092f8-1410-4fc8-af26-c8e942f4801a": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Alien/Animations/Ball Alien Hit React.anim.nasset"
+    },
     "ca89cb46-4d28-8d45-7e21-249970df896a": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -23657,6 +24397,11 @@
         "dependencies": [
             "dad7e293-b162-9581-a8f7-723ad19d54c9"
         ]
+    },
+    "cabcc726-cc71-4dcb-ae1c-54d6f268035c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Panda/Animations/Ball Panda Bite Front.anim.nasset"
     },
     "cac9b4ea-429b-cd5b-0475-e74aac60fd42": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -23947,7 +24692,7 @@
     "cd5eca99-0615-ddf1-90df-822034dbf6b6": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Eye Black.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Eye Black.meshskin.nasset",
         "dependencies": [
             "40c5005e-0d61-b8c9-a1f1-3be582502871",
             "265d1a29-d656-a2e5-7771-8fe8e116e427",
@@ -24093,10 +24838,15 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Monsters/Rounded/Ball_Penguin/SK_Ball_Penguin.scene.nasset/SK Ball Penguin.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "cebb2b09-a1e1-4996-9113-b72662c04fe4": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Mushroom/Animations/Ball Mushroom Walk.anim.nasset"
+    },
     "cedf4a77-d846-6c83-bc88-5da9103218fd": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Secondary.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Secondary.meshskin.nasset",
         "dependencies": [
             "daacb7a6-e3a3-2406-f045-45a780838279",
             "265d1a29-d656-a2e5-7771-8fe8e116e427",
@@ -24228,7 +24978,7 @@
     "cf97372b-c117-c04f-bbf5-ed9d26c1dc79": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Eye Black.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Eye Black.meshskin.nasset",
         "dependencies": [
             "7a490b18-5236-61f3-078e-a65aef36c09a",
             "793c6a70-4969-f8d8-e862-721b1ccf5d02",
@@ -24322,6 +25072,11 @@
         "dependencies": [
             "5833ad8c-7b0b-d98c-1486-f1661d9cccd9"
         ]
+    },
+    "d06d01ee-01e4-4660-8542-6aed5c461426": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Alien_Tall/Animations/Ball Alien Tall Yes.anim.nasset"
     },
     "d0702a1e-9071-4138-8ef0-03db2c77579d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -24536,7 +25291,7 @@
     "d22e701d-373b-4eee-a8ff-ee6c5056ca71": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Big/Player_Scripts/Prickly Pear.scene.nasset",
+        "path": "Assets/Monsters/Big/Prickly_Pear/Prickly Pear.scene.nasset",
         "thumbnail": "39dfc81f-b468-4259-ba05-f1a5f2c0cac5",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
@@ -24593,7 +25348,7 @@
     "d2d15041-1591-3c04-42fc-0c86f862b8fa": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Secondary.mesh.nasset",
+        "path": "Assets/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Secondary.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -24615,7 +25370,7 @@
     "d3005a14-3011-b4a5-d916-50627d2062c6": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Beak.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Beak.meshskin.nasset",
         "dependencies": [
             "80b66372-ae43-fa9c-a94c-ba7ab5963575",
             "265d1a29-d656-a2e5-7771-8fe8e116e427",
@@ -24661,6 +25416,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Material Instances/Thumbnails/Hair 10.mtli.nasset.tex.nasset"
     },
+    "d3c303a3-3c14-47e9-91f3-5331da0c4a06": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Skull/Animations/Ball Skull Yes.anim.nasset"
+    },
     "d3dc8a67-e3f0-2bde-b011-cd6b315917c1": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -24676,7 +25436,7 @@
     "d3f00be8-b2bc-3fce-c2fa-bce5e66c5958": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Belly.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Belly.meshskin.nasset",
         "dependencies": [
             "f638900e-7335-a4bb-9c4a-7f0d77a9bd72",
             "fba9d5de-3e54-7227-fb4d-45cb02fc69d5",
@@ -24703,10 +25463,15 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "d415d854-4ebf-46e6-8e46-f30d8965651d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Cactus/Animations/Ball Cactus Dance.anim.nasset"
+    },
     "d41bcbff-78b9-6467-1e93-b3604d5a15c9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Big/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper.mesh.nasset",
+        "path": "Assets/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -24757,10 +25522,32 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Mini/SK_Mini_Gladiator.scene.nasset/SK Mini Gladiator.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "d43f9889-9c3d-40fb-a38b-b9f0a3bbaf23": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Pig/Animations/Ball Pig Jump.anim.nasset"
+    },
     "d43fb6e0-c3df-49d9-bd9d-d6ef7ce88313": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Modular_People/Animations/Female/Modular Female Interact.anim.nasset"
+    },
+    "d453418c-fe95-a90c-092c-b5f21519f332": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Sushime/Player_Scripts/Baldur.scene.nasset",
+        "thumbnail": "db845647-d95a-455a-b276-1f4396657cab",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "dedcec34-5137-2919-2694-c972acd094b6"
+        ]
+    },
+    "d460c937-19c6-4f30-ae34-0059af78a571": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Cactus/Animations/Ball Cactus Yes.anim.nasset"
     },
     "d47b6347-605b-48a6-acc8-05a5281325a3": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -24855,7 +25642,7 @@
     "d53eb050-dbeb-43d6-84c6-60dd996099e1": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Monsters/Big/Animations/Big Monster Jump Loop.anim.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/Animations/Big Monster Jump Loop.anim.nasset",
         "dependencies": [
             "793c6a70-4969-f8d8-e862-721b1ccf5d02"
         ]
@@ -24900,6 +25687,11 @@
             "0e17f6b5-5fe5-9a40-3643-1583ecb87cf9",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "d5744220-0656-4b88-892a-170453c7a7b5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Alien_Tall/Animations/Ball Alien Tall Bite In Place.anim.nasset"
     },
     "d58d3140-d3cc-4d1d-980b-59487c46624f": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -25013,6 +25805,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "d662239c-fea9-4163-98b9-0f456370a88a": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Mushroom/Animations/Ball Mushroom Death.anim.nasset"
+    },
     "d667bffd-398a-15ce-31db-c4be4cd0472f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -25024,6 +25821,11 @@
             "3a7f70d9-1a60-ac1d-2b1f-25cfadaddb45",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "d66a640f-32f3-4b0e-9eff-96351bf41f33": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Penguin/Animations/Ball Penguin Yes.anim.nasset"
     },
     "d673d910-f24a-c190-c2b3-57d5857ca6dd": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -25054,7 +25856,13 @@
             "6b5f1dcf-d332-5d8e-a8d1-3c9e59c72ce5",
             "96926c19-ecc5-179b-9d90-7897b16d24b7",
             "b663bdf3-dac9-a68b-0752-7a05d6a1c7d5",
-            "ba91ca9f-40b1-303e-912c-33c8c029bc7d"
+            "d9f46431-0cc8-aac3-c7ec-30bf7144851e",
+            "44040111-b603-4967-ae4a-187d8fcf9069",
+            "2405b114-de09-463c-af0e-a580771e71a5",
+            "93171657-f8b1-4c2f-b69d-a3d5f843ad7f",
+            "0a56477c-a014-4f84-8952-21959c4dea58",
+            "2ad2e68c-1657-4e9b-8b10-70576378d9ac",
+            "74ba0142-f8fb-4de3-a6a3-aab8dc098584"
         ]
     },
     "d7109c65-b9fe-c1d6-3bed-0e06bce7021e": {
@@ -25110,7 +25918,7 @@
     },
     "d8a157ef-683c-47f6-a7c1-11695f7baf92": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Monsters/Big/Thumbnails/Penny.scene.nasset.tex.nasset"
+        "path": "Assets/Monsters/Big/Penny/Thumbnails/Penny.scene.nasset.tex.nasset"
     },
     "d8b657ad-ed29-4991-9b68-d0e74a50d962": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -25123,6 +25931,11 @@
         "dependencies": [
             "07e0879b-248d-6d8c-9893-63c1adc8c200"
         ]
+    },
+    "d8f2dc04-3515-4585-b759-f1a87c0ed329": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Yeti/Animations/Ball Yeti Dance.anim.nasset"
     },
     "d90b2516-587a-43ef-bcfe-fd1ac7e9d480": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -25163,6 +25976,11 @@
             "e39e18b6-3f70-2574-1a9c-1cbdf326d373",
             "707342fe-fb45-eaaf-0131-2e018f9b9750"
         ]
+    },
+    "d95e18c9-4547-4178-a969-b0d94844cfde": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Cthulhu/Animations/Ball Cthulhu Hit React.anim.nasset"
     },
     "d9645ce0-5036-36ac-c70a-803e6ffbebb0": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -25263,7 +26081,7 @@
     "d9ff1b41-c317-0783-7bd7-c05abcb4989b": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Eye White.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Eye White.meshskin.nasset",
         "dependencies": [
             "f764a7d2-049f-e4f7-d2a3-546f2eb87496",
             "793c6a70-4969-f8d8-e862-721b1ccf5d02",
@@ -25316,10 +26134,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "daa9fa80-d47f-4ae8-ac70-25b7cbf78b25": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Crab/Animations/Ball Crab Death.anim.nasset"
+    },
     "daacb7a6-e3a3-2406-f045-45a780838279": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Secondary.mesh.nasset",
+        "path": "Assets/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Secondary.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -25435,6 +26258,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "db7cff5f-8f29-4f3e-85e2-3390fcaed53f": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Demon/Animations/Ball Demon Yes.anim.nasset"
+    },
     "db80e624-85e3-4213-b634-8fe6ce669fe0": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -25481,6 +26309,11 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Modular_Toon/Animations/Modular Toon Victory.anim.nasset"
+    },
+    "dbdac47f-0e5f-48a8-bdb1-7513348dbebb": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Pig/Animations/Ball Pig Walk.anim.nasset"
     },
     "dc025dce-8aff-4038-5f30-83664bb99b13": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -25643,7 +26476,7 @@
     "dd22f2e7-b34a-1c81-2ce8-886f97232d1f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Lace Rings.mesh.nasset",
+        "path": "Assets/Monsters/Big/Uglee/SK_Uglee.scene.nasset/SK Uglee.mesh.nasset/SK Uglee Lace Rings.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -25815,8 +26648,19 @@
             "5a53fd2d-6fbf-e51d-01c5-13249fbcf416",
             "b012263a-379a-85eb-0a80-93d7d567b936",
             "d20f8086-2b40-778a-e1c2-95eca78d436b",
-            "d9f46431-0cc8-aac3-c7ec-30bf7144851e"
+            "d9f46431-0cc8-aac3-c7ec-30bf7144851e",
+            "44040111-b603-4967-ae4a-187d8fcf9069",
+            "2405b114-de09-463c-af0e-a580771e71a5",
+            "93171657-f8b1-4c2f-b69d-a3d5f843ad7f",
+            "0a56477c-a014-4f84-8952-21959c4dea58",
+            "2ad2e68c-1657-4e9b-8b10-70576378d9ac",
+            "74ba0142-f8fb-4de3-a6a3-aab8dc098584"
         ]
+    },
+    "def0915f-3ae1-40b6-a589-9fe114653e5d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Chicken/Animations/Ball Chicken Death.anim.nasset"
     },
     "defe7f2c-b1c9-49d3-88bd-ead4a1c68730": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -25886,7 +26730,7 @@
     "df6d26d9-07e1-090d-6217-de55ca98477b": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Eye Black.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Eye Black.meshskin.nasset",
         "dependencies": [
             "0da20ae6-cccb-28a8-22a2-9dbdb09e4dbd",
             "fba9d5de-3e54-7227-fb4d-45cb02fc69d5",
@@ -25900,7 +26744,7 @@
     "df8e8066-56c4-48b4-77a7-daa33798c55b": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Big/SK_Hanzo.scene.nasset/SK_Hanzo.scene.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/SK_Hanzo.scene.nasset/SK_Hanzo.scene.nasset",
         "dependencies": [
             "54026ee9-c279-9f4c-d4f3-dcbde89a4a5f"
         ]
@@ -25966,11 +26810,6 @@
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Animals/Snake/SK_Snake.scene.nasset/SK Snake.mesh.nasset/SK Snake Snake Tongue.meshskin.nasset"
-    },
-    "e056753c-0415-6671-e733-e75d04dcb7cf": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Sushime/SK_Shades.scene.nasset/SK Shades.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "e059f83d-e772-0622-8d66-37aaca3a24d7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -26178,7 +27017,7 @@
     },
     "e17a7cc1-f29e-49ce-aecd-eff7c2631309": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Monsters/Big/Thumbnails/Jinn.scene.nasset.tex.nasset"
+        "path": "Assets/Monsters/Big/Jinn/Thumbnails/Jinn.scene.nasset.tex.nasset"
     },
     "e1aafc96-08a4-47b3-83cf-7a7622fac517": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -26271,6 +27110,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "e29f0e15-1630-4431-9c04-e018ae69f92e": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Crab/Animations/Ball Crab Hit React.anim.nasset"
+    },
     "e2b038c2-fa2d-b80e-8bd8-71521884d547": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -26282,7 +27126,13 @@
             "6b5f1dcf-d332-5d8e-a8d1-3c9e59c72ce5",
             "4117c17f-282b-e832-e05b-8fdbc50c4ee4",
             "e875ce15-8839-cfcc-5dcd-5c15dc5d9cb3",
-            "6f99ab57-098b-873e-3427-1008cfe00daa"
+            "d9f46431-0cc8-aac3-c7ec-30bf7144851e",
+            "44040111-b603-4967-ae4a-187d8fcf9069",
+            "2405b114-de09-463c-af0e-a580771e71a5",
+            "93171657-f8b1-4c2f-b69d-a3d5f843ad7f",
+            "0a56477c-a014-4f84-8952-21959c4dea58",
+            "2ad2e68c-1657-4e9b-8b10-70576378d9ac",
+            "74ba0142-f8fb-4de3-a6a3-aab8dc098584"
         ]
     },
     "e2b3df36-27fe-1a1e-dc56-8fd5912cee8e": {
@@ -26423,7 +27273,7 @@
     "e4751355-e32f-e1fe-72fc-e381e30c65b7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Belt.mesh.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Belt.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -26450,18 +27300,6 @@
         "path": "Assets/Heist/_Player_FP_Heist/Animations/_Common/FP Aim Walk.anim.nasset",
         "dependencies": [
             "5aaeb590-2bb2-2171-71ae-c2dd228d0437"
-        ]
-    },
-    "e4c810a9-5ab9-2421-b31c-49448161c452": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Sushime/Player_Scripts/Baldur.scene.nasset",
-        "thumbnail": "db845647-d95a-455a-b276-1f4396657cab",
-        "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
-        ],
-        "dependencies": [
-            "dedcec34-5137-2919-2694-c972acd094b6"
         ]
     },
     "e4e5aa03-8844-55c1-17ec-0e7b0ad126b4": {
@@ -26631,6 +27469,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "e5db0d73-e174-4338-95c1-4b535d31d0e5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Cyclops/Animations/Ball Cyclops Jump.anim.nasset"
+    },
     "e60b7624-b484-104e-c564-64d9507e8cce": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -26654,6 +27497,11 @@
             "2ac34ad7-d032-06a4-98d0-e4b078b536ec",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "e642eacc-0f4b-461f-8c92-f805c28ec6d8": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Ghost/Animations/Ball Ghost Bite Front.anim.nasset"
     },
     "e6602b12-d7fe-6bb7-5ce4-d50e2059c210": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -26815,7 +27663,7 @@
     "e7959682-63ff-8308-839f-4a7fd570263e": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Eye Black.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Teddy/SK_Teddy.scene.nasset/SK Teddy.mesh.nasset/SK Teddy Yeti Eye Black.meshskin.nasset",
         "dependencies": [
             "6b97deaa-daeb-eb94-d565-de79d0eef337",
             "b92f680b-c751-067d-3e6f-39cb0a12a674",
@@ -26893,6 +27741,16 @@
             "8e4c6d61-b043-0f8e-bf0c-5640a7ee71d2",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "e8292908-06f3-4529-9ac9-9ff446c4b052": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Deer/Animations/Ball Deer Hit React.anim.nasset"
+    },
+    "e84f7515-d233-44fc-afe4-4cd851c993cf": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Demon/Animations/Ball Demon Hit React.anim.nasset"
     },
     "e8541f99-d539-425b-9f90-554faee7d64b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -26992,6 +27850,11 @@
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
         ]
+    },
+    "e937ef58-234e-4547-87a5-b01fe62eda86": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Ghost/Animations/Ball Ghost Yes.anim.nasset"
     },
     "e94f78fa-cbbc-4f4f-a426-1ece5b2fce1e": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -27287,6 +28150,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Knight.scene.nasset.tex.nasset"
     },
+    "eb94f432-6930-4052-847a-b11b2f2c65c5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Chicken/Animations/Ball Chicken Jump.anim.nasset"
+    },
     "eb963102-69ec-4dc8-aa3d-66bbf36edd6b": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -27324,7 +28192,7 @@
     },
     "ebe647eb-a575-4d39-82af-f5bd50d096fc": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Monsters/Big/Material Instances/Yeti Eye White.mtli.nasset",
+        "path": "Assets/Monsters/Big/Teddy/Material Instances/Yeti Eye White.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -27766,6 +28634,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_Toon/Thumbnails/Male/Male_Cowboy_Hair.scene.nasset.tex.nasset"
     },
+    "f061e304-527a-4e94-9730-df6440de9cb9": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Panda/Animations/Ball Panda Bite In Place.anim.nasset"
+    },
     "f06843c9-9834-4723-b877-0202e786b791": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -28063,6 +28936,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_People/Material Instances/Thumbnails/Skin Darker.mtli.nasset.tex.nasset"
     },
+    "f2acaf6b-65a6-432d-90ae-b1bc2ce45dd0": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Skull/Animations/Ball Skull Bite In Place.anim.nasset"
+    },
     "f2b273da-bc46-aa5c-b935-274fc64e6522": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -28078,7 +28956,7 @@
     "f2bdbc04-4d43-cbae-a998-4bad73ab545d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Main.mesh.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Main.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -28157,6 +29035,11 @@
         "dependencies": [
             "8e676748-0b12-e7c7-d974-4ff4c059a00b"
         ]
+    },
+    "f30f7b4e-ebc6-413a-8bf0-fa1fce78bbc1": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Pig/Animations/Ball Pig Bite In Place.anim.nasset"
     },
     "f32794f1-66c2-c17d-3a1b-3db9c8cad0f0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -28249,7 +29132,7 @@
     "f41e7860-6e7e-48c7-a3b6-fd2fd133d94d": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Monsters/Big/Animations/Big Monster Death.anim.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/Animations/Big Monster Death.anim.nasset",
         "dependencies": [
             "793c6a70-4969-f8d8-e862-721b1ccf5d02"
         ]
@@ -28352,6 +29235,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "f4df8e0c-65b1-465c-8059-814e8bbda4a0": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Skull/Animations/Ball Skull No.anim.nasset"
+    },
     "f524c14a-8656-4400-912c-e98f126ce313": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -28359,6 +29247,11 @@
         "dependencies": [
             "a85be35e-5a2b-8bba-8c91-c1e7580edd7f"
         ]
+    },
+    "f53d35a4-f81d-42cb-bc8f-9a85c2427c2c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Ghost/Animations/Ball Ghost Idle.anim.nasset"
     },
     "f558d264-4dc8-a92c-a40a-74f7895e4f97": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -28428,6 +29321,11 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Animals/Donkey/Animations/Donkey Jump Loop.anim.nasset"
     },
+    "f5c11a1c-606c-402d-93c5-da04b4d4bb1b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Mushroom/Animations/Ball Mushroom Idle.anim.nasset"
+    },
     "f5c6c81e-0521-d181-d4eb-79ca45473761": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -28458,7 +29356,7 @@
     "f638900e-7335-a4bb-9c4a-7f0d77a9bd72": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Belly.mesh.nasset",
+        "path": "Assets/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Belly.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -28551,7 +29449,7 @@
     },
     "f6c1a388-4cd0-8b1a-20f9-233f8c371e21": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Monsters/Big/Material Instances/Hanzo Eye White.mtli.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/Material Instances/Hanzo Eye White.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -28564,6 +29462,11 @@
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
         ]
+    },
+    "f6d565f1-2905-4f43-9e84-7f9d0e79bafa": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Cyclops/Animations/Ball Cyclops Death.anim.nasset"
     },
     "f6ff4b34-c078-4694-8118-87e4c154ac3e": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -28602,7 +29505,7 @@
     "f74ece03-c3ab-d805-d5f0-10ff1ca9dc62": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Skin.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Skin.meshskin.nasset",
         "dependencies": [
             "6612b532-f014-6b8c-1fe3-9dd28429a720",
             "793c6a70-4969-f8d8-e862-721b1ccf5d02",
@@ -28622,7 +29525,7 @@
     "f764a7d2-049f-e4f7-d2a3-546f2eb87496": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Monsters/Big/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Eye White.mesh.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Eye White.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -28725,7 +29628,7 @@
     "f7ec8e00-4246-479f-a3c4-6059bc4e8d88": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Monsters/Big/Animations/Big Monster Run.anim.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/Animations/Big Monster Run.anim.nasset",
         "dependencies": [
             "793c6a70-4969-f8d8-e862-721b1ccf5d02"
         ]
@@ -28840,6 +29743,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Modular_People/Material Instances/Thumbnails/Red 1.mtli.nasset.tex.nasset"
     },
+    "f947dd85-5511-4fbe-9392-16937304493a": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Panda/Animations/Ball Panda Jump.anim.nasset"
+    },
     "f9612a0b-96f1-4fd7-b219-90d1128555af": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -28899,7 +29807,7 @@
     "fa74fe9b-1394-4b72-8e04-712c333bed45": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Monsters/Big/Player_Scripts/Snapper.scene.nasset",
+        "path": "Assets/Monsters/Big/Snapper/Snapper.scene.nasset",
         "thumbnail": "c9e6ecf3-1c52-46a9-80db-486a11ab7e4e",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
@@ -29001,20 +29909,20 @@
             "68d216df-acd5-8513-cf36-8c138b7dff8a"
         ]
     },
-    "fbe904d4-61cc-8990-7b90-9f4bf48e7e45": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Sushime/SK_Meanie.scene.nasset/SK Meanie.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
     "fc07b9b6-5a51-e8ca-171e-d09451d477e1": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Main.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Snapper/SK_Snapper.scene.nasset/SK Snapper.mesh.nasset/SK Snapper Snapper Main.meshskin.nasset",
         "dependencies": [
             "1a1043f6-94dc-cfcd-721e-b5cea5601e71",
             "fba9d5de-3e54-7227-fb4d-45cb02fc69d5",
             "6ccd44eb-9d4b-c0a2-2383-b713c9966de4"
         ]
+    },
+    "fc3fde8d-0c59-4eae-840d-88ce5c7f2ca8": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Skull/Animations/Ball Skull Dance.anim.nasset"
     },
     "fc46e49f-7ded-b28d-0524-ef3720470407": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -29079,7 +29987,7 @@
     "fc7a308e-a16d-8183-bd2b-b392e3d8b600": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Monsters/Big/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Main.meshskin.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/SK_Hanzo.scene.nasset/SK Hanzo.mesh.nasset/SK Hanzo Hanzo Main.meshskin.nasset",
         "dependencies": [
             "f2bdbc04-4d43-cbae-a998-4bad73ab545d",
             "793c6a70-4969-f8d8-e862-721b1ccf5d02",
@@ -29351,6 +30259,11 @@
             "1f4b1c8d-dfd8-efe6-4930-ee5f68594183"
         ]
     },
+    "fe582ad0-5d1b-4cc1-9024-bfe37623810f": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Monsters/Rounded/Ball_Crab/Animations/Ball Crab Bite In Place.anim.nasset"
+    },
     "fec32bda-a322-95d7-c053-183da76a678e": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Heist/Material Instances/Hazmat.mtli.nasset",
@@ -29422,14 +30335,14 @@
     },
     "ff57c016-0b7b-23d8-9689-0cdad3fb2fbf": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Monsters/Big/Material Instances/Hanzo Belt.mtli.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/Material Instances/Hanzo Belt.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "ff5b01f7-f2a5-b94c-071d-f342a904d233": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Monsters/Big/Material Instances/Hanzo Skin.mtli.nasset",
+        "path": "Assets/Monsters/Big/Hanzo/Material Instances/Hanzo Skin.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]

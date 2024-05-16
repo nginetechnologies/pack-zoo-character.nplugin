@@ -1,0 +1,16 @@
+{
+    "source": "A_Ball_Pig_Dance.fbx",
+    "skeleton": "",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": ""
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "6012d325-e805-4513-bd0c-2610ef4ab0fe"
+        }
+    ],
+    "guid": "6012d325-e805-4513-bd0c-2610ef4ab0fe",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+}

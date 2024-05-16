@@ -1,0 +1,16 @@
+{
+    "source": "A_Ball_Alien_No.fbx",
+    "skeleton": "",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": ""
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "a57f493e-d373-41a1-86d9-b571a6b3f816"
+        }
+    ],
+    "guid": "a57f493e-d373-41a1-86d9-b571a6b3f816",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+}

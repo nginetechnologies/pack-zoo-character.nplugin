@@ -1,0 +1,16 @@
+{
+    "source": "A_Ball_Pig_Bite_In_Place.fbx",
+    "skeleton": "",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": ""
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "f30f7b4e-ebc6-413a-8bf0-fa1fce78bbc1"
+        }
+    ],
+    "guid": "f30f7b4e-ebc6-413a-8bf0-fa1fce78bbc1",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+}
